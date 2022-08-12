@@ -176,7 +176,15 @@ Artist.create!(name: "Araknidd", years_active: "2018-present", bio: "Hailing fro
 Araknidd performs a style of music called venom rap. Self proclaimed and self coined, it is a fusion of many styles, old and new.
   
 Araknidd has been on a number of labels including Killhop Records, Neatlane Records, co-owned Bukkshit Records and now is the owner and CEO of Underground Venom Records.", image: "https://f4.bcbits.com/img/0023837535_10.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Army of the Pharaohs", years_active: "1998-present", bio: "Army of the Pharaohs (most commonly abbreviated as AOTP or A.O.T.P.) is an American underground hip hop collective originating from Philadelphia, Pennsylvania, formed by Jedi Mind Tricks founder Vinnie Paz in 1998. The collective has strong links to other underground east coast groups such as Outerspace, Snowgoons, La Coka Nostra, Demigodz, 7L & Esoteric, and JuJu Mob. AOTP's affiliations and member roster has changed several times since its formation.
+
+Paz formed the outfit in the late 1990s with the original roster of Bahamadia, Chief Kamachi, Virtuoso, 7L & Esoteric, plus Jedi Mind Tricks' other member Stoupe the Enemy of Mankind. The group first released the “Five Perfect Exertions” and “War Ensemble” 12″ on Paz's short-lived Recordings in 1998, but then the underground supergroup remained silent for several years.
+
+After a couple of successful Jedi Mind Tricks albums and a new deal with Babygrande by 2003, Paz resurrected the crew, adding OuterSpace, Celph Titled, Reef the Lost Cauze, King Syze, Des Devious, and Apathy; however, Stoupe, Bahamadia, and Virtuoso had defected from the group. Babygrande issued their “Tear It Down” 12″ and first album, The Torture Papers, in 2006. The 2007 follow-up album, Ritual of Battle, saw Jus Allah and JMT protégés Doap Nixon and Demoz joining the Pharaohs.
+
+The Unholy Terror was released in March 2010. This album marked the return of Apathy and the addition of two new AOTP members, Block McCloud and Journalist. Two songs, “Godzilla” and “Contra Mantra”, were released before the album. This album also marked the departure of Chief Kamachi who left the group because of business issues and an apparent feud with Vinnie Paz and Apathy.
+
+In early 2011, Paz announced on his Facebook page that In Death Reborn is due to be released in 2012, however the date was pushed back and almost seemed like it was never going to be released. Early in 2012, Houston underground MC VZilla and Connecticut's Blacastan were added to the group. Both artists have made names for themselves with their features and album releases in 2012. In Death Reborn was eventually released in April 2014. The album featured members Vinnie Paz, Apathy, Blacastan, Block McCloud, Celph Titled, Demoz, Des Devious, Doap Nixon, Esoteric, Lawrence Arnell, King Magnetic, King Syze, OuterSpace, Reef the Lost Cauze, and VZilla. Their fifth studio album, Heavy Lies the Crown was released in October 2014.", image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/AOTP_2014.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
