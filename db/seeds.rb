@@ -200,6 +200,8 @@ Fast forward to now, he has performed multiple times in over half the United Sta
 Artist.create!(name: "A-r0n The Don", years_active: "2009-present", bio: "A-r0n is a rapper from Hartford, Wisconsin who has been repping the Wicked Wisconsin movement for years.
 
 He was also once a part of Butchered Beat Productionz where he worked on multiple group projects including The Gorehouse Greatz and The Hillside Stranglerz with fellow emcees Rukus, Cutthroat, and more.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/01/a-ron-the-don.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "A.I.D.S.", years_active: "2009", bio: "A.I.D.S. was an Australian rap duo consisting of emcees Crotch Rot and Toecutta.
+
+Toecutta, who can also be heard on various tracks with fellow Aussie gore rapper, MC Bushpig, passed away in 2017.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/a-i-d-s.jpg?w=768&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
