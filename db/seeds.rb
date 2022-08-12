@@ -119,7 +119,17 @@ After receiving critic and fan praise for Truth In Lies, ABiCA was once again ou
 Artist.create!(name: "Adria The Reject", years_active: "2008-2018", bio: "Adria The Reject is an Italian rapper who started his career as one half of the group Sistema Nervoso. The duo released a series of mixtapes and one official album before disbanding, leading to the start of Adria's solo career.
 
 Since starting down the solo path, Adria has released numerous projects including Reject Reborn, Devil's Reject, and VENOM.", image: "https://live.staticflickr.com/7462/16317510535_14567eb8b3_b.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "ADR Lavey", years_active: "1992-2013", bio: "San Francisco native born and raised, started off as a DJ. Then I was recruited by a local group Polynesian Posse and at 16 was when I first stepped into a recording studio. Was approached by a childhood friend to do production and DJ work for. Friend and that's when Triple 666 was created.
+
+Process of us recording the album little by little I started approaching the mic and I've been on the mic ever since. I bring a dark entity to the music. I try to take you on an emotional roller coaster and paint a real graphic picture for my fans.
+  
+Triple 666 was founded at Bank Roll Studios in San Francisco in 1991, by Fila Phil, Undertaker and myself. Then we picked Face Dog and SOS, as of now the group is no longer together, but everyone is just a phone call away if we decide we want to do any projects together.
+  
+“Nothing But Reality” was never pressed in a CD format. That project consisted of a few songs, the majority of the songs just featured Fila Phil only, the rest of the group was only in one song. We were testing the waters to see how people would react to it. What can be heard is a lot of street tales, from drug dealing, murder and pimp tales.
+  
+Hustlin' 4 My Paper” was received with mixed reviews taken with a grain of salt, that was our first big step into the horror core. It was the beginning of the transformation, it still had the dark element but it took a turn. It got more into more demonic music.
+  
+Apt.3/DNA Ent. was created around 2003, it consisted of Gabriel Vaughn, Anthony Hernandez and myself. It was created for the purpose of keeping the mob music alive, not following trends, we wanted people to know when they heard or read our name they knew they were getting that mob sound from the Bay which it's what the Bay is known for.", image: "https://i.discogs.com/lnfv3cKrDXPxB9y_0_3e0nNFdHQPIXiVx7VfNQ7RYX8/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0Nzkz/Ny0xMTM2MzAwNTg5/LmpwZWc.jpeg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
