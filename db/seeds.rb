@@ -197,7 +197,9 @@ Eventually, A-Game reunited with an old friend from high school who recently jus
 In 2017, A-Game became an official member of Judah Priest (Wu-Tang Clan's Brooklyn Zu/Zu Bulliez)'s 144,000 Chosen Few, beginning to do shows more frequently in the northeast and quickly building a following in the Philly/New Jersey hip hop scene. In 2019, A-Game left the Chosen Few to pursue his own path.
   
 Fast forward to now, he has performed multiple times in over half the United States of America. He currently has 5 mixtapes released, and 2 albums. A-Game prides himself in being versatile, working with any style thrown his way and demolishing it.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/a-game.jpg?w=480&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "A-r0n The Don", years_active: "2009-present", bio: "A-r0n is a rapper from Hartford, Wisconsin who has been repping the Wicked Wisconsin movement for years.
+
+He was also once a part of Butchered Beat Productionz where he worked on multiple group projects including The Gorehouse Greatz and The Hillside Stranglerz with fellow emcees Rukus, Cutthroat, and more.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/01/a-ron-the-don.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
