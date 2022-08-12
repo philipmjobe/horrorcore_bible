@@ -185,7 +185,7 @@ After a couple of successful Jedi Mind Tricks albums and a new deal with Babygra
 The Unholy Terror was released in March 2010. This album marked the return of Apathy and the addition of two new AOTP members, Block McCloud and Journalist. Two songs, “Godzilla” and “Contra Mantra”, were released before the album. This album also marked the departure of Chief Kamachi who left the group because of business issues and an apparent feud with Vinnie Paz and Apathy.
 
 In early 2011, Paz announced on his Facebook page that In Death Reborn is due to be released in 2012, however the date was pushed back and almost seemed like it was never going to be released. Early in 2012, Houston underground MC VZilla and Connecticut's Blacastan were added to the group. Both artists have made names for themselves with their features and album releases in 2012. In Death Reborn was eventually released in April 2014. The album featured members Vinnie Paz, Apathy, Blacastan, Block McCloud, Celph Titled, Demoz, Des Devious, Doap Nixon, Esoteric, Lawrence Arnell, King Magnetic, King Syze, OuterSpace, Reef the Lost Cauze, and VZilla. Their fifth studio album, Heavy Lies the Crown was released in October 2014.", image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/AOTP_2014.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Astral One", years_active: "2014-present", bio: "Astral One is a horrorcore rapper from Slovakia. He is a former member of the group Alfa Sekta and released his debut solo project on ZNK Productions.", image: "https://i.ytimg.com/vi/C4v2M6OZaeQ/maxresdefault.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
