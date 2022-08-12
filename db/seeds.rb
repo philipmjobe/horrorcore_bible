@@ -160,7 +160,7 @@ The following year saw the second release from Dyad Souls, 'Overkill'. In late 2
 In 2012, Alzymerz released his debut Solo LP through Goldminded Records, 'Methods of Madness'.
   
 Alzymerz brings a hardcore edge to his raps with a focus on Giallo movies and hard hitting multiple syllables, in your face punch lines over grimy beats. “I think a lot of people take shit way to literal nowadays, I'm sick to death of these BBQ rappers representing Australian Hip Hop that spit about the same boring shit and are so fuckin' judgemental of anyone that steps outside of the status quo”. The combination of tracks filled with random violence, concepts, stories and real life experiences offers Alzymerz a distinct point of difference inside of the Australian Hip Hop market.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4a234b5fef124e8bceca7529c0becd0d.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Amokrun", years_active: "2011-present", bio: "Amokrun is a Horrorcore/Splatter rapper from Germany.", image: "https://i1.sndcdn.com/avatars-000227727875-7t34jv-t500x500.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
