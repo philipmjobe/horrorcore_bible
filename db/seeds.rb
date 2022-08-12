@@ -151,7 +151,15 @@ The Olde Gods beckon to you. Will you heed their call? Madness, terror and blood
   
 Evil is here. The wicked has returned. Praise be to the Almighty.", image: "https://i.discogs.com/ntTL2YjlfxGmXxGKoF9XRI6TH2qrh5gNzuw1OECi5VY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNjQ2/MjgtMTUzNDk5NjA1/NC03NjU1LmpwZWc.jpeg")
 Artist.create!(name: "Aly Voorhees", years_active: "2020-present", bio: "Aly Voorhees is a tyrant from south Florida who meshes obscure metal essence into her rap style music.", image: "https://i1.sndcdn.com/avatars-SahqTwXYBSAEYETG-bimPbg-t500x500.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Alzymerz", years_active: "2006-2016", bio: "Alzymerz is a Sydney based emcee that started writing rhymes in his early years of high school and from then has not looked back. In 2004 where Alzymerz first debuted as a solo artist performing a local gigs around Sydney. In 2005 Alzymerz formed a group with local emcee Rion Maiden and began working on a demo album as 'Dyad Souls'.
+
+In 2006 Dyad Souls released a demo album and featured in many gigs around the Sydney area. In 2007, Dyad Souls worked alongside Australian artists KidCrusher and Trips and in 2008 Dyad Souls released their debut LP, 'Speak Ov The Devil' and were featured on Mr. Hyde's Collabo album Pt. 2.
+  
+The following year saw the second release from Dyad Souls, 'Overkill'. In late 2009, Dyad Souls signed to Goldminded Records and begun work on their third and final album 'Terminally Ill,' which was released in 2011. This album was 50% produced by Klive Kraven and 50% produced by J Nyce of Psych Ward.
+  
+In 2012, Alzymerz released his debut Solo LP through Goldminded Records, 'Methods of Madness'.
+  
+Alzymerz brings a hardcore edge to his raps with a focus on Giallo movies and hard hitting multiple syllables, in your face punch lines over grimy beats. “I think a lot of people take shit way to literal nowadays, I'm sick to death of these BBQ rappers representing Australian Hip Hop that spit about the same boring shit and are so fuckin' judgemental of anyone that steps outside of the status quo”. The combination of tracks filled with random violence, concepts, stories and real life experiences offers Alzymerz a distinct point of difference inside of the Australian Hip Hop market.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4a234b5fef124e8bceca7529c0becd0d.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
