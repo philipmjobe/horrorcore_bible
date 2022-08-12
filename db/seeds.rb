@@ -113,10 +113,12 @@ Artist.create!(name: "ABiCA", years_active: "2007-2010", bio: "ABiCA was a group
 
 Tac and Hash continued to write songs in their own unique style. Although their music was mainly influenced by hip-hop, its intensity suggests the presence of a rock influence as well.
 
-Their 2007 album entitled Truth In Lies is one of their most lyrically advanced albums to date and features some of the underground’s most popular artists. A solid mix of entertaining and serious tracks prevent the album from ever getting stale. The album features production from ABiCA, as well as other well known producers, including DHZ (formerly a producer for DMX and Fort Minor).
+Their 2007 album entitled Truth In Lies is one of their most lyrically advanced albums to date and features some of the underground's most popular artists. A solid mix of entertaining and serious tracks prevent the album from ever getting stale. The album features production from ABiCA, as well as other well known producers, including DHZ (formerly a producer for DMX and Fort Minor).
 
 After receiving critic and fan praise for Truth In Lies, ABiCA was once again out to raise the bar with their second album, Enigma. Enigma takes off where Truth In Lies left off, by taking you even further into the minds of Tac and Hash.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/37f65581fa1445db9c547a4cb7addd94.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Adria The Reject", years_active: "2008-2018", bio: "Adria The Reject is an Italian rapper who started his career as one half of the group Sistema Nervoso. The duo released a series of mixtapes and one official album before disbanding, leading to the start of Adria's solo career.
+
+Since starting down the solo path, Adria has released numerous projects including Reject Reborn, Devil's Reject, and VENOM.", image: "https://live.staticflickr.com/7462/16317510535_14567eb8b3_b.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
