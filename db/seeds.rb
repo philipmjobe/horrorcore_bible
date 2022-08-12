@@ -210,7 +210,11 @@ In 2021, The DieSoul EP was released under Infamous 6 Records with a total of 14
 Babble The Demon has gone on to collaborate with several other artists and in 2022, The Demon EP was released as a six track album consisting of trap-metal, horrorcore, rap, her signature DieSoul style, and a smoking song.
 
 Babble The Demon's next album is estimated to be released in 2023.", image: "https://e.snmc.io/i/1200/s/206b464cfb832d231421dd80071e46b5/9060162")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Backxwash", years_active: "2018-present", bio: "Backxwash aka Ashanti Mutinta is a Zambian-Canadian rapper and producer based in Montreal, Quebec. She is most noted for her 2020 album “God Has Nothing To Do With This Leave Him Out Of It,” which won the 2020 Polaris Music Prize.
+
+Her work is based in the horrorcore, hip-hop, and industrial metal genres, and includes a culmination of themes around the intersection between faith, identity, and queerness. The poetry of her lyrics are the beginning of a cathartic healing process in which she is granting herself permission to be angry.
+  
+Her album I LIE HERE BURIED WITH MY RINGS AND MY DRESSES features productions by Backxwash, clipping., Nowhere2Run, as well as features by Censored Dialogue, Lauren Bousfield, Sad13, and Ada Rook.", image: "https://www.thestar.com/content/dam/thestar/entertainment/music/2021/06/24/backxwash-returns-the-industrial-hip-hop-prodigy-discusses-the-nature-of-pain-musical-influences-and-her-new-album/backxwashcover.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
