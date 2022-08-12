@@ -109,7 +109,13 @@ Lowery left the group, and a third album, The Opaque Brotherhood, was released w
 Artist.create!(name: "Пост Мортем", years_active: "2007-present", bio: "Пост Мортем (Post Mortem) - macabre-rap/horrorcore band from Kazakhstan. Post-Mortem are known for extremely violent lyrics, horror-flavoured beats and tackling themes like infanticide, dismemberment, slavery, hate, genocide, drug abuse, paranoia, rape, war, torture, terminal illness, child abuse, domestic violence and religion (or lack thereof). They have released 2 albums and 4 singles.", image: "https://lastfm.freetls.fastly.net/i/u/270x205/797bbcc3efc04153b2d4b82c06dcaafa.jpg")
 Artist.create!(name: "DJ Bless aka Sutter Kain", years_active: "1997-present", bio: "Robert Evans (born 1983 or 1984), better known by his stage names Sutter Kain and DJ Bless, is an American rapper and producer from Queens, New York. His productions range from traditional East Coast hip hop to ghetto metal, a style that samples metalcore. The name Sutter Kain is based on the character Sutter Cane from the 1995 horror film In the Mouth of Madness. He is the founder and owner of Never So Deep Records.", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/sutter-kain.jpg")
 Artist.create!(name: "Aaron Romero", years_active: "2016-present", bio: "Wisconsin's reanimated corpse", image: "https://cdnetwork.rapdiscographies.com/media/2021/06/aaron-romero-photo.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "ABiCA", years_active: "2007-2010", bio: "ABiCA was a group consisting of emcees Tac and Hash. They began making music in 2001 with another member named CANT (who left the group in 2005 to pursue a solo career). Together, the three made an underground CD and gained a solid local fan base.
+
+Tac and Hash continued to write songs in their own unique style. Although their music was mainly influenced by hip-hop, its intensity suggests the presence of a rock influence as well.
+
+Their 2007 album entitled Truth In Lies is one of their most lyrically advanced albums to date and features some of the underground’s most popular artists. A solid mix of entertaining and serious tracks prevent the album from ever getting stale. The album features production from ABiCA, as well as other well known producers, including DHZ (formerly a producer for DMX and Fort Minor).
+
+After receiving critic and fan praise for Truth In Lies, ABiCA was once again out to raise the bar with their second album, Enigma. Enigma takes off where Truth In Lies left off, by taking you even further into the minds of Tac and Hash.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/37f65581fa1445db9c547a4cb7addd94.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
