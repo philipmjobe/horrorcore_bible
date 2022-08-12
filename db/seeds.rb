@@ -171,7 +171,11 @@ In 1995, he formed the group Krazy Klan with childhood friend Lavel, performing 
 Since going solo, Lowery has released one album under the alias Native Funk, countless solo albums as ABK, as well as working on collaborative group albums with fellow emcees — Drive-By with Blaze Ya Dead Homie, Detroit Warriors with Strict 9, and The Hav Knots with Big Hoodoo.
 
 He has also been a part of the supergroup Dark Lotus and went on to form another record label, Native World Inc., releasing albums from various other artists throughout the years.", image: "https://static.wikia.nocookie.net/rap/images/6/69/Abk.jpg/revision/latest?cb=20130520210450")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Araknidd", years_active: "2018-present", bio: "Hailing from Ontario Canada, Araknidd started in professional music at the early age of 16. After having being trained musically for many years it was a very smooth transition.
+
+Araknidd performs a style of music called venom rap. Self proclaimed and self coined, it is a fusion of many styles, old and new.
+  
+Araknidd has been on a number of labels including Killhop Records, Neatlane Records, co-owned Bukkshit Records and now is the owner and CEO of Underground Venom Records.", image: "https://f4.bcbits.com/img/0023837535_10.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
