@@ -130,7 +130,7 @@ Triple 666 was founded at Bank Roll Studios in San Francisco in 1991, by Fila Ph
 Hustlin' 4 My Paper” was received with mixed reviews taken with a grain of salt, that was our first big step into the horror core. It was the beginning of the transformation, it still had the dark element but it took a turn. It got more into more demonic music.
   
 Apt.3/DNA Ent. was created around 2003, it consisted of Gabriel Vaughn, Anthony Hernandez and myself. It was created for the purpose of keeping the mob music alive, not following trends, we wanted people to know when they heard or read our name they knew they were getting that mob sound from the Bay which it's what the Bay is known for.", image: "https://i.discogs.com/lnfv3cKrDXPxB9y_0_3e0nNFdHQPIXiVx7VfNQ7RYX8/rs:fit/g:sm/q:90/h:250/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0Nzkz/Ny0xMTM2MzAwNTg5/LmpwZWc.jpeg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Agency 1.9.9.4.", years_active: "2005-2006", bio: "Robert Evans aka Sutter Kain teamed up with Swan The Truth to form the duo Agency 1.9.9.4, which released two albums.", image: "https://angartwork.akamaized.net/webp/?id=1000884433&size=296")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
