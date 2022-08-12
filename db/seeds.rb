@@ -162,7 +162,15 @@ In 2012, Alzymerz released his debut Solo LP through Goldminded Records, 'Method
 Alzymerz brings a hardcore edge to his raps with a focus on Giallo movies and hard hitting multiple syllables, in your face punch lines over grimy beats. “I think a lot of people take shit way to literal nowadays, I'm sick to death of these BBQ rappers representing Australian Hip Hop that spit about the same boring shit and are so fuckin' judgemental of anyone that steps outside of the status quo”. The combination of tracks filled with random violence, concepts, stories and real life experiences offers Alzymerz a distinct point of difference inside of the Australian Hip Hop market.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4a234b5fef124e8bceca7529c0becd0d.jpg")
 Artist.create!(name: "Amokrun", years_active: "2011-present", bio: "Amokrun is a Horrorcore/Splatter rapper from Germany.", image: "https://i1.sndcdn.com/avatars-000227727875-7t34jv-t500x500.jpg")
 Artist.create!(name: "Among the Dead", years_active: "2005", bio: "Among the Dead was a Horrorcore Rap group who both started, and ended, in 2005. The group consisted of Komatose, Rukus, and Kreepy X. They released one full length album, and two loose tracks.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/among-the-dead.jpg?w=600&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Anybody Killa", years_active: "1995-present", bio: "James Lowery (born June 26, 1973), also known as Anybody Killa, or ABK, is a rapper from Detroit, Michigan, whose stage persona is that of a Native American warrior. He is signed to Psychopathic Records. Prior to performing as ABK he performed as Native Funk.
+
+Lowery was raised on the east side of Detroit. His parents were from Pembroke, North Carolina. Lowery's father was a preacher. His aunt and mother taught him about Native American heritage, telling him Cherokee and Lumbee legends and teaching him about dreamcatchers. Lowery started making music at a young age, using anything he could find as instruments, and began writing his own songs at the age of 13. By the age of 15, local kids were paying to watch him perform in his garage.
+
+In 1995, he formed the group Krazy Klan with childhood friend Lavel, performing as Jaymo and J-ho, respectively. During this period, Lowery worked at a side plant that produced parts for Chrysler. His middle finger was partially cut off in an accident. After releasing two albums independently and performing at local clubs and parties, Krazy Klan broke up.
+
+Since going solo, Lowery has released one album under the alias Native Funk, countless solo albums as ABK, as well as working on collaborative group albums with fellow emcees — Drive-By with Blaze Ya Dead Homie, Detroit Warriors with Strict 9, and The Hav Knots with Big Hoodoo.
+
+He has also been a part of the supergroup Dark Lotus and went on to form another record label, Native World Inc., releasing albums from various other artists throughout the years.", image: "https://static.wikia.nocookie.net/rap/images/6/69/Abk.jpg/revision/latest?cb=20130520210450")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
