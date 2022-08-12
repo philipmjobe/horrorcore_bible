@@ -150,7 +150,7 @@ The trinity walk about the land like a plague. The evil they rapidly spread is t
 The Olde Gods beckon to you. Will you heed their call? Madness, terror and blood await.
   
 Evil is here. The wicked has returned. Praise be to the Almighty.", image: "https://i.discogs.com/ntTL2YjlfxGmXxGKoF9XRI6TH2qrh5gNzuw1OECi5VY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNjQ2/MjgtMTUzNDk5NjA1/NC03NjU1LmpwZWc.jpeg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Aly Voorhees", years_active: "2020-present", bio: "Aly Voorhees is a tyrant from south Florida who meshes obscure metal essence into her rap style music.", image: "https://i1.sndcdn.com/avatars-SahqTwXYBSAEYETG-bimPbg-t500x500.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
