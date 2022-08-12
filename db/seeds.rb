@@ -161,7 +161,7 @@ In 2012, Alzymerz released his debut Solo LP through Goldminded Records, 'Method
   
 Alzymerz brings a hardcore edge to his raps with a focus on Giallo movies and hard hitting multiple syllables, in your face punch lines over grimy beats. “I think a lot of people take shit way to literal nowadays, I'm sick to death of these BBQ rappers representing Australian Hip Hop that spit about the same boring shit and are so fuckin' judgemental of anyone that steps outside of the status quo”. The combination of tracks filled with random violence, concepts, stories and real life experiences offers Alzymerz a distinct point of difference inside of the Australian Hip Hop market.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4a234b5fef124e8bceca7529c0becd0d.jpg")
 Artist.create!(name: "Amokrun", years_active: "2011-present", bio: "Amokrun is a Horrorcore/Splatter rapper from Germany.", image: "https://i1.sndcdn.com/avatars-000227727875-7t34jv-t500x500.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Among the Dead", years_active: "2005", bio: "Among the Dead was a Horrorcore Rap group who both started, and ended, in 2005. The group consisted of Komatose, Rukus, and Kreepy X. They released one full length album, and two loose tracks.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/among-the-dead.jpg?w=600&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
