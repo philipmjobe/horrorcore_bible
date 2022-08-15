@@ -220,7 +220,7 @@ Artist.create!(name: "Bad Mind", years_active: "2001-present", bio: "Releasing h
 Artist.create!(name: "Bag of Hammers", years_active: "1994-2012", bio: "Formed in 1994 in South Warren, Michigan by Davey Gravey and DJ Flyhead, Bag of Hammers were an old school hip hop duo notorious for drinking, doing drugs, and fighting.
 
 The group worked with the likes of Esham and Mike E. Clark and released over 20 albums between 1994 and 2009 when Davey and Flyhead went their separate ways.", image: "https://f4.bcbits.com/img/0003984106_10.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Baker Ya Maker", years_active: "2014-present", bio: "Baker Ya Maker, aka Baker Phonk, is a producer and emcee from Nashville, TN.", image: "https://images.genius.com/513dd2a7b536f6971b859f38c7126406.720x720x1.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
