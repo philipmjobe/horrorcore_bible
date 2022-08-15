@@ -258,7 +258,7 @@ Comprised of rappers Prozak, Madness (aka Curt D), and Staplez, the trio was fou
   
 Bedlam self-released several editions of their two-volume Chemical Imbalancez series, along with the albums Shock Treatment and Bedlamitez Rize.", image: "https://f4.bcbits.com/img/a0713981737_10.jpg")
 Artist.create!(name: "Berkowitz GoreFest", years_active: "2019", bio: "Berkowitz GoreFest is a Horrorcore/Gore Rap artist from Australia. He also raps under the alias Bando Berk.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/6e72d318aedf4bd5cb69b7db3962eab2.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Beyond Top Secret", years_active: "2016-present", bio: "Formed in 2014, by Connecticut emcees Freeze and Xplizt, along with drummer Jeff Kearney and bassist Ricky Burton, Beyond Top Secret is a national touring act who has gained a strong following since their entrance into the music world.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/01/beyond-top-secret.jpg?w=768&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
