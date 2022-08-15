@@ -257,7 +257,7 @@ Artist.create!(name: "Bedlam", years_active: "199-2015", bio: "Bedlam are a semi
 Comprised of rappers Prozak, Madness (aka Curt D), and Staplez, the trio was founded in 1999 after becoming acquainted via their mutual affiliation with the R.O.C. and his second-generation House of Krazees collective.
   
 Bedlam self-released several editions of their two-volume Chemical Imbalancez series, along with the albums Shock Treatment and Bedlamitez Rize.", image: "https://f4.bcbits.com/img/a0713981737_10.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Berkowitz GoreFest", years_active: "2019", bio: "Berkowitz GoreFest is a Horrorcore/Gore Rap artist from Australia. He also raps under the alias Bando Berk.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/6e72d318aedf4bd5cb69b7db3962eab2.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
