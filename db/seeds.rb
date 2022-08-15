@@ -226,7 +226,19 @@ Artist.create!(name: "Bake Lo", years_active: "2015-2019", bio: "Charles baker (
 Growing up in a low income household taught Bake the struggles of adulthood early on in his life. Between having to start working at a young age to help his family's income and living in a household that was on the verge of falling apart; he learned. He learned that life was going to be a roller coaster that he might not be able to hold on to. Regardless, he did not let it stop him. He was soon introduced to the idea of making music by his childhood friend Bradly Gibson (RIP), who originally got Bake Lo into recording his first few songs. At first, the songs were nonsense because Bake couldn't quite find his sound. It wasn't until he was arrested at age 15 and sent to a juvenile facility to really reflect on his life when he finally channeled his inner emotion into his writing,
 
 At that point, he began to feel a release when writing about his life and the struggles around him. It was soon that he began to master his unique sound of Wicked Truth. He was eventually introduced to an artist by the name of Ikkurruz that really helped Bake Lo get the initial push that he needed. He officially booked Bake Lo for his first show in 2011 and Bake made sure that he sold every single ticket that he was given, plus more, which lead to bigger opportunities. One opportunity in which he met his soon to be (Native World Inc) label partner, Anybody Killa. Leaving behind his job at a liquor store, Bake Lo did his first national tour at the age of 17 with ABK and Blaze Ya Dead Homie as Drive By. He later went on to do countless tours and shows throughout the span of a couple years with many other artists.", image: "https://i.scdn.co/image/ab6761610000e5eb860a9f73cf95cc27226a1ab7")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "BAMbam the Voodoo Chi7d", years_active: "2011-present", bio: "BAMbam the Voodoo Chi7d is an emcee from Lansing, MI.
+
+He is one half of the group Suicide Saints, and has been associated with other acts including Cannibal Disciplez and The DisKarded.
+  
+Bambam the Voodoo Chi7d is a living embodiment of the 7, a founder of many music movements, and an absolute madman.
+  
+For years upon years, Bam has been living the wicked shit. Rarely veering from the path of the dark and morbid corners of the music universe. Even as a young man, on the bus with his crew, the voodoo chi7d had a firm grasp of his musical Identity personal ideals. mix in a heavy dose of substance-based experimentation and a hearty helping of psychological therapy and the result is an eclectic blend of lyricism and lunacy.
+  
+It's this unique approach that helped lead Bam to a relative degree of fame among the horrorcore community, as well as securing a spot in the memories of many wicked shit enthusiasts with his group 'Cannibal Disciplez' alongside famed MC 'Cannibal Carib'.
+  
+Throughout his long and storied career, Bam has performed with musical greats such as Boondox, Dark Half, Anybody Killa, King Gordy, Axe Murder Boyz, Lil Wyte, Zug Izland, Shauna, Project Born, and Whitney Peyton just to name a few!
+  
+Now, he's joined forces with the equally unusual Capital Chris to form the Suicide Saints with the goal of global domination! “Suicide Worldwide” is the battlecry. Will it be? Only time will tell…", image: "https://img.youtube.com/vi/7cEmnc4WcnA/0.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
