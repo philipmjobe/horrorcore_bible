@@ -259,7 +259,11 @@ Comprised of rappers Prozak, Madness (aka Curt D), and Staplez, the trio was fou
 Bedlam self-released several editions of their two-volume Chemical Imbalancez series, along with the albums Shock Treatment and Bedlamitez Rize.", image: "https://f4.bcbits.com/img/a0713981737_10.jpg")
 Artist.create!(name: "Berkowitz GoreFest", years_active: "2019", bio: "Berkowitz GoreFest is a Horrorcore/Gore Rap artist from Australia. He also raps under the alias Bando Berk.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/6e72d318aedf4bd5cb69b7db3962eab2.jpg")
 Artist.create!(name: "Beyond Top Secret", years_active: "2016-present", bio: "Formed in 2014, by Connecticut emcees Freeze and Xplizt, along with drummer Jeff Kearney and bassist Ricky Burton, Beyond Top Secret is a national touring act who has gained a strong following since their entrance into the music world.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/01/beyond-top-secret.jpg?w=768&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Big Hoodoo", years_active: "2008-present", bio: "Big Hoodoo is another stage name for Detroit rapper Doe Dubbla, also known as the Jinx.
+
+When Psychopathic Records, the Farmington Hills, Michigan independent record label founded by Alex Abbiss and Insane Clown Posse, parted ways with Twiztid, one of the label's most popular acts, the pressure was on to find a replacement act. That turned out to be Doe Dubbla in his Big Hoodoo incarnation, a cartoonish mix of Screamin' Jay Hawkins and one of those over the top masked characters from a bad wrestling movie. ICP had a heavy hand in the production of Big Hoodoo's debut album, Crystal Skull, a label-typical blend of horrorcore rap filled with Dubbla's theatrical hexes and spells, and maybe most notable for not using the word “juggalo” anywhere, in the summer of 2013.
+  
+Big Hoodoo's sophomore effort, Asylum, dropped in June 2016.", image: "https://static.wikia.nocookie.net/juggalos/images/d/d1/Af4d66a00e48bd40e1f00988fdcbe5f3.jpeg/revision/latest?cb=20130628155320")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
