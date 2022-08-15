@@ -239,7 +239,17 @@ It's this unique approach that helped lead Bam to a relative degree of fame amon
 Throughout his long and storied career, Bam has performed with musical greats such as Boondox, Dark Half, Anybody Killa, King Gordy, Axe Murder Boyz, Lil Wyte, Zug Izland, Shauna, Project Born, and Whitney Peyton just to name a few!
   
 Now, he's joined forces with the equally unusual Capital Chris to form the Suicide Saints with the goal of global domination! “Suicide Worldwide” is the battlecry. Will it be? Only time will tell…", image: "https://img.youtube.com/vi/7cEmnc4WcnA/0.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Bankrupt Records", years_active: "2005-present", bio: "Bankrupt Records began as a closet experiment in rural Georgia, as brothers James G and JG (collectively known as DUO) began creating music out of their closet with limited funds and no financial support. The duo created Bankrupt Records, a launchpad to release music and named it so for the lack of money and finances involved in creating the music.
+
+The DUO collaborated with local artists, such as the Medicine Man and Big C, and released a 2005 album titled “Underground Mythology.” Bankrupt Records would begin performing live and began spreading their influence across Georgia and the Southeast. Bankrupt soon teamed up with the rap group Southern Hustlas Incorporated (SHI) based out of Covington, Georgia and released a super group album titled “The League” featuring Bankrupt, SHI, and West Virginia artist Sike Sick. This album was very successful and sold thousands of physical units and lead to Bankrupt opening shows for acts such as D12, Twiztid, Hed PE, Kottonmouth Kings, Blaze, ABK, and Gangsta Boo, and performing at musical festivals such as Strictly for the Wicked and The Gathering.
+
+Bankrupt would then release their first all DUO project, “Night Vision,” and would continue to tour the underground scene in the Southeast, hitting local pubs, bars, parties, and bigger venues. Bankrupt Records would then release their first professionally recorded studio album, “Double Vision,” featuring appearances from Hopsin, Bizarre, Bizzy Bone, Lil Wyte, Royce da 5'9″, and others, and would go on to do extremely well and further their influence across the South.
+
+Bankrupt also released another GA compilation titled “Gods and Generals” and helped shed light on rising talent such as Rittz by providing a mixtape to push and shows to network and perform on. In 2011, Bankrupt Records released their smoking classic “Amnesia” and released their first music video, “Can't Get Enough,” that currently has over 60,000 views.
+
+In 2013, James G would release his first solo project, “Monopoly,” and continue to perform live and tour the Southeast. Bankrupt Records would release their next album in 2017 titled “Vapor Trails” and featured the groups last work with Big C before the band member passed in 2018. The album featured production from Underrated of Potluck and also featured appearances from Underrated, Twisted Insane, Jelly Roll, and David Ray.
+
+In 2020, James G released his first music video off his upcoming solo project, “Introvert”. James G also announced other new projects in the works and is confident that the new music will be something the real underground heads can vibe to.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/02/bankrupt-records.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
