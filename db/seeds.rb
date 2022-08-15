@@ -268,7 +268,9 @@ Artist.create!(name: "Big Lokote", years_active: "2005-2014", bio: "Born and rai
 
 He is a former artist of Hi-Power Entertainment and released one album with SickTanicK's Serial Killin' Records.", image: "https://i.discogs.com/LgZA2_vkTpDeSY-IFqDfysfBBrOEYvurZqXuh9jy1SU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNjc4/ODYtMTU5OTE5Njk4/NC0yMTAyLnBuZw.jpeg")
 Artist.create!(name: "Big Loony", years_active: "2015-2018", bio: "Big Loony is a dark chopper from Colorado. Big Loony has been making huge moves in the underground. He started his own label, Chop Shit Down, and has gained quite the following. Big Loony combines his dark lyrics and fast chopping flow to create devastating tracks. Unfortunately Big Loony was incarcerated in 2019 and has yet to be released.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/big-loony.jpg?w=500&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Big Que", years_active: "2005-present", bio: "Big Que, born in Galway, Ireland, is a UK based Hip-Hop/Rap artist. He is signed to UK based record label Madness Records. He was one of the artists involved in the UK Juggalo Cypher.
+
+Big Que is due to release a single this month featuring Lex The Hex Master and Peso. He will be releasing his album early next year featuring artists such as Exa, The R.O.C., The Commission, Peso, KidCrusher, and Lex The Hex Master.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/big-que.jpg?w=450&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
