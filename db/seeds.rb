@@ -264,7 +264,9 @@ Artist.create!(name: "Big Hoodoo", years_active: "2008-present", bio: "Big Hoodo
 When Psychopathic Records, the Farmington Hills, Michigan independent record label founded by Alex Abbiss and Insane Clown Posse, parted ways with Twiztid, one of the label's most popular acts, the pressure was on to find a replacement act. That turned out to be Doe Dubbla in his Big Hoodoo incarnation, a cartoonish mix of Screamin' Jay Hawkins and one of those over the top masked characters from a bad wrestling movie. ICP had a heavy hand in the production of Big Hoodoo's debut album, Crystal Skull, a label-typical blend of horrorcore rap filled with Dubbla's theatrical hexes and spells, and maybe most notable for not using the word “juggalo” anywhere, in the summer of 2013.
   
 Big Hoodoo's sophomore effort, Asylum, dropped in June 2016.", image: "https://static.wikia.nocookie.net/juggalos/images/d/d1/Af4d66a00e48bd40e1f00988fdcbe5f3.jpeg/revision/latest?cb=20130628155320")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Big Lokote", years_active: "2005-2014", bio: "Born and raised in Los Angeles, CA, Big Lokote emerged to become one of the most controversial gangster rappers in Chicano rap. Big Loko has been banned in many states for his style of music, dark lyrics, and violence.
+
+He is a former artist of Hi-Power Entertainment and released one album with SickTanicK's Serial Killin' Records.", image: "https://i.discogs.com/LgZA2_vkTpDeSY-IFqDfysfBBrOEYvurZqXuh9jy1SU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNjc4/ODYtMTU5OTE5Njk4/NC0yMTAyLnBuZw.jpeg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
