@@ -251,7 +251,7 @@ In 2013, James G would release his first solo project, “Monopoly,” and conti
 
 In 2020, James G released his first music video off his upcoming solo project, “Introvert”. James G also announced other new projects in the works and is confident that the new music will be something the real underground heads can vibe to.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/02/bankrupt-records.jpg")
 Artist.create!(name: "Barium Enema", years_active: "2006-2009", bio: "Barium Enema was an Italian horrorcore duo consisting of emcees Autoinfligido and Jesus.ss.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/barium-enema.jpg?w=370&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Beastmode Warriors", years_active: "2018-present", bio: "Beastmode Warriors is an American hip hop group made up of lyricists JP Tha Hustler and Slyzwicked. The duo have been making music together since 2011, but formed as an official group in 2018.", image: "https://i.scdn.co/image/ab6761610000e5eb259aaeff3d46e1e76310d8b6")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
