@@ -267,7 +267,7 @@ Big Hoodoo's sophomore effort, Asylum, dropped in June 2016.", image: "https://s
 Artist.create!(name: "Big Lokote", years_active: "2005-2014", bio: "Born and raised in Los Angeles, CA, Big Lokote emerged to become one of the most controversial gangster rappers in Chicano rap. Big Loko has been banned in many states for his style of music, dark lyrics, and violence.
 
 He is a former artist of Hi-Power Entertainment and released one album with SickTanicK's Serial Killin' Records.", image: "https://i.discogs.com/LgZA2_vkTpDeSY-IFqDfysfBBrOEYvurZqXuh9jy1SU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwNjc4/ODYtMTU5OTE5Njk4/NC0yMTAyLnBuZw.jpeg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Big Loony", years_active: "2015-2018", bio: "Big Loony is a dark chopper from Colorado. Big Loony has been making huge moves in the underground. He started his own label, Chop Shit Down, and has gained quite the following. Big Loony combines his dark lyrics and fast chopping flow to create devastating tracks. Unfortunately Big Loony was incarcerated in 2019 and has yet to be released.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/big-loony.jpg?w=500&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
