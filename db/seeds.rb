@@ -250,7 +250,7 @@ Bankrupt also released another GA compilation titled “Gods and Generals” and
 In 2013, James G would release his first solo project, “Monopoly,” and continue to perform live and tour the Southeast. Bankrupt Records would release their next album in 2017 titled “Vapor Trails” and featured the groups last work with Big C before the band member passed in 2018. The album featured production from Underrated of Potluck and also featured appearances from Underrated, Twisted Insane, Jelly Roll, and David Ray.
 
 In 2020, James G released his first music video off his upcoming solo project, “Introvert”. James G also announced other new projects in the works and is confident that the new music will be something the real underground heads can vibe to.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/02/bankrupt-records.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Barium Enema", years_active: "2006-2009", bio: "Barium Enema was an Italian horrorcore duo consisting of emcees Autoinfligido and Jesus.ss.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/barium-enema.jpg?w=370&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
