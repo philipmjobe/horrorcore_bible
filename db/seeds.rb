@@ -278,7 +278,11 @@ Artist.create!(name: "Bio Killaz", years_active: "2003-present", bio: "Hailing f
 Growing up listening to hip-hop they started a group at the age of 13, with three members originally. Saint and Klep consistently got together and kept the group going and are still at it today!
   
 Inspired only by impressive lyricism, no one fathers their style, they are the bastards of rap!!", image: "https://d10j3mvrs1suex.cloudfront.net/u/311939/3c2fd671ea8cc115af9951ec8bd995b26ffba026/original/fuck-u.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Bishop", years_active: "2007-present", bio: "Bishop, also known as Young Bop, Tsunami, and King Pyro, is a rapper of many names and styles. He started out as a gangsta rapper known as Young Bop. He then started making music with Tech N9ne and Twisted Insane, becoming a horrorcore artist known as Bishop. It was around this time that Twisted Insane decided to sign him to his label, Brainsick Muzik. Bishop has since left, following the departure of King Iso from the label.
+
+In 2015, Bishop went to jail for an assault charge and was released in 2018. He then decided to be a trap rapper known as Tsunami.
+  
+He has since been on tours with King Iso and King Kash, and has decided to go with the king theme himself, changing him name, once again, to King Pyro.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/bishop.jpg?w=425&ssl=1")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
