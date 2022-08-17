@@ -289,8 +289,8 @@ Bizarre grew up living with his single mother. He started rapping when he was in
 
 Bizarre was then featured on D12's first EP in 1996 titled The Underground EP, before going on to release his debut solo EP titled Attack of the Weirdos in 1997. In 2001, D12 released their debut album, Devil's Night. In 2004, he was a part of the second studio album of D12 titled D12 World. Bizarre then released his first official studio album in 2005 titled Hannicap Circus through his own label Redhead Records, which received mixed reviews. He also appeared on the 2006 Shady Records compilation album Eminem Presents: The Re-Up, on the track “Murder” along with D12 member, Kuniva. Following the death of rapper Proof in April 2006, he and the rest of D12 became inactive for some time.", image: "https://i.scdn.co/image/ab67706c0000da843393f08c0e979c95034b0332")
 Artist.create!(name: "Bizirk", years_active: "2012-present", bio: "Bizirk, also known as the Zia Demon, is an independent recording artist based out of New Mexico.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/2306251/original/crop:x0y0w463h600/hash:1467282728/IMG_0002_1_.jpg?1467282728")
-Artist.create!(name:, years_active:, bio:, image:)
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Black Magik The Infidel", years_active: "2014-present", bio: "Black Magik the Infidel is a Detroit, Michigan-born dark hip-hop artist with Brimstone Lab Records, burning hot like pure hellfire with his dope drugged out music.", image: "https://i.scdn.co/image/ab6761610000e5ebcf419a2ec077de7bec53798f")
+Artist.create!(name: "Black Sunday", years_active: "2005-2011", bio: "Collaboration by American rapper and producer Sutter Kain with his protege Donnie Darko (also known as Darko).", image: "https://lastfm.freetls.fastly.net/i/u/300x300/91d3b400af914d068f9e582068a953af.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
