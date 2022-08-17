@@ -291,7 +291,7 @@ Bizarre was then featured on D12's first EP in 1996 titled The Underground EP, b
 Artist.create!(name: "Bizirk", years_active: "2012-present", bio: "Bizirk, also known as the Zia Demon, is an independent recording artist based out of New Mexico.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/2306251/original/crop:x0y0w463h600/hash:1467282728/IMG_0002_1_.jpg?1467282728")
 Artist.create!(name: "Black Magik The Infidel", years_active: "2014-present", bio: "Black Magik the Infidel is a Detroit, Michigan-born dark hip-hop artist with Brimstone Lab Records, burning hot like pure hellfire with his dope drugged out music.", image: "https://i.scdn.co/image/ab6761610000e5ebcf419a2ec077de7bec53798f")
 Artist.create!(name: "Black Sunday", years_active: "2005-2011", bio: "Collaboration by American rapper and producer Sutter Kain with his protege Donnie Darko (also known as Darko).", image: "https://lastfm.freetls.fastly.net/i/u/300x300/91d3b400af914d068f9e582068a953af.jpg")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Blahzay Roze", years_active: "2016", bio: "Blahzay Roze (Becky Pulsifer) is an American rapper who became the first female rapper to sign with the main label of Psychopathic Records. Pulsifer was dating Violent J. Blahzay Roze released her debut EP, Broken, in 2016, and was released from her contract the following year.", image: "https://www.riddlebox.be/images/psychopathic_records/artists/blahzay_roze.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
