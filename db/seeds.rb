@@ -314,7 +314,9 @@ Artist.create!(name: "Blokkmonsta", bio: "Blokkmonsta is a rapper, producer, and
 Artist.create!(name: "Bloodline", bio: "Bloodline was a rap group from South Carolina. Made up of emcees Venom, Lord Lhus, and Malikiah, the trio released only one album before disbanding.
 
 Sadly Bloodline member Venom passed away in 2016.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/bloodline.jpg?w=360&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bloodshot", bio: "Bloodshot is a horrorcore emcee from Florence, AZ.
+
+He is an innovator of the horrorcrunk sound and has released numerous solo and group projects over his 20 year career.", image: "https://f4.bcbits.com/img/a2703205284_5.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
