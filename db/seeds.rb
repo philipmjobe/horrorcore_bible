@@ -303,7 +303,13 @@ He would then go on to eventually join Psychopathic Records as a hype man for Tw
 
 Throughout the years, he has released countless solo projects, as well as collaborative albums with The R.O.C. as Zodiac Mprint, Anybody Killa as Drive-By, and Twiztid as Triple Threat (originally known as Infamous Superstars Inc. or ISI). He is currently signed to Twiztid's label, Majik Ninja Entertainment.", image: "https://static.tvtropes.org/pmwiki/pub/images/blaze_585.jpg")
 Artist.create!(name: "Bleezo", bio: "Bleezo, born Brandon Wade, is a chopper from Sacramento, California. He has collaborated with some of the underground greats including Brotha Lynch Hung, Trizz, Tech N9ne, and Twisted Insane. He doesn’t release a whole lot of solo material, so fans have been patiently waiting for a long-time-coming solo album.", image: " https://i.discogs.com/cwd47bV9sg8kp8Pn7mdgMtl1WRGmi5DlGJHFhdZbuKw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwNTQ2/NTYtMTQyOTgwMDg5/MS00NDAxLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Blitzplay", bio: "Born as Erik Welch in Auburn, WA, Blitzplay grew up with his father and step mother, who were Jehovah's witnesses. He never understood the reason why people talked about and worshiped something no one has ever seen. It turned Erik into a Satanist, then an atheist. He was also tortured by said Jehovah Witnesses and bullied at school. This made his mind go from normal to psychotic. He was going to murder a lot of people when he heard Chuckklez' music. It made him feel sane. Especially the song “Cursed Since Birth.”
+
+Then he attempted to kill himself twice. The funny part is that both times music saved his life. The first was a song called “Gore Hop,” which was rapped by both Hex Rated and Insane Poetry.
+  
+And the second time was from Statik G's ALL OUT OF NORMAL album. However, this was never in his playlist. It just was randomly added. The song that saved his life from that album was “Night Without End.”
+  
+He then started to write music, all about killing and torture. Everyone called him crazy, everyone wanted him to be normal. But Erik has continued to write music because horrorcore is now his home.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/IMG_20200516_103953_973-e1589640121321.jpg?w=480&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
