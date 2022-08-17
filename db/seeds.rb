@@ -295,7 +295,13 @@ Artist.create!(name: "Blahzay Roze", bio: "Blahzay Roze (Becky Pulsifer) is an A
 Artist.create!(name: "Blaq Tongue Society", bio: "Assembled in the streets of urban Los Angeles circa 2010 B.C., The Blaq Tongue Society was formed by founding members Strang3r Dang3r, Severin Kairax, Louie Syntax , Whoo-Dat, and VICE the Anti-Hero. This Hip-Hop ensemble came together to oppose the stagnant state of affairs in the underground hip-hop scene of the planet commonly known as earth.
 
 Harking Back to the roots of the Streets and the ancients, Blaq Tongue Society Brings a unique twist to the genre by bringing back the true rebellious nature of hip-hop, with a very punk rock attitude. Much of their music has influences in Metal, Punk, Jazz, Funk, and some horror thrown in for good measure. This cauldron of influences is very signature of the LA underground scene today. BTS chose hip-hop as the first medium to transmit.", image: "https://i.discogs.com/nrlWNlmEvtg2h55UY7HGkm9Y-qXPhf122SayTZm_Hio/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxNzcx/MjUtMTQyMDIxNzgx/MS02MjI5LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Blaze Ya Dead Homie", bio: "Chris Rouleau, also known as Blaze Ya Dead Homie or simply Blaze (born April 27, 1976) is an American rapper from Mt. Clemens, Michigan. His stage persona is that of a reincarnated gang member killed in the late 1980s, and his lyrics derive from the hip hop styles of gangsta rap and horrorcore.
+
+Rouleau began rapping at the age of 17, while in Romeo High School, and performed at local clubs on the east side of Detroit. Rouleau performed as a member of 2 Krazy Devils (with Skrapz) under the stage name Psycho C. Rouleau's first big performance was at the Ritz in Warren, where he and James Lowery opened for House of Krazees. House of Krazees member The R.O.C. later produced 2 Krazy Devils' only album, Flipped Insanity, before the group disbanded in 1996.
+
+He would then go on to eventually join Psychopathic Records as a hype man for Twiztid, before officially becoming a member of both Dark Lotus and Psychopathic Rydas.
+
+Throughout the years, he has released countless solo projects, as well as collaborative albums with The R.O.C. as Zodiac Mprint, Anybody Killa as Drive-By, and Twiztid as Triple Threat (originally known as Infamous Superstars Inc. or ISI). He is currently signed to Twiztid's label, Majik Ninja Entertainment.", image: "https://static.tvtropes.org/pmwiki/pub/images/blaze_585.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
