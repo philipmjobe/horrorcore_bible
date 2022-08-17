@@ -273,7 +273,11 @@ Artist.create!(name: "Big Que", years_active: "2005-present", bio: "Big Que, bor
 Big Que is due to release a single this month featuring Lex The Hex Master and Peso. He will be releasing his album early next year featuring artists such as Exa, The R.O.C., The Commission, Peso, KidCrusher, and Lex The Hex Master.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/big-que.jpg?w=450&ssl=1")
 Artist.create!(name: "Big Stevie Cool", years_active: "2001-2006", bio: "Big Stevie Cool was an acid rap emcee from Portland, OR. He was signed to Cryptic Ninja Records alongside the likes of Cadaverz on Kitestrings and Krazy K.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/big-stevie-cool.jpg?w=450&ssl=1")
 Artist.create!(name: "Billy Nochill", years_active: "2017-present", bio: "Billy Nochill, aka Billy the Kid, is an emcee and producer from Galatsi, Greece. He is affiliated with Slide to the Side records.", image: "https://i.scdn.co/image/ab67616d00001e022c93bdb8fc399a122c82f349")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Bio Killaz", years_active: "2003-present", bio: "Hailing from Michigan are Saint Sinna and Klep, collectively known as the Bio Killaz.
+
+Growing up listening to hip-hop they started a group at the age of 13, with three members originally. Saint and Klep consistently got together and kept the group going and are still at it today!
+  
+Inspired only by impressive lyricism, no one fathers their style, they are the bastards of rap!!", image: "https://d10j3mvrs1suex.cloudfront.net/u/311939/3c2fd671ea8cc115af9951ec8bd995b26ffba026/original/fuck-u.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
