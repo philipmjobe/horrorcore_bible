@@ -322,7 +322,15 @@ Artist.create!(name: "Bloody Ruckus", bio: "Bloody Ruckus is an emcee from Oneid
 Bloody Ruckus claims the title of Wisconsin's Fastest Rapper and is currently one of the fastest rappers in the world, spitting at a rate of over 13 syllables per second.
   
 He is currently part of the group Cult Activity, who, in 2019, released their debut album, “Population 909.”", image: "https://images.genius.com/fba9d91697014a5485d64761d7fccb2a.940x940x1.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bob E. Nite", bio: "bOb e. NiTe. started writing & producing in 2000. Being highly inspired by a hometown lyricist Jeff Seybert (aka Sinister X), bob wrote and recorded his first track, “Can u Kill,” that later formed the legendary group SyckSyde.
+
+He achieved massive success in the wicked underground and in various international markets within months of his arrival. He then released his first solo album Code:Dead in 2002 and has since released three more studio albums — Dead Again (2005), Dead & Dead3r (2009), and House on 34th St. (2010).
+
+Bob E. Nite is also known and respected for his production. Admired for his very unique sound, you can point out his mesmerizing beats a mile away. Not only is he unique in that way, but Bob E. Nite is also one of very few “horrorcore artist” who has a spot-on distinctive voice.
+
+He has worked with several underground and major artists being his work is heavily sought after.
+
+Being talented in many fields — writing, rapping, and making beats — Bob has been in the game for decades and is looking like he's not going anywhere, anytime soon.", image: "https://i1.sndcdn.com/avatars-rRYqW15ALRYwCBOz-c2oBZg-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
