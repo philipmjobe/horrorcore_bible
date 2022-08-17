@@ -302,7 +302,7 @@ Rouleau began rapping at the age of 17, while in Romeo High School, and performe
 He would then go on to eventually join Psychopathic Records as a hype man for Twiztid, before officially becoming a member of both Dark Lotus and Psychopathic Rydas.
 
 Throughout the years, he has released countless solo projects, as well as collaborative albums with The R.O.C. as Zodiac Mprint, Anybody Killa as Drive-By, and Twiztid as Triple Threat (originally known as Infamous Superstars Inc. or ISI). He is currently signed to Twiztid's label, Majik Ninja Entertainment.", image: "https://static.tvtropes.org/pmwiki/pub/images/blaze_585.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bleezo", bio: "Bleezo, born Brandon Wade, is a chopper from Sacramento, California. He has collaborated with some of the underground greats including Brotha Lynch Hung, Trizz, Tech N9ne, and Twisted Insane. He doesn’t release a whole lot of solo material, so fans have been patiently waiting for a long-time-coming solo album.", image: " https://i.discogs.com/cwd47bV9sg8kp8Pn7mdgMtl1WRGmi5DlGJHFhdZbuKw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwNTQ2/NTYtMTQyOTgwMDg5/MS00NDAxLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
