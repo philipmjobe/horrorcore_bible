@@ -310,7 +310,7 @@ Then he attempted to kill himself twice. The funny part is that both times music
 And the second time was from Statik G's ALL OUT OF NORMAL album. However, this was never in his playlist. It just was randomly added. The song that saved his life from that album was “Night Without End.”
   
 He then started to write music, all about killing and torture. Everyone called him crazy, everyone wanted him to be normal. But Erik has continued to write music because horrorcore is now his home.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/IMG_20200516_103953_973-e1589640121321.jpg?w=480&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Blokkmonsta", bio: "Blokkmonsta is a rapper, producer, and label owner with German and Russian roots from Berlin, Germany (born on August 2nd, 1983). He founded Hirntot Records together with Uzi in 2005. He's the only artist on the label who continuously appears on all releases over the years either as main artist or as feature, despite his convictions.", image: "https://i.discogs.com/HEuYVOWhcLCV-lg3owrkTbzJaS5GBgLb2QFVFQvrLr8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQxMjky/OS0xNTE2MjgyNTMy/LTU0ODEuanBlZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
