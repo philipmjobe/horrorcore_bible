@@ -283,7 +283,11 @@ Artist.create!(name: "Bishop", years_active: "2007-present", bio: "Bishop, also 
 In 2015, Bishop went to jail for an assault charge and was released in 2018. He then decided to be a trap rapper known as Tsunami.
   
 He has since been on tours with King Iso and King Kash, and has decided to go with the king theme himself, changing him name, once again, to King Pyro.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/bishop.jpg?w=425&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Bizarre", years_active: "1996-present", bio: "Rufus Arthur Johnson (born July 5, 1976), better known by his stage name Bizarre, is an American rapper, best known for his work with the Detroit-based hip hop group D12.
+
+Bizarre grew up living with his single mother. He started rapping when he was in fifth grade. His teacher thought he was talking to himself, and began calling him 'Bizarre'. In 1995, he joined the rap group D12 with neighborhood friends DeShaun “Proof” Holton, Karnail “Bugz” Pitts, Carlos “Fuzz Scoota” Rabb, and Von “Kuniva” Carlisle. He also met Marshall “Eminem” Mathers through Proof. Bizarre used to attend a club on Friday nights called 'The Shelter' in Saint Andrew's Hall, where rap battles were held.
+
+Bizarre was then featured on D12's first EP in 1996 titled The Underground EP, before going on to release his debut solo EP titled Attack of the Weirdos in 1997. In 2001, D12 released their debut album, Devil's Night. In 2004, he was a part of the second studio album of D12 titled D12 World. Bizarre then released his first official studio album in 2005 titled Hannicap Circus through his own label Redhead Records, which received mixed reviews. He also appeared on the 2006 Shady Records compilation album Eminem Presents: The Re-Up, on the track “Murder” along with D12 member, Kuniva. Following the death of rapper Proof in April 2006, he and the rest of D12 became inactive for some time.", image: "https://i.scdn.co/image/ab67706c0000da843393f08c0e979c95034b0332")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
