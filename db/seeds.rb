@@ -272,7 +272,7 @@ Artist.create!(name: "Big Que", years_active: "2005-present", bio: "Big Que, bor
 
 Big Que is due to release a single this month featuring Lex The Hex Master and Peso. He will be releasing his album early next year featuring artists such as Exa, The R.O.C., The Commission, Peso, KidCrusher, and Lex The Hex Master.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/big-que.jpg?w=450&ssl=1")
 Artist.create!(name: "Big Stevie Cool", years_active: "2001-2006", bio: "Big Stevie Cool was an acid rap emcee from Portland, OR. He was signed to Cryptic Ninja Records alongside the likes of Cadaverz on Kitestrings and Krazy K.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/big-stevie-cool.jpg?w=450&ssl=1")
-Artist.create!(name:, years_active:, bio:, image:)
+Artist.create!(name: "Billy Nochill", years_active: "2017-present", bio: "Billy Nochill, aka Billy the Kid, is an emcee and producer from Galatsi, Greece. He is affiliated with Slide to the Side records.", image: "https://i.scdn.co/image/ab67616d00001e022c93bdb8fc399a122c82f349")
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
 Artist.create!(name:, years_active:, bio:, image:)
