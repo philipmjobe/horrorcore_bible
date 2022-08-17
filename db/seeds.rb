@@ -317,7 +317,11 @@ Sadly Bloodline member Venom passed away in 2016.", image: "https://i0.wp.com/ho
 Artist.create!(name: "Bloodshot", bio: "Bloodshot is a horrorcore emcee from Florence, AZ.
 
 He is an innovator of the horrorcrunk sound and has released numerous solo and group projects over his 20 year career.", image: "https://f4.bcbits.com/img/a2703205284_5.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bloody Ruckus", bio: "Bloody Ruckus is an emcee from Oneida, WI. He became notorious when he was in the news for allegedly “chopping a girl's pinky finger off and drank her blood during a satanic Juggalo ritual.”
+
+Bloody Ruckus claims the title of Wisconsin's Fastest Rapper and is currently one of the fastest rappers in the world, spitting at a rate of over 13 syllables per second.
+  
+He is currently part of the group Cult Activity, who, in 2019, released their debut album, “Population 909.”", image: "https://images.genius.com/fba9d91697014a5485d64761d7fccb2a.940x940x1.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
