@@ -444,7 +444,9 @@ Let the show begin… Gniak", image: "https://i.scdn.co/image/ab6761610000e5eb7e
 Artist.create!(name: "Claas", bio: "Claas is an emcee from Arlington, TX. He has been part of the underground for almost two decades, releasing both solo material and group efforts with the likes Breach of Peace, Deceptikonz, and the Underground Avengers. He is currently signed to Lyrikal Snuff Productionz.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2015/03/claas_inthetunnels.jpg?fit=499%2C495&ssl=1")
 Artist.create!(name: "Clandestien", bio: "Clandestien is a hardcore hip hop group from Australia.", image: "https://www.rapreviews.com/wp-content/uploads/2014/09/Clandestien-Chasms-Of-The-Citadel-2007.jpg")
 Artist.create!(name: "ClockworC", bio: "ClockworC is an emcee from San Jose, CA, who is best known for his work in the group The Damn Dirty Apes/Gorilla Voltage and for being signed to Twiztid's Majik Ninja Entertainment at one time.", image: "https://i.scdn.co/image/ab6761610000e5eb74ab37c2752c50fc92f55b56")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cloroks", bio: "Cloroks (noun.) 1. An unsigned animated Rap artist/Middle School Teacher. Huge Nerd. Professional coffee drinker.
+Skills: Enthusiastic delivery and ability to manipulate words.
+Hard to Kidnap. Family man and grade A goofball.", image: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/3d/13d27160-41df-11e4-b3d0-6f1202bbb7b2/541f526fea18c.image.jpg?resize=500%2C500")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
