@@ -355,7 +355,9 @@ Artist.create!(name: "Brutaly Vicious Killaz", bio: "Formed in 1999 along with X
 
 The group announced that BVK would be no more on 12/31/2019.", image: "https://i.scdn.co/image/ab67616d0000b273c71f2415e74f478b01019509")
 Artist.create!(name: "Bubbz", bio: "Bubbz is an emcee from Iowa.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/bubbz.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bukshot", bio: "Bukshot, born Tim Kalbfleisch, is an emcee from Louisville, Kentucky. Bukshot's Dirty South vibe has showcased his menacing, aggressive rap style. His effort also includes guest spots by Haystak, Static, Kevin Richardson of the Backstreet Boys and T-Bo of the 504 Boyz.
+
+After going to the Gathering Of The Juggalos and releasing the Underground Avengers EP, he switched his main approach of delivering music from Mobstyle rap to Underground Horrorcore rap. Since his change in rap styles he has featured artists such as Krizz Kaliko, Tech N9ne, Demi Demaree, Crucifix, Jelly Roll, Madchild, Violent J, Stevie Stone, Twiztid, Hurra Season and Twisted Insane.", image: "https://i.discogs.com/k9glPL13mfW4m0r_BqGVYShDZjBwRuEH-4ms3iz2p2A/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MTU5/Ni0xNjQ0NTYwNTk2/LTkyODQuanBlZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
