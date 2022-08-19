@@ -429,7 +429,9 @@ Throughout this day in his career, he has been keeping it real in music and givi
 Artist.create!(name: "CHXXMPA", bio: "CHXXMPA is an emcee from Fort Worth, TX.  He is part of TYDL Records and the group SickGang.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/5874242/original/crop:x0y0w720h960/hash:1501372774/5ea307e2866c4a5907a60f5d31f4f53695445e1a.jpg?1501372774")
 Artist.create!(name: "Cinikill", bio: "Cinikill, sometimes written as CiN1KiLL, is a rapper from Santa Maria, CA.  He has been part of Brain Damage Records, Grindhouse Musick, and Butchered Beat Productionz, run by Rukus of Kryptik infamy.", image: "https://f4.bcbits.com/img/0005235143_10.jpg")
 Artist.create!(name: "Circle of Tyrants", bio: "The Circle Of Tyrants was a hip hop supergroup consisting of members Necro, Ill Bill, Goretex, and Mr. Hyde.", image: "https://i.ytimg.com/vi/aypHmv01raI/hqdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "City Morgue", bio: "After making a splash in 2017 with the single “Shinners 13” and its shocking music video that featured rampant drug use and firearms aplenty, shadowy New York rappers ZillaKami and SosMula joined forces under the official moniker City Morgue.
+
+With their aggressive delivery, threatening image, and intensely hedonistic and violent tendencies, City Morgue captured the dark side of the 2010s alternative rap scene, adopting metal/punk influences like contemporaries $uicideboy$, XXXTentacion, and one-time affiliate 6ix9ine. In the spirit of horror-rap forebears Esham and Geto Boys, City Morgue amplified the sex, drugs, and violence rhymes to an extreme. Joined by producer Thraxx, they issued their first effort, City Morgue, Vol 1: Hell or High Water (Republic/Universal), in October 2018. The set also featured the single “33rd Blakk Glass.”", image: "https://townsquare.media/site/812/files/2020/04/city-morgue.jpg?w=980&q=75")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
