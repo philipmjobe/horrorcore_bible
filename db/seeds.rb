@@ -464,7 +464,9 @@ In 2020, Cody B also became a chairperson for Gallows Hill Productions.", image:
 Artist.create!(name: "Cody Manson", bio: "Cody Manson is an up-and-coming emcee.
 
 It was announced in October of 2020 that his debut album, Psychoactive, would be the first release in a new album series venture from Lyrikal Snuff Productionz referred to as “Experimental Drugs.”", image: "https://i.ytimg.com/vi/DDCvHkXroN4/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Con-crete", bio: "CON-CRETE was born on March 11th, 1981 on the wet streets of Seattle, WA in a haunted cemetary during a Satanic Ritual. Okay that's bullshit, he was born in a hospital, but that shit would have been awesome if it was true. The Dark Minister has been infecting the world with his Horrorcrunk flows for the over 10 years now along side his partner in crime Bloodshot, and has 5 solid albums under his belt which include “I HATE COPS” and “Blasphemer.”
+
+CON-CRETE performed at events with artist such as Mastamind, Insane Poetry, Jason Porter, Murs, Esham, Haystack, Mars, Mike Jones, Paul Wall, Insane Clown Posse, Twiztid, ABK, V-Sinister, ABK, Devin The Dude, Andre Nickatina, Scum, King Gordy, Potluck, DGAF, Doomsday Productions like anybody gives a fuck who he opened for. Either way “The Dark Minister” is gonna keep on rocking mics until his fucking lungs explode bottom line.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/581364/original/crop:x0y0w960h683/hash:1558854023/0c80a8d782dab13843f556e70ee094706cd7014c.jpg?1558854023")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
