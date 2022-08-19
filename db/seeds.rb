@@ -351,7 +351,9 @@ Years passed and he noticed his ex friends as well as his ex girlfriends were li
 5th Power has worked with artists all over the world including Germany, Poland, Denmark, Canada and of course their home country of the USA. Respected among the underground as well as the mainstream. We have started momentum that can't be held back. Doing shows with the likes of: Tech n9ne, Brotha Lynch Hung, Scarface, Too Short, ICP, Twiztid, KottonMouth Kings, LSP, and much much more… Years have passed and Bracko's label, 5th Power Entertainment, has put out over 35 albums, 25 music videos, and done over 100 live shows across the United States of America.", image: "https://i.discogs.com/f-OF2Kfme9UdQNXKo7Re13U-FyOTSTTHpZAoEo9qa5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5Mzk1/MzctMTQ5NTM5MTA3/Ni02Mzc0LmpwZWc.jpeg")
 Artist.create!(name: "Brothaz Grimm", bio: "Brothaz Grimm was a devil shyt group from Canton, OH consisting of emcees Dego Locc and E-Dubb.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/brothaz-grimm.jpg?w=300&ssl=1")
 Artist.create!(name: "Brutalness JM", bio: "Brutalness JM is a Horrorcore rapper from San José, California.", image: "https://i.scdn.co/image/ab67616d0000b273140a359dbc18e347128838fa")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Brutaly Vicious Killaz", bio: "Formed in 1999 along with Xplicit Realm Entertainment, BVK began to produce and release there own special type of music. In 2002 BVK released the first album entitled “SIX FEET DOWN”. Since then, BVK have released countless more albums, combining sick lyrics and style with live rock/metal.
+
+The group announced that BVK would be no more on 12/31/2019.", image: "https://i.scdn.co/image/ab67616d0000b273c71f2415e74f478b01019509")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
