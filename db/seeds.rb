@@ -441,7 +441,7 @@ In 2004, by dint of working on his writing, CJ let his dark side reveal itself, 
 Take a seat under the marquee, order your tickets and settle into the Sordide Circus.
 
 Let the show begin… Gniak", image: "https://i.scdn.co/image/ab6761610000e5eb7edf312d579a23ef41b3f3db")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Claas", bio: "Claas is an emcee from Arlington, TX. He has been part of the underground for almost two decades, releasing both solo material and group efforts with the likes Breach of Peace, Deceptikonz, and the Underground Avengers. He is currently signed to Lyrikal Snuff Productionz.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2015/03/claas_inthetunnels.jpg?fit=499%2C495&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
