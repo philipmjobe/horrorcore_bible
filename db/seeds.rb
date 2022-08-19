@@ -540,7 +540,7 @@ Artist.create!(name: "Cryptic Wisdom", bio: "Cryptic Wisdom is a hip-hop artist 
 Enduring a difficult upbringing and recovering from drug addiction, he isn't afraid to become vulnerable. He has gotten countless messages/emails/comments from fans telling him that he literally saved their lives with his music by helping them deal with heartbreak, loss, pain, their own drug addiction and suicidal tendencies.
   
 Cryptic Wisdom's art has taken him around the world to deliver a high-energy display of emotional mastery and personal transparency. This is not just music - It is a sonic soundtrack to life.", image: "https://i.ticketweb.com/i/00/07/67/52/91/Artist.jpg?v=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cult Activity", bio: "Cult Activity is a group consisting of emcees Damien Quinn, S.A.W. Da Ghozt, and Bloody Ruckus.", image: "https://i.ytimg.com/vi/xNubSXwE0sU/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
