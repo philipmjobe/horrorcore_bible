@@ -531,7 +531,9 @@ Overseas he is labeled the Hasselhoff of Rap! He also served seven years in the 
   
 In his spare time, he loves to fish, camp, disc golf play the ps3, mushroom hunt, play basketball, go to sporting events and concerts, record tracks and engineer them, making albums and putting them out, and along the way, help others less fortunate!", image: "https://i.ytimg.com/vi/W1Xx9LPriS0/maxresdefault.jpg")
 Artist.create!(name: "Crimson Bile", bio: "Crimson Bile Records is an indy rap/rock label out of Boston, MA. Made up of Boston Emcees/Musicians: ICE-PIC, CrAkD, Frantik, Abyss and Post Script.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/3b30aef2932c45428144d3f09d0c7fc4.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crossworm", bio: "Crossworm is a multi genre artist based in Grand Rapids, MI and originally from Essex, Ontario Canada. Crossworm started in 1998 in a Horrorcore group called 2KORPSE. He used the names “Mentally Corrupt”, and “Thirteen” before settling on Crossworm.
+
+In 2001, 2KORPSE disbanded and Crossworm went solo. He has since released several albums, engineered hundreds of artists, and went on to direct the worlds biggest annual horrorcore compilation series “DEVILZ NITE”, before it was disbanded in 2012. Also in 2009, Crossworm formed a Horrorcore group called BLISTER with Detroit MC “Renigade”. They released several singles, always on a Friday the 13th.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/164640/original/crop:x0y0w366h511/hash:1466556739/l8528474233_1530.jpg?1466556739")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
