@@ -331,7 +331,7 @@ Bob E. Nite is also known and respected for his production. Admired for his very
 He has worked with several underground and major artists being his work is heavily sought after.
 
 Being talented in many fields — writing, rapping, and making beats — Bob has been in the game for decades and is looking like he's not going anywhere, anytime soon.", image: "https://i1.sndcdn.com/avatars-rRYqW15ALRYwCBOz-c2oBZg-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Body Bag Syndikate", bio: "Body Bag Syndikate was a rap group originally from Denver, Colorado.", image: "https://i1.sndcdn.com/avatars-000058257156-q5m5ex-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
