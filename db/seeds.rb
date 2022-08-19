@@ -447,7 +447,9 @@ Artist.create!(name: "ClockworC", bio: "ClockworC is an emcee from San Jose, CA,
 Artist.create!(name: "Cloroks", bio: "Cloroks (noun.) 1. An unsigned animated Rap artist/Middle School Teacher. Huge Nerd. Professional coffee drinker.
 Skills: Enthusiastic delivery and ability to manipulate words.
 Hard to Kidnap. Family man and grade A goofball.", image: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/1/3d/13d27160-41df-11e4-b3d0-6f1202bbb7b2/541f526fea18c.image.jpg?resize=500%2C500")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cocaine Krueger", bio: "Born on April 14, 1997, Cocaine Krueger is a rapper from Memphis, TN who has been making music in the underground since he was 13 years old. He eventually started the group Futuristik Mafia along with Lil' Infamous and Young Jizzle. The group made a few singles before disbanding.
+
+He was a member of Doomshop Records since 2015. He released two EPs under the label. In 2019, he left Doomshop Records and joined 6 Feet Deep Records.", image: "https://images.genius.com/befbb5e935946c3a0ce36e105fa1a14b.596x596x1.png")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
