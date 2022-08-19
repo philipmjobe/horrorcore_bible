@@ -418,7 +418,7 @@ Artist.create!(name: "Children of the Corn", bio: "R-SuN TR8 and Irv the 3rd for
 Artist.create!(name: "Choirboy Dank", bio: "Choirboy Dank, aka Dank Sinatra, is a rapper-producer originally from Kansas.  He was one half of the group Swag Toof.
 
 This midwest transplant has made Harlem his home away from home developing a loyal following, the “TOOF GANG” who are nothing if not different, nothing short of crazy and nothing less than Family. After creating a new sound in a bombed-out home studio in New York (2011) SWAG TOOF has been progressing and murdering everything in its path. Having unloaded countless releases, singles, videos, playing shows all over the US, picking up notable press and label offers along the way… It's safe to say he is a force that shows no signs of slowing down. This is not plucked eyebrows and snapback music. This is gritty, explosive, honest, and scary… Choirboy is Redefining what “SWAG” is all together.", image: "https://i.scdn.co/image/ab6761610000e5eb1ca6656029d4dba00b1b2940")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Chop Shop", bio: "Straight out of South West Detroit comes Southwest Sol and D.J. Tre Pound with The Chop Shop. Their rims to limbs style over instrumentals by Tre lb., the ninja who brought you beats on songs like 4ever Detroit, Knee Crakaz, Juggalo, and Trife on D.J. Clays “Let Em Bleed” series, they bring wicked tales of Haunted death mobiles, and Juggalo parties.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/chop-shop.jpg?w=454&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
