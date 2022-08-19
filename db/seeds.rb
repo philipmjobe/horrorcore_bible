@@ -461,7 +461,9 @@ in 2014, the label was disbanded. That same year, Cody B cut “Corrosive Creed.
 In January of 2020, Cody B returned and released his new project Cult O' Me (Everything done by Cody B — engineering, production, writing, performance, illustration, mixing, and mastering) and dropped the record “Angel's Smoking Water.” A few moths later, Cody B, along with his childhood friend and bass player, Jacob Knapp, dropped the project Daemoncore and EP “Luciferic Poetry.”
   
 In 2020, Cody B also became a chairperson for Gallows Hill Productions.", image: "https://i.scdn.co/image/ab6761610000e5eb19b9623a539bae6b315888a5")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cody Manson", bio: "Cody Manson is an up-and-coming emcee.
+
+It was announced in October of 2020 that his debut album, Psychoactive, would be the first release in a new album series venture from Lyrikal Snuff Productionz referred to as “Experimental Drugs.”", image: "https://i.ytimg.com/vi/DDCvHkXroN4/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
