@@ -395,7 +395,7 @@ Till death do he part, so to speak, Tha Butcher is here to stay.", image: "https
 Artist.create!(name: "BVNE", bio: "BVNE (pronounced “Bane”) is a rapper, producer, and vocalist located in Indianapolis, IN.", image: "https://i.scdn.co/image/ab6761610000e5eb756a01368bb5436257ed17ed")
 Artist.create!(name: "Byzo", bio: "Byzo is a Serbian horrorcore rapper born on May 14, 1985. He is originally from Belgrade and now lives in Prague.", image: "https://i.ytimg.com/vi/M059WUM2mvc/maxresdefault.jpg")
 Artist.create!(name: "Cadaverz on Kitestrings", bio: "Cadaverz on Kitestrings were an acid rap group from Portland, OR consisting of emcees Double J, Krusty, and Slynkie.", image: "https://f4.bcbits.com/img/0017741401_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cage", bio: "Chris Palko, better known by his stage name Cage, started rapping at 18 years old, in 1991. Since then, he has released a handful of full-length albums, and has been involved in the groups 'The Weathermen', 'Smut Peddlers', 'Nighthawks', and 'Leak Bros.'", image: "https://upload.wikimedia.org/wikipedia/commons/0/00/ChrisPalko.JPG")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
