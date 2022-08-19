@@ -336,7 +336,9 @@ Artist.create!(name: "Body Rott", bio: "Hailing from Maryland, Body Rott started
 
 Body Rott signed to Crease City Entertainment in October of 2017.", image: "https://f4.bcbits.com/img/0008186052_10.jpg")
 Artist.create!(name: "The Boondock Sinners", bio: "Omega Sin and K-Fix come together as The Boondock Sinners. They combine their unique styles to create an unstoppable duo. Omega comes with a slower, but gritty and angry flow. K-Fix comes with a lightning fast delivery that gives any chopper a run for their money. This duo is a force to be reckoned with. Their Hood Fiction album was teased for most of 2017, all of 2018, and most of 2019 with it then finally being released in November of 2019.", image: "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/8c/5e/47/8c5e4701-c359-0507-0593-33d44dcd5ab8/859735517693_cover.jpg/1200x1200bf-60.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Boondox", bio: "David Hutto (born September 4, 1977) is an American rapper. Hutto is most commonly known as Boondox, whose stage persona is a 'killer scarecrow', and Turncoat Dirty.
+
+Hutto's music is rooted heavily in Southern hip hop, but also contains elements of country-rap, horrorcore and rap rock. His lyrics also center around Southern culture. Hutto cites Insane Clown Posse as an influence on the horrorcore style of his lyrics.", image: "https://i.scdn.co/image/ab6761610000e5eb72777da74b35c4b7461de342")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
