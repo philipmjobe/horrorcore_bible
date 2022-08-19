@@ -504,7 +504,19 @@ Artist.create!(name: "Crease Reese", bio: "Crease Reese is a hip hop/rap/horrorc
 Artist.create!(name: "Creature Clique", bio: "Evul, Zodiak, and Gritty have been making music respectively for years, and it was in 2013 when they came together to form, Children Of The Zodiac. COZ's music consisted of pure, dark horrorcore/horror-related subjects, but in 2016, they formed Creature Clique, which tends to include a myriad of other styles to their arsenal as well.
 
 Creature Clique released an album on Wikid Tendency Records in 2017 entitled, 'Murder Melodies Mixape'. Their next album will be released on their original Cemetary Recordz on March 20, 2020 and will be entitled 'Razor Blade Saviors.' They are already jumping into production of their next album, 'Call Of The Void,' which will be a callback to their darker COZ days. It is slated to be released in late 2020. Evul has a solo album almost complete entitled 'Planet Of The Undead' and Cody Zodiak has a solo album entitled 'Bloodstains & Blunt Smoke,' which he is working on.", image: "https://i.scdn.co/image/ab6761610000e5ebf2dc099988e4375dd6965a2f")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Creech", bio: "Creech is an artist from the Netherlands. Creech, formerly “Creature C,” started to dislike that name as the “C” didn't have a meaning and he wanted to have a catchier name. At some point, Cyanide (R.I.P.) called Creature C “Creech” and he liked that, so he stuck with that name. He developed his style in the golden era by listening to old school hip-hop over and over again. Growing up with four brothers meant that Creech was always surrounded by different forms of music.
+
+His first intro to hip-hop came when he heard Kool Moe Dee's “Go See The Doctor” performed by other kids during a performance in a classroom. A few years later, he joined a basketball club and joined a hip-hop group called Black Pound.
+
+At that time, Creech started buying music equipment. With that, he started mixing beats with any mixable melody he liked. As the group Black Pound disappeared, Creech continued solo.
+
+Creech discovered a section at MP3.com where artists posted horrorcore hip-hop. From there, he discovered a forum board called horrorcore.com where he met other horrorcore artists and beatmakers. That's when Creech started buying beats from skilled producers such as Bob e. Nite, DJ Shy One, Bad Mind, and Komatose.
+
+Creech always dug the dark side of hip-hop and that's been his style for a long while. At some point Creech had a different alias, “Rawhead Rex.” Rawhead Rex only recorded one song and it was never released, only online.
+
+As Creech got older, he started to get a little tired of writing horrorcore lyrics, and so he started to write lyrics about other things as well. He also started rapping in Dutch because he felt that rapping in his native language was more natural and that way he didn't have to concentrate too much on the pronunciation of English words.
+
+Old school hip-hop is the music Creech knows best and it's fair to say that the Ultramagnetic MC's, BDP, Tim Dog, the Geto Boys, and Desmond Dekker are his biggest influences. Although Creech is hip-hop through and through, it is not to say he finds himself restricted to this genre. In fact his influences are vast, which is noticeable throughout his albums, especially his debut release.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/creech.jpg?w=339&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
