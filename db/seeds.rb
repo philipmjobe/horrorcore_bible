@@ -413,7 +413,7 @@ Artist.create!(name: "Chamber", bio: "Chamber is an independent hip-hop artist f
 He is a former artist on 3rd Shift Entertainment and for a brief period could be heard as a member of Monsta Squad under the alias Dez Theory.
   
 Chamber has been part of the wicked underground scene for many years, having also released music under labels Fallen Entertainment and Relogik Records.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/01/chamber-1.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Chapa Blasfemo", bio: "Chapa Blasfemo is a horrorcore rapper from Mexico City, Mexico. He works with multiple labels including 666 Kartell Records of Germany, Hand Of Death of Brazil, Área 57 of Mexico, and more.", image: "https://i.discogs.com/6wg9nrfwsyTqsJPEB7XksmytNFGxR1h6A-OlzXDiwkk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyNDQ5/MTctMTUxNzg2NzY2/MC0xOTA5LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
