@@ -405,7 +405,9 @@ Artist.create!(name: "Cellar Mannequin", bio: "Cellar Mannequin is the brain chi
 
 From the bottomless depths of Michigan's Dark Evolving Underground Scene re-emerges one the most sought after emcees to vanish in recent years. After taking a year-long sabbatical, the cocooned Dramadeus has evolved into the even more potent Cellar Mannequin! CM is the next evolution of the artist; a hard hitting, head splitting, wall shaking, speaker breaking, trunk rattling, glass shattering, story telling, Industrial Hip Hop emcee.", image: "https://images-na.ssl-images-amazon.com/images/I/51PfIa3%2BwXL._SY445_SX342_QL70_ML2_.jpg")
 Artist.create!(name: "Cerberus Clique", bio: "Cerberus Clique is a underground supergroup consisting of members Odprophet, Doc Gruesome, Lil Manyak, Oogie Boogie, EJ Prophet, Relapze, and Bad Mind.", image: "https://i.ytimg.com/vi/ajWVIfQpel8/mqdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "CHAINSAWmessiah", bio: "This was the name used by popular horrorcore artist who would become Stitch Mouth later in his career.
+
+“The deriving of sexual gratification or the tendency to derive sexual gratification from inflicting pain or emotional abuse on others…Evil by nature and in practice… Profoundly cruel or evil; fiendish…”", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/chainsawmessiah.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
