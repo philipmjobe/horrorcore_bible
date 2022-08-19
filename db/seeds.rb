@@ -332,7 +332,9 @@ He has worked with several underground and major artists being his work is heavi
 
 Being talented in many fields — writing, rapping, and making beats — Bob has been in the game for decades and is looking like he's not going anywhere, anytime soon.", image: "https://i1.sndcdn.com/avatars-rRYqW15ALRYwCBOz-c2oBZg-t500x500.jpg")
 Artist.create!(name: "Body Bag Syndikate", bio: "Body Bag Syndikate was a rap group originally from Denver, Colorado.", image: "https://i1.sndcdn.com/avatars-000058257156-q5m5ex-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Body Rott", bio: "Hailing from Maryland, Body Rott started making beats back in 2014, and had privately planned many albums and EPs, but never recorded any lyrics. Finally, mustering up the courage to begin recording, he released his first track called Homicide (Depression Part 1) on SoundCloud on August 14th, 2016.
+
+Body Rott signed to Crease City Entertainment in October of 2017.", image: "https://f4.bcbits.com/img/0008186052_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
