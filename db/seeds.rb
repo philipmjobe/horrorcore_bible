@@ -541,7 +541,9 @@ Enduring a difficult upbringing and recovering from drug addiction, he isn't afr
   
 Cryptic Wisdom's art has taken him around the world to deliver a high-energy display of emotional mastery and personal transparency. This is not just music - It is a sonic soundtrack to life.", image: "https://i.ticketweb.com/i/00/07/67/52/91/Artist.jpg?v=1")
 Artist.create!(name: "Cult Activity", bio: "Cult Activity is a group consisting of emcees Damien Quinn, S.A.W. Da Ghozt, and Bloody Ruckus.", image: "https://i.ytimg.com/vi/xNubSXwE0sU/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cult Status", bio: "Cult Status was a horrorcore group formed by emcees Vyce and J Sawedoff. The duo started Cult Status as a side project to their other group known as Flesruoy Llik.
+
+The group released four EPs between 2010 and 2014. Fellow emcee God of Fertility was featured as a member of the group when their third EP was released and by the time the fourth EP came around, rapper Frostbite was featured as well. Around 90% of the production on these albums was completed by Vyce.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/20210710_222141.jpg?w=747&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
