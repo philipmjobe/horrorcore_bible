@@ -400,7 +400,7 @@ Artist.create!(name: "Cannibal Crew", bio: "Cannibal Crew was a rap group from I
 
 After a number of releases, the duo changed their name to Morgue Mob, in 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/cannibal-crew.jpg?w=450&ssl=1")
 Artist.create!(name: "Canni6al Posse", bio: "Canni6al Posse is a group consisting of the infamous DJ Hype Mane, the well known celebrity MVDD, and Neron the legend. With each of their unique styles and gory lyrics, these artists joined together to bring out the cannibalistic rap and devil shit.", image: "https://images-na.ssl-images-amazon.com/images/I/51qzQ3PmcZL._SY445_SX342_QL70_ML2_.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cazkit", bio: "5th Power Entertainment brings you… A depraved and deranged trip into the mind of a lunatic. Lyrical nightmares of a demonic nature, crafted into an audio classic in the making. This album was inspired by, and loosely based on true life and death events. Evil DOES exist, and its within the satanic visions of this lost ‘soul’ named Cazkit. Journey into darkness, as one of the members of the globally acclaimed horrorcore group 66 Killz brings you within stabbing distance of the most wicked, the most vile and disturbing audio to hit the streets in 2022. Not responsible for any mental degradation.", image: "https://i.scdn.co/image/ab6761610000e5ebbf2229df83fbb0bc1bf54f5b")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
