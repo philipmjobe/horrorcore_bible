@@ -359,7 +359,9 @@ Artist.create!(name: "Bukshot", bio: "Bukshot, born Tim Kalbfleisch, is an emcee
 
 After going to the Gathering Of The Juggalos and releasing the Underground Avengers EP, he switched his main approach of delivering music from Mobstyle rap to Underground Horrorcore rap. Since his change in rap styles he has featured artists such as Krizz Kaliko, Tech N9ne, Demi Demaree, Crucifix, Jelly Roll, Madchild, Violent J, Stevie Stone, Twiztid, Hurra Season and Twisted Insane.", image: "https://i.discogs.com/k9glPL13mfW4m0r_BqGVYShDZjBwRuEH-4ms3iz2p2A/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MTU5/Ni0xNjQ0NTYwNTk2/LTkyODQuanBlZw.jpeg")
 Artist.create!(name: "BunnyJunk", bio: "Members are Badluck, Lo Key, Malaria, Thugzy Bunnie", image: "https://e.snmc.io/i/1200/s/e7289046672232ae3f147e29ee62b187/2282805")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Butchers Harem", bio: "From the disbanding of Suicidal Rap Orgy came the formation of Butchers Harem.
+
+Founded by MC Bushpig, Butchers Harem are pioneers in the Australian brutal horrorcore, gore rap, trap metal, and scream rap scenes.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/765e26325911446d96bbe55c60449948.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
