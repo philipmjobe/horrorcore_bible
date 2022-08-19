@@ -535,7 +535,11 @@ Artist.create!(name: "Crossworm", bio: "Crossworm is a multi genre artist based 
 
 In 2001, 2KORPSE disbanded and Crossworm went solo. He has since released several albums, engineered hundreds of artists, and went on to direct the worlds biggest annual horrorcore compilation series “DEVILZ NITE”, before it was disbanded in 2012. Also in 2009, Crossworm formed a Horrorcore group called BLISTER with Detroit MC “Renigade”. They released several singles, always on a Friday the 13th.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/164640/original/crop:x0y0w366h511/hash:1466556739/l8528474233_1530.jpg?1466556739")
 Artist.create!(name: "CRUELKAME", bio: "CRUELKAME is a horrorcore based artist who is a super underground entity, based on a devious schizophrenic lowlife uncle tom who dresses up as a bunny when he hears voices.", image: "https://i.scdn.co/image/ab6761610000e5eb008f210e44b222814bb3aaa9")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cryptic Wisdom", bio: "Cryptic Wisdom is a hip-hop artist with an alternative edge, baring aggressive rap vocals and animated melodies that often have him walking a thin line between genres.
+
+Enduring a difficult upbringing and recovering from drug addiction, he isn't afraid to become vulnerable. He has gotten countless messages/emails/comments from fans telling him that he literally saved their lives with his music by helping them deal with heartbreak, loss, pain, their own drug addiction and suicidal tendencies.
+  
+Cryptic Wisdom's art has taken him around the world to deliver a high-energy display of emotional mastery and personal transparency. This is not just music - It is a sonic soundtrack to life.", image: "https://i.ticketweb.com/i/00/07/67/52/91/Artist.jpg?v=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
