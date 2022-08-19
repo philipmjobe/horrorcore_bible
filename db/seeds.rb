@@ -476,7 +476,10 @@ Artist.create!(name: "Corpse Circus", bio: "Established in August of 2006, Corps
 Corpse Circus stands out in the murky waters of underground rap, by way of touching on new topics, and even going so far as to make fun of each other during their verses.
   
 Corpse Circus has had famous features on their albums including Esham, Bizarre of D12, Mars, Insane Poetry, and Scum.", image: "https://cdns-images.dzcdn.net/images/cover/5198c99fbda2dfff51b2e2157d3a26c0/264x264.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cortes Podridos", bio: "Cortes Podridos es un rapero horrorcore de Chile. sus primeros trabajos aparecieron a mediados de 2015 y se mantiene hasta la actualidad.
+sus temáticas describen la cruda realidad del mundo. trabaja con hand of death, 33 cortes gang, spp y fhc.
+  
+Cortes Podridos is a horrorcore rapper from Chile. He started making music in mid-2015 and continues to this day. His songs contain themes involving the harsh reality of the world. Cortes Pordridos works with Hand of Death, 33 Gang Cuts, SPP and FHC.", image: "https://i.scdn.co/image/ab6761610000e5eb82b597c609530a8260e8ac4d")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
