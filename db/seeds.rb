@@ -467,7 +467,10 @@ It was announced in October of 2020 that his debut album, Psychoactive, would be
 Artist.create!(name: "Con-crete", bio: "CON-CRETE was born on March 11th, 1981 on the wet streets of Seattle, WA in a haunted cemetary during a Satanic Ritual. Okay that's bullshit, he was born in a hospital, but that shit would have been awesome if it was true. The Dark Minister has been infecting the world with his Horrorcrunk flows for the over 10 years now along side his partner in crime Bloodshot, and has 5 solid albums under his belt which include “I HATE COPS” and “Blasphemer.”
 
 CON-CRETE performed at events with artist such as Mastamind, Insane Poetry, Jason Porter, Murs, Esham, Haystack, Mars, Mike Jones, Paul Wall, Insane Clown Posse, Twiztid, ABK, V-Sinister, ABK, Devin The Dude, Andre Nickatina, Scum, King Gordy, Potluck, DGAF, Doomsday Productions like anybody gives a fuck who he opened for. Either way “The Dark Minister” is gonna keep on rocking mics until his fucking lungs explode bottom line.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/581364/original/crop:x0y0w960h683/hash:1558854023/0c80a8d782dab13843f556e70ee094706cd7014c.jpg?1558854023")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Coroners", bio: "Rob Eerie: Devil sent and the Devil never asked for him back. Now Rob Eerie spends his time murdifying beats and doing various drugs, many of which are make-believe for shock value. As of this writing, Eerie was quoted saying “shit is about to get real and y'all are not readyyyyy.”
+
+Xhuman: Once known by many names, none of which matter now, Xhuman boasts a unique view on the world and looks to expand his library of notebooks full of lyrics he will never use.
+Some believe X is in fact a genetic freak fueled by energy drinks, nicotine, and weed. Those people are dumb, but he is a good rapper though.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/the-coroners.jpg?w=471&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
