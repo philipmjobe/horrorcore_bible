@@ -450,7 +450,17 @@ Hard to Kidnap. Family man and grade A goofball.", image: "https://bloximages.ch
 Artist.create!(name: "Cocaine Krueger", bio: "Born on April 14, 1997, Cocaine Krueger is a rapper from Memphis, TN who has been making music in the underground since he was 13 years old. He eventually started the group Futuristik Mafia along with Lil' Infamous and Young Jizzle. The group made a few singles before disbanding.
 
 He was a member of Doomshop Records since 2015. He released two EPs under the label. In 2019, he left Doomshop Records and joined 6 Feet Deep Records.", image: "https://images.genius.com/befbb5e935946c3a0ce36e105fa1a14b.596x596x1.png")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cody B", bio: "“Cody B,” born Cody Bazaldua August 6 1992, is an American rapper out of Denver, Colorado.
+
+Cody B cut his first mixtape in 2009 on a karaoke machine when he was 17. Soon after, he was invited by Jerry Shourd to record in his home studio. At that studio, then known as Inland Studios, Cody B and Jerry Cut four tracks. Jerry then helped Cody B with booking and he began doing shows. Through doing shows, Cody B met Kraziak and together they started the record label “Dangerouz Mindz Muzik,” and signed a roster consisting of Overloaded, Cody B, Kraziak, Cornbread, Oogie Boogie, Ztarve, and The Naked Ape.
+  
+In 2011, Cody B along with Kraziak cut “Dead End Streetz” by Overloaded (Kraziak and Cody B).
+  
+in 2014, the label was disbanded. That same year, Cody B cut “Corrosive Creed.” Shortly after releasing the album he took a hiatus to work on future projects.
+  
+In January of 2020, Cody B returned and released his new project Cult O' Me (Everything done by Cody B — engineering, production, writing, performance, illustration, mixing, and mastering) and dropped the record “Angel's Smoking Water.” A few moths later, Cody B, along with his childhood friend and bass player, Jacob Knapp, dropped the project Daemoncore and EP “Luciferic Poetry.”
+  
+In 2020, Cody B also became a chairperson for Gallows Hill Productions.", image: "https://i.scdn.co/image/ab6761610000e5eb19b9623a539bae6b315888a5")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
