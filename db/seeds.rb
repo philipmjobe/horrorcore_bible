@@ -493,7 +493,9 @@ With this success, Crackle gained access to meet Bizzy Bone and Whodini Blak of 
 Crackle's next album, Behind Bloodshot Blue Eyes, was released thru YesSER Ent and has thousands of streams on many outlets. In 2016, Crackle dropped Inspiring Debauchery. His single “Mary” has been played on radio stations throughout the USA and online radio stations throughout the world.
   
 Crackle released a new single in 2018 called “Filth” that has gain thousands of views on YouTube and has been played on US Radio. In 2018, ALEXITHYMIA was released, having features from DJ Clay and Playboy The Beast, which would further push Crackle's cult-like following. In 2019, Crackle released his latest project, Crackle Sings The Blues.", image: "https://cdn.voyagela.com/wp-content/uploads/2022/05/c-CrackleKapone__cracklekaponevoylapic_1633398105224.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "CracOdyne", bio: "CracOdyne consists of 3 things… Crac Kajak from Epidimic, Anodyne from the PsychoSlingers, and light from the universe.
+
+They create an aura unparalleled in most modern entertainment. Their array of styles can satisfy the appetite of music lovers across many genres. They are the aliens in a world full of regular people.", image: "https://static.wixstatic.com/media/98bc50_70fa895b195a43fc892064e9bf27175b~mv2.jpg/v1/crop/x_0,y_176,w_723,h_784/fill/w_560,h_606,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/rusty%20micah.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
