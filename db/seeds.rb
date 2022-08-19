@@ -396,7 +396,9 @@ Artist.create!(name: "BVNE", bio: "BVNE (pronounced “Bane”) is a rapper, pro
 Artist.create!(name: "Byzo", bio: "Byzo is a Serbian horrorcore rapper born on May 14, 1985. He is originally from Belgrade and now lives in Prague.", image: "https://i.ytimg.com/vi/M059WUM2mvc/maxresdefault.jpg")
 Artist.create!(name: "Cadaverz on Kitestrings", bio: "Cadaverz on Kitestrings were an acid rap group from Portland, OR consisting of emcees Double J, Krusty, and Slynkie.", image: "https://f4.bcbits.com/img/0017741401_10.jpg")
 Artist.create!(name: "Cage", bio: "Chris Palko, better known by his stage name Cage, started rapping at 18 years old, in 1991. Since then, he has released a handful of full-length albums, and has been involved in the groups 'The Weathermen', 'Smut Peddlers', 'Nighthawks', and 'Leak Bros.'", image: "https://upload.wikimedia.org/wikipedia/commons/0/00/ChrisPalko.JPG")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cannibal Crew", bio: "Cannibal Crew was a rap group from Illinois consisting of emcees Eddie Bones and Demonic Dale.
+
+After a number of releases, the duo changed their name to Morgue Mob, in 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/cannibal-crew.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
