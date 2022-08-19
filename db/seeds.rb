@@ -556,7 +556,7 @@ He has appeared on numerous underground artists albums and mixtapes, and has ope
 Artist.create!(name: "C-Bo", bio: "Shawn Thomas, also known by his stage name C-Bo, is an American rapper.
 
 C-Bo, notoriously known for his relationship with law enforcement, was one of the first rappers to be jailed due to his lyrical content, a scathing critique of political officials and police on his track “Deadly Game,” and unsuccessfully argued for appeal three times, while gaining nationwide attention for arguably his most successful mainstream album. He was arrested in California in 1998, under the suspicion that his violent rap lyrics violated his parole. He rapped his court statement to the presiding judge, in Ohio, who gave C-Bo probation on the condition that he also rap in a Public Service Announcement", image: "https://i.discogs.com/lLRJmLIAO6uZXdPUcZnsLaDEKzUWVQTw8U5t7QjfTpc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Mzc1/OC0xNTk5MjAyNzM5/LTg3NzMuanBlZw.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "C-Kane", bio: "C-Kane, born Cleo Cooper, was an emcee from Detroit, MI. He was an original member of the group Two Sins and the Murderous Family.", image: "https://angartwork.akamaized.net/?id=9030644&size=640")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
