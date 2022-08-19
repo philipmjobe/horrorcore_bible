@@ -471,7 +471,11 @@ Artist.create!(name: "The Coroners", bio: "Rob Eerie: Devil sent and the Devil n
 
 Xhuman: Once known by many names, none of which matter now, Xhuman boasts a unique view on the world and looks to expand his library of notebooks full of lyrics he will never use.
 Some believe X is in fact a genetic freak fueled by energy drinks, nicotine, and weed. Those people are dumb, but he is a good rapper though.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/the-coroners.jpg?w=471&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Corpse Circus", bio: "Established in August of 2006, Corpse Circus has been bringing their unique mix of murderous lyrics combined with their own style of humor placed over sample heavy back beats with crisp hard hitting drums.
+
+Corpse Circus stands out in the murky waters of underground rap, by way of touching on new topics, and even going so far as to make fun of each other during their verses.
+  
+Corpse Circus has had famous features on their albums including Esham, Bizarre of D12, Mars, Insane Poetry, and Scum.", image: "https://cdns-images.dzcdn.net/images/cover/5198c99fbda2dfff51b2e2157d3a26c0/264x264.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
