@@ -525,12 +525,12 @@ Soon after, Creep Lo built a website to promote his label and network. As of fal
   
 Drop It Off Entertainment employs some of the hottest underground producers — Medicine Man who hails from ATL with super raw dope tracks and industry credentials under his belt, a team from Vienna, Austria under the company name of OSC, Nino Wyte along with his partner Chillsta, and longtime friend Roger Werthman The Head Cracka aka T.H.C. from Iowa.
   
-Creep Lo CEO of Drop it off Entertainment has been putting in work for 20+ years as one of the Midwest's leading underground rap label owners/ producer/engineer/artist. He has worked consistently trying to build his company’s reputation by producing seven albums, two mixtapes, and countless other ventures. He stands alone in his creativity, ingenuity, flow patterns, and a unique sound!
+Creep Lo CEO of Drop it off Entertainment has been putting in work for 20+ years as one of the Midwest's leading underground rap label owners/ producer/engineer/artist. He has worked consistently trying to build his company's reputation by producing seven albums, two mixtapes, and countless other ventures. He stands alone in his creativity, ingenuity, flow patterns, and a unique sound!
   
 Overseas he is labeled the Hasselhoff of Rap! He also served seven years in the military from 1994 to 2001 for the 234th signal battalion. He is a great father raising his five children, ranging from six years old to 21.
   
 In his spare time, he loves to fish, camp, disc golf play the ps3, mushroom hunt, play basketball, go to sporting events and concerts, record tracks and engineer them, making albums and putting them out, and along the way, help others less fortunate!", image: "https://i.ytimg.com/vi/W1Xx9LPriS0/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crimson Bile", bio: "Crimson Bile Records is an indy rap/rock label out of Boston, MA. Made up of Boston Emcees/Musicians: ICE-PIC, CrAkD, Frantik, Abyss and Post Script.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/3b30aef2932c45428144d3f09d0c7fc4.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
