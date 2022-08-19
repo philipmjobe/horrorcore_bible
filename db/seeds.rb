@@ -354,7 +354,7 @@ Artist.create!(name: "Brutalness JM", bio: "Brutalness JM is a Horrorcore rapper
 Artist.create!(name: "Brutaly Vicious Killaz", bio: "Formed in 1999 along with Xplicit Realm Entertainment, BVK began to produce and release there own special type of music. In 2002 BVK released the first album entitled “SIX FEET DOWN”. Since then, BVK have released countless more albums, combining sick lyrics and style with live rock/metal.
 
 The group announced that BVK would be no more on 12/31/2019.", image: "https://i.scdn.co/image/ab67616d0000b273c71f2415e74f478b01019509")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Bubbz", bio: "Bubbz is an emcee from Iowa.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/bubbz.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
