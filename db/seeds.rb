@@ -399,7 +399,7 @@ Artist.create!(name: "Cage", bio: "Chris Palko, better known by his stage name C
 Artist.create!(name: "Cannibal Crew", bio: "Cannibal Crew was a rap group from Illinois consisting of emcees Eddie Bones and Demonic Dale.
 
 After a number of releases, the duo changed their name to Morgue Mob, in 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/cannibal-crew.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Canni6al Posse", bio: "Canni6al Posse is a group consisting of the infamous DJ Hype Mane, the well known celebrity MVDD, and Neron the legend. With each of their unique styles and gory lyrics, these artists joined together to bring out the cannibalistic rap and devil shit.", image: "https://images-na.ssl-images-amazon.com/images/I/51qzQ3PmcZL._SY445_SX342_QL70_ML2_.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
