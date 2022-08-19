@@ -392,7 +392,7 @@ Tha Butcher takes this VERY seriously.
 And his music, will ALWAYS be, a reflection of his REAL LIFE STORY.
   
 Till death do he part, so to speak, Tha Butcher is here to stay.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/tha-butcher.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "BVNE", bio: "BVNE (pronounced “Bane”) is a rapper, producer, and vocalist located in Indianapolis, IN.", image: "https://i.scdn.co/image/ab6761610000e5eb756a01368bb5436257ed17ed")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
