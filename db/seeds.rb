@@ -517,7 +517,19 @@ Creech always dug the dark side of hip-hop and that's been his style for a long 
 As Creech got older, he started to get a little tired of writing horrorcore lyrics, and so he started to write lyrics about other things as well. He also started rapping in Dutch because he felt that rapping in his native language was more natural and that way he didn't have to concentrate too much on the pronunciation of English words.
 
 Old school hip-hop is the music Creech knows best and it's fair to say that the Ultramagnetic MC's, BDP, Tim Dog, the Geto Boys, and Desmond Dekker are his biggest influences. Although Creech is hip-hop through and through, it is not to say he finds himself restricted to this genre. In fact his influences are vast, which is noticeable throughout his albums, especially his debut release.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/creech.jpg?w=339&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Creep Lo", bio: "Drop It Off Entertainment started in Cedar Rapids, IA as an underground independent Midwest rap label in 1996 by Creep Lo. He hooked up with a local producer/rapper named Evil Pimp to produce Creep Lo's underground tape, “Creepn Out Da Cut.” Then set to produce Creep's next album, “You Ain't Seen Nothin Yet,” they split up and went their separate ways due to business difficulties.
+
+Creep Lo continued to finish the album and put it out underground while promoting it through the street and internet. Then while vacationing in VA Beach, VA in 2000 and producer-less, he met a producer by the name of Gemini da Golden Child, owner of Gemini Productions, who in turn was on the verge of giving it all up after difficulties ranging from disloyal artists to snakes in the business. Gemini decided that he didn't want to stay in VA any longer, moved to Iowa for something new, marking a new beginning for him and Creep Lo.
+  
+Soon after, Creep Lo built a website to promote his label and network. As of fall of 2016, Drop It Off Entertainment has seven albums under their belt with the latest album, Creep Lo “Da CreepShow,” and two mixtapes that can be downloaded off of Datpiff.com.
+  
+Drop It Off Entertainment employs some of the hottest underground producers — Medicine Man who hails from ATL with super raw dope tracks and industry credentials under his belt, a team from Vienna, Austria under the company name of OSC, Nino Wyte along with his partner Chillsta, and longtime friend Roger Werthman The Head Cracka aka T.H.C. from Iowa.
+  
+Creep Lo CEO of Drop it off Entertainment has been putting in work for 20+ years as one of the Midwest's leading underground rap label owners/ producer/engineer/artist. He has worked consistently trying to build his company’s reputation by producing seven albums, two mixtapes, and countless other ventures. He stands alone in his creativity, ingenuity, flow patterns, and a unique sound!
+  
+Overseas he is labeled the Hasselhoff of Rap! He also served seven years in the military from 1994 to 2001 for the 234th signal battalion. He is a great father raising his five children, ranging from six years old to 21.
+  
+In his spare time, he loves to fish, camp, disc golf play the ps3, mushroom hunt, play basketball, go to sporting events and concerts, record tracks and engineer them, making albums and putting them out, and along the way, help others less fortunate!", image: "https://i.ytimg.com/vi/W1Xx9LPriS0/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
