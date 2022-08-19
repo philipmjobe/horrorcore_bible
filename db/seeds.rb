@@ -545,7 +545,11 @@ Artist.create!(name: "Cult Status", bio: "Cult Status was a horrorcore group for
 
 The group released four EPs between 2010 and 2014. Fellow emcee God of Fertility was featured as a member of the group when their third EP was released and by the time the fourth EP came around, rapper Frostbite was featured as well. Around 90% of the production on these albums was completed by Vyce.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/20210710_222141.jpg?w=747&ssl=1")
 Artist.create!(name: "Curwa", bio: "Curwa, sometimes spelled as C.U.R.W.A., is a Czech rapper from Třebíč and member of the group Masový Wrazi.", image: "https://i.discogs.com/HgD4iEWoMgrU25p-sqVVADCcTDYTgqaJvrE8I8Gc26Y/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0MjIy/MjYtMTQ0MjkwOTM3/OC01NTc4LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cutthroat The Coroner", bio: "Cutthroat The Coroner, aka Cutty aka CXRXNXR…
+
+Started his music endeavor in 2008 writing and practicing making beats. He continued to practice and make demo songs until 2011, when RUKUS of Kryptik picked him up to start Butchered Beat Productionz, a legendary horrorcore label they ran until late 2017/early 2018.
+  
+In August of 2011, Cutty released his first album ever entitled “Xperiment in Fear” with Rukus. He has released numerous group projects and solo albums throughout the years and has produced for many artists, as well. Cutthroat continues to do so to this day.", image: "https://i1.sndcdn.com/avatars-pFFHjqahkfhjoleH-best4g-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
