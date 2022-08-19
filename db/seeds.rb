@@ -499,7 +499,7 @@ They create an aura unparalleled in most modern entertainment. Their array of st
 Artist.create!(name: "Crac Kajak", bio: "Micah Moncrief, better known as Crac Kajak, is an American rapper, singer, and record producer. He is a member of the Midwest hip hop group Epidimic. He is also one half of the hip hop duo CracOdyne, and an affiliate of Doom Squad.
 
 Crac Kajak has performed across America alongside various nationally touring artists since the early 2000's. Currently he is working on a solo album titled Unnostalgic. With his skilled writing, intricate flow, and amazing cadence, Crac Kajak continues to raise the rap bar with his lyricism and thought-provoking content.", image: "https://whatzup.com/wp-content/uploads/2022/04/5b352428178b1.gif")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crazy8 the Snap Case", bio: "Crazy8 the Snap Case is a horrorcore emcee from Arkansas. He is one half of the group Hellbound Disciplez and is a member of Bloodshot's Horrorcrunk Entertainment label.", image: "https://i.scdn.co/image/ab6761610000e5ebd4abf7c49fcca81602aab45e")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
