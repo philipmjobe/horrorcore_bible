@@ -544,7 +544,7 @@ Artist.create!(name: "Cult Activity", bio: "Cult Activity is a group consisting 
 Artist.create!(name: "Cult Status", bio: "Cult Status was a horrorcore group formed by emcees Vyce and J Sawedoff. The duo started Cult Status as a side project to their other group known as Flesruoy Llik.
 
 The group released four EPs between 2010 and 2014. Fellow emcee God of Fertility was featured as a member of the group when their third EP was released and by the time the fourth EP came around, rapper Frostbite was featured as well. Around 90% of the production on these albums was completed by Vyce.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/20210710_222141.jpg?w=747&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Curwa", bio: "Curwa, sometimes spelled as C.U.R.W.A., is a Czech rapper from Třebíč and member of the group Masový Wrazi.", image: "https://i.discogs.com/HgD4iEWoMgrU25p-sqVVADCcTDYTgqaJvrE8I8Gc26Y/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0MjIy/MjYtMTQ0MjkwOTM3/OC01NTc4LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
