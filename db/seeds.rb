@@ -480,7 +480,19 @@ Artist.create!(name: "Cortes Podridos", bio: "Cortes Podridos es un rapero horro
 sus temáticas describen la cruda realidad del mundo. trabaja con hand of death, 33 cortes gang, spp y fhc.
   
 Cortes Podridos is a horrorcore rapper from Chile. He started making music in mid-2015 and continues to this day. His songs contain themes involving the harsh reality of the world. Cortes Pordridos works with Hand of Death, 33 Gang Cuts, SPP and FHC.", image: "https://i.scdn.co/image/ab6761610000e5eb82b597c609530a8260e8ac4d")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crackle Kapone", bio: "Crackle Kapone is a worldwide recording artist and producer from NC, one of the top juggalo artists in the south, and member of Reb7rth a group apart of Bizzy Bone’s label, 7th Sign.
+
+He hails from a small mill town called Erwin, NC, where the mill closed down and meth labs opened up.
+  
+Crackle witnessed tragedy at a very young age losing one of the few father figures in his life and one of his closet friends, Proof, who gave him the nickname “Crackle.” At an early age, he quickly realized the world was a cold and beautiful place. Like most young males in a small town, Crackle struggled to find his way until one day, a close friend introduced him to rap at a young age.
+  
+Crackle started his music career when he turned 12 and started a label called YesSER Ent in which he would release his art. After many setbacks and a failed deal with Island/Def Jam, Crackle broke mainstream in 2012 with his hit, independently released single, “Whiteboy Go,” from his album, Trailer Made, putting him on a national level and touring, premiering in Australia first.
+  
+With this success, Crackle gained access to meet Bizzy Bone and Whodini Blak of 7th Sign. In return, they signed him to a group called REB7RTH that consists of artists from all over the world.
+  
+Crackle's next album, Behind Bloodshot Blue Eyes, was released thru YesSER Ent and has thousands of streams on many outlets. In 2016, Crackle dropped Inspiring Debauchery. His single “Mary” has been played on radio stations throughout the USA and online radio stations throughout the world.
+  
+Crackle released a new single in 2018 called “Filth” that has gain thousands of views on YouTube and has been played on US Radio. In 2018, ALEXITHYMIA was released, having features from DJ Clay and Playboy The Beast, which would further push Crackle's cult-like following. In 2019, Crackle released his latest project, Crackle Sings The Blues.", image: "https://cdn.voyagela.com/wp-content/uploads/2022/05/c-CrackleKapone__cracklekaponevoylapic_1633398105224.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
