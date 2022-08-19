@@ -500,7 +500,7 @@ Artist.create!(name: "Crac Kajak", bio: "Micah Moncrief, better known as Crac Ka
 
 Crac Kajak has performed across America alongside various nationally touring artists since the early 2000's. Currently he is working on a solo album titled Unnostalgic. With his skilled writing, intricate flow, and amazing cadence, Crac Kajak continues to raise the rap bar with his lyricism and thought-provoking content.", image: "https://whatzup.com/wp-content/uploads/2022/04/5b352428178b1.gif")
 Artist.create!(name: "Crazy8 the Snap Case", bio: "Crazy8 the Snap Case is a horrorcore emcee from Arkansas. He is one half of the group Hellbound Disciplez and is a member of Bloodshot's Horrorcrunk Entertainment label.", image: "https://i.scdn.co/image/ab6761610000e5ebd4abf7c49fcca81602aab45e")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crease Reese", bio: "Crease Reese is a hip hop/rap/horrorcore artist from the Bay Area, California. He has worked with ADR Lavey, Symen Haze, and Body Rott and has been in the game since 2012. Crease Reese has performed shows with the likes of Twisted Insane and Brotha Lynch Hung.", image: "https://zinclyrics.com/img/singers/crease-reese-9a099ab7.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
