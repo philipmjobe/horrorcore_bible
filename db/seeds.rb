@@ -496,7 +496,9 @@ Crackle released a new single in 2018 called “Filth” that has gain thousands
 Artist.create!(name: "CracOdyne", bio: "CracOdyne consists of 3 things… Crac Kajak from Epidimic, Anodyne from the PsychoSlingers, and light from the universe.
 
 They create an aura unparalleled in most modern entertainment. Their array of styles can satisfy the appetite of music lovers across many genres. They are the aliens in a world full of regular people.", image: "https://static.wixstatic.com/media/98bc50_70fa895b195a43fc892064e9bf27175b~mv2.jpg/v1/crop/x_0,y_176,w_723,h_784/fill/w_560,h_606,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/rusty%20micah.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Crac Kajak", bio: "Micah Moncrief, better known as Crac Kajak, is an American rapper, singer, and record producer. He is a member of the Midwest hip hop group Epidimic. He is also one half of the hip hop duo CracOdyne, and an affiliate of Doom Squad.
+
+Crac Kajak has performed across America alongside various nationally touring artists since the early 2000's. Currently he is working on a solo album titled Unnostalgic. With his skilled writing, intricate flow, and amazing cadence, Crac Kajak continues to raise the rap bar with his lyricism and thought-provoking content.", image: "https://whatzup.com/wp-content/uploads/2022/04/5b352428178b1.gif")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
