@@ -427,7 +427,7 @@ He has worked and collaborated with one of the most well known and talented MCs 
   
 Throughout this day in his career, he has been keeping it real in music and giving it all that he has got. Not just for himself, but for the fans that he likes to call the “Freaks & Freakshows” who are down with the real sick music and have he's back a 100%.", image: "https://i.scdn.co/image/ab6761610000e5eb0c3581922644fbb8bf44ae38")
 Artist.create!(name: "CHXXMPA", bio: "CHXXMPA is an emcee from Fort Worth, TX.  He is part of TYDL Records and the group SickGang.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/5874242/original/crop:x0y0w720h960/hash:1501372774/5ea307e2866c4a5907a60f5d31f4f53695445e1a.jpg?1501372774")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cinikill", bio: "Cinikill, sometimes written as CiN1KiLL, is a rapper from Santa Maria, CA.  He has been part of Brain Damage Records, Grindhouse Musick, and Butchered Beat Productionz, run by Rukus of Kryptik infamy.", image: "https://f4.bcbits.com/img/0005235143_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
