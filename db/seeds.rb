@@ -408,7 +408,11 @@ Artist.create!(name: "Cerberus Clique", bio: "Cerberus Clique is a underground s
 Artist.create!(name: "CHAINSAWmessiah", bio: "This was the name used by popular horrorcore artist who would become Stitch Mouth later in his career.
 
 “The deriving of sexual gratification or the tendency to derive sexual gratification from inflicting pain or emotional abuse on others…Evil by nature and in practice… Profoundly cruel or evil; fiendish…”", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/chainsawmessiah.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Chamber", bio: "Chamber is an independent hip-hop artist from Indiana currently representing 5th Power Entertainment.
+
+He is a former artist on 3rd Shift Entertainment and for a brief period could be heard as a member of Monsta Squad under the alias Dez Theory.
+  
+Chamber has been part of the wicked underground scene for many years, having also released music under labels Fallen Entertainment and Relogik Records.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/01/chamber-1.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
