@@ -414,7 +414,7 @@ He is a former artist on 3rd Shift Entertainment and for a brief period could be
   
 Chamber has been part of the wicked underground scene for many years, having also released music under labels Fallen Entertainment and Relogik Records.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/01/chamber-1.jpg")
 Artist.create!(name: "Chapa Blasfemo", bio: "Chapa Blasfemo is a horrorcore rapper from Mexico City, Mexico. He works with multiple labels including 666 Kartell Records of Germany, Hand Of Death of Brazil, Área 57 of Mexico, and more.", image: "https://i.discogs.com/6wg9nrfwsyTqsJPEB7XksmytNFGxR1h6A-OlzXDiwkk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyNDQ5/MTctMTUxNzg2NzY2/MC0xOTA5LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Children of the Corn", bio: "R-SuN TR8 and Irv the 3rd formed Children of the Corn in 2005. Irv graduated from just creating beats to being the other half of R-SuN's return to music. Over 60 songs were recorded for the album… most of which have disappeared forever.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/children-of-the-corn.jpg?w=1356&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
