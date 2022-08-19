@@ -362,7 +362,36 @@ Artist.create!(name: "BunnyJunk", bio: "Members are Badluck, Lo Key, Malaria, Th
 Artist.create!(name: "Butchers Harem", bio: "From the disbanding of Suicidal Rap Orgy came the formation of Butchers Harem.
 
 Founded by MC Bushpig, Butchers Harem are pioneers in the Australian brutal horrorcore, gore rap, trap metal, and scream rap scenes.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/765e26325911446d96bbe55c60449948.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Tha Butcher", bio: "Ahhh, where to start.
+
+Tha Butcher is a “middle aged and crazy” artist originally out of Ohio.
+  
+His life story can 110% be heard, discovered, and learned about, throughout his entire discography.
+  
+He is a DEDICATED mental health awareness advocate, with an over 3 DECADE mental health history file, and a DIE HARD marijuana legalization advocate, as a 25+yr user, and current certified patient.
+  
+Over the last 5 or so years as of this writing, Tha Butcher has consistently evolved, expanded, and broadened his skill level as far as lyrics, content, and overall variety of styles.
+  
+His drive and motivation has led to him getting signed to Klinikly Dead Entertainment as of early 2021.
+  
+His “go to” is, has been, and always will be, tha dark side.
+  
+His literal intelligence and knowledge level of “certain things” we'll just say, is indicated and hinted at, throughout his entire career.
+  
+With an extensive criminal record and 3 decades worth of inpatient hospitalizations, it's definitely safe to say, Tha Butcher is not only an artist, but a human/demon hybrid, that you would definitely want on your side, and/or on your team.
+  
+This is 110% an individual you do NOT want to confront in real life.
+  
+The lyrics are not a gimic by any means. This is real life self expression, of what has ALREADY BEEN, seen, done, or thought about.
+  
+No longer the “new guy” in the underground, Tha Butcher has made it his life's mission, to not only EARN but to COMMAND his respect.
+Not only in music, but in life.
+  
+Tha Butcher takes this VERY seriously.
+  
+And his music, will ALWAYS be, a reflection of his REAL LIFE STORY.
+  
+Till death do he part, so to speak, Tha Butcher is here to stay.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/tha-butcher.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
