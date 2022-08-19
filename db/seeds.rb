@@ -550,7 +550,9 @@ Artist.create!(name: "Cutthroat The Coroner", bio: "Cutthroat The Coroner, aka C
 Started his music endeavor in 2008 writing and practicing making beats. He continued to practice and make demo songs until 2011, when RUKUS of Kryptik picked him up to start Butchered Beat Productionz, a legendary horrorcore label they ran until late 2017/early 2018.
   
 In August of 2011, Cutty released his first album ever entitled “Xperiment in Fear” with Rukus. He has released numerous group projects and solo albums throughout the years and has produced for many artists, as well. Cutthroat continues to do so to this day.", image: "https://i1.sndcdn.com/avatars-pFFHjqahkfhjoleH-best4g-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Cykotik", bio: "cYkoTIk is an underground horrorcore artist from Ohio.
+
+He has appeared on numerous underground artists albums and mixtapes, and has opened up shows for many legends within the genre.", image: "https://i.discogs.com/wcWZlmVIunpWTD1PXlCKEaICPEk0wfcfChUh3-VZwhM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyMzYy/MDktMTYwNjUyNjc1/MS0yNzU3LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
