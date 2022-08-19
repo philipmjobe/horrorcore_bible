@@ -335,7 +335,7 @@ Artist.create!(name: "Body Bag Syndikate", bio: "Body Bag Syndikate was a rap gr
 Artist.create!(name: "Body Rott", bio: "Hailing from Maryland, Body Rott started making beats back in 2014, and had privately planned many albums and EPs, but never recorded any lyrics. Finally, mustering up the courage to begin recording, he released his first track called Homicide (Depression Part 1) on SoundCloud on August 14th, 2016.
 
 Body Rott signed to Crease City Entertainment in October of 2017.", image: "https://f4.bcbits.com/img/0008186052_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Boondock Sinners", bio: "Omega Sin and K-Fix come together as The Boondock Sinners. They combine their unique styles to create an unstoppable duo. Omega comes with a slower, but gritty and angry flow. K-Fix comes with a lightning fast delivery that gives any chopper a run for their money. This duo is a force to be reckoned with. Their Hood Fiction album was teased for most of 2017, all of 2018, and most of 2019 with it then finally being released in November of 2019.", image: "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/8c/5e/47/8c5e4701-c359-0507-0593-33d44dcd5ab8/859735517693_cover.jpg/1200x1200bf-60.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
