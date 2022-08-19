@@ -432,7 +432,15 @@ Artist.create!(name: "Circle of Tyrants", bio: "The Circle Of Tyrants was a hip 
 Artist.create!(name: "City Morgue", bio: "After making a splash in 2017 with the single “Shinners 13” and its shocking music video that featured rampant drug use and firearms aplenty, shadowy New York rappers ZillaKami and SosMula joined forces under the official moniker City Morgue.
 
 With their aggressive delivery, threatening image, and intensely hedonistic and violent tendencies, City Morgue captured the dark side of the 2010s alternative rap scene, adopting metal/punk influences like contemporaries $uicideboy$, XXXTentacion, and one-time affiliate 6ix9ine. In the spirit of horror-rap forebears Esham and Geto Boys, City Morgue amplified the sex, drugs, and violence rhymes to an extreme. Joined by producer Thraxx, they issued their first effort, City Morgue, Vol 1: Hell or High Water (Republic/Universal), in October 2018. The set also featured the single “33rd Blakk Glass.”", image: "https://townsquare.media/site/812/files/2020/04/city-morgue.jpg?w=980&q=75")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "CJ SORDIDE", bio: "CJ Sordide is a French emcee from the dirty corners of Paris (75018).
+
+Passionate about music, he immersed himself in writing in 1999 and wrote his first rhymes by contributing to various projects (mixtapes, compilations, etc.).
+
+In 2004, by dint of working on his writing, CJ let his dark side reveal itself, a part of himself hidden behind a clown mask. The decor is set, enter the world of CJ Sordide, between whores, drugs, vice and all the rottenness of this world.
+
+Take a seat under the marquee, order your tickets and settle into the Sordide Circus.
+
+Let the show begin… Gniak", image: "https://i.scdn.co/image/ab6761610000e5eb7edf312d579a23ef41b3f3db")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
