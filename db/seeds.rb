@@ -641,7 +641,7 @@ Dark, tough, aggressive, melancholic, nostalgic, theatrical - all words that app
 Artist.create!(name: "Dash-10", bio: "Originally known as Juz-10, Dash-10 was part of multiple groups including SyckSyde, Monsta Squad, Panty Raiderz, A-Town Boyz, and the Deadphellaz. He released these group projects, as well as multiple solo albums, under 3rd Shift Entertainment, Murder Melody Entertainment, and Deathly Ill Entertainment.
 
 Dash-10 sadly passed away in 2015.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dash-10.jpeg?w=1000&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Daymarez", bio: "Daymarez is a group from Santa Maria, CA, consisting of emcees Cinikill and C.R.H. The duo have released two albums showcasing their unique mixture of boom bap and gore rap.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/daymarez.jpg?w=376&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
