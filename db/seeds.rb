@@ -662,7 +662,15 @@ Artist.create!(name: "Dead Phairy", bio: "Dead Phairy, real name Angel Caceres, 
 Dead Phairy later created his alter ego known as The Reaper, which is a dark, twisted, wicked individual with a very dark imagination. His music is extremely raw, aggressive, and could even trigger or offend others at times.
   
 Dead Phairy is heavily inspired and influenced by artists like Eminem, Nas, Wu-Tang Clan, Fat Joe, Big Punisher, Mobb Deep, Jay-Z, Big L, Rakim, and so many more. He has had the honor of working with some huge artists like The Game, Yukmouth, Chris Rivers, and so many more", image: "https://i.scdn.co/image/ab67616d00001e021c4462c20b360c45035458f7")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dead Poets", bio: "Dead Poets is an American hip hop duo from New Jersey, consisting of rapper/producer “Tab” and rapper “Renagade”. They perform both as the group, Dead Poets, and independently in an array of venues.
+
+Based from Roselle, NJ, they have built an impressive following within the Tri-State area and are expanding rapidly across the country. They were originally known as “Dead Poet Society”, but later changed the group’s name to “Dead Poets”. The group's style consists true to the hip-hop foundation of lyrical skills with themes across the board, from love and hate to the urban party scene.
+  
+With a large portion of the production done by “Tab”, the self-taught musician (guitars, live drums, programming) uses a mixture of samples and live instruments to create boom-bap heavy melodic tunes, infusing anything from old school rap to rock to reggae. Their infused melodies are complimented well with sung hooks by both. The group consists mainly of the 2 rappers, but expands by 4 additional members to a hip-hop/rock live band (Empyre Village) for shows. They are often compared to a mix between “Wu Tang Clan” meets “Sublime”.
+  
+Dead Poets have independently released three mix-tape/albums: “The Kenny Chang Tapes” in 2008, “To The Grave” in 2009, and “The Empty Bottle Project” in 2010 all available for free download at http://www.empyrevillage.com now. The group has collaborated with artists such as “Mr Doitall” (Lords Of The Underground), Pacewon (Outsidaz), and many others.
+  
+They have become very well known for their intense and party-like stage presence. The duo have shared the stage with acts “Wu Tang Clan”, “Red Cafe”, “Masta Ace”, “Sadat X” (Brand Nubian), “Immortal Technique”, “Jedi Mind Tricks”, “Outsidaz”, “Artifacts”, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/dead-poets.jpg?w=305&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
