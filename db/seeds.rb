@@ -681,7 +681,7 @@ Artist.create!(name: "Death4Told", bio: "Death4Told is a hardcore rap group base
 Artist.create!(name: "Defekt", bio: "Defekt is an emcee from Detroit, MI. He earned his stage name from a birth defect in his throat that left him with an unusually raspy, unique voice, perfectly fitting for the Wicked Shit!
 
 He currently runs a radio show called Wicked 101.", image: "https://i1.sndcdn.com/avatars-000043089774-t3dw8r-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Definition of In·san·i·ty", bio: "The Definition of In·san·i·ty is a group consisting of veteran underground emcees Staplez and Defekt.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/definition-of-insanity.jpg?w=540&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
