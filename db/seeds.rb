@@ -740,7 +740,7 @@ Aside from music, DJ Paul has been involved in a variety of business ventures, i
 Artist.create!(name: "Dmize", bio: "Long time New Mexico staple to not only horrorcore, but rap in general, Dmize has been one of the most consistent artists from the state, even with a six year no album dropping hiatus.
 
 Dmize eats, breathes, and sleeps for his state.", image: "https://i.ytimg.com/vi/4Tdrz8wqaos/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Doctor Fucking Insane", bio: "Trevor Snail better known as Doctor Fucking Insane is a Canadian horrorcore fapper. He is probably the first ever horrorcore rapper from Southampton Island, Keewatin, Unorganized NU.", image: "https://i.discogs.com/tVe34RMP-rPTblfm2g_FZfjfPGTxIO89dlvo55SZOrE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjk1/ODEtMTU5NTE4MjYw/My04NzMzLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
