@@ -629,7 +629,11 @@ Their music covers comedy, horror, occult, supernatural, extraterrestrial, taboo
 List of past artists/group affiliations: Nic & Nuxx (Nic-A-Demus, Nuckles), Keepaz of the Krypt ( One Man Kru, Kapital Z), KREE (Chris Craze), Lil Folk, 6roke 6oy SiX, Three G, and many more area artists.
 
 “It represents a town of sin (Dark Hills), the gang that watches over it, and the river that flows in and around the town collecting the evil secrets and lies of all mankind (Bloody River)… just some deep shyt … deep enough to consume the hatred of all mankind ?”", image: "https://i.scdn.co/image/ab67616d0000b2732f31619b6ea0253624183433")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Dark Lyricist", bio: "The Dark Lyricist, a.k.a. Tengu, a.k.a. The Dead Poet, is an independent entertainer, music producer, hip-hop artist, free speech and natural rights advocate, and owner of Netherworld Records.
+
+With highly original sound and creative concepts, The Dark Lyricist pushes the boundaries of what the “hip-hop norm” is. Not limited to a particular genre, he freely creates and experiments, often blending elements of multiple genres of music to create something new and unheard, accompanied by highly imaginative, intelligent, and dynamic vocals and lyrical imagery; to bring the listener into his world.
+  
+Political Hip-hop, Horrorcore, Acid Rap, Conscious Hip-Hop, NuMetal, Underground Hip-Hop and whatever other type of music he wishes to make, Independent and Underground he stands, having worked with and/or performed with a vast number of artists and entertainers. He is a MC, audio and video producer, political commentator, musician, artist, entertainer, businessman, poet, author, and more. He is The Dark Lyricist. He is TENGU.", image: "https://i.scdn.co/image/ab6761610000e5eb07a6ec20fa5994529699530c")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
