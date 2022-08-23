@@ -648,7 +648,7 @@ The Dayton Family is known for their gritty lyrics concerning ghetto survival, s
 Artist.create!(name: "Da Headbussaz", bio: "Da Headbussaz is a trio consisting of DJ Paul, Juicy J, and Fiend. In 2002, the trio released Dat's How It Happen to'M, which featured various other Hypnotize Minds artists including Crunchy Black, Project Pat, Frayser Boy, and more.
 
 Their only album released, Dat's How It Happen to'M peaked at #1 on the US Billboard Independent Albums chart.", image: "https://i.scdn.co/image/ab67616d0000b27317297767e97b7d994d07d6a3")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Da Mafia 6ix", bio: "Da Mafia 6ix was the reincarnation of Three 6 Mafia group, which included five out of the six original members. The group decided not to release new material under the “Three 6 Mafia” name due to the absence of Juicy J from the group, which led to choosing “Da Mafia 6ix” as a new name for the group instead.", image: "https://d33byq9npfy6u9.cloudfront.net/4/da-6ix-commandments/u/original/3620298/music_damafiasix-w-mag.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
