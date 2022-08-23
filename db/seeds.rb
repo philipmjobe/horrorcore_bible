@@ -642,7 +642,9 @@ Artist.create!(name: "Dash-10", bio: "Originally known as Juz-10, Dash-10 was pa
 
 Dash-10 sadly passed away in 2015.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dash-10.jpeg?w=1000&ssl=1")
 Artist.create!(name: "Daymarez", bio: "Daymarez is a group from Santa Maria, CA, consisting of emcees Cinikill and C.R.H. The duo have released two albums showcasing their unique mixture of boom bap and gore rap.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/daymarez.jpg?w=376&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Dayton Family", bio: "The Dayton Family is an American hip hop group from Flint, Michigan. The group is composed of Ira “Bootleg” Dorsey, Raheen “Shoestring” Peterson and Matt “Backstabba” Hinkle. The name Dayton Family derives from Dayton Street, one of the most crime-ridden streets in their hometown.
+
+The Dayton Family is known for their gritty lyrics concerning ghetto survival, struggle and poverty. AllMusic reviewer Jason Birchmeier describes The Dayton Family's musical style as “potent hardcore rap”. He says that the group has “an idiosyncratic identity” and “a dark, grim mentality focused on modest survival rather than riches or fame”. The group lists Run-DMC, Michael Jackson, LL Cool J, N.W.A, Geto Boys, Tupac Shakur, Notorious B.I.G., X-Clan, Spice 1, Esham, Natas and Public Enemy as influences.", image: "https://i.scdn.co/image/9b7d9c0b2cbafacb2c1244aa9900ac20eac959ea")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
