@@ -562,7 +562,34 @@ Artist.create!(name: "Dalima", bio: "Dalima is a chopper from Kansas City, Misso
 Artist.create!(name: "Damien Quinn", bio: "Damien Quinn is an emcee from Wisconsin. He digs horror movies and horror-themed comic books.
 
 Damien Quinn is one half and one third of horrorcore groups Dark Half and Cult Activity, respectively.", image: "https://i.discogs.com/QC2b2UN9joBgE5rse5A1fUK6pbwKps5_ZkHayCfJEwE/rs:fit/g:sm/q:90/h:499/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2OTM5/NzAtMTU2NDI1NzM1/NC03MTIwLnBuZw.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DamneDNatioN", bio: "DamneDNatioN has been writing, preparing and recording since 1999. The group was first established as Concussion and soon changed their name to a more fitting DamneDNatioN.
+
+In 2005, they performed their first big show with King Gordy, Psycho Jesus, and other local artists.
+  
+In between shows, they have been recording, making music videos, etc.
+  
+In 2006 and 2007, DamneDNatioN started working on solo material during the recording of new music together. Some of which has been performed at various events.
+  
+DamneDNatioN took some time in 2007 [and beyond] to work at haunted houses in Indianapolis, making new connections each year.
+  
+Upon releasing new music in 2008, they still continued to perform at a large ammounts of shows.
+  
+In 2009, the quality of DamneDNatioN's music began to improve, shifting from what they would describe as “decent” to crystal clear. In 2010, the plan of getting an LLC was in place with the desire to start their own label. This finally happened in 2011, leading to also signing additional artists to the roster. In 2013, music videos for DamneDNatioN's “Wasps in my Brain” and Highly Xplicit's “Church Burners” featuring Mr. Lokust and DamneDNatioN were filmed. That same year, DBR, the label, was laid to rest.
+  
+The year 2013 was still filled with good shows and good music, but a new home was needed for the two emcees. They (and some fellow artists) decided that it was way overdue for DamneDNatioN to join forces with Shadow Walkaz Ent., so they did so in late 2014.
+  
+DamneDNatioN have always been heavily influenced by a wide variety of music and have pushed themselves through the years to always sound unlike any other artist. Their delivery them has always been unique and unmatched to anything else in the state; They don't sound like every other hip hopper in the city.
+  
+With horror concepts laced over dark club beats or sinister sounds, they have raised the bar for themselves consistently for years.
+  
+Upon working with Shadow Walkaz Ent. (Highly Xplicit, The Lyrical Freakshow and Mr. Lokust) DamneDNatioN has progressed and upped their game, proving once again that they can butcher with the best of them.
+  
+In 2015, Shadow Walkaz showed signs of dissipating, so measures were taken and 3rd Shift Entertainment wanted to do a joint venture with SWE and other labels. The joint venture didn't work out in the long run, but DN's LP, “Illuminated,” was successfully released on SWE and 3SE.
+  
+In 2016, the group signed with DurtiMyndz Ent. and Released “Satan's Hymen,” along with a video for “Lake of Fire,” among other things. They have been consistently creating and releasing ever since.
+  
+DamneDNatioN has done shows with countless artists including:
+Potluck, Glasses Malone, J Hornay, Lil Wyte, Scum, Smallz One, Mastamind, Insane Clown Posse, Twiztid, Dark Half, Leaders of the Lost, Mars, Polk Frost, Kutt Kalhoun, !Mayday!, Damien Quinn, King Gordy, Esham, Blaze ya Dead Homie, ABK, The R.O.C, A.X.E, DJ Clay, Boondox, Lo Key, Prozak, Zug Izland, Twisted Insane, Bloodshot, KGP, Con-Crete, Stitch Mouth, Psycho Jesus, Mistah Fab, Young Wicked, Bukshot, Ouija Macc, and The Dirtball.", image: "https://i.discogs.com/iPWgt-uyjF22lvOaxO9tPzqGqv30LYCODAT2h5fHXpM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5MzA1/ODktMTUzMDU5MzE5/OC00NzU4LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
