@@ -705,7 +705,7 @@ Artist.create!(name: "Dick und Doof", bio: "Dick und Doof, aka D&D, are a rap gr
 Artist.create!(name: "Dieabetik", bio: "Dieabetik, also known as Irish Red, is an emcee from WV.
 
 He is a former member of Homicydal Maniaxe and a part of the label Wicked Sindicate", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/dieabetik.jpg?w=264&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dieabolik The Monster", bio: "Dieabolik the Monster is an emcee from Portsmouth, OH. He has been a part of Lyrikal Snuff Productionz and is currently signed to Shrunken Head Entertainment.", image: "https://i1.sndcdn.com/avatars-4gDTZZ8M0e5ICKWF-HO1TyA-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
