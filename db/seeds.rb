@@ -645,7 +645,9 @@ Artist.create!(name: "Daymarez", bio: "Daymarez is a group from Santa Maria, CA,
 Artist.create!(name: "The Dayton Family", bio: "The Dayton Family is an American hip hop group from Flint, Michigan. The group is composed of Ira “Bootleg” Dorsey, Raheen “Shoestring” Peterson and Matt “Backstabba” Hinkle. The name Dayton Family derives from Dayton Street, one of the most crime-ridden streets in their hometown.
 
 The Dayton Family is known for their gritty lyrics concerning ghetto survival, struggle and poverty. AllMusic reviewer Jason Birchmeier describes The Dayton Family's musical style as “potent hardcore rap”. He says that the group has “an idiosyncratic identity” and “a dark, grim mentality focused on modest survival rather than riches or fame”. The group lists Run-DMC, Michael Jackson, LL Cool J, N.W.A, Geto Boys, Tupac Shakur, Notorious B.I.G., X-Clan, Spice 1, Esham, Natas and Public Enemy as influences.", image: "https://i.scdn.co/image/9b7d9c0b2cbafacb2c1244aa9900ac20eac959ea")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Da Headbussaz", bio: "Da Headbussaz is a trio consisting of DJ Paul, Juicy J, and Fiend. In 2002, the trio released Dat's How It Happen to'M, which featured various other Hypnotize Minds artists including Crunchy Black, Project Pat, Frayser Boy, and more.
+
+Their only album released, Dat's How It Happen to'M peaked at #1 on the US Billboard Independent Albums chart.", image: "https://i.scdn.co/image/ab67616d0000b27317297767e97b7d994d07d6a3")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
