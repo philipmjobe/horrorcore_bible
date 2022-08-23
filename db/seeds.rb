@@ -685,7 +685,7 @@ Artist.create!(name: "The Definition of In·san·i·ty", bio: "The Definition of
 Artist.create!(name: "DegolatoR", bio: "DegolatoR is a horrorcore emcee from Osasco, Brazil.", image: "https://i1.sndcdn.com/avatars-000038904329-gvzv7x-t500x500.jpg")
 Artist.create!(name: "Demintid", bio: "Hailing from Southern Indiana, Demintid is a group consisting of emcees Maniak and Havoq.", image: "https://i.scdn.co/image/ab6761610000e5eb220b464a238fe15ae85841fc")
 Artist.create!(name: "Demonic", bio: "Demonic is a horrorcore emcee from Michigan. He is an original founding member of Troubled Mindz and a longtime member of the KYP and MHR rosters.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/demonic.jpg?w=384&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dem6n6l6gy 187", bio: "Dem6n6l6gy 187 is an emcee, producer, and engineer from Southern California. He is also known as Dr. Darkness and Robby Wadd.", image: "https://i1.sndcdn.com/avatars-90OcVVSspBEpUaRD-6Qy5nQ-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
