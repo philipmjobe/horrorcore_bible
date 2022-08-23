@@ -741,7 +741,9 @@ Artist.create!(name: "Dmize", bio: "Long time New Mexico staple to not only horr
 
 Dmize eats, breathes, and sleeps for his state.", image: "https://i.ytimg.com/vi/4Tdrz8wqaos/maxresdefault.jpg")
 Artist.create!(name: "Doctor Fucking Insane", bio: "Trevor Snail better known as Doctor Fucking Insane is a Canadian horrorcore fapper. He is probably the first ever horrorcore rapper from Southampton Island, Keewatin, Unorganized NU.", image: "https://i.discogs.com/tVe34RMP-rPTblfm2g_FZfjfPGTxIO89dlvo55SZOrE/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjk1/ODEtMTU5NTE4MjYw/My04NzMzLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Doc Gruesome", bio: "Doc Gruesome, formerly known as Freek Show, is an emcee, producer, and graphic artist from Reno, NV.
+
+He was one half of the duo Karniez From the Krypt with his brother and fellow emcee, Ephekt, and is part of the group Illtrix.", image: "https://i.scdn.co/image/ab6761610000e5eb92588420dc2d612dc6ac1b59")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
