@@ -593,7 +593,9 @@ Potluck, Glasses Malone, J Hornay, Lil Wyte, Scum, Smallz One, Mastamind, Insane
 Artist.create!(name: "The Damn Dirty Apes", bio: "The Damn Dirty Apes were a hip-hop group from San Jose, California.
 
 The group signed to Twiztid's Majik Ninja Entertainment in 2017, under the new name Gorilla Voltage.", image: "https://i.scdn.co/image/ab6761610000e5eb273d93f7e12176cfe378e399")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Daniel Dahmer", bio: "Daniel Dahmer honed his craft and created a style that demands a reaction; whether you love it or hate it… Dahmer “kick(s) it retro-style, with an extreme twist of dark rhymes, vulgar humor and swag overload.”
+
+In July 2012, Dahmer released his debut album, “Snapbacks and Fannypacks,” which quickly went viral and got lots of critics stirred up due to controversial content and was considered a instant classic by many fans.", image: "https://i.ytimg.com/vi/gf0_J-ag88E/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
