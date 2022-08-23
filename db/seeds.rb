@@ -744,7 +744,9 @@ Artist.create!(name: "Doctor Fucking Insane", bio: "Trevor Snail better known as
 Artist.create!(name: "Doc Gruesome", bio: "Doc Gruesome, formerly known as Freek Show, is an emcee, producer, and graphic artist from Reno, NV.
 
 He was one half of the duo Karniez From the Krypt with his brother and fellow emcee, Ephekt, and is part of the group Illtrix.", image: "https://i.scdn.co/image/ab6761610000e5eb92588420dc2d612dc6ac1b59")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dokta Butcha", bio: "Dokta Butcha is a long time 3SE associate. He has rapped since the early 2000s, but only started releasing material and preforming after joining Empire of Dirt.
+
+He was later added to the revamped Sycksyde line up. He has released a solo ep and 2 demo albums with EoD. He is currently working on the new EoD album as well as Sycksyde and his next solo album. All expected by Q1 of 2021.", image: "https://i.iheart.com/v3/url/aHR0cCUzQSUyRiUyRmltYWdlLmloZWFydC5jb20lMkZpaHItaW5nZXN0aW9uLXBpcGVsaW5lLXByb2R1Y3Rpb24tZGlzdHJva2lkJTJGMjAyMTEyMjEwNjEwMTM4MDclMkYxOTY2MjMwODkxNDclMkZyZXNvdXJjZXMlMkYxOTY2MjMwODkxNDcuanBn?ops=fit(480%2C480)")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
