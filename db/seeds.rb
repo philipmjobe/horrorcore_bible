@@ -737,7 +737,9 @@ Artist.create!(name: "DJ Paul", bio: "Paul Duane Beauregard, (born January 12, 1
 DJ Paul started his career in the late 1980s as a DJ and released a number of solo tapes, as well as three collaboration albums with Lord Infamous as The Serial Killaz. Juicy J was introduced and the three founded the group Three 6 Mafia, going on to achieve national success in the late 1990s and early 2000s. Their 2000 album, When the Smoke Clears: Sixty 6, Sixty 1, debuted at number six on the Billboard 200 chart and was certified platinum. Later followed by Da Unbreakables in 2003 and Most Known Unknown in 2005, both of which were commercially successful. In 2006, DJ Paul, Juicy J, Crunchy Black, and Frayser Boy won an Academy Award for Best Original Song for “It's Hard out Here for a Pimp” from the film Hustle & Flow. Paul has also released three solo albums, and created soundtracks to two movies. He and the rest of Three 6 Mafia are known as the originators of the crunk style of music.
 
 Aside from music, DJ Paul has been involved in a variety of business ventures, including film production and real estate. He founded his own record label Scale-A-Ton Entertainment, co-owns the fashion wear line Dangerus/Skandulus, has a collection of BBQ seasonings and is the spokesman for a legal version of the drink Sizzurp. In 2018, he co-produced the track “Talk Up” featuring JAY-Z off Drake's 5th studio album, Scorpion.", image: "https://m.media-amazon.com/images/M/MV5BMTU1NDM2NDQwNF5BMl5BanBnXkFtZTgwMTkyOTM1NTE@._V1_UY1200_CR128,0,630,1200_AL_.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dmize", bio: "Long time New Mexico staple to not only horrorcore, but rap in general, Dmize has been one of the most consistent artists from the state, even with a six year no album dropping hiatus.
+
+Dmize eats, breathes, and sleeps for his state.", image: "https://i.ytimg.com/vi/4Tdrz8wqaos/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
