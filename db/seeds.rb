@@ -677,7 +677,7 @@ The trio released their debut album in 2016 on ZNK Productions, where Evil Dope 
   
 Dead Team have claimed to be possessed by the most brutal and insidious Demons, which influences the type of music they create.", image:)
 Artist.create!(name: "Dead White Males", bio: "The Dead White Males are an underground rap group from the 413, Pittsfield, MA consisting of Frank Gore, Ra Boy, and Dislocated.", image: "https://f4.bcbits.com/img/0012276342_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Death4Told", bio: "Death4Told is a hardcore rap group based out of Denver, CO on Lyrikal Snuff Productionz (LSP).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/death4told.jpg?w=341&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
