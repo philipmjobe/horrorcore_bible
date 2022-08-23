@@ -701,7 +701,7 @@ Dice began his career in 1992, signing with World One Records, who released his 
 Dice left Reel Life in 1996 and formed Fallen Angelz Entertainment with Russell Culvin eventually releasing his next album “Black Monday” in 2000. After recording another album, “Red Rain,” with Fallen Angelz, Dice left and formed his own label in 2003 called Big Head Records where he released “Neighborhood Watch” and “Drug Abuse.”
 
 As of 2013, Dice renamed the company Self Medicated records and released his latest album “MorFein.”", image: "https://media1.metrotimes.com/metrotimes/imager/dice-roll/u/slideshow/2226089/music_dicejpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dick und Doof", bio: "Dick und Doof, aka D&D, are a rap group from Germany consisting of emcees G-Ko (aka Dick aka Hardy) and MaXXi.P (aka Doof aka Laurel).", image: "https://i.ytimg.com/vi/-hhg2LGHvxc/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
