@@ -612,7 +612,9 @@ You can find all of his music on most platforms including YouTube, Soundcloud, S
 Darby is currently one half of Population Control with his frequent producer and collaborator, Cutthroat the Coroner, and one third of the collective Stoop Cult with Tommy Gunz the Dark One and artist Nikoteen.
   
 As of 2020, Darby O'Trill is affiliated with Nephilim Gang and has had two albums released through Mental Warp Records.", image: "https://yt3.ggpht.com/xJ6ufpIrEflkoA1ve5K6XoRK2EYyJ4ckAylNtY2m7nKD6mnehoFEeaD3kjXf_IOW9RCcgtQqxw=s900-c-k-c0x00ffffff-no-rj")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DarkNess", bio: "DarkNess is an emcee from Edmonton, Alberta. He is a unique artist that combines dark lyrical poetry with boom bap flavored hip hop. With hard hitting aggressive punchlines, the rapper paints a unique portrait with his unorthodox flow and cadence.
+
+DarkNess has released a multitude of projects, which have included features from Griselda, Mic Ripper, Benny The Butcher, and Queens producer, Adwerdz.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/06/darkness.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
