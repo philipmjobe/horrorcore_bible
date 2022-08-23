@@ -686,7 +686,7 @@ Artist.create!(name: "DegolatoR", bio: "DegolatoR is a horrorcore emcee from Osa
 Artist.create!(name: "Demintid", bio: "Hailing from Southern Indiana, Demintid is a group consisting of emcees Maniak and Havoq.", image: "https://i.scdn.co/image/ab6761610000e5eb220b464a238fe15ae85841fc")
 Artist.create!(name: "Demonic", bio: "Demonic is a horrorcore emcee from Michigan. He is an original founding member of Troubled Mindz and a longtime member of the KYP and MHR rosters.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/demonic.jpg?w=384&ssl=1")
 Artist.create!(name: "Dem6n6l6gy 187", bio: "Dem6n6l6gy 187 is an emcee, producer, and engineer from Southern California. He is also known as Dr. Darkness and Robby Wadd.", image: "https://i1.sndcdn.com/avatars-90OcVVSspBEpUaRD-6Qy5nQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DeSade", bio: "DeSade is a Czech horrorcore rapper who, alongside Reznik, formed the group Sodoma Gomora in the early 2000s. As a group, the duo has released five projects, while DeSade has dropped numerous solo titles under multiple aliases.", image: "https://sun9-35.userapi.com/impf/c840623/v840623545/2fc01/MkaeCgL_mcw.jpg?size=604x604&quality=96&sign=610b45bbbe1b593ca97ee8109721142a&type=album")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
