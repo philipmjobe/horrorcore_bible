@@ -753,7 +753,7 @@ He is part of a Nitebreed collective and a member of the Lyrikal Snuff Productio
 Artist.create!(name: "DON OЯIAS", bio: "DON OЯIAS has been actively making music for around 16 years, however only since 2013 has the “DON OЯIAS” name been seen. His origins are unknown prior to his first release, “Road To Hell”, with SlaughterCore ENT (A label that was once home to KGP, Bloodshot, IllNickell, The Dissenter, Myles Malice, Con-Crete and MORE!)
 
 He has recently teamed up with Shrunken Head Entertainment with a mission to demonstrate his depth and skill, dropping projects with touches of multiple genres.", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/don-orias-1.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Doom & Gloom", bio: "Doom & Gloom is a rap group comprised of rappers dirty Z and Shayne Pop'N Wolf. This project was birthed in 2018 with the duo releasing a mixtape entitled Death Squad God Mode.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/dirty-z.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
