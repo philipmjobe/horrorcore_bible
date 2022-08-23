@@ -676,7 +676,7 @@ Artist.create!(name: "Dead Team", bio: "Formed in 2015, Dead Team is a Czech hor
 The trio released their debut album in 2016 on ZNK Productions, where Evil Dope has also released a number of others projects, both solo and as part of Terror Crew.
   
 Dead Team have claimed to be possessed by the most brutal and insidious Demons, which influences the type of music they create.", image:)
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dead White Males", bio: "The Dead White Males are an underground rap group from the 413, Pittsfield, MA consisting of Frank Gore, Ra Boy, and Dislocated.", image: "https://f4.bcbits.com/img/0012276342_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
