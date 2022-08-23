@@ -596,7 +596,9 @@ The group signed to Twiztid's Majik Ninja Entertainment in 2017, under the new n
 Artist.create!(name: "Daniel Dahmer", bio: "Daniel Dahmer honed his craft and created a style that demands a reaction; whether you love it or hate it… Dahmer “kick(s) it retro-style, with an extreme twist of dark rhymes, vulgar humor and swag overload.”
 
 In July 2012, Dahmer released his debut album, “Snapbacks and Fannypacks,” which quickly went viral and got lots of critics stirred up due to controversial content and was considered a instant classic by many fans.", image: "https://i.ytimg.com/vi/gf0_J-ag88E/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Daniel Jordan", bio: "Daniel Jordan is an American rapper from the San Francisco Bay Area.
+
+He has released albums under Esham's Reel Life Productions imprint and also owns the independent hip hop label Kill All Idols Records, based out of San Francisco, CA", image: "https://i.ytimg.com/vi/bhQImlkCvNo/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
