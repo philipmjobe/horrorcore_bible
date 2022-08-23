@@ -634,7 +634,7 @@ Artist.create!(name: "The Dark Lyricist", bio: "The Dark Lyricist, a.k.a. Tengu,
 With highly original sound and creative concepts, The Dark Lyricist pushes the boundaries of what the “hip-hop norm” is. Not limited to a particular genre, he freely creates and experiments, often blending elements of multiple genres of music to create something new and unheard, accompanied by highly imaginative, intelligent, and dynamic vocals and lyrical imagery; to bring the listener into his world.
   
 Political Hip-hop, Horrorcore, Acid Rap, Conscious Hip-Hop, NuMetal, Underground Hip-Hop and whatever other type of music he wishes to make, Independent and Underground he stands, having worked with and/or performed with a vast number of artists and entertainers. He is a MC, audio and video producer, political commentator, musician, artist, entertainer, businessman, poet, author, and more. He is The Dark Lyricist. He is TENGU.", image: "https://i.scdn.co/image/ab6761610000e5eb07a6ec20fa5994529699530c")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dark Preacha", bio: "Former and original owner of Wicked Intent Records, Dark Preacha has released two solo albums and two collaborative albums with Bloodshot.", image: "https://i.ytimg.com/vi/I9zDsvIEpUI/hqdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
