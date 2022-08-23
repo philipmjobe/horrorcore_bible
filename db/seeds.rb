@@ -590,7 +590,9 @@ In 2016, the group signed with DurtiMyndz Ent. and Released “Satan's Hymen,”
   
 DamneDNatioN has done shows with countless artists including:
 Potluck, Glasses Malone, J Hornay, Lil Wyte, Scum, Smallz One, Mastamind, Insane Clown Posse, Twiztid, Dark Half, Leaders of the Lost, Mars, Polk Frost, Kutt Kalhoun, !Mayday!, Damien Quinn, King Gordy, Esham, Blaze ya Dead Homie, ABK, The R.O.C, A.X.E, DJ Clay, Boondox, Lo Key, Prozak, Zug Izland, Twisted Insane, Bloodshot, KGP, Con-Crete, Stitch Mouth, Psycho Jesus, Mistah Fab, Young Wicked, Bukshot, Ouija Macc, and The Dirtball.", image: "https://i.discogs.com/iPWgt-uyjF22lvOaxO9tPzqGqv30LYCODAT2h5fHXpM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5MzA1/ODktMTUzMDU5MzE5/OC00NzU4LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Damn Dirty Apes", bio: "The Damn Dirty Apes were a hip-hop group from San Jose, California.
+
+The group signed to Twiztid's Majik Ninja Entertainment in 2017, under the new name Gorilla Voltage.", image: "https://i.scdn.co/image/ab6761610000e5eb273d93f7e12176cfe378e399")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
