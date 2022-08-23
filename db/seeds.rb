@@ -559,7 +559,9 @@ C-Bo, notoriously known for his relationship with law enforcement, was one of th
 Artist.create!(name: "C-Kane", bio: "C-Kane, born Cleo Cooper, was an emcee from Detroit, MI. He was an original member of the group Two Sins and the Murderous Family.", image: "https://angartwork.akamaized.net/?id=9030644&size=640")
 Artist.create!(name: "C-Mob", bio: "Christopher Doehla (Born July 31, 1982), better known as C-Mob is an American rapper from Marion, Indiana. Jumping on the independent scene in 2005 with his first album, In the Midst of Madness, the underground legend has released 8 albums and worked with artists like Krizz Kaliko, Twisted Insane, Lil Witness, T Rock, and Brotha Lynch Hung.", image: "https://images.genius.com/d660222d2c9c1c717502cb6e062207f4.500x500x1.jpg")
 Artist.create!(name: "Dalima", bio: "Dalima is a chopper from Kansas City, Missouri. He has featured in Tech N9ne's Midwest Choppers track and has worked closely with Tech his whole career. He has also worked closely with D-Loc the Gill God, another Kansas City chopper. They used to be a duo together known as Da Hooligans. Dalima is not very active online so little is known about the future of his career or if he will still be releasing albums or not.", image: "https://www.gannett-cdn.com/authoring/2013/03/21/NTCJ/ghows-KS-e9d671d8-fffb-4c92-a4a2-e0800d35ab8a-3e60beeb.jpeg?width=660&height=927&fit=crop&format=pjpg&auto=webp")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Damien Quinn", bio: "Damien Quinn is an emcee from Wisconsin. He digs horror movies and horror-themed comic books.
+
+Damien Quinn is one half and one third of horrorcore groups Dark Half and Cult Activity, respectively.", image: "https://i.discogs.com/QC2b2UN9joBgE5rse5A1fUK6pbwKps5_ZkHayCfJEwE/rs:fit/g:sm/q:90/h:499/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2OTM5/NzAtMTU2NDI1NzM1/NC03MTIwLnBuZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
