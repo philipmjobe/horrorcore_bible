@@ -683,7 +683,7 @@ Artist.create!(name: "Defekt", bio: "Defekt is an emcee from Detroit, MI. He ear
 He currently runs a radio show called Wicked 101.", image: "https://i1.sndcdn.com/avatars-000043089774-t3dw8r-t240x240.jpg")
 Artist.create!(name: "The Definition of In·san·i·ty", bio: "The Definition of In·san·i·ty is a group consisting of veteran underground emcees Staplez and Defekt.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/definition-of-insanity.jpg?w=540&ssl=1")
 Artist.create!(name: "DegolatoR", bio: "DegolatoR is a horrorcore emcee from Osasco, Brazil.", image: "https://i1.sndcdn.com/avatars-000038904329-gvzv7x-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Demintid", bio: "Hailing from Southern Indiana, Demintid is a group consisting of emcees Maniak and Havoq.", image: "https://i.scdn.co/image/ab6761610000e5eb220b464a238fe15ae85841fc")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
