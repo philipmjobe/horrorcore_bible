@@ -616,7 +616,19 @@ Artist.create!(name: "DarkNess", bio: "DarkNess is an emcee from Edmonton, Alber
 
 DarkNess has released a multitude of projects, which have included features from Griselda, Mic Ripper, Benny The Butcher, and Queens producer, Adwerdz.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/06/darkness.jpg?w=450&ssl=1")
 Artist.create!(name: "Dark Half", bio: "With their grotesque lyrics and Grunge Rock influence, Dark Half is an alternative approach to The Horrorcore Genre!!", image: "https://music.metason.net/image?fn=A-1468134.jpeg&sc=962")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dark Hills Gang", bio: "Dustin Carter (CRaZY tha CoBRA) brought on David Roberts (Joka33) as a producer and fellow band mate. Together as the “Dark Hills Gang,” they unleashed the albums “Blown Out Candle” (2003-04) and “The Broken Church” (2006) upon the horrorcore scene and were considered by many to be one of the most influential groups of the underground horror rap scene from 2004-2010. They are also credited for ex-band mate Lil Folk's album, “My Life Begins…”
+
+Dark Hills Gang made a re-debut in 2016 in Memphis, TN. They continue to work on several projects, mostly behind the scenes. They have kept everything gritty and raw like their beginnings but also work with various styles and genres.
+
+Their music covers comedy, horror, occult, supernatural, extraterrestrial, taboo and other similar themes.
+
+“CRaZY tha CoBRA” has worked on several collaborations within the horrorcore and Memphis underground rap scene.
+
+“Joka33” Has been doing solo projects and working with other artists under the new moniker “David DBrain”.
+
+List of past artists/group affiliations: Nic & Nuxx (Nic-A-Demus, Nuckles), Keepaz of the Krypt ( One Man Kru, Kapital Z), KREE (Chris Craze), Lil Folk, 6roke 6oy SiX, Three G, and many more area artists.
+
+“It represents a town of sin (Dark Hills), the gang that watches over it, and the river that flows in and around the town collecting the evil secrets and lies of all mankind (Bloody River)… just some deep shyt … deep enough to consume the hatred of all mankind ?”", image: "https://i.scdn.co/image/ab67616d0000b2732f31619b6ea0253624183433")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
