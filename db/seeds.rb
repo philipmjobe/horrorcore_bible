@@ -638,7 +638,9 @@ Artist.create!(name: "Dark Preacha", bio: "Former and original owner of Wicked I
 Artist.create!(name: "Dark Signz", bio: "Dark Signz is a hardcore hip hop group from Vienna and Lower Austria, which has been up to mischief in the underground since 2003.
 
 Dark, tough, aggressive, melancholic, nostalgic, theatrical - all words that apply to the Dark Signz. Their songs are about: violence, decadence, streets and dark everyday stories, atheism, psychology, love, sex and drugs. In Vienna, they have performed live as an opening act for people like 50 Cent and Culcha Cundela, and have worked with artists like Block Mccloud (A.O.T.P), Randam Luck (former Babygrande), Bloodline, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/dark-signz.jpg?w=720&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dash-10", bio: "Originally known as Juz-10, Dash-10 was part of multiple groups including SyckSyde, Monsta Squad, Panty Raiderz, A-Town Boyz, and the Deadphellaz. He released these group projects, as well as multiple solo albums, under 3rd Shift Entertainment, Murder Melody Entertainment, and Deathly Ill Entertainment.
+
+Dash-10 sadly passed away in 2015.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dash-10.jpeg?w=1000&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
