@@ -671,7 +671,11 @@ With a large portion of the production done by “Tab”, the self-taught musici
 Dead Poets have independently released three mix-tape/albums: “The Kenny Chang Tapes” in 2008, “To The Grave” in 2009, and “The Empty Bottle Project” in 2010 all available for free download at http://www.empyrevillage.com now. The group has collaborated with artists such as “Mr Doitall” (Lords Of The Underground), Pacewon (Outsidaz), and many others.
   
 They have become very well known for their intense and party-like stage presence. The duo have shared the stage with acts “Wu Tang Clan”, “Red Cafe”, “Masta Ace”, “Sadat X” (Brand Nubian), “Immortal Technique”, “Jedi Mind Tricks”, “Outsidaz”, “Artifacts”, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/dead-poets.jpg?w=305&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dead Team", bio: "Formed in 2015, Dead Team is a Czech horrorcore group comprised of Evil Dope, Mr. Nightmare, and DJ Ba2S.
+
+The trio released their debut album in 2016 on ZNK Productions, where Evil Dope has also released a number of others projects, both solo and as part of Terror Crew.
+  
+Dead Team have claimed to be possessed by the most brutal and insidious Demons, which influences the type of music they create.", image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
