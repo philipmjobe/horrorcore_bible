@@ -747,7 +747,9 @@ He was one half of the duo Karniez From the Krypt with his brother and fellow em
 Artist.create!(name: "Dokta Butcha", bio: "Dokta Butcha is a long time 3SE associate. He has rapped since the early 2000s, but only started releasing material and preforming after joining Empire of Dirt.
 
 He was later added to the revamped Sycksyde line up. He has released a solo ep and 2 demo albums with EoD. He is currently working on the new EoD album as well as Sycksyde and his next solo album. All expected by Q1 of 2021.", image: "https://i.iheart.com/v3/url/aHR0cCUzQSUyRiUyRmltYWdlLmloZWFydC5jb20lMkZpaHItaW5nZXN0aW9uLXBpcGVsaW5lLXByb2R1Y3Rpb24tZGlzdHJva2lkJTJGMjAyMTEyMjEwNjEwMTM4MDclMkYxOTY2MjMwODkxNDclMkZyZXNvdXJjZXMlMkYxOTY2MjMwODkxNDcuanBn?ops=fit(480%2C480)")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Donnie Menace", bio: "Donnie Menace is a rapper and engineer from Stratford, CT, who currently resides in Las Vegas, NV.
+
+He is part of a Nitebreed collective and a member of the Lyrikal Snuff Productionz roster", image: "https://i.discogs.com/WtoK51SORIgp6u_XMQwgiFXuaNIK8H7w6889_yexaWI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MjYz/MDQtMTYyNDAzMTA4/Ny0xMDcyLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
