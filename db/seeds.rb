@@ -702,7 +702,9 @@ Dice left Reel Life in 1996 and formed Fallen Angelz Entertainment with Russell 
 
 As of 2013, Dice renamed the company Self Medicated records and released his latest album “MorFein.”", image: "https://media1.metrotimes.com/metrotimes/imager/dice-roll/u/slideshow/2226089/music_dicejpg")
 Artist.create!(name: "Dick und Doof", bio: "Dick und Doof, aka D&D, are a rap group from Germany consisting of emcees G-Ko (aka Dick aka Hardy) and MaXXi.P (aka Doof aka Laurel).", image: "https://i.ytimg.com/vi/-hhg2LGHvxc/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dieabetik", bio: "Dieabetik, also known as Irish Red, is an emcee from WV.
+
+He is a former member of Homicydal Maniaxe and a part of the label Wicked Sindicate", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/dieabetik.jpg?w=264&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
