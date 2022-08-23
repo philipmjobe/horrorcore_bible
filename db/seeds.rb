@@ -694,7 +694,13 @@ Artist.create!(name: "The Devil'z Rejects", bio: "The Devil'z Rejects is compris
 Artist.create!(name: "Dezlooca The Cannibal", bio: "Dezlooca The Cannibal, born Daniel Hopwood, is pushing forward in the horrorcore scene… and FAST! With his storytelling, murderous style you will fear in the night knowing there is a cannibal out there some where waiting to eat you.
 
 One of the most versatile artists in the underground, Dez's music has been played on WFuckOff Radio, Psychopathic Radio, Juggalo Radio, and has been featured on over 50 different mixtapes. His music has been streamed over five million times internationally and he has worked with the likes of Brotha Lynch Hung, Kung Fu Vampire, Kid Crusher, Intrinzik, Jason Porter, Mars, Boondox, Gmo Skee, Bibster Beats, ABK, Mastamind, Scum, Dark Half, Twisted Insane, Axe Murder Boyz, Dirt Bag Dan, Mind Shotm Smallz One, Esham, Portluck, and DGAF. He has also performed at the Gathering of the Juggalos and LSP's GoreFest!", image: "https://d1v5r0wgdk0cf3.cloudfront.net/photos/6/8/0/680afa33b8c3.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dice", bio: "Dice (born Robert Boyd) is an American rapper from Detroit, Michigan.
+
+Dice began his career in 1992, signing with World One Records, who released his debut album, “The 40 Made Me Do It” through Rawdogg Records. After touring with Ultramagnetic MCs, Ice Cube and Da Lench Mob, Dice recorded several songs with Reel Life Productions. Although he did not sign a contract with the label, he made appearances on Natas' “Doubelievengod” and Mastamind's EP “Lickkuidrano.” Dice also released the album “The Neighborhoodshittalka” on Reel Life in 1996.
+
+Dice left Reel Life in 1996 and formed Fallen Angelz Entertainment with Russell Culvin eventually releasing his next album “Black Monday” in 2000. After recording another album, “Red Rain,” with Fallen Angelz, Dice left and formed his own label in 2003 called Big Head Records where he released “Neighborhood Watch” and “Drug Abuse.”
+
+As of 2013, Dice renamed the company Self Medicated records and released his latest album “MorFein.”", image: "https://media1.metrotimes.com/metrotimes/imager/dice-roll/u/slideshow/2226089/music_dicejpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
