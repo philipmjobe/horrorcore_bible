@@ -725,7 +725,13 @@ His first live performance was back in 2006. He and his friends set up a PA seve
 In August of 2015, he released his first EP, Poisonous Noise, with features from GrewSum, Insane Poetry, Trips, Labratz, Dr. EDrum, and Slyzwicked. From July 2014 to July 2015 he spent a year as co-president of World Wide Wicked Shit Incorporated and then in October 2015 he signed to the label, Ash of The Phoenix Productions. In November 2015, he signed with his manager Mary Warren of Xtreme Management LLC.
 
 In 2015, Dirty Crowley performed at Gorefest and opened for major artists such Twiztid, Blaze Ya Dead Homie, Boondox, Prozak, SCUM, Wolfpac, and Trilogy.", image: "https://i.scdn.co/image/ab67616d00001e0220a74daf9067124ba29f21d4")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DJ Fire", bio: "Antwan Edwards, known as The Infamous DJ Fire is an underground rap artist and producer. He is the founder and C.E.O. of Infamous 6 Records/Productions LLC.
+
+DJ Fire, born in 1987 in the greater South East (District of Columbia), is the producer of DC and Maryland's rap group, the Crime Mafia Clique.
+  
+DJ Fire first started to rap at the age of 12 during the year 1999 with only a tape recorder pad and pencil, writing down songs and even sometimes putting on shows for the public in the projects. At age 15, he produced numerous beats and at age 16, DJ Fire created Crime Mafia Clique.
+  
+DJ Fire plays an important role in the East's rise to prominence within the once South and West Coast dominated rap industry along with the created dialog that is strongly judged by the people often described as “Devil Shyt.”", image: "https://i.scdn.co/image/ab67616d00001e02fed4cf376ddda08650606649")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
