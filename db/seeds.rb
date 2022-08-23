@@ -750,7 +750,9 @@ He was later added to the revamped Sycksyde line up. He has released a solo ep a
 Artist.create!(name: "Donnie Menace", bio: "Donnie Menace is a rapper and engineer from Stratford, CT, who currently resides in Las Vegas, NV.
 
 He is part of a Nitebreed collective and a member of the Lyrikal Snuff Productionz roster", image: "https://i.discogs.com/WtoK51SORIgp6u_XMQwgiFXuaNIK8H7w6889_yexaWI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MjYz/MDQtMTYyNDAzMTA4/Ny0xMDcyLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DON OЯIAS", bio: "DON OЯIAS has been actively making music for around 16 years, however only since 2013 has the “DON OЯIAS” name been seen. His origins are unknown prior to his first release, “Road To Hell”, with SlaughterCore ENT (A label that was once home to KGP, Bloodshot, IllNickell, The Dissenter, Myles Malice, Con-Crete and MORE!)
+
+He has recently teamed up with Shrunken Head Entertainment with a mission to demonstrate his depth and skill, dropping projects with touches of multiple genres.", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/don-orias-1.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
