@@ -649,7 +649,7 @@ Artist.create!(name: "Da Headbussaz", bio: "Da Headbussaz is a trio consisting o
 
 Their only album released, Dat's How It Happen to'M peaked at #1 on the US Billboard Independent Albums chart.", image: "https://i.scdn.co/image/ab67616d0000b27317297767e97b7d994d07d6a3")
 Artist.create!(name: "Da Mafia 6ix", bio: "Da Mafia 6ix was the reincarnation of Three 6 Mafia group, which included five out of the six original members. The group decided not to release new material under the “Three 6 Mafia” name due to the absence of Juicy J from the group, which led to choosing “Da Mafia 6ix” as a new name for the group instead.", image: "https://d33byq9npfy6u9.cloudfront.net/4/da-6ix-commandments/u/original/3620298/music_damafiasix-w-mag.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dead Body Kingz", bio: "Dead Body Kingz is a Houston, TX based super group of two of Houston underground reality rappers Blak Sheep and Napi-Nate. There at one time was two additional artists in the super group, Nokturnil 1 and Thommy Nekro The Solomon, who both went on to pursue there solo careers in Houston underground.", image: "https://f4.bcbits.com/img/0010004634_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
