@@ -635,7 +635,9 @@ With highly original sound and creative concepts, The Dark Lyricist pushes the b
   
 Political Hip-hop, Horrorcore, Acid Rap, Conscious Hip-Hop, NuMetal, Underground Hip-Hop and whatever other type of music he wishes to make, Independent and Underground he stands, having worked with and/or performed with a vast number of artists and entertainers. He is a MC, audio and video producer, political commentator, musician, artist, entertainer, businessman, poet, author, and more. He is The Dark Lyricist. He is TENGU.", image: "https://i.scdn.co/image/ab6761610000e5eb07a6ec20fa5994529699530c")
 Artist.create!(name: "Dark Preacha", bio: "Former and original owner of Wicked Intent Records, Dark Preacha has released two solo albums and two collaborative albums with Bloodshot.", image: "https://i.ytimg.com/vi/I9zDsvIEpUI/hqdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dark Signz", bio: "Dark Signz is a hardcore hip hop group from Vienna and Lower Austria, which has been up to mischief in the underground since 2003.
+
+Dark, tough, aggressive, melancholic, nostalgic, theatrical - all words that apply to the Dark Signz. Their songs are about: violence, decadence, streets and dark everyday stories, atheism, psychology, love, sex and drugs. In Vienna, they have performed live as an opening act for people like 50 Cent and Culcha Cundela, and have worked with artists like Block Mccloud (A.O.T.P), Randam Luck (former Babygrande), Bloodline, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/dark-signz.jpg?w=720&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
