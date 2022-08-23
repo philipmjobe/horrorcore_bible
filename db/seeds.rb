@@ -615,7 +615,7 @@ As of 2020, Darby O'Trill is affiliated with Nephilim Gang and has had two album
 Artist.create!(name: "DarkNess", bio: "DarkNess is an emcee from Edmonton, Alberta. He is a unique artist that combines dark lyrical poetry with boom bap flavored hip hop. With hard hitting aggressive punchlines, the rapper paints a unique portrait with his unorthodox flow and cadence.
 
 DarkNess has released a multitude of projects, which have included features from Griselda, Mic Ripper, Benny The Butcher, and Queens producer, Adwerdz.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/06/darkness.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dark Half", bio: "With their grotesque lyrics and Grunge Rock influence, Dark Half is an alternative approach to The Horrorcore Genre!!", image: "https://music.metason.net/image?fn=A-1468134.jpeg&sc=962")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
