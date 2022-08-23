@@ -599,7 +599,19 @@ In July 2012, Dahmer released his debut album, “Snapbacks and Fannypacks,” w
 Artist.create!(name: "Daniel Jordan", bio: "Daniel Jordan is an American rapper from the San Francisco Bay Area.
 
 He has released albums under Esham's Reel Life Productions imprint and also owns the independent hip hop label Kill All Idols Records, based out of San Francisco, CA", image: "https://i.ytimg.com/vi/bhQImlkCvNo/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Darby O'Trill", bio: "Aka suffer
+
+Darby is an artist from South Florida, who has been creating and releasing music since 2010 under multiple different monikers and as part of several different groups and bands.
+  
+Known for his typically high energy and aggressive and often violent live performances, Darby's music ranges from a grimy blend of horrorcore and trap metal to Alternative and punk rock.
+  
+In the past four years, Darby has released six solo projects, over 40+ singles, and collaboration tracks including songs with Swag Toof, Warlord Colossus, Keagan Grimm, Cutthroat The Coroner, JkM aka Mr Kiltcha, Worm, Tommy Gunz The Dark One, Dev Dzaztrouz. He can be heard on production from Cutty, Devereaux, and Rozz Dyliams, as well as a collaborative tape with another underground artist.
+  
+You can find all of his music on most platforms including YouTube, Soundcloud, Spotify, Apple Music, Amazon, Deezer, Tidal, Instagram, and Twitter.
+  
+Darby is currently one half of Population Control with his frequent producer and collaborator, Cutthroat the Coroner, and one third of the collective Stoop Cult with Tommy Gunz the Dark One and artist Nikoteen.
+  
+As of 2020, Darby O'Trill is affiliated with Nephilim Gang and has had two albums released through Mental Warp Records.", image: "https://yt3.ggpht.com/xJ6ufpIrEflkoA1ve5K6XoRK2EYyJ4ckAylNtY2m7nKD6mnehoFEeaD3kjXf_IOW9RCcgtQqxw=s900-c-k-c0x00ffffff-no-rj")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
