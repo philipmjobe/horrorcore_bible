@@ -823,7 +823,7 @@ ESN released their debut group album in 2021 on Majik Ninja Entertainment.", ima
 Artist.create!(name: "East Koast Craziez", bio: "The Craziez are a Rap/Metal Duo from the Pittsburgh, PA Area. Formed as East Koast Craziez in Late 2014. Craziez is composed of Steven Michael and Fred E. Krueger who perform under the names KarKizz and FK-23. With their high energy performance, rap flows, and metal screams fuse together to make a unique sound and a must-see live performance.
 
 East Koast Craziez joined Brutal Business Entertainment run by Skippy Ickum in 2018. The Craziez have performed all over Ohio, Western Pennsylvania, and Michigan while playing underground concerts, benefits, mini-gatherings, and festivals.", image: "https://i1.sndcdn.com/avatars-000644939487-zkzq63-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "EJ Prophet", bio: "EJ Prophet is an emcee from Fort Collins, Colorado. He is part of the group Salem Alumni and has also released an EP alongside Ouija Macc and Choirboy Dank of Swag Toof.", image: "https://i.scdn.co/image/ab6761610000e5eb0e4c543f981f8cc03899d271")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
