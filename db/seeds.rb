@@ -820,7 +820,9 @@ Artist.create!(name: "D0ct0r X", bio: "D0ct0r X, fka Dr. X from Flesruoy Llik, i
 Artist.create!(name: "Eastside Ninjas", bio: "Eastside Ninjas, or simply ESN, is a supergroup consisting of emcees Jamie Madrox, Monoxide, Blaze Ya Dead Homie, and Anybody Killa.
 
 ESN released their debut group album in 2021 on Majik Ninja Entertainment.", image: "https://legendswillneverdie.files.wordpress.com/2021/05/img_9843.jpg?w=1024")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "East Koast Craziez", bio: "The Craziez are a Rap/Metal Duo from the Pittsburgh, PA Area. Formed as East Koast Craziez in Late 2014. Craziez is composed of Steven Michael and Fred E. Krueger who perform under the names KarKizz and FK-23. With their high energy performance, rap flows, and metal screams fuse together to make a unique sound and a must-see live performance.
+
+East Koast Craziez joined Brutal Business Entertainment run by Skippy Ickum in 2018. The Craziez have performed all over Ohio, Western Pennsylvania, and Michigan while playing underground concerts, benefits, mini-gatherings, and festivals.", image: "https://i1.sndcdn.com/avatars-000644939487-zkzq63-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
