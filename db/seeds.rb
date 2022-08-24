@@ -804,7 +804,18 @@ The two emcees dubbed themselves with these names in 2008, formerly known as Wai
 Artist.create!(name: "DyeCryy", bio: "DyeCryy is a Hardcore/Horror rapper from Tacoma, Washington, born April,6 1980.
 
 He started his underground independent career in 1998 after the passing of his mother. From that day forward he has created music that gave him his signature style called Angry. Angry is about music fueled with darkness and anger.", image: "https://f4.bcbits.com/img/0005671676_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "D.E.A.N. (Destiny Everything And Nothing)", bio: "The artist D.E.A.N has only been around sense October of 2018. The man himself has been in the industry 15 years now. In 2005 Dean was going by the alias 2 face in a group called South East Devastation. The group was made up of Dennis “Ova dose” Wolff and himself. The group started throwing house parties in the Orlando area and quickly outgrew it with attendances well into the 60s and 70s. From there they played countless local shows in the area as well as opened for national headliners, as well as being the last group to ever play the Bomb House at the Gathering of the Juggalos.
+
+After the two parted ways with 2 albums out. Dean partnered in creating a more “southern gangster” group with his friend Stephen “Juggernaut” Mccown called Villianaires. The group continued to grow their fan base in the area. They did two albums and decided to part ways while Stephen continued in another group “Bangerzilla.”
+
+Dean decided to take the 2face brand solo. In the coming years he would Join Blood and Guts Records of Tampa which featured owners Hater Marc, D Murder Outbreak, Thirteen among many others. Later joining the lable would be Mizt3r Purple, Miss Kisa, Stranger Haze. They would do shows all over the country, including national tours with Miss Kisa, Psycho Jesus, Mars, Boondox and more. Countless performances at the Gathering of the Juggalos including a BNG takeover of Club Chaos.
+
+The rich history and never ending shows and adventures dwindled down over the years as everyone grew up, went to prison, started families and moved on, leaving 2face not knowing where to go.
+
+After his mothers death Dean created the fictional town of Autumndale and focused on his first 3 graphic novels and 2 full length films.
+In 2018 music called again but having left the life of drug and alcohol use behind, he needed to re-brand. Thus was born Destiny Everything and Nothing.
+
+“The reason I decided to go that way was to me, my destiny means everything. To the rest of the world, It doesn't mean shit.” The sound is a mixture of hip hop and metal laced with real life stories and praise of B movie horror vibes. He is now available on all platforms and will continue to entertain as long as he is alive.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/dean.jpg?w=533&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
