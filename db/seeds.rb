@@ -795,7 +795,9 @@ In 2004, they produced their first official demo entitled “Adrenopromo.” Two
 In 2009, the lineup grew with the addition of emcees MacMyc and Hellpacso, and shortly afterwards, “Destroy the Enemy” was released. Since then, DSA Commando has released multiple projects, including LPs, EPs, and a compilation consisting of tracks that spanned the groups 10+ year history.
   
 The Savonese rappers have collaborated and performed shows with many of the most influential artists in hip hop, both national and international, including the likes of Goretex of Non-Phixion, 16 Barre Venetians, Zulu of 99 Posse, La Coka Nostra, Psycho Realm, Onyx, Noyz Narcos, and many more.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/3a3b9d45fa224923c92e94eda7d002c6.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dubbs", bio: "Dubbs is an emcee from Detroit, MI.
+
+Aside from his solo releases, he has been a part of both Mission: Infect and the group The MidWest Monsters.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/dubbs.jpg?w=387&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
