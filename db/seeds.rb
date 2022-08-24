@@ -801,7 +801,9 @@ Aside from his solo releases, he has been a part of both Mission: Infect and the
 Artist.create!(name: "Dyad Souls", bio: "Dyad Souls are a hardcore Hip Hop duo who reside in Sydney, Australia. The group consists of two emcees, Dario Argento and Mario Bava, which are actually the names of Italy's two most famous and disturbing horror film directors, who specialized in horror and giallo films.
 
 The two emcees dubbed themselves with these names in 2008, formerly known as Waiztid and H8rd.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/02/dyad-souls.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DyeCryy", bio: "DyeCryy is a Hardcore/Horror rapper from Tacoma, Washington, born April,6 1980.
+
+He started his underground independent career in 1998 after the passing of his mother. From that day forward he has created music that gave him his signature style called Angry. Angry is about music fueled with darkness and anger.", image: "https://f4.bcbits.com/img/0005671676_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
