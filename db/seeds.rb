@@ -759,7 +759,7 @@ Artist.create!(name: "Dopesic", bio: "Dopesic was a group of consisting of Sicfu
 Artist.create!(name: "Dope D.O.D.", bio: "Dope D.O.D. is a hip hop group from Groningen, Netherlands that puts strong vocal lines on heavy aggressive beats. The group consists of emcees Skits Vicious and Jay Reaper. Peter Songolo is their producer and Dr. Diggles their DJ. Their sound can be described as a new realm of hardcore hip hop with classic styles and Electronic sounds (dubstep, trap, drill) thrown in the mix.
 
 In January 2011, Dope D.O.D. crashed onto the scene with their debut music video “What Happened”.", image: "https://cdns-images.dzcdn.net/images/artist/ac41e0de6c73c2bf8899c5ab3e077d2d/500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dosia Demon", bio: "Dosia Demon is a horrorcore/devil shyt artist from Saint Paul, Minnesota. He has worked with numerous artists in the horrorcore genre, and was also a member of the horrorcore group Silent Corpse with Shy One.", image: "https://i1.sndcdn.com/artworks-000138080116-6d7ai3-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
