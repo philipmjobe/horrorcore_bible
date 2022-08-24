@@ -853,7 +853,7 @@ EvilOne has worked with artists like Madd Locc, Brutalness JM, Kannibal Kannabis
 Artist.create!(name: "Evil Dope", bio: "Czech rapper, Evil Dope, has released horror laced albums, both solo and as part of Terror Crew, since 2011.
 
 He is part of the label, ZNK Productions.", image: "https://i.discogs.com/--sQFuhXhSsheItqQMy2FXZxbyqtpnl58d7WQEfdSjs/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NjMy/ODUtMTQwMTY1ODE3/MS0yMjMxLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Evil Enterprise", bio: "Evil Enterprise is a group consisting of three members — White Devil, The Archangel, and Magic Codeine. The group calls 6ft.Underground Records home.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/evil-enterprise-e1593175283154.jpeg?w=673&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
