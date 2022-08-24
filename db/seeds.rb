@@ -760,7 +760,7 @@ Artist.create!(name: "Dope D.O.D.", bio: "Dope D.O.D. is a hip hop group from Gr
 
 In January 2011, Dope D.O.D. crashed onto the scene with their debut music video “What Happened”.", image: "https://cdns-images.dzcdn.net/images/artist/ac41e0de6c73c2bf8899c5ab3e077d2d/500x500.jpg")
 Artist.create!(name: "Dosia Demon", bio: "Dosia Demon is a horrorcore/devil shyt artist from Saint Paul, Minnesota. He has worked with numerous artists in the horrorcore genre, and was also a member of the horrorcore group Silent Corpse with Shy One.", image: "https://i1.sndcdn.com/artworks-000138080116-6d7ai3-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Downriver Rat", bio: "The Downriver Rat was a rapper and producer from Detroit, MI. He was a part of Kill Yourself Productionz and Murder House Records, where he released multiple solo albums.", image: "https://i.discogs.com/93XqMe4mP4af7S-yx4V2AvNenTqpLq8AZrIu4QIur7E/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMTMw/NzgtMTIwOTUwMDc5/My5qcGVn.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
