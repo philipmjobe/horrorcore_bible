@@ -842,7 +842,11 @@ Artist.create!(name: "Ensizon", bio: "Ensizon, born Travis Myer, was an emcee fr
 
 Sadly, Ensizon passed away in 2005.", image: "https://i.ebayimg.com/images/g/zxkAAOSwlvlfM3Ac/s-l500.jpg")
 Artist.create!(name: "Epidimic", bio: "Epidimic was a rap duo from Pierceton, IN. Formed in 1999, the group released two projects — one EP and one full-length album — under Pariah Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/epidimic.jpg?w=421&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Esham", bio: "Rashaam Attica Smith (born September 20, 1973), better known by his stage name Esham, is an American rapper from Detroit, Michigan. Emerging as one of the first ever hip-hop artists from Detroit, Esham released his debut studio album, Boomin' Words from Hell in 1989 at the age of 16. Since then, he has gone on to release 15 studio albums in total, and also formed the hip hop/horrorcore group Natas in 1992. He and his brother James Smith founded and ran the biggest-selling independent hip hop label in Detroit, Reel Life Productions, until its closure in 2001.
+
+As one of the first rappers to receive attention in the city, Esham is considered to be a pioneer of Detroit hip hop, as well as the hip-hop subgenre horrorcore. His influence eventually fueled the careers of other Detroit hip hop artists such as Kid Rock, Eminem, and Insane Clown Posse.
+
+Esham is known for incorporating elements of rock music in his beats, and his lyrics cover a number of subjects, including death, drug use, evil, paranoia and sex. Esham refers to his style of music as “acid rap”.", image: "https://faroutmagazine.co.uk/static/uploads/2020/06/20191016_esham_smith-2-1.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
