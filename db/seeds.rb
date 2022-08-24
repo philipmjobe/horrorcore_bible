@@ -798,7 +798,9 @@ The Savonese rappers have collaborated and performed shows with many of the most
 Artist.create!(name: "Dubbs", bio: "Dubbs is an emcee from Detroit, MI.
 
 Aside from his solo releases, he has been a part of both Mission: Infect and the group The MidWest Monsters.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/dubbs.jpg?w=387&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dyad Souls", bio: "Dyad Souls are a hardcore Hip Hop duo who reside in Sydney, Australia. The group consists of two emcees, Dario Argento and Mario Bava, which are actually the names of Italy's two most famous and disturbing horror film directors, who specialized in horror and giallo films.
+
+The two emcees dubbed themselves with these names in 2008, formerly known as Waiztid and H8rd.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/02/dyad-souls.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
