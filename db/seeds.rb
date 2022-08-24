@@ -863,7 +863,7 @@ In 2003, Rhodes formed the group Krucifix Klan with a number of his friends, inc
 Rhodes has worked with an array of acts that span within the underground rap scene and has helped produce many albums for various artists. He uses a variety of production equipment to compose hip hop beats. He primarily uses an Akai MPC 4000, Pro Tools, Logic Pro, Roland TR-808 and electronic keyboards manufactured by Korg, Roland and Yamaha.
     
 Evil Pimp cites Academy Award-winning hip hop group Three 6 Mafia as his signature music production inspirations with other musical influences ranging from DJ Zirk to DJ Squeeky. He is also known for his mastery of the classical “Memphis” style beats, his production techniques bring together a diverse array of genres that evolve into a very distinct and unique sound", image: "https://i1.sndcdn.com/artworks-000647656432-t3me8o-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Evul Ded", bio: "Evul Ded is an emcee and founding member of the groups Secrets of Thirteen and, more recently, the Creature Clique. He has released a number of solo albums throughout the years, as well as various group projects.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/evul-ded.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
