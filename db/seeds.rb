@@ -788,7 +788,13 @@ Also known as Creepbhill, Dr. Creep was heavily into skateboarding throughout mo
   
 Now Creep just works on music, checks out retro video games, flips on eBay, and likes to enjoy the outdoors while not working in the studio.", image: "https://i.scdn.co/image/ab6761610000e5ebcf2b2f321a8a547d7fc4b4cd")
 Artist.create!(name: "Dr. Gigglez", bio: "Dr. Gigglez is a horrorcore emcee from Rhode Island.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/04/dr-gigglez.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DSA Commando", bio: "DSA Commando, originally from Savona, Italy has been active since the early 2000s and is known for their aggressive style and violent lyrics.
+
+In 2004, they produced their first official demo entitled “Adrenopromo.” Two years later, their official debut album,”Requiem,” was released. The success of the album allowed the group to travel and throughout Italy, gaining exposure.
+  
+In 2009, the lineup grew with the addition of emcees MacMyc and Hellpacso, and shortly afterwards, “Destroy the Enemy” was released. Since then, DSA Commando has released multiple projects, including LPs, EPs, and a compilation consisting of tracks that spanned the groups 10+ year history.
+  
+The Savonese rappers have collaborated and performed shows with many of the most influential artists in hip hop, both national and international, including the likes of Goretex of Non-Phixion, 16 Barre Venetians, Zulu of 99 Posse, La Coka Nostra, Psycho Realm, Onyx, Noyz Narcos, and many more.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/3a3b9d45fa224923c92e94eda7d002c6.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
