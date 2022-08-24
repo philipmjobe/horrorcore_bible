@@ -756,7 +756,9 @@ He has recently teamed up with Shrunken Head Entertainment with a mission to dem
 Artist.create!(name: "Doom & Gloom", bio: "Doom & Gloom is a rap group comprised of rappers dirty Z and Shayne Pop'N Wolf. This project was birthed in 2018 with the duo releasing a mixtape entitled Death Squad God Mode.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/dirty-z.jpg?w=450&ssl=1")
 Artist.create!(name: "Dopesic", bio: "Dopesic was a group of consisting of Sicfux Entertainment artists Jimmy Donn, Killa Capone, Kingpin, and Lil' C.
 ", image: "https://m.media-amazon.com/images/I/51WNk9ASG7L._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dope D.O.D.", bio: "Dope D.O.D. is a hip hop group from Groningen, Netherlands that puts strong vocal lines on heavy aggressive beats. The group consists of emcees Skits Vicious and Jay Reaper. Peter Songolo is their producer and Dr. Diggles their DJ. Their sound can be described as a new realm of hardcore hip hop with classic styles and Electronic sounds (dubstep, trap, drill) thrown in the mix.
+
+In January 2011, Dope D.O.D. crashed onto the scene with their debut music video “What Happened”.", image: "https://cdns-images.dzcdn.net/images/artist/ac41e0de6c73c2bf8899c5ab3e077d2d/500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
