@@ -761,7 +761,13 @@ Artist.create!(name: "Dope D.O.D.", bio: "Dope D.O.D. is a hip hop group from Gr
 In January 2011, Dope D.O.D. crashed onto the scene with their debut music video “What Happened”.", image: "https://cdns-images.dzcdn.net/images/artist/ac41e0de6c73c2bf8899c5ab3e077d2d/500x500.jpg")
 Artist.create!(name: "Dosia Demon", bio: "Dosia Demon is a horrorcore/devil shyt artist from Saint Paul, Minnesota. He has worked with numerous artists in the horrorcore genre, and was also a member of the horrorcore group Silent Corpse with Shy One.", image: "https://i1.sndcdn.com/artworks-000138080116-6d7ai3-t500x500.jpg")
 Artist.create!(name: "Downriver Rat", bio: "The Downriver Rat was a rapper and producer from Detroit, MI. He was a part of Kill Yourself Productionz and Murder House Records, where he released multiple solo albums.", image: "https://i.discogs.com/93XqMe4mP4af7S-yx4V2AvNenTqpLq8AZrIu4QIur7E/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMTMw/NzgtMTIwOTUwMDc5/My5qcGVn.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DOWNWXLF", bio: "It all began in May of 1987… DOWNWXLF is an alternative rapper hailing from Baltimore, MD. DOWNWXLF came on the scene in June of 2019, a month after turning 32. Growing up in the hardcore/metal scene of New England in the early 2000s, this was not his first venture musically. He had fronted a few metalcore bands, but none of the members seemed to have the same drive, ambition, and lust for music as him.
+
+Stepping away from music for awhile, DOWNWXLF was completely blown away when he saw the music video for Paris by the $uicideboy$. It reignited his hunger for music. Artists such as Rozz Dyliams, Ghostemane, Wavy Jones, and Ouija Macc add to the list of those who inspired him to finally stop dreaming and get to creating.
+  
+Heavily influenced by bands from his youth, their genres ranging from numetal to deathcore, DOWNWXLF is just trying to make his own sound and inspire others in the process. His themes center around people not being themselves (whether it's out of fear or otherwise), not promoting drug culture, and his life experiences. All with horror elements sprinkled in. He has been labeled “positively dark” by one engineer and his music called “lumbertrap” by a fellow artist, Madnes_One.
+  
+DOWNWXLF belongs to one small collective, F0URH0RNS, that he and fellow artist/friend BXTCHWRXSTS started in October 2019 calling it D3M80YZ at the time. He is also part of a larger movement called UNDERGROUNDTILLDEATH. His goal is to be a wake up call or motivation for others. For all the misunderstood and forgotten. DOWNWXLF sees you.", image: "https://i.ytimg.com/vi/wi1eMSqt_cw/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
