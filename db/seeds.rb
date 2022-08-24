@@ -816,7 +816,7 @@ After his mothers death Dean created the fictional town of Autumndale and focuse
 In 2018 music called again but having left the life of drug and alcohol use behind, he needed to re-brand. Thus was born Destiny Everything and Nothing.
 
 “The reason I decided to go that way was to me, my destiny means everything. To the rest of the world, It doesn't mean shit.” The sound is a mixture of hip hop and metal laced with real life stories and praise of B movie horror vibes. He is now available on all platforms and will continue to entertain as long as he is alive.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/dean.jpg?w=533&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "D0ct0r X", bio: "D0ct0r X, fka Dr. X from Flesruoy Llik, is now emerging as a solo artist. He began releasing singles in September and October of 2021, which will soon be collected in an EP entitled “Death Dance.”", image: "https://f4.bcbits.com/img/0027043345_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
