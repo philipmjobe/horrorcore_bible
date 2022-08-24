@@ -841,7 +841,7 @@ Both members will have solo albums released in 2020, as well as the upcoming Emp
 Artist.create!(name: "Ensizon", bio: "Ensizon, born Travis Myer, was an emcee from Anderson, IN. He was part of the 3rd Shift Entertainment roster and several of the label's group projects including Midwest Suspex, and at one point, SyckSyde.
 
 Sadly, Ensizon passed away in 2005.", image: "https://i.ebayimg.com/images/g/zxkAAOSwlvlfM3Ac/s-l500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Epidimic", bio: "Epidimic was a rap duo from Pierceton, IN. Formed in 1999, the group released two projects — one EP and one full-length album — under Pariah Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/epidimic.jpg?w=421&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
