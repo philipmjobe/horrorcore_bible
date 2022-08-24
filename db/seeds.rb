@@ -847,7 +847,9 @@ Artist.create!(name: "Esham", bio: "Rashaam Attica Smith (born September 20, 197
 As one of the first rappers to receive attention in the city, Esham is considered to be a pioneer of Detroit hip hop, as well as the hip-hop subgenre horrorcore. His influence eventually fueled the careers of other Detroit hip hop artists such as Kid Rock, Eminem, and Insane Clown Posse.
 
 Esham is known for incorporating elements of rock music in his beats, and his lyrics cover a number of subjects, including death, drug use, evil, paranoia and sex. Esham refers to his style of music as “acid rap”.", image: "https://faroutmagazine.co.uk/static/uploads/2020/06/20191016_esham_smith-2-1.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Evilone", bio: "EvilOne is an Greenlandic brutal horrocore rapper, songwriter, and guttural artist. He is part of Black Hand Records.
+
+EvilOne has worked with artists like Madd Locc, Brutalness JM, Kannibal Kannabis, Bloodshot, Phrozt, RCX, and Xander Gage.", image: "https://i.scdn.co/image/ab6761610000e5ebb3814b0d742cb68463391f3f")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
