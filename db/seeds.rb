@@ -824,7 +824,9 @@ Artist.create!(name: "East Koast Craziez", bio: "The Craziez are a Rap/Metal Duo
 
 East Koast Craziez joined Brutal Business Entertainment run by Skippy Ickum in 2018. The Craziez have performed all over Ohio, Western Pennsylvania, and Michigan while playing underground concerts, benefits, mini-gatherings, and festivals.", image: "https://i1.sndcdn.com/avatars-000644939487-zkzq63-t500x500.jpg")
 Artist.create!(name: "EJ Prophet", bio: "EJ Prophet is an emcee from Fort Collins, Colorado. He is part of the group Salem Alumni and has also released an EP alongside Ouija Macc and Choirboy Dank of Swag Toof.", image: "https://i.scdn.co/image/ab6761610000e5eb0e4c543f981f8cc03899d271")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "El Maroon", bio: "El Maroon, aka Abu Muhad Maroko, born Marek Teplý, is a Czech rapper from Třebíč.
+
+He is one third of the group Masový Wrazi, alongside Curwa and DJ Doyem.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/el-maroon.jpg?w=320&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
