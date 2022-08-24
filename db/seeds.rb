@@ -850,7 +850,9 @@ Esham is known for incorporating elements of rock music in his beats, and his ly
 Artist.create!(name: "Evilone", bio: "EvilOne is an Greenlandic brutal horrocore rapper, songwriter, and guttural artist. He is part of Black Hand Records.
 
 EvilOne has worked with artists like Madd Locc, Brutalness JM, Kannibal Kannabis, Bloodshot, Phrozt, RCX, and Xander Gage.", image: "https://i.scdn.co/image/ab6761610000e5ebb3814b0d742cb68463391f3f")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Evil Dope", bio: "Czech rapper, Evil Dope, has released horror laced albums, both solo and as part of Terror Crew, since 2011.
+
+He is part of the label, ZNK Productions.", image: "https://i.discogs.com/--sQFuhXhSsheItqQMy2FXZxbyqtpnl58d7WQEfdSjs/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NjMy/ODUtMTQwMTY1ODE3/MS0yMjMxLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
