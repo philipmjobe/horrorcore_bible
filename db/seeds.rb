@@ -838,7 +838,9 @@ In 2017, Empire of Dirt signed with 5th Power Entertainment and dropped two demo
 In 2019, they joined IllHowze Records, which folded in 2020, leading JxKxMx to reopen 3rd Shift Entertainment.
   
 Both members will have solo albums released in 2020, as well as the upcoming Empire of Dirt album.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/empireofdirt.jpg?w=720&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ensizon", bio: "Ensizon, born Travis Myer, was an emcee from Anderson, IN. He was part of the 3rd Shift Entertainment roster and several of the label's group projects including Midwest Suspex, and at one point, SyckSyde.
+
+Sadly, Ensizon passed away in 2005.", image: "https://i.ebayimg.com/images/g/zxkAAOSwlvlfM3Ac/s-l500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
