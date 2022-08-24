@@ -780,7 +780,13 @@ And local Horrorcore and Hip Hop Artists. Some other notable influences are the 
 His personal influences are struggles with mental illness, and a drifting outsider perspective, which both play a role in the darker nature of his work. But in contrast to those darker elements, his Judaism, being around Anti-Fascist Activists, and the afroqueer community has given DRACO a uniquely balanced personal perspective.
 
 With over a decade in the music industry whether it's performing music, DJing for several horrorcore/underground rap radio stations (WICKED INTENT RADIO, TKSRADIO, UTMRADIO) or writing articles for several media outlets (MortalGore, OOGEEWOOGEE, Oy Gevault!, etc.) DRACO has become an undeniable fixture in the Hardcore Hip Hop and Horrorcore Rap Scene. Last but not least, in 2021, DRACO started his own music publishing and media company called Grey6 Media, a co-label to Marsten House Records that distributes through Sony/The Orchard.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/draco.jpg?w=640&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dr. Creep", bio: "DR CREEP is an emcee/producer/artist/video editor out of Phoenix, Arizona, The Epic Land of the Southwest. He delivers raw underground hip-hop; It's controversial, dark, esoteric, epic, and conscious with ancient wisdom and forbidden knowledge.
+
+Never having been signed to any labels, Dr. Creep has been in the shadows of the hip hop game since day one.
+  
+Also known as Creepbhill, Dr. Creep was heavily into skateboarding throughout most of his earlier years (12-20+). Then, he was influenced by the darker and more mysterious hip hop of the underground (which ultimately led him to the grimy esoteric) and started mainly working on hip hop in his early 20's. Skateboarding was eventually fazed out for music to take its place.
+  
+Now Creep just works on music, checks out retro video games, flips on eBay, and likes to enjoy the outdoors while not working in the studio.", image: "https://i.scdn.co/image/ab6761610000e5ebcf2b2f321a8a547d7fc4b4cd")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
