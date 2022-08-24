@@ -769,7 +769,17 @@ Heavily influenced by bands from his youth, their genres ranging from numetal to
   
 DOWNWXLF belongs to one small collective, F0URH0RNS, that he and fellow artist/friend BXTCHWRXSTS started in October 2019 calling it D3M80YZ at the time. He is also part of a larger movement called UNDERGROUNDTILLDEATH. His goal is to be a wake up call or motivation for others. For all the misunderstood and forgotten. DOWNWXLF sees you.", image: "https://i.ytimg.com/vi/wi1eMSqt_cw/maxresdefault.jpg")
 Artist.create!(name: "Dozza", bio: "Alessio Mendolia, better known as Dozza or Dozza Bowie, is an Italian rapper whose style is considered both “conscious rap” and “horrorcore.”  He has been rapping since the age of 12 and is currently signed to Italian label sezioneaurea which translates to “Golden Ratio.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dozza.jpg?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "DRACO", bio: "DRACO has been writing poetry since he was around 7. Originally wanting to be in a punk rock band when he was a teenager, (That dream came true later in life as a studio band project with Steve Sxaks & Ethan Mintz Of Marsten House Recordings Called Damn Dirty Commies) but it translated into rap when he was about 18. Without any professional studio equipment at first. But that didn't matter, his need to be heard endured.
+
+He went by many different names before landing on DRACO, Including: The Unabomber, Draco The Unabomber and probably like 10 other ones he forgot about, (or tries to forget about)
+
+His musical influences are:
+DMX, Wu Tang Clan, The Misfits, and Twiztid. And growing up un the golden age of the Philly Punk Rock Scene (Early 2000's).
+And local Horrorcore and Hip Hop Artists. Some other notable influences are the Gothic and Industrial acts that would feature at local events.
+
+His personal influences are struggles with mental illness, and a drifting outsider perspective, which both play a role in the darker nature of his work. But in contrast to those darker elements, his Judaism, being around Anti-Fascist Activists, and the afroqueer community has given DRACO a uniquely balanced personal perspective.
+
+With over a decade in the music industry whether it's performing music, DJing for several horrorcore/underground rap radio stations (WICKED INTENT RADIO, TKSRADIO, UTMRADIO) or writing articles for several media outlets (MortalGore, OOGEEWOOGEE, Oy Gevault!, etc.) DRACO has become an undeniable fixture in the Hardcore Hip Hop and Horrorcore Rap Scene. Last but not least, in 2021, DRACO started his own music publishing and media company called Grey6 Media, a co-label to Marsten House Records that distributes through Sony/The Orchard.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/draco.jpg?w=640&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
