@@ -754,7 +754,8 @@ Artist.create!(name: "DON OЯIAS", bio: "DON OЯIAS has been actively making mus
 
 He has recently teamed up with Shrunken Head Entertainment with a mission to demonstrate his depth and skill, dropping projects with touches of multiple genres.", image: "https://horrorcorewiki.com/wp-content/uploads/2019/12/don-orias-1.jpg")
 Artist.create!(name: "Doom & Gloom", bio: "Doom & Gloom is a rap group comprised of rappers dirty Z and Shayne Pop'N Wolf. This project was birthed in 2018 with the duo releasing a mixtape entitled Death Squad God Mode.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/dirty-z.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dopesic", bio: "Dopesic was a group of consisting of Sicfux Entertainment artists Jimmy Donn, Killa Capone, Kingpin, and Lil' C.
+", image: "https://m.media-amazon.com/images/I/51WNk9ASG7L._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
