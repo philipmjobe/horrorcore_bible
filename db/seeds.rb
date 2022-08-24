@@ -827,7 +827,17 @@ Artist.create!(name: "EJ Prophet", bio: "EJ Prophet is an emcee from Fort Collin
 Artist.create!(name: "El Maroon", bio: "El Maroon, aka Abu Muhad Maroko, born Marek Teplý, is a Czech rapper from Třebíč.
 
 He is one third of the group Masový Wrazi, alongside Curwa and DJ Doyem.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/el-maroon.jpg?w=320&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Empire of Dirt", bio: "“I dont like Empire of Dirt all they do is spread depression” - some guy online 2020
+
+Empire of Dirt was formed in 2013 by JxKxMx as an outlet for his non-horrorcore music. Long time 3SE associate Dokta Butcha was recruited and the duo started working on music.
+  
+Between 2013 and 2016, they performed and wrote sporadically.
+  
+In 2017, Empire of Dirt signed with 5th Power Entertainment and dropped two demo albums.
+  
+In 2019, they joined IllHowze Records, which folded in 2020, leading JxKxMx to reopen 3rd Shift Entertainment.
+  
+Both members will have solo albums released in 2020, as well as the upcoming Empire of Dirt album.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/empireofdirt.jpg?w=720&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
