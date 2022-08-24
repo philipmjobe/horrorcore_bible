@@ -854,7 +854,15 @@ Artist.create!(name: "Evil Dope", bio: "Czech rapper, Evil Dope, has released ho
 
 He is part of the label, ZNK Productions.", image: "https://i.discogs.com/--sQFuhXhSsheItqQMy2FXZxbyqtpnl58d7WQEfdSjs/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NjMy/ODUtMTQwMTY1ODE3/MS0yMjMxLmpwZWc.jpeg")
 Artist.create!(name: "Evil Enterprise", bio: "Evil Enterprise is a group consisting of three members — White Devil, The Archangel, and Magic Codeine. The group calls 6ft.Underground Records home.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/evil-enterprise-e1593175283154.jpeg?w=673&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Evil Pimp", bio: "Catrin Rhodes known professionally as Evil Pimp is an American rapper, songwriter, record producer, and recording engineer. He is the founder of the “Krucifix Klan” and has produced for and overseen the careers of many rappers, including Playa Rob, Ms. Insain, Suave C, Stan Man, Creep Lo, Lady Dead, Chuck G, Sir Lance, DJ Slikk, Killa Queen, Drama Queen, Crazy Mane, Lil Bone, Gangsta Rip, DJ Massacre, Reese G, Lil Jerk, Lil Boosie, HR2, Ms Loko, Polo Fresh, Ill B, Killa Elite, Evil Prince and many more. He is credited as a key figure in the crafting and popularization of horrorcore, a rap style characterized as hypnotic beats and dark themes—especially drugs, sex, and violence.
+
+Evil Pimp began his career in the 1990s, when at the time he lived in Southwest Memphis. Although he began recording in 1996, his professional entertainment career did not take off until 2004 when his solo album Da Exorcist Returns reached #166 on the Billboard 200 chart. The talent and production showcased on the album has been admired by a large part of the underground hip-hop community. The album is frequently recognized as one of the crowning achievements of horrorcore rap music. He was also featured in various magazines, most significantly appearing in The Source Magazine.
+    
+In 2003, Rhodes formed the group Krucifix Klan with a number of his friends, including Playa Rob, Crazy Mane, Creep Lo, Stan Man and Drama Queen. The group released their debut album Da Krucifixin on June 15, 2004. Later in the year, Evil Pimp released The Exorcist Greatest Hits Volume 1, which was a compilation of tracks from some of his initial underground cassettes.
+    
+Rhodes has worked with an array of acts that span within the underground rap scene and has helped produce many albums for various artists. He uses a variety of production equipment to compose hip hop beats. He primarily uses an Akai MPC 4000, Pro Tools, Logic Pro, Roland TR-808 and electronic keyboards manufactured by Korg, Roland and Yamaha.
+    
+Evil Pimp cites Academy Award-winning hip hop group Three 6 Mafia as his signature music production inspirations with other musical influences ranging from DJ Zirk to DJ Squeeky. He is also known for his mastery of the classical “Memphis” style beats, his production techniques bring together a diverse array of genres that evolve into a very distinct and unique sound", image: "https://i1.sndcdn.com/artworks-000647656432-t3me8o-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
