@@ -787,7 +787,7 @@ Never having been signed to any labels, Dr. Creep has been in the shadows of the
 Also known as Creepbhill, Dr. Creep was heavily into skateboarding throughout most of his earlier years (12-20+). Then, he was influenced by the darker and more mysterious hip hop of the underground (which ultimately led him to the grimy esoteric) and started mainly working on hip hop in his early 20's. Skateboarding was eventually fazed out for music to take its place.
   
 Now Creep just works on music, checks out retro video games, flips on eBay, and likes to enjoy the outdoors while not working in the studio.", image: "https://i.scdn.co/image/ab6761610000e5ebcf2b2f321a8a547d7fc4b4cd")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dr. Gigglez", bio: "Dr. Gigglez is a horrorcore emcee from Rhode Island.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/04/dr-gigglez.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
