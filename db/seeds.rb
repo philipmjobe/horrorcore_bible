@@ -768,7 +768,7 @@ Stepping away from music for awhile, DOWNWXLF was completely blown away when he 
 Heavily influenced by bands from his youth, their genres ranging from numetal to deathcore, DOWNWXLF is just trying to make his own sound and inspire others in the process. His themes center around people not being themselves (whether it's out of fear or otherwise), not promoting drug culture, and his life experiences. All with horror elements sprinkled in. He has been labeled “positively dark” by one engineer and his music called “lumbertrap” by a fellow artist, Madnes_One.
   
 DOWNWXLF belongs to one small collective, F0URH0RNS, that he and fellow artist/friend BXTCHWRXSTS started in October 2019 calling it D3M80YZ at the time. He is also part of a larger movement called UNDERGROUNDTILLDEATH. His goal is to be a wake up call or motivation for others. For all the misunderstood and forgotten. DOWNWXLF sees you.", image: "https://i.ytimg.com/vi/wi1eMSqt_cw/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Dozza", bio: "Alessio Mendolia, better known as Dozza or Dozza Bowie, is an Italian rapper whose style is considered both “conscious rap” and “horrorcore.”  He has been rapping since the age of 12 and is currently signed to Italian label sezioneaurea which translates to “Golden Ratio.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dozza.jpg?w=500&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
