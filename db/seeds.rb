@@ -918,7 +918,7 @@ The Fat Killahz began in 2001 as an inside joke between Marvwon and Fatt Father.
 They released the 2 Fat, 2 Furious mixtape to positive reactions throughout Detroit city, and the public just wanted more. Making an appearance on King Gordy¹s solo album The Entity, the single Fat-Tastic 4 rose to #1 on the college hip-hop charts. Fans still weren't satisfied. FK followed up a successful run supporting Gordy as the opening act on D12's US tour in 2004 with the release of their WFKR 31.3 FKM mixtape.
 
 They were finally treated to the full-length they had been waiting for: on March 15th, 2005, Guess Who's Coming To Dinner? was released. Featuring production from hard hitters such as Denaun Porter (D-12, 50 Cent, Young Buck) and B.R. Gunna (Slum Village), Guess Who's Coming To Dinner? displays the Fat Killahz dynamic song writing, vivid street savvy lyrical poetry, and comedic wit. With a distribution plan in place, hip-hop heads across the country better prepare themselves to deal with the world's largest group. Fatt Killahz are currently working on their sophomore album titled Fat Tuesday.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/51c7885964354b63b64d7fa1d9275340.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fetal Autopsy", bio: "Fetal Autopsy is a Death Metal musician from Oklahoma. He is the founder of Meathook Records and also one half of the rap duo Dead Body Disposal Unit.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/fetal-autopsy.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
