@@ -1058,7 +1058,7 @@ Throughout the years, he spent most of his time collaborating with a bunch of ar
 In 2012, Grimsin took a sabbatical that lasted until 2018 when The Yes Men re-emerged. He is currently working on a new album, which is slated for 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/grimsin-e1577161143543.jpg?w=399&ssl=1")
 Artist.create!(name: "Grim Jonez", bio: "Grim Jonez, aka The Necronomicon Don, is an emcee currently signed to Vile House Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/grim-jonez.jpg?w=450&ssl=1")
 Artist.create!(name: "Grim Moses", bio: "Grim Moses, born Austin Moore, is an emcee and producer from Phoenix, AZ. He is also a member of the hip hop collective The Society of Invisibles.", image: "https://i1.sndcdn.com/avatars-tJOefPpdOkmvKx3n-SoMynQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Grim Smilezz", bio: "I do music about my life and struggles I’ve dealt with and overcome and demons I’m still fighting with to this day. Ask yourself if your music don’t got your heart poured into it, is it really music?", image: "https://cdns-images.dzcdn.net/images/artist/4fc1b353ce7a8d092ca114b848492910/264x264.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
