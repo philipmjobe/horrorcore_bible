@@ -892,7 +892,15 @@ They are the leaders of the Church of 26. The 26 can and will invade your existe
 
 Take our hand if you dare and open up your max potential. Follow the 26.", image: "https://f4.bcbits.com/img/0015820438_10.jpg")
 Artist.create!(name: "Fang the Hypnotist", bio: "A demon created on the streets he has risen to become a Demonic Lord; the Demon Lord of Truth, he is on the rise and has big plans for his music career and his label.", image: "https://i.iheart.com/v3/url/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaWhyLWluZ2VzdGlvbi1waXBlbGluZS1wcm9kdWN0aW9uLWRpc3Ryb2tpZC8yMDIyMDcxODA0MzgzNzIwNy8xOTcwODY5Mzg1NDYvcmVzb3VyY2VzLzE5NzA4NjkzODU0Ni5qcGc=?ops=fit(480%2C480)")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fatal Thir13en", bio: "Fatal Thir13en were a rap group from Jacksonville, AR, combining elements of heavy metal and horrorcore hip hop.
+
+Fatal Thir13en began making in 1998. They originally formed the rap group D.O.A. (Disciples Of Annihilation), releasing one album, “Necronomicon Book 1: Unsolved Mysteries,” before vanishing without a trace.
+
+The members of D.O.A. would come together and release a 4 song demo of unspeakable horrors under their new moniker FATAL THIR13EN. What was on that disc was new, different, genre crossing, SICK and UNMERCIFUL! It spread like a plague throughout the states and had those who had been infected begging for more.
+
+In 2009, F13 released Straight From The Butcher Shop, a chopped and screwed/remix album that included two brand new tracks.
+
+In 2011, they released their second album, Devilution, that was much heavier, more brutal, and more horrific than any previous release. Two years later, they released Audio Bloodshow, even further evolving their sound and style along the way.", image: "https://f4.bcbits.com/img/a1601819257_65")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
