@@ -1051,7 +1051,11 @@ Artist.create!(name: "GrewSum", bio: "GrewSum is a rapper from Iowa. He has rele
 
 GrewSum has also been an integral part of Misson:Infect and once owned and operated his own label, PRONE Records, with multiple underground artists filling out the roster.", image: "https://i.scdn.co/image/ab6761610000e5eb01397c68dc3e4cc2177ef71c")
 Artist.create!(name: "GrimBurton", bio: "Grimburton, aka Grim B, is a self hating, suicide spitting MC with more creep to his flow than Beetlejuice fucking Wednesday Addams.", image: "https://i1.sndcdn.com/avatars-DPJpOPdyKFtpzrHR-PutvBQ-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Grimsin", bio: "Hailing from Anderson IN, Grimsin has been in the game for almost two decades, co-founding the group TDKC (The Dead Klown Children) in 2002. He started doing solo projects in 2003 with a four track EP entitled “Neva Goin Back.”
+
+Throughout the years, he spent most of his time collaborating with a bunch of artists from central Indiana and being signed under multiple labels, until 2009 when TDKC was reformed with a new label and new members. Stemming from that came The Yes Men and Psycho Academy in early 2010.
+
+In 2012, Grimsin took a sabbatical that lasted until 2018 when The Yes Men re-emerged. He is currently working on a new album, which is slated for 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/grimsin-e1577161143543.jpg?w=399&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
