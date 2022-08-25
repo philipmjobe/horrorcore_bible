@@ -1073,7 +1073,9 @@ He has released solo albums with Eternal Records and Fallen Entertainment, as we
 Artist.create!(name: "HB The Grizzly", bio: "Roaring from the depths of the underground woke a beast named HB The Grizzly. Originally from Muskegon, MI, now living in Detroit, MI, she reps the powerhouse team known as Shrunken Head Entertainment.", image: "https://rox-tv.com/wp-content/uploads/2021/03/hbgrizzly-e1615995877483-688x485.jpg")
 Artist.create!(name: "Hellbound Disciplez", bio: "Hellbound Disciplez is a group consisting of emcees Crazy 8 the Snap Case and Lord K-Haos. As a group, the duo are part of the Horrorcrunk Entertainment roster.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/hellbound-disciplez.jpg?w=450&ssl=1")
 Artist.create!(name: "HellFire", bio: "Hellfire is a hip hop duo from Indianapolis, IN. Their debut album entitled Eternal Fire was released in September of 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/hellfire.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "HEX", bio: "A founding member of 1134 Productions, Hex has been making music since the mid 90s.  Starting out in the horrorcore group L.U. Cipha, Hex has released more than 80 albums to date and is showing no signs of stopping anytime soon.
+
+Hex has been a huge part of the horrorcore scene for over two decades now with his signature voice and style. In addition to L.U. Cipha, he has been a part of many other collaborative projects over that span of this time including Spaced Out, Cretins, Train Wreck, 2xToxic, and Mic Crawlers.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/hex.jpg?w=225&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
