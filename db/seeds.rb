@@ -990,7 +990,11 @@ Dux continues to take over Nortn Carolina & the Southeast with monsterous live s
 Artist.create!(name: "Gangsta Pat", bio: "Gangsta Pat, born Patrick Hall, is an American rapper from Memphis, Tennessee who established himself in the Memphis underground during the late 1980s and is the son of Stax Records drummer, Willie Hall.
 
 Gangsta Pat is also one of the first rap artists from the city to make the move from an indie label to a major label when signing to Atlantic records during the start of the Gangsta rap era. He wrote, produced, and played all of the instruments on his early releases.", image: "https://m.media-amazon.com/images/I/41BqLn-IF1L.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ganxsta N.I.P.", bio: "Ganxsta NIP (formerly Ganksta N-I-P) is a rapper from South Park, Houston, Texas and a member of the South Park Coalition, which he co-founded in 1987 with Houston rapper K-Rino. In 1992, he released his debut album South Park Psycho. This record also helped put the South Park Coalition name on the map due to world wide distribution from Rap-a-Lot. He also wrote the Geto Boys hit “Chuckie.” NIP stands for “Nation of Islam is Powerful.” Williams is also looked at as one of the creators of the horrorcore rap genre.
+
+Ganxsta N.I.P.’s first album The South Park Psycho was released in 1992. It had no single to promote the album and it charted at #63 on the Top R&B/Hip-Hop Albums. It sold almost 100,000 copies in the area and landed him a deal with Priority Records. His second solo album charted on Billboard chart at #151 and on #30 on the Top R&B/Hip-Hop Albums and #5 on the Top Heatseekers. His style of rap was hardcore gangsta rap with gory lyrical content, which is called horrorcore.
+
+N.I.P. also made a comeback album Still Psycho, 5 years after his last album in 2003. Ganxsta N-I-P’s most recent album, Psych’ Swag: Da Horror Movie, consists of 14 songs and was released on the artist’s own record label Psych Ward Entertainment.", image: "https://s.hdnux.com/photos/32/75/50/7068199/6/ratio3x2_1800.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
