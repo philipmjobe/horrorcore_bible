@@ -1041,7 +1041,11 @@ While pursuing a career in audio engineering, he decided he liked being on the o
 Artist.create!(name: "GraveStoneR", bio: "GraveStoneR, also known as ReaKtion and Professor Kreep is a former horrorcore rapper from Lyndonville, Vermont.
 
 He was active in the early 2000s, releasing several albums on MP3.com. He was also featured in the groups Room 47 (with rapper Chamber) and Da Pumpkin Crew, and did songs with multiple members of the Indiana groups Sycksyde and Phantazm.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/gravestoner.jpg?w=270&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Grave Plott", bio: "Grave Plott was a hardcore/horrorcore rap group consisting of Killa C (born Coul Hill) and Liquid Assassin (born Cardell Avila Toombs, Jr.). Their first full length album, The Plott Thickens, was released on May 20, 2008, through a distribution deal with Strange Music and Dirty Thug Records.
+
+The Plott Thickens charted #95 on the Billboard Top R&B/Hip-Hop Albums chart its first week out.
+
+Grave Plott split up in 2008 and Killa C (Dirty Thug Recordz) & Liquid Assassin (42 Records) are doing solo albums.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/886edee75bf94966becbbf6a696f913a.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
