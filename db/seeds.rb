@@ -961,7 +961,7 @@ Artist.create!(name: "Freeze Martian", bio: "New England emcee FreeZe, has been 
 Artist.create!(name: "FR66Z6", bio: "Andre Martin (born October 9, 1986), better known by his stage name FR66Z6, is a Canadian rapper from the Province of Quebec. He was born in Vancouver, but moved to Quebec when he was seven years old. He is part of the Sherbrooke-based hip hop group Northern Cannibals. He has always liked all kinds of music since a very young age. He went to a music High School and started making his own songs for fun not long after that.
 
 In 2017, he released his first LP with Northern Cannibals called Vicious Circle and his own Solo EP in 2018 called The Cold Blooded EP, which are both available on all digital platforms. He has performed in Ontario and all over the Province of Quebec, and has opened and been on tours in his area for international artists like Swollen Members, Madchild, Necro, Demrick, Obie Trice, Adlib, Pimpton, Brothers Grim, Alpha Omega, Snak the Ripper, Joseph Rose, Young Kazh and many more.", image: "https://m.media-amazon.com/images/I/71nAv0-cMZL._SS500_.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fuckfase", bio: "Fuckfase was a group consisting of emcees Chapel and Diabolical.  The duo released one album under their label Forekast Industrial, which featured popular horrorcore artists Kannibalistik, Q-Strange, and more. They were also known as Sedition for a period of time.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/fuckfase.jpg?w=290&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
