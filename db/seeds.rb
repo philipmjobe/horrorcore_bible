@@ -945,7 +945,11 @@ Flesruoy Llik has had an insane amount of lineup changes and collaborators that 
 
 Live shows have been very violent with self-harm and members causing harm to each other (staple guns, kendo sticks, steel chairs, body slams on thumb tacks) and sometimes even using the weapons on willing participants of the crowd. Dr. X has been known to staple dollar bills to his ball sack at shows.", image: "https://f4.bcbits.com/img/0015648086_25.jpg")
 Artist.create!(name: "FlipFlop The Clown", bio: "FlipFlop The Clown is a clown with an extreme foot fetish. He has a foot fetish rap song called “Feet On My Face” that became an instant hit amongst both the juggalo & fetish community. FlipFlop The Clown was born with his foot fetish and loves spreading foot fetish awareness by traveling the country and sucking on toes from different zip codes.", image: "https://i.scdn.co/image/ab6761610000e5eb6172ed66dff74bee34cfda59")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Flock to Murder", bio: "Flock To Murder are a rap duo and Hexassociates at Hex Mob family ENT.
+
+We watch the world and tell the story of what is hiding in darkness. We hear your soul and see your evils. We can save you.
+
+Join The Flock", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/flock-to-murder-1.jpg?w=655&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
