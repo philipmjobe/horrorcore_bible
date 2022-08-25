@@ -1018,7 +1018,7 @@ Artist.create!(name: "Gibby Stites", bio: "Gibby Stites is an emcee from NJ.
 
 In November of 2020, it was announced that he would be releasing music with Twiztid’s Majik Ninja Entertainment. After releasing two projects with the label, Gibby was moved to the Alumni page of the official MNE site, and plans to once again release music independently.", image: "https://i0.wp.com/www.iconvsicon.com/wp-content/uploads/2021/09/Gibby-Stites-2021-MNE.jpg?resize=800%2C1160&ssl=1")
 Artist.create!(name: "Ginjabred", bio: "GinjaBred, born Chris Burton, is an independent American music artist from Silver Valley. He is the founder and creator of Nxghtmarez of Reality, a record label and clothing brand.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ginjabred.jpg?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Gizmo", bio: "Gizmo is an up-and-coming trap metal artist. He combines his gritty, monotone flow, his in-your-face screaming flow and unique, heavy trap beats to give listeners an ear-melting experience.", image: "https://www.revolvermag.com/sites/default/files/media/images/article/image_from_ios_0.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
