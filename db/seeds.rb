@@ -987,7 +987,9 @@ Dux’s most recent release “Welcome to Granville” shows his diverse style, 
 And to top off the summer of 2011, F. DUX rocked the stage to a sold out crowd with non other than Tech N9ne, a multi- platinum recording artist who is known for his insane stage antics and amazing performances!
 
 Dux continues to take over Nortn Carolina & the Southeast with monsterous live shows and merch booth that seems to always be surrounded by fans. His Low Life Movement has grown considerably with street teams all over the world and a fan base from Seattle to the ATL.Theres only two words that defy the meaning of Hip Hop and his name is… F.DUX!", image: "https://cdns-images.dzcdn.net/images/cover/f418e7574d849f56d90fdc086df27e22/264x264.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Gangsta Pat", bio: "Gangsta Pat, born Patrick Hall, is an American rapper from Memphis, Tennessee who established himself in the Memphis underground during the late 1980s and is the son of Stax Records drummer, Willie Hall.
+
+Gangsta Pat is also one of the first rap artists from the city to make the move from an indie label to a major label when signing to Atlantic records during the start of the Gangsta rap era. He wrote, produced, and played all of the instruments on his early releases.", image: "https://m.media-amazon.com/images/I/41BqLn-IF1L.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
