@@ -1090,7 +1090,9 @@ Also in 2018 Hex released his 3rd solo album ROTTEN featuring artists such as Go
 In various groups and projects Hex has tracks featuring or has been featured on tracks with; Hopsin, Baby Eazy-E, Twisted Insane, King Gordy, Anybody Killa, Goretex of Non Phixion, Bonez Dubb, Insane Poetry, SwizZz, Claas, ClockworC of Gorilla Voltage, Billy Obey and Lee Carver of Alla Xul Elu.
 
 In past years Hex has opened for Tech N9ne, Hopsin, the Insane Clown Posse, Da Mafia Six(Three 6 Mafia), Twiztid, Kottonmouth Kings, hed P.E., Non Phixion, Necro, Slaine, Ill Bill, Q-Unique, R.A. the Rugged Man, Stitches, Esham, Skam2, Kung Fu Vampire, Blaze Ya Dead Homie, Rehab, Anybody Killa, Prozak, Krizz Kalliko, Mayday, Stevie Stone, Kutt Calhoun, Mad Child, Swollen Members, Ces Cru and many many more, as well as playing the 2014 Gathering of the Juggalos and the annual Denver underground show Gorefest since 2009.", image: "https://i.discogs.com/6jmZ-4LDpN_w0nH3mWxYr9zqLOiJEu3xyAsNSwIHfnY/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5NDk1/OTEtMTU1NjA5ODc3/Ni03ODQzLnBuZw.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hoax", bio: "Hoax is a trap metal emcee, DJ, and producer from San Antonio, TX.
+
+In September 2020, he was announced as the newest artist to be affiliated with Shrunken Head Entertainment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/09/hoax.jpg?w=1356&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
