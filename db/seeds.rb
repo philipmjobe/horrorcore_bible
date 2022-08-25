@@ -974,7 +974,19 @@ The success continued to bring more opportunity, including a Halloween festival 
 Artist.create!(name: "F.R.EEZE", bio: "F.R.EEZE, born Blair French, was an emcee signed to the horrorcore label Virus Independent. He has released solo material under various names — Dialtone, DIAL.81, etc — and went on to become a part of the groups Level Jumpers, Formless Figures, and more.
 
 The Detroit native currently makes Electronic, Jazz, and Ambient music under his birth name, is an award winning producer/billboard charts and graphic designer for DEQ Magazine.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/33f906beccc449808d57eb4aad9657d0.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "F. Dux", bio: "With a unique, raspy voice, powerful punchlines and sometimes twisted story telling; F.Dux has certainly taken over the underground rap game. From hangin’ with homies on the block to working with some of the biggest names in the underground scene, Dux has proven that he can hang with the best of em’.
+
+In 2007, Dux joined forces with the Insane Clown Posse for the Tempest Tour, which included Dux, Twiztid and legendary rap group, The X Clan. Performing in front of thousands every night, the feedback from the crowd was insane, and Dux now knew how close he really was to stardom.
+
+In 2008, Dux kicked doors down when he was asked to be on the “Tunnel Runners” CD, a Hatchet House release. With the song “Die 2nite,” Dux contributed an official banger to the project which made its way to the “Top 25 Rap Albums” on the Billboard charts.
+
+In 2009, Dux released an album with Maniac, a South Dakota MC , whose rhymes were very similiar to his.With Maniac also producing all the tracks on the LP, Dux laid all the hooks to this masterpiece that would then be called “Daywalkers: Dead by Dawn”. This 19 track disc has sold close to 2,000 copies in the Midwest and Southeast alone.
+
+Dux’s most recent release “Welcome to Granville” shows his diverse style, from street anthems like “In My Town” Feat Jelly Roll (Wyte Music/Hypnotized Minds) and bangers like “S.U.S” which shows Dux lyrical & metaphorical flows. WTG is Dux 3rd project and is his best work to this day.
+
+And to top off the summer of 2011, F. DUX rocked the stage to a sold out crowd with non other than Tech N9ne, a multi- platinum recording artist who is known for his insane stage antics and amazing performances!
+
+Dux continues to take over Nortn Carolina & the Southeast with monsterous live shows and merch booth that seems to always be surrounded by fans. His Low Life Movement has grown considerably with street teams all over the world and a fan base from Seattle to the ATL.Theres only two words that defy the meaning of Hip Hop and his name is… F.DUX!", image: "https://cdns-images.dzcdn.net/images/cover/f418e7574d849f56d90fdc086df27e22/264x264.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
