@@ -1038,7 +1038,9 @@ Artist.create!(name: "Gravedog", bio: "GRAVEDOG is primarily a horrorccore rap a
 Influenced by death, the mad and macabre, GRAVEDOG’s first official recordings took place in 2007.
 
 While pursuing a career in audio engineering, he decided he liked being on the other side of the console better, as an artist. He’s been recording on and off since ’07, has performed countless shows, and has gone on three national tours.", image: "https://i1.sndcdn.com/avatars-000306022016-gzlorx-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "GraveStoneR", bio: "GraveStoneR, also known as ReaKtion and Professor Kreep is a former horrorcore rapper from Lyndonville, Vermont.
+
+He was active in the early 2000s, releasing several albums on MP3.com. He was also featured in the groups Room 47 (with rapper Chamber) and Da Pumpkin Crew, and did songs with multiple members of the Indiana groups Sycksyde and Phantazm.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/gravestoner.jpg?w=270&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
