@@ -1064,7 +1064,7 @@ Artist.create!(name: "G-Mo Skee", bio: "Provocative rapper G-Mo Skee wove horror
 Born Jaron Johnson in Richmond, California, the Bay Area MC adopted his stage moniker from a childhood nickname, Geronimo, and was influenced as much by Wu-Tang as he was Dragon Ball Z, slasher flicks, and Mortal Kombat. With a style that combined Twiztid, Esham, and early-era Eminem, G-Mo debuted with Hopsin on the track “Shit Bowl” in 2010. He released his own mixtape, Got Filth, in 2011, and its sequel, Got Filth: The Great Adventures of G-Mo, in 2012. The Android FiLFTEEN EP arrived in 2015, produced by C-Lance, the Massachusetts-born in-house producer for Jedi Mind Tricks.
 
 G-Mo signed with Majik Ninja Entertainment and issued My Filthy Spirit Bomb in late 2016. The album debuted in the Billboard 200 and broke into the Top Five of the rap chart. His follow-up, Chaly & The Filth Factory, arrived in 2018 and featured guests Vinnie Paz, Crowda, and Infantry Gang.", image: "https://i.scdn.co/image/ab6761610000e5eb0a308b1b00a7786a6cff051a")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hablando en Plata", bio: "Hablando en Plata (initially known as Hombres del Hampa) is a rap group from Málaga, in Andalusia (southern Spain), made up of Rayka (Juan Peralta, MC and producer), DJ Narko (Jesús Suárez, DJ and producer), Sicario (Miguel Ángel Soler, MC) and Capaz (Rafael Fernández, MC).", image: "https://www.hhgroups.com/imagenes/artistas/hablando-en-plata-artistas.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
