@@ -1056,7 +1056,7 @@ Artist.create!(name: "Grimsin", bio: "Hailing from Anderson IN, Grimsin has been
 Throughout the years, he spent most of his time collaborating with a bunch of artists from central Indiana and being signed under multiple labels, until 2009 when TDKC was reformed with a new label and new members. Stemming from that came The Yes Men and Psycho Academy in early 2010.
 
 In 2012, Grimsin took a sabbatical that lasted until 2018 when The Yes Men re-emerged. He is currently working on a new album, which is slated for 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/grimsin-e1577161143543.jpg?w=399&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Grim Jonez", bio: "Grim Jonez, aka The Necronomicon Don, is an emcee currently signed to Vile House Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/grim-jonez.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
