@@ -1025,7 +1025,9 @@ He has been and is affiliated with Flesruoy Llik/Cult Status/SCWS, Animus, and S
 Artist.create!(name: "The Godfathers", bio: "The Godfathers are a hip hop duo consisting of Kool G Rap and Necro. Their debut album Once Upon a Crime was released on November 19, 2013.
 
 On November 30, 2011, The Godfathers released a digital mix CD, titled, The Pre-Kill. The digital mix consists of fifty previously released songs of Kool G Rap and Necro going back and forth song for song.", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_GodFathers_Promo_Photo.jpg/1200px-The_GodFathers_Promo_Photo.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Goretex", bio: "Mitch Manzanilla, better known by his stage names Goretex, Gore Elohim, and Lord Goat, is a rapper from Long Beach, New York, who, along with fellow Non Phixion member Ill Bill, is credited with pioneering the underground NY Hip Hop scene.
+
+Rapping since the late 80s, he joined the group Non Phixion in the early 1990s, staying with the group until they disbanded in 2004. After, he released two full-length albums, several mix tapes, and has collaborated with musicians from all over the world.", image: "https://i.discogs.com/KZVMn9uGugcXN6lneGBxDxYlFD0TT35DaVIrhxJhmoc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1OTAy/Mi0xNDkxMDM1MDEy/LTYxODQuanBlZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
