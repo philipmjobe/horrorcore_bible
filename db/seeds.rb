@@ -999,7 +999,11 @@ Artist.create!(name: "Geno Cultshit", bio: "5/5/88 - 8/18/15
 Wisconsin Horrorcore Rapper/Singer
 
 Cult Shit 4 Life…. and in death.", image: "https://i.discogs.com/rddwBofhpti0kBD2aD5nIgSbOTxwrDDlvXVPgMamRJ0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNzU5/MjctMTU2MzYxNjA1/MS05MDU1LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ghetto Devil", bio: "Ghetto Devil got his start in the wicked underground with the group UNLV (Unholy Niggaz Livin Vital) with Darkkk Lord and D-Evil on Mentality Records. The three piece Saginaw-based crew focused on sacrilegious lyrics as their primary content, the entire debut EP being produced by KGP (Kapitol G Productionz).
+
+Ghetto Devil, also known as Ghetto Mack, has also worked with other groups including Mizaree, alongside Hasan The Sinister, and the C.O.B.A.N.E. B.O.Y.Z., which consisted of three of his real life brothers.
+
+Later in his career, Mack became an official part of the iconic group Bedlam for their first album in over 10 years, “9.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/ghetto-devil.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
