@@ -962,7 +962,15 @@ Artist.create!(name: "FR66Z6", bio: "Andre Martin (born October 9, 1986), better
 
 In 2017, he released his first LP with Northern Cannibals called Vicious Circle and his own Solo EP in 2018 called The Cold Blooded EP, which are both available on all digital platforms. He has performed in Ontario and all over the Province of Quebec, and has opened and been on tours in his area for international artists like Swollen Members, Madchild, Necro, Demrick, Obie Trice, Adlib, Pimpton, Brothers Grim, Alpha Omega, Snak the Ripper, Joseph Rose, Young Kazh and many more.", image: "https://m.media-amazon.com/images/I/71nAv0-cMZL._SS500_.jpg")
 Artist.create!(name: "Fuckfase", bio: "Fuckfase was a group consisting of emcees Chapel and Diabolical.  The duo released one album under their label Forekast Industrial, which featured popular horrorcore artists Kannibalistik, Q-Strange, and more. They were also known as Sedition for a period of time.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/fuckfase.jpg?w=290&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "F.E.T.U.S.", bio: "Born Daniel Gillespie on October 2, 1986, F.E.T.U.S aka FetusMusik, Blizzy Gillespie, and Danny Drive By is an American born Hip Hop writer, performer, and vocalist from Clearwater, FL.
+
+Beginning his music career in 2002, F.E.T.U.S has crafted a new breed of music that combines Eastcoast flavor and instrumental with Southern influence and Midwest rhyme schemes to keep each verse, and ultimately song, fresh and new feeling. Calling his fans “Abortions,” the Florida native represents a darker and less often seen side of music; a style that has never been given life previously.
+
+Earlier albums such as “Every City’s A Columbine” and “Abortion Theory” showcase an anxious side of the artist, with a general theme of urgency that most believe translates to a thirst for fame and musical acceptance that has been unquenched. Later albums like 2010’s “Deceptikonz” with fellow artist ClaAs show a more laid back acceptance of the music business, from the eyes of a more mature F.E.T.U.S.
+
+In 2011, F DOT and recording group “Akvon” with Psycho Jesus and Lyrikal teamed up with Mad Insanity founder Mars to bring the Gospel Of The Grave Tour to a nationwide audience. Gaining steam from all states involved lead to an electrifying performance at The Gathering of the Juggalos in August of 2011; an annual event hosted by the Insane Clown Posse that has included performances by Tech N9ne, Ice Cube, Busta Rhymes, Mushroomhead, and Bone Thugs N Harmony.
+
+The success continued to bring more opportunity, including a Halloween festival in Dallas with Hopsin and SwizZz, Mars, Grewsum, Akvon, Liquid Assassin, ClaAs and more great underground artists on the lineup.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/fetus.jpg?w=449&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
