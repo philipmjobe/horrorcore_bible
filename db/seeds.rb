@@ -1065,7 +1065,7 @@ Born Jaron Johnson in Richmond, California, the Bay Area MC adopted his stage mo
 
 G-Mo signed with Majik Ninja Entertainment and issued My Filthy Spirit Bomb in late 2016. The album debuted in the Billboard 200 and broke into the Top Five of the rap chart. His follow-up, Chaly & The Filth Factory, arrived in 2018 and featured guests Vinnie Paz, Crowda, and Infantry Gang.", image: "https://i.scdn.co/image/ab6761610000e5eb0a308b1b00a7786a6cff051a")
 Artist.create!(name: "Hablando en Plata", bio: "Hablando en Plata (initially known as Hombres del Hampa) is a rap group from Málaga, in Andalusia (southern Spain), made up of Rayka (Juan Peralta, MC and producer), DJ Narko (Jesús Suárez, DJ and producer), Sicario (Miguel Ángel Soler, MC) and Capaz (Rafael Fernández, MC).", image: "https://www.hhgroups.com/imagenes/artistas/hablando-en-plata-artistas.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Halloween Creepz", bio: "Two monsters of the WICKET SHIT collide and bring you HALLOWEEN all year round!!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/12/halloween-creepz.jpg?w=449&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
