@@ -1067,7 +1067,9 @@ G-Mo signed with Majik Ninja Entertainment and issued My Filthy Spirit Bomb in l
 Artist.create!(name: "Hablando en Plata", bio: "Hablando en Plata (initially known as Hombres del Hampa) is a rap group from Málaga, in Andalusia (southern Spain), made up of Rayka (Juan Peralta, MC and producer), DJ Narko (Jesús Suárez, DJ and producer), Sicario (Miguel Ángel Soler, MC) and Capaz (Rafael Fernández, MC).", image: "https://www.hhgroups.com/imagenes/artistas/hablando-en-plata-artistas.jpg")
 Artist.create!(name: "The Halloween Creepz", bio: "Two monsters of the WICKET SHIT collide and bring you HALLOWEEN all year round!!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/12/halloween-creepz.jpg?w=449&ssl=1")
 Artist.create!(name: "Hard Jawz", bio: "Hard Jawz is an emcee, currently a part of Shrunken Head Entertainment.", image: "https://angartwork.akamaized.net/?id=148007155&size=640")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hasan the Sinister", bio: "Hasan the Sinister is a rapper from Saginaw, MI.
+
+He has released solo albums with Eternal Records and Fallen Entertainment, as well as one group album as Mizaree with Ghetto Devil.", image: "https://f4.bcbits.com/img/a0980101820_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
