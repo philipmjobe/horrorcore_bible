@@ -1009,7 +1009,11 @@ Artist.create!(name: "Ghostemane", bio: "Eric Whitney, professionally known as G
 Ghostemane’s merging of rap and metal gained him popularity on SoundCloud. In 2018, Ghostemane released his seventh studio album, N/O/I/S/E, which was highly anticipated in the underground music scene due to its heavy influence from industrial and nu metal groups.
 
 Lyrically, Ghostemane’s themes focus around occultism, depression, nihilism, and death. He started his career as a musician playing guitar in hardcore punk bands, and drums in doom metal bands. He has stated that his biggest influence is black metal band Bathory. He spent most of his teenage years listening to extreme metal bands such as Deicide, Death, Carcass and Mayhem. In terms of rap music, Ghostemane is influenced by Southern rap groups such as Outkast and Three 6 Mafia. He has also gone on to cite Midwest rap group Bone Thugs-N-Harmony as an early influence", image: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2020/05/ghostemane.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: 'Ghozt Tha Dmented', bio: "Years ago, Cazper Blaque decided to take his own life. In doing this he guaranteed himself an eternal place in Hell. But he tricked the devil himself and was reborn, but as a phantom… A Ghozt. The Devil may have had the last laugh, however. He returned, but his spirit was locked away in a mask. He lay dormant for years until the mask was found by a man named Christopher Evans.
+
+Once he placed the mask on his face, HE BECAME GHOZT THA DMENTED! In a symbiotic relationship, He now walks the Earth his own version of “Purgatory” trapped between the damnation of Hell and the light of Salvation. Sentenced until the end of days, and preaching about the wicked of man and beyond. And collecting souls of the damned along the way… Are his intentions evil? Or are they the way of the light? One thing is for sure, he is the gatekeeper to the other side of your eternal rest. He has many names: Ghozt tha Dmented, The Hades of Horrorcore, The Phantom Don, GTD, The 5th Horseman, The Left hand of Apocalypse, and Cazper Blaque. No matter what name he uses, the day you meet him, just may be your last.
+
+GTD is signed to Brutal Business Entertainment. Check him and his Ghoulz Squad at show near you.", image: "https://cdns-images.dzcdn.net/images/artist/1e6182a2aeff6ff941b095a5fefd8985/500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
