@@ -995,7 +995,10 @@ Artist.create!(name: "Ganxsta N.I.P.", bio: "Ganxsta NIP (formerly Ganksta N-I-P
 Ganxsta N.I.P.’s first album The South Park Psycho was released in 1992. It had no single to promote the album and it charted at #63 on the Top R&B/Hip-Hop Albums. It sold almost 100,000 copies in the area and landed him a deal with Priority Records. His second solo album charted on Billboard chart at #151 and on #30 on the Top R&B/Hip-Hop Albums and #5 on the Top Heatseekers. His style of rap was hardcore gangsta rap with gory lyrical content, which is called horrorcore.
 
 N.I.P. also made a comeback album Still Psycho, 5 years after his last album in 2003. Ganxsta N-I-P’s most recent album, Psych’ Swag: Da Horror Movie, consists of 14 songs and was released on the artist’s own record label Psych Ward Entertainment.", image: "https://s.hdnux.com/photos/32/75/50/7068199/6/ratio3x2_1800.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Geno Cultshit", bio: "5/5/88 - 8/18/15
+Wisconsin Horrorcore Rapper/Singer
+
+Cult Shit 4 Life…. and in death.", image: "https://i.discogs.com/rddwBofhpti0kBD2aD5nIgSbOTxwrDDlvXVPgMamRJ0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNzU5/MjctMTU2MzYxNjA1/MS05MDU1LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
