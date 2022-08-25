@@ -1022,7 +1022,9 @@ Artist.create!(name: "Gizmo", bio: "Gizmo is an up-and-coming trap metal artist.
 Artist.create!(name: "Gloom Rap", bio: "Gloom Rap is a producer and emcee representing the 315, Central New York.
 
 He has been and is affiliated with Flesruoy Llik/Cult Status/SCWS, Animus, and Scumbag Worldwide.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/gloom-rap.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Godfathers", bio: "The Godfathers are a hip hop duo consisting of Kool G Rap and Necro. Their debut album Once Upon a Crime was released on November 19, 2013.
+
+On November 30, 2011, The Godfathers released a digital mix CD, titled, The Pre-Kill. The digital mix consists of fifty previously released songs of Kool G Rap and Necro going back and forth song for song.", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/The_GodFathers_Promo_Photo.jpg/1200px-The_GodFathers_Promo_Photo.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
