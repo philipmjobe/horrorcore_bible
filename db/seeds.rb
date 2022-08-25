@@ -1110,7 +1110,7 @@ Artist.create!(name: "How to Gag a Maggot", bio: "How to Gag a Maggot is King Go
 Artist.create!(name: "Ho99o9", bio: "Ho99o9 (pronounced Horror) is an American hip hop/hardcore punk group founded by theOGM and Eaddy in 2012 in Newark, New Jersey. They relocated to Los Angeles in 2014. They attracted a cult following on account of their live performance, according to the LA Weekly, and began collaborating with Ian Longwell who plays drums and produces for Santigold. In 2016, former Black Flag member Brandon Pertzborn became the band’s drummer.
 
 Loud and Quiet described Ho99o9’s sound as a “seething collision of anarchic hardcore punk rock and industrial charged death rap”. They were one of Rolling Stone’s “10 New Artists You Need to Know” in 2014 and The Guardian’s “New Band of the Week.” They have performed at the Afropunk Festival in 2014, the SXSW Music Festival in 2015 and Primavera Sound Festival in 2016. To date, they have released multiple EPs, accompanied by grindhouse-style music videos, and one full-length album, United States of Horror (2017).", image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Press_image_of_Ho99o9.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Humble Among", bio: "Humble Among is a silly individual, rap advocate, comic book enthusiast, and wrestling mark from Vermont.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/humble-among.jpg?w=1080&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
