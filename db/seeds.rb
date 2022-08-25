@@ -891,7 +891,7 @@ Artist.create!(name: "FamZ and the HooliganZ", bio: "Famz and the Hooliganz are 
 They are the leaders of the Church of 26. The 26 can and will invade your existence… It's your choice to let it complete or deplete you.
 
 Take our hand if you dare and open up your max potential. Follow the 26.", image: "https://f4.bcbits.com/img/0015820438_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fang the Hypnotist", bio: "A demon created on the streets he has risen to become a Demonic Lord; the Demon Lord of Truth, he is on the rise and has big plans for his music career and his label.", image: "https://i.iheart.com/v3/url/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaWhyLWluZ2VzdGlvbi1waXBlbGluZS1wcm9kdWN0aW9uLWRpc3Ryb2tpZC8yMDIyMDcxODA0MzgzNzIwNy8xOTcwODY5Mzg1NDYvcmVzb3VyY2VzLzE5NzA4NjkzODU0Ni5qcGc=?ops=fit(480%2C480)")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
