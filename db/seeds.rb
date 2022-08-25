@@ -950,7 +950,9 @@ Artist.create!(name: "Flock to Murder", bio: "Flock To Murder are a rap duo and 
 We watch the world and tell the story of what is hiding in darkness. We hear your soul and see your evils. We can save you.
 
 Join The Flock", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/flock-to-murder-1.jpg?w=655&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fphaty Garcia", bio: "Adrian Garcia, better known by his stage name Fphaty Garcia, is an American MC. Texas-born and Maryland-bred, Garcia hit the scene in 2004.
+
+He has released various solo projects with different labels including Butchered Beat Productionz and 5th Power Entertainment.", image: "https://i.scdn.co/image/ab67616d0000b2736008ff19c866afa31e37fcc8")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
