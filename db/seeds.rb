@@ -1079,7 +1079,17 @@ Hex has been a huge part of the horrorcore scene for over two decades now with h
 Artist.create!(name: "Hexxx", bio: "Representing the West Coast wicked shit, Hexxx is an emcee from Los Angeles, CA.
 
 In March 2022, it was announced that Hexxx was the newest artist added to Ouija Macc’s Chapter 17 Records.", image: "https://rox-tv.com/wp-content/uploads/2021/02/IMG_4352-2.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hex Rated", bio: "With lyrically aggressive content, diverse production and a unique flow, Hex is currently signed with Denver based horror label Lyrikal Snuff Productionz.
+
+In 2018 alone Hex opened for Jus Allah of Jedi Mind Tricks, Bizarre of D12, Shaggy 2 Dope, Anybody Killa, the Insane Clown Posse, Blaze Ya Dead Homie, Dirtball, Lyte, Ouija Macc, King Gordy as well as playing 2 dates on ICP’s Hallowicked 25th anniversary tour, the Dark Carnival Games con Official Pre Party, Gorefest and Twiztid’s Fright Fest Official After Party in Detroit.
+
+In 2018 Hex was also nominated for “Underground Producer of the Year” by underground news source Faygoluvers.net and finished 4th out of 8 producers.
+
+Also in 2018 Hex released his 3rd solo album ROTTEN featuring artists such as Goretex of hip hop groups Non Phixion and Heavy Metal Kings, Psychopathic Records recording artist Anybody Killa, King Gordy currently signed by Twiztids’ Majik Ninja Entertainment, but can also be heard on several D12 and Bizarre songs as well as featured in the movie 8Mile, Insane Poetry who is a staple of the horror rap community and has been active since the early 90’s with hits like How You Gonna Reason With a Psycho and wrote Vanilla Ice’s OKS as well as many more amazing features, the album hit 10,000 plays on Spotify within it’s first 60 days of release and continues to get a steady stream of plays and listeners.
+
+In various groups and projects Hex has tracks featuring or has been featured on tracks with; Hopsin, Baby Eazy-E, Twisted Insane, King Gordy, Anybody Killa, Goretex of Non Phixion, Bonez Dubb, Insane Poetry, SwizZz, Claas, ClockworC of Gorilla Voltage, Billy Obey and Lee Carver of Alla Xul Elu.
+
+In past years Hex has opened for Tech N9ne, Hopsin, the Insane Clown Posse, Da Mafia Six(Three 6 Mafia), Twiztid, Kottonmouth Kings, hed P.E., Non Phixion, Necro, Slaine, Ill Bill, Q-Unique, R.A. the Rugged Man, Stitches, Esham, Skam2, Kung Fu Vampire, Blaze Ya Dead Homie, Rehab, Anybody Killa, Prozak, Krizz Kalliko, Mayday, Stevie Stone, Kutt Calhoun, Mad Child, Swollen Members, Ces Cru and many many more, as well as playing the 2014 Gathering of the Juggalos and the annual Denver underground show Gorefest since 2009.", image: "https://i.discogs.com/6jmZ-4LDpN_w0nH3mWxYr9zqLOiJEu3xyAsNSwIHfnY/rs:fit/g:sm/q:90/h:499/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5NDk1/OTEtMTU1NjA5ODc3/Ni03ODQzLnBuZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
