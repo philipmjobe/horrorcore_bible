@@ -956,7 +956,7 @@ He has released various solo projects with different labels including Butchered 
 Artist.create!(name: "Franky Frank", bio: "Franky Frank was an original member of horrorcore group SyckSyde.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/franky-frank.jpg?w=300&ssl=1")
 Artist.create!(name: "Franky Grudge", bio: "Franky Grudge is an emcee from Denver, Colorado. He is a founding member of the group Body Bag Syndikate, as well as Dead Media and 1911.", image: "https://rox-tv.com/wp-content/uploads/2020/05/frankgrudgemainpic.jpg")
 Artist.create!(name: "Freaky Mobbig", bio: "Dilshan Sathsara Kuruwita (born April 16, 1997), better known by his stage name Freaky Mobbig, is a Sri Lankan rapper/producer, who introduced horrorcore rap to Sri Lanka.", image: "https://i.scdn.co/image/ab67706c0000da840b19351957f8a278da1a5b7d")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Freewill", bio: "Freewill is a New York based rap duo consisting of recording artists Meth and Mage. The duo have been releasing and performing since 2008-2009. The track “Yao Mang” was the debut Freewill track featured on the Meth Mouth release “American Meth” EP in 2011.", image: "https://static.wikia.nocookie.net/rap-hip-hop/images/0/0e/Freewill.jpg/revision/latest/top-crop/width/360/height/360?cb=20190323002315")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
