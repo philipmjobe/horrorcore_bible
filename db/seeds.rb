@@ -1093,7 +1093,11 @@ In past years Hex has opened for Tech N9ne, Hopsin, the Insane Clown Posse, Da M
 Artist.create!(name: "Hoax", bio: "Hoax is a trap metal emcee, DJ, and producer from San Antonio, TX.
 
 In September 2020, he was announced as the newest artist to be affiliated with Shrunken Head Entertainment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/09/hoax.jpg?w=1356&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hopsin", bio: "Marcus Jamal Hopson, known professionally as Hopsin, is an American rapper, singer, songwriter, record producer, music video director and actor from Los Angeles, California.
+
+Marcus Hopson was born on July 18, 1985 in Los Angeles, and was raised in the largely Hispanic Panorama City neighborhood of Los Angeles. He attended James Monroe High School, where he was placed into special education classes. Hopsin has been an avid skateboarder since the age of twelve, and many of his music videos feature him skateboarding. He started rapping at sixteen years old, and took his hobby more seriously by 2003 which is the year the majority of the tracks from Hopsin’s self-produced album Emurge were recorded. In 2004, Hopsin and a group of friends were arrested for vandalizing James Monroe High School property. It was supposed to be a school prank but later they were all charged and held on $20,000 bail. Hopsin, who dropped out earlier that year, was sent to Los Angeles County Jail where he spent a year. Upon his release in 2005 he began to pursue a career in music, purchased a microphone, and installed FL Studio (known as FruityLoops at the time) on his computer. He credits Eminem as the rapper that initially got him interested in hip hop music.
+
+In 2007, he was signed to Ruthless Records, and had founded his own record label, Funk Volume, in 2009. He would then go on to found another record label, Undercover Prodigy, in 2016. Hopsin has released five studio albums, Gazing at the Moonlight through Ruthless Records, Raw, Knock Madness and Pound Syndrome along with the collaborative project Haywire with SwizZz through Funk Volume and No Shame. He is well known for his use of white colored eye contacts in music videos, performances, and interviews.", image: "https://static.hiphopdx.com/2014/12/Hopsin_12-17-2014.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
