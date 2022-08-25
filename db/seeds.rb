@@ -1114,7 +1114,9 @@ Artist.create!(name: "Humble Among", bio: "Humble Among is a silly individual, r
 Artist.create!(name: "Hurracane", bio: "Hurracane is a chopper from Kansas City, Missouri. He has been praised by Tech N9ne as one of the best to come from KC, which is Tech’s hometown. He has worked with choppers such as Twisted Insane, Dalima, Crucified and D-Loc the Gill God. Hurracane is part of Subliminal Music Group and has an in-house producer, SmartAlec.
 
 Hurracane used to go by Hurricane, but had to switch the I out for an A due to copyright of another artist under the same name.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/hurracane.jpg?w=425&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hyde Six", bio: "Hyde Six is a rapper from Cincinnati, OH.
+
+Hyde Six is the founder of Negative 13 Productions and has been part of the horrorcore scene for nearly two decades", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/hyde-six.jpg?w=300&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
