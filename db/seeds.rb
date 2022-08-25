@@ -919,7 +919,7 @@ They released the 2 Fat, 2 Furious mixtape to positive reactions throughout Detr
 
 They were finally treated to the full-length they had been waiting for: on March 15th, 2005, Guess Who's Coming To Dinner? was released. Featuring production from hard hitters such as Denaun Porter (D-12, 50 Cent, Young Buck) and B.R. Gunna (Slum Village), Guess Who's Coming To Dinner? displays the Fat Killahz dynamic song writing, vivid street savvy lyrical poetry, and comedic wit. With a distribution plan in place, hip-hop heads across the country better prepare themselves to deal with the world's largest group. Fatt Killahz are currently working on their sophomore album titled Fat Tuesday.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/51c7885964354b63b64d7fa1d9275340.jpg")
 Artist.create!(name: "Fetal Autopsy", bio: "Fetal Autopsy is a Death Metal musician from Oklahoma. He is the founder of Meathook Records and also one half of the rap duo Dead Body Disposal Unit.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/fetal-autopsy.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fetish Solo", bio: "Fetish Solo is a rapper from Germany who focuses on fetish related themes and imagery.", image: "https://i.discogs.com/gfw31bMu3D02_yKSjBLBkFeSOzkTVvxQYY8qQ6HKO7I/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3OTAx/ODQtMTU3NTU5ODQx/Mi0yMTU1LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
