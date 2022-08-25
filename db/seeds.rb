@@ -953,7 +953,7 @@ Join The Flock", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads
 Artist.create!(name: "Fphaty Garcia", bio: "Adrian Garcia, better known by his stage name Fphaty Garcia, is an American MC. Texas-born and Maryland-bred, Garcia hit the scene in 2004.
 
 He has released various solo projects with different labels including Butchered Beat Productionz and 5th Power Entertainment.", image: "https://i.scdn.co/image/ab67616d0000b2736008ff19c866afa31e37fcc8")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Franky Frank", bio: "Franky Frank was an original member of horrorcore group SyckSyde.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/franky-frank.jpg?w=300&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
