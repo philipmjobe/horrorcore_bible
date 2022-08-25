@@ -1071,7 +1071,7 @@ Artist.create!(name: "Hasan the Sinister", bio: "Hasan the Sinister is a rapper 
 
 He has released solo albums with Eternal Records and Fallen Entertainment, as well as one group album as Mizaree with Ghetto Devil.", image: "https://f4.bcbits.com/img/a0980101820_10.jpg")
 Artist.create!(name: "HB The Grizzly", bio: "Roaring from the depths of the underground woke a beast named HB The Grizzly. Originally from Muskegon, MI, now living in Detroit, MI, she reps the powerhouse team known as Shrunken Head Entertainment.", image: "https://rox-tv.com/wp-content/uploads/2021/03/hbgrizzly-e1615995877483-688x485.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Hellbound Disciplez", bio: "Hellbound Disciplez is a group consisting of emcees Crazy 8 the Snap Case and Lord K-Haos. As a group, the duo are part of the Horrorcrunk Entertainment roster.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/hellbound-disciplez.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
