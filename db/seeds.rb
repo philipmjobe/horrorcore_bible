@@ -971,7 +971,9 @@ Earlier albums such as “Every City’s A Columbine” and “Abortion Theory�
 In 2011, F DOT and recording group “Akvon” with Psycho Jesus and Lyrikal teamed up with Mad Insanity founder Mars to bring the Gospel Of The Grave Tour to a nationwide audience. Gaining steam from all states involved lead to an electrifying performance at The Gathering of the Juggalos in August of 2011; an annual event hosted by the Insane Clown Posse that has included performances by Tech N9ne, Ice Cube, Busta Rhymes, Mushroomhead, and Bone Thugs N Harmony.
 
 The success continued to bring more opportunity, including a Halloween festival in Dallas with Hopsin and SwizZz, Mars, Grewsum, Akvon, Liquid Assassin, ClaAs and more great underground artists on the lineup.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/fetus.jpg?w=449&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "F.R.EEZE", bio: "F.R.EEZE, born Blair French, was an emcee signed to the horrorcore label Virus Independent. He has released solo material under various names — Dialtone, DIAL.81, etc — and went on to become a part of the groups Level Jumpers, Formless Figures, and more.
+
+The Detroit native currently makes Electronic, Jazz, and Ambient music under his birth name, is an award winning producer/billboard charts and graphic designer for DEQ Magazine.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/33f906beccc449808d57eb4aad9657d0.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
