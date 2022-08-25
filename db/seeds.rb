@@ -1033,7 +1033,11 @@ Artist.create!(name: "Gorilla Voltage", bio: "Hailing from San Jose, California,
 Gorilla Voltage was founded under the name the Damn Dirty Apes, and the duo self-released an album under that name in 2015. As it happened, at least two other bands were already using the name “the Damn Dirty Apes,” so they adopted the new handle Gorilla Voltage. By this time, ClockworC and Mr. Grey had found mentors in established Juggalo rap act Twiztid, who took the group on tour as their opening act.
 
 In 2017, after Twiztid formed their own label, Majik Ninja Entertainment, Gorilla Voltage were added to their roster. Their first album under their new name, Ape-X, arrived in February 2017, followed in early 2019 by Gods and Claws. The group confirmed that they were no more, shortly after.", image: "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/a6/32/06/a6320633-24ab-e5fa-fa2c-3e681459c0b3/0.jpg/1200x1200bf-60.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Gravedog", bio: "GRAVEDOG is primarily a horrorccore rap artist out of Socorro, NM.
+
+Influenced by death, the mad and macabre, GRAVEDOG’s first official recordings took place in 2007.
+
+While pursuing a career in audio engineering, he decided he liked being on the other side of the console better, as an artist. He’s been recording on and off since ’07, has performed countless shows, and has gone on three national tours.", image: "https://i1.sndcdn.com/avatars-000306022016-gzlorx-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
