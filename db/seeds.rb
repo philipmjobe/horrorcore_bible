@@ -1124,7 +1124,7 @@ H8TRiD started in a group called PeR-VeRSe in 2004. In 2005 they put out an EP e
 Since 2007, H8TRiD has dropped an EP, “Suprise Entrance,” and three albums with fellows S2R label mates, “Movement” Vol. 1-3. His highly anticipated “Personal Vendetta LP” dropped in 2009 which majorly helped to give H8TRiD a name for himself in the rap game which its very positive reviews. It featured such artist as King Magnetic (of AOTP), Intrinzik, T.O.N.E-z, Ill E. Gal, Delusional, S2R & More!! Most recently H8TRiD released a full length mixtape entitled “Weapon VIII” for free, as a way to reach new fans, thank old ones and a chance to experiment with a bunch of different styles.
 
 When not doing his own music H8TRiD runs SideStream Records (S2R), which has become one of the most known underground labels to ever come from PA. The current roster includes, Phatal, R.E.G., Optymus, and N3Bo. S2R has helped past artists get a major start such as Whitney Peyton, D-RaNGD, Durte & Methotical.", image: "https://i.scdn.co/image/ab6761610000e5eb83dd69efbfbcae2663801909")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Icepick Willie", bio: "Icepick Willie is an emcee from Anderson, IN. He is a founding member of the group SyckSyde and can also be heard rapping under the alias of Kemosabe as part of the Midwest Suspex.", image: "https://f4.bcbits.com/img/a1072868987_65")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
