@@ -876,7 +876,15 @@ Artist.create!(name: "Fallguy", bio: "Fallguy was a rap rock/metal group from Ph
 The handful of dates the band performed on quickly gained them a cult following as fans began showing up wearing ski masks, Intrinzik's trademarked disguise. The now three piece band went on to penetrate the underground rap market with the release of their 2003 self titled EP which contained the memorable anthem “Getchyoskimaskon.”
 
 Fallguy continued to do shows in the southwest including the South By Southwest festival in both 2002 and 2003 opening up showcases featuring Mushroomhead, Anybody Killa, and Zug Izland. The band disassembled in 2004 shortly after the release of their biggest release to date entitled “Apocalypse 6T7” that gained the band a distribution in Japan via RB-Records.com. The number 67 was used by fans to call out the letters F and G. Lead guitarist Driver Williams went on to join country music star Eric Church's band and rhythm player Joe Dank moved to Chicago, IL to work in marketing for a Randall Amplifiers.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/fallguy.jpg?w=300&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fame the H.O.F", bio: "Fame the H.O.F is an underground hip hop horrorcore artist from Georgia and a member of Hex Mob Family Ent Hexassociates.
+
+Fame the H.O.F stands for “Fame the Horror, Orgies, Freaks.” He is also known as Wicked Fuckin Jesus, but that's a whole different side of his mind.
+
+His style of music is the flash of mainstream spit with a wicked tongue under diamonds rockin' the graveyard.
+
+Standin on cloud 9.
+
+Whoop Whoop", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/fame-the-hof.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
