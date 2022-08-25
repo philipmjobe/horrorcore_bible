@@ -921,7 +921,7 @@ They were finally treated to the full-length they had been waiting for: on March
 Artist.create!(name: "Fetal Autopsy", bio: "Fetal Autopsy is a Death Metal musician from Oklahoma. He is the founder of Meathook Records and also one half of the rap duo Dead Body Disposal Unit.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/fetal-autopsy.jpg?w=450&ssl=1")
 Artist.create!(name: "Fetish Solo", bio: "Fetish Solo is a rapper from Germany who focuses on fetish related themes and imagery.", image: "https://i.discogs.com/gfw31bMu3D02_yKSjBLBkFeSOzkTVvxQYY8qQ6HKO7I/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3OTAx/ODQtMTU3NTU5ODQx/Mi0yMTU1LmpwZWc.jpeg")
 Artist.create!(name: "Fetuseater", bio: "Fetuseater is a brutal horrorcore and gore rap artist from Flint, MI. Originally known as MC Fetuseater and later as SNUFFGXD (for one track released on a compilation), Fetuseater has released music since the Fall of 2013.", image: "https://f4.bcbits.com/img/0001988732_24.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Fiasco Andretti", bio: "Fiasco Andretti, or simply Fiasco, is an emcee and producer from Denver, CO. He is also a co-owner of Lyrikal Snuff Productionz and has released multiple solo projects with the label, as well as three LPs and one mixtape with Kill The Carver, as Death4Told.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/186d43a3cbb34953c9b0e72696fe2b3e.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
