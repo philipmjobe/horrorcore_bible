@@ -1059,7 +1059,11 @@ In 2012, Grimsin took a sabbatical that lasted until 2018 when The Yes Men re-em
 Artist.create!(name: "Grim Jonez", bio: "Grim Jonez, aka The Necronomicon Don, is an emcee currently signed to Vile House Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/grim-jonez.jpg?w=450&ssl=1")
 Artist.create!(name: "Grim Moses", bio: "Grim Moses, born Austin Moore, is an emcee and producer from Phoenix, AZ. He is also a member of the hip hop collective The Society of Invisibles.", image: "https://i1.sndcdn.com/avatars-tJOefPpdOkmvKx3n-SoMynQ-t500x500.jpg")
 Artist.create!(name: "Grim Smilezz", bio: "I do music about my life and struggles I’ve dealt with and overcome and demons I’m still fighting with to this day. Ask yourself if your music don’t got your heart poured into it, is it really music?", image: "https://cdns-images.dzcdn.net/images/artist/4fc1b353ce7a8d092ca114b848492910/264x264.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "G-Mo Skee", bio: "Provocative rapper G-Mo Skee wove horror, humor, and audaciously filthy content into his tight bars, which were developed by years of underground rap battles. He is a member of the Infantry Gang crew and one of the purveyors of a style he called “Filth.”
+
+Born Jaron Johnson in Richmond, California, the Bay Area MC adopted his stage moniker from a childhood nickname, Geronimo, and was influenced as much by Wu-Tang as he was Dragon Ball Z, slasher flicks, and Mortal Kombat. With a style that combined Twiztid, Esham, and early-era Eminem, G-Mo debuted with Hopsin on the track “Shit Bowl” in 2010. He released his own mixtape, Got Filth, in 2011, and its sequel, Got Filth: The Great Adventures of G-Mo, in 2012. The Android FiLFTEEN EP arrived in 2015, produced by C-Lance, the Massachusetts-born in-house producer for Jedi Mind Tricks.
+
+G-Mo signed with Majik Ninja Entertainment and issued My Filthy Spirit Bomb in late 2016. The album debuted in the Billboard 200 and broke into the Top Five of the rap chart. His follow-up, Chaly & The Filth Factory, arrived in 2018 and featured guests Vinnie Paz, Crowda, and Infantry Gang.", image: "https://i.scdn.co/image/ab6761610000e5eb0a308b1b00a7786a6cff051a")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
