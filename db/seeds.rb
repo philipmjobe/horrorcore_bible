@@ -944,7 +944,7 @@ Initially they did not wear masks; The masks started to come into play in late 2
 Flesruoy Llik has had an insane amount of lineup changes and collaborators that have come and gone and sometimes came back again, but the core of the group was always the two Jeremys, and Joey Martian (Vyce/Gloom Rap).
 
 Live shows have been very violent with self-harm and members causing harm to each other (staple guns, kendo sticks, steel chairs, body slams on thumb tacks) and sometimes even using the weapons on willing participants of the crowd. Dr. X has been known to staple dollar bills to his ball sack at shows.", image: "https://f4.bcbits.com/img/0015648086_25.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "FlipFlop The Clown", bio: "FlipFlop The Clown is a clown with an extreme foot fetish. He has a foot fetish rap song called “Feet On My Face” that became an instant hit amongst both the juggalo & fetish community. FlipFlop The Clown was born with his foot fetish and loves spreading foot fetish awareness by traveling the country and sucking on toes from different zip codes.", image: "https://i.scdn.co/image/ab6761610000e5eb6172ed66dff74bee34cfda59")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
