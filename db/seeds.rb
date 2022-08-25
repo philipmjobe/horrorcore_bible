@@ -923,7 +923,9 @@ Artist.create!(name: "Fetish Solo", bio: "Fetish Solo is a rapper from Germany w
 Artist.create!(name: "Fetuseater", bio: "Fetuseater is a brutal horrorcore and gore rap artist from Flint, MI. Originally known as MC Fetuseater and later as SNUFFGXD (for one track released on a compilation), Fetuseater has released music since the Fall of 2013.", image: "https://f4.bcbits.com/img/0001988732_24.jpg")
 Artist.create!(name: "Fiasco Andretti", bio: "Fiasco Andretti, or simply Fiasco, is an emcee and producer from Denver, CO. He is also a co-owner of Lyrikal Snuff Productionz and has released multiple solo projects with the label, as well as three LPs and one mixtape with Kill The Carver, as Death4Told.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/186d43a3cbb34953c9b0e72696fe2b3e.jpg")
 Artist.create!(name: "Filthography", bio: "After Their first release back in 2003, The Passion Of Filth, Filthography as a group didn't release anything for 9 years. Both KARDIAC and E.coli went off to do their own thing and released many solo albums since then. It wasn't till 2013 when they linked up again. For one week they made it their mission to create another group project only this time all the beats were produced by KARDIAC. E.coli came out for about a week and they didn't stop until it was completed.", image: "https://f4.bcbits.com/img/a2664490510_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Firing Squad", bio: "Firing Squad is a rap duo consisting of Brainsick Muzik artists, Z and Dikulz. They combine both of their screechy and gritty deliveries to give the listeners a very aggressive and eerie experience. They murder dark boom-bap beats with either normal pace flows or a faster chopper flow.
+
+Redro Killson used to be part of this group, until 2016 when Twisted Insane kicked him from Brainsick Muzik for talking bad on Twisted for no reason.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/firing-squad.jpg?w=1036&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
