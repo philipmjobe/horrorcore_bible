@@ -1004,7 +1004,11 @@ Artist.create!(name: "Ghetto Devil", bio: "Ghetto Devil got his start in the wic
 Ghetto Devil, also known as Ghetto Mack, has also worked with other groups including Mizaree, alongside Hasan The Sinister, and the C.O.B.A.N.E. B.O.Y.Z., which consisted of three of his real life brothers.
 
 Later in his career, Mack became an official part of the iconic group Bedlam for their first album in over 10 years, “9.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/ghetto-devil.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ghostemane", bio: "Eric Whitney, professionally known as Ghostemane or alternatively as Baader-Meinhof, Swearr, Limsa Lominsa or GASM, is an American rapper, singer, and songwriter. Originally growing up in Florida, Ghostemane started out playing in local hardcore punk and doom metal bands. He moved to Los Angeles, California after starting his career as a rapper.
+
+Ghostemane’s merging of rap and metal gained him popularity on SoundCloud. In 2018, Ghostemane released his seventh studio album, N/O/I/S/E, which was highly anticipated in the underground music scene due to its heavy influence from industrial and nu metal groups.
+
+Lyrically, Ghostemane’s themes focus around occultism, depression, nihilism, and death. He started his career as a musician playing guitar in hardcore punk bands, and drums in doom metal bands. He has stated that his biggest influence is black metal band Bathory. He spent most of his teenage years listening to extreme metal bands such as Deicide, Death, Carcass and Mayhem. In terms of rap music, Ghostemane is influenced by Southern rap groups such as Outkast and Three 6 Mafia. He has also gone on to cite Midwest rap group Bone Thugs-N-Harmony as an early influence", image: "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2020/05/ghostemane.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
