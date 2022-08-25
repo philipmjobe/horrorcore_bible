@@ -886,7 +886,11 @@ Standin on cloud 9.
 
 Whoop Whoop", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/fame-the-hof.jpg?w=400&ssl=1")
 Artist.create!(name: "FamZ", bio: "FamZ is an emcee and vocalist from Southern West Virginia. He is a member of FamZ and the HooliganZ.", image: "https://static.wixstatic.com/media/693cc0_3d86327095d94cf489cae32dc3f9706f~mv2.jpg/v1/fill/w_560,h_560,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/693cc0_3d86327095d94cf489cae32dc3f9706f~mv2.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "FamZ and the HooliganZ", bio: "Famz and the Hooliganz are a hip hop and metal influenced band based out of Southern West Virginia.
+
+They are the leaders of the Church of 26. The 26 can and will invade your existence… It's your choice to let it complete or deplete you.
+
+Take our hand if you dare and open up your max potential. Follow the 26.", image: "https://f4.bcbits.com/img/0015820438_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
