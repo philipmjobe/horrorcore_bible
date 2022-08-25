@@ -1050,7 +1050,7 @@ Artist.create!(name: "Grave-Bait", bio: "A non-stop hell-ride through your aural
 Artist.create!(name: "GrewSum", bio: "GrewSum is a rapper from Iowa. He has released many solo albums and has been a part of various groups including the IA Boyz, Labaholics, and The Trailer Park Boyz.
 
 GrewSum has also been an integral part of Misson:Infect and once owned and operated his own label, PRONE Records, with multiple underground artists filling out the roster.", image: "https://i.scdn.co/image/ab6761610000e5eb01397c68dc3e4cc2177ef71c")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "GrimBurton", bio: "Grimburton, aka Grim B, is a self hating, suicide spitting MC with more creep to his flow than Beetlejuice fucking Wednesday Addams.", image: "https://i1.sndcdn.com/avatars-DPJpOPdyKFtpzrHR-PutvBQ-t240x240.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
