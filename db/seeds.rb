@@ -1028,7 +1028,11 @@ On November 30, 2011, The Godfathers released a digital mix CD, titled, The Pre-
 Artist.create!(name: "Goretex", bio: "Mitch Manzanilla, better known by his stage names Goretex, Gore Elohim, and Lord Goat, is a rapper from Long Beach, New York, who, along with fellow Non Phixion member Ill Bill, is credited with pioneering the underground NY Hip Hop scene.
 
 Rapping since the late 80s, he joined the group Non Phixion in the early 1990s, staying with the group until they disbanded in 2004. After, he released two full-length albums, several mix tapes, and has collaborated with musicians from all over the world.", image: "https://i.discogs.com/KZVMn9uGugcXN6lneGBxDxYlFD0TT35DaVIrhxJhmoc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1OTAy/Mi0xNDkxMDM1MDEy/LTYxODQuanBlZw.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Gorilla Voltage", bio: "Hailing from San Jose, California, Gorilla Voltage were a hip-hop group who proved Juggalo-friendly horrorcore rap is hardly confined to the Midwest. Gorilla Voltage featured MCs ClockworC and Mr. Grey; the latter also engineers and sometimes produces their studio recordings, and released a solo album in 2012.
+
+Gorilla Voltage was founded under the name the Damn Dirty Apes, and the duo self-released an album under that name in 2015. As it happened, at least two other bands were already using the name “the Damn Dirty Apes,” so they adopted the new handle Gorilla Voltage. By this time, ClockworC and Mr. Grey had found mentors in established Juggalo rap act Twiztid, who took the group on tour as their opening act.
+
+In 2017, after Twiztid formed their own label, Majik Ninja Entertainment, Gorilla Voltage were added to their roster. Their first album under their new name, Ape-X, arrived in February 2017, followed in early 2019 by Gods and Claws. The group confirmed that they were no more, shortly after.", image: "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/a6/32/06/a6320633-24ab-e5fa-fa2c-3e681459c0b3/0.jpg/1200x1200bf-60.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
