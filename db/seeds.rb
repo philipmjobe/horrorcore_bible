@@ -1047,7 +1047,9 @@ The Plott Thickens charted #95 on the Billboard Top R&B/Hip-Hop Albums chart its
 
 Grave Plott split up in 2008 and Killa C (Dirty Thug Recordz) & Liquid Assassin (42 Records) are doing solo albums.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/886edee75bf94966becbbf6a696f913a.jpg")
 Artist.create!(name: "Grave-Bait", bio: "A non-stop hell-ride through your aural receptors. Dark industrial inspired horrorcore beats heat welded and fused inextricably with glitched-out synthesizers. Inlaid with brain-scathing vocals and thought-provoking lyrics, Grave-Bait is always sure to leave you dying for more.", image: "https://cdns-images.dzcdn.net/images/artist/b09eddc297229f203bb9fa0f8ecb5dc2/500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "GrewSum", bio: "GrewSum is a rapper from Iowa. He has released many solo albums and has been a part of various groups including the IA Boyz, Labaholics, and The Trailer Park Boyz.
+
+GrewSum has also been an integral part of Misson:Infect and once owned and operated his own label, PRONE Records, with multiple underground artists filling out the roster.", image: "https://i.scdn.co/image/ab6761610000e5eb01397c68dc3e4cc2177ef71c")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
