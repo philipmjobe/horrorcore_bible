@@ -926,7 +926,11 @@ Artist.create!(name: "Filthography", bio: "After Their first release back in 200
 Artist.create!(name: "Firing Squad", bio: "Firing Squad is a rap duo consisting of Brainsick Muzik artists, Z and Dikulz. They combine both of their screechy and gritty deliveries to give the listeners a very aggressive and eerie experience. They murder dark boom-bap beats with either normal pace flows or a faster chopper flow.
 
 Redro Killson used to be part of this group, until 2016 when Twisted Insane kicked him from Brainsick Muzik for talking bad on Twisted for no reason.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/firing-squad.jpg?w=1036&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Flatlinerz", bio: "Flatlinerz is a horrorcore group from New York City. They are responsible for introducing the term “horrorcore” with their 1994 release U.S.A. (Under Satan's Authority).
+
+The group is Redrum (Jamel Simmons, nephew of Russell Simmons) and two other emcees: Gravedigger and Tempest. FLM was an extension of the Flatlinerz (Flatline Massive) which included artists Butter, Mayhem, and OMN999 (Omen).
+
+Def Jam targeted the Flatlinerz as an alternative to Gangsta Rap, which was dominating hip hop music at that time.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/84a39476e9b065ccd3b224e8dccefe04.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
