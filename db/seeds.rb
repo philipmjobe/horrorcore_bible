@@ -1070,7 +1070,7 @@ Artist.create!(name: "Hard Jawz", bio: "Hard Jawz is an emcee, currently a part 
 Artist.create!(name: "Hasan the Sinister", bio: "Hasan the Sinister is a rapper from Saginaw, MI.
 
 He has released solo albums with Eternal Records and Fallen Entertainment, as well as one group album as Mizaree with Ghetto Devil.", image: "https://f4.bcbits.com/img/a0980101820_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "HB The Grizzly", bio: "Roaring from the depths of the underground woke a beast named HB The Grizzly. Originally from Muskegon, MI, now living in Detroit, MI, she reps the powerhouse team known as Shrunken Head Entertainment.", image: "https://rox-tv.com/wp-content/uploads/2021/03/hbgrizzly-e1615995877483-688x485.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
