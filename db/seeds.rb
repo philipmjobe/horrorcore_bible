@@ -1014,7 +1014,9 @@ Artist.create!(name: 'Ghozt Tha Dmented', bio: "Years ago, Cazper Blaque decided
 Once he placed the mask on his face, HE BECAME GHOZT THA DMENTED! In a symbiotic relationship, He now walks the Earth his own version of “Purgatory” trapped between the damnation of Hell and the light of Salvation. Sentenced until the end of days, and preaching about the wicked of man and beyond. And collecting souls of the damned along the way… Are his intentions evil? Or are they the way of the light? One thing is for sure, he is the gatekeeper to the other side of your eternal rest. He has many names: Ghozt tha Dmented, The Hades of Horrorcore, The Phantom Don, GTD, The 5th Horseman, The Left hand of Apocalypse, and Cazper Blaque. No matter what name he uses, the day you meet him, just may be your last.
 
 GTD is signed to Brutal Business Entertainment. Check him and his Ghoulz Squad at show near you.", image: "https://cdns-images.dzcdn.net/images/artist/1e6182a2aeff6ff941b095a5fefd8985/500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Gibby Stites", bio: "Gibby Stites is an emcee from NJ.
+
+In November of 2020, it was announced that he would be releasing music with Twiztid’s Majik Ninja Entertainment. After releasing two projects with the label, Gibby was moved to the Alumni page of the official MNE site, and plans to once again release music independently.", image: "https://i0.wp.com/www.iconvsicon.com/wp-content/uploads/2021/09/Gibby-Stites-2021-MNE.jpg?resize=800%2C1160&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
