@@ -931,7 +931,19 @@ Artist.create!(name: "Flatlinerz", bio: "Flatlinerz is a horrorcore group from N
 The group is Redrum (Jamel Simmons, nephew of Russell Simmons) and two other emcees: Gravedigger and Tempest. FLM was an extension of the Flatlinerz (Flatline Massive) which included artists Butter, Mayhem, and OMN999 (Omen).
 
 Def Jam targeted the Flatlinerz as an alternative to Gangsta Rap, which was dominating hip hop music at that time.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/84a39476e9b065ccd3b224e8dccefe04.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Flesruoy Llik", bio: "Flesruoy Llik was started in 2006 by two friends, both named Jeremy, Sick Oh/Red and J Sawedoff/Dr. X in Oriskany, NY.
+
+Vyce became a member around 2009 and the musical quality started to improve. He rapped and mixed most of the songs from 2010 on.
+
+Around that time, Vyce and J Sawedoff started a side project called Cult Status, that released four EPs from 2010-2014. The third Cult Status EP featured God of Fertility as a member, and the fourth EP featured Frostbite as a member. 90% of the production on these albums was done by Vyce.
+
+J Sawedoff was also B-Cide's hypeman for a brief period of time in 2009-10.
+
+Initially they did not wear masks; The masks started to come into play in late 2009, and then in 2012 they picked up the luchadore masks and gained new stage personas with them.
+
+Flesruoy Llik has had an insane amount of lineup changes and collaborators that have come and gone and sometimes came back again, but the core of the group was always the two Jeremys, and Joey Martian (Vyce/Gloom Rap).
+
+Live shows have been very violent with self-harm and members causing harm to each other (staple guns, kendo sticks, steel chairs, body slams on thumb tacks) and sometimes even using the weapons on willing participants of the crowd. Dr. X has been known to staple dollar bills to his ball sack at shows.", image: "https://f4.bcbits.com/img/0015648086_25.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
