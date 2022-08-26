@@ -1129,7 +1129,7 @@ Artist.create!(name: "ICE-PIC", bio: "Ice-Pic was a horrorcore rapper who was a 
 Artist.create!(name: "II Rel", bio: "II Rel is an emcee from Anderson, IN. He is the alter ego of horrorcore rapper Bob E. Nite.
 
 II Rel has released several solo projects throughout his 20+ years in the scene, as well as group releases with Midwest Suspex, Panty Raidaz, etc.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/ii-rel.jpg?w=922&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ikabod Krayne", bio: "Ikabod Krayne is a recording artist/rapper with a gritty hiphop style laced with a metal twist. Spitting bars about life and the constant battle with his inner demons, Ikabod Krayne will take you on a deep journey full of crazy mishaps.", image: "https://source.boomplaymusic.com/group1/M19/54/BB/rBEehl6xDsGAGUVSAACu9vYG02g048.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
