@@ -1205,7 +1205,9 @@ Possessing her first microphone at the young age of 11 given to her by her fathe
 Jade began to develop her signature sound self-titled as “GothHop,” which is the genre she used to describe most of her music. Her music puts a dark Gothic vibe on the hardships some undergo in their life span, discussing sensitive topics such as rape, murder, poverty, depression, racism and many more. Jade’s take on music has grown into something beyond just a black girl writing raps in her mothers house.
 
 Jade is in the early stages of her company “Death Delight Creations Inc.” as well as her independently owned record label “GothHop Empire Ent.” She has accomplished a lot before even hitting 20 years old, as of 2018. At the time of this bio, Jade has released three complete full-length self-released albums as well as one EP. She has worked with 50 other artists in and out of the United States. She has also signed with two small record labels including Unforgiven Records (2015-2016) and Pariah Music Ent (2017-present).", image: "https://i1.sndcdn.com/avatars-OfB6lHcfUg4pANYY-yYoTAw-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jakprogresso", bio: "Jakprogresso (also known as Jak Tripper) has been making music for over 20 years. He came up in the New York underground rap scene, in the early 2000s, and was a staple of the johnny23 record label for many years, before his own endeavor, ‘Blak Church Records’, and a brief stint on Goretex’s label, ‘Supercoven.’
+
+Jak has collaborated with many other underground artists. Jak battle raps frequently and also livestreams his podcast on Facebook and YouTube.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/25d5b573d9849b58105d3189565eeb65.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
