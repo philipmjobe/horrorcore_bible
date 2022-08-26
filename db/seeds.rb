@@ -1126,7 +1126,9 @@ Since 2007, H8TRiD has dropped an EP, “Suprise Entrance,” and three albums w
 When not doing his own music H8TRiD runs SideStream Records (S2R), which has become one of the most known underground labels to ever come from PA. The current roster includes, Phatal, R.E.G., Optymus, and N3Bo. S2R has helped past artists get a major start such as Whitney Peyton, D-RaNGD, Durte & Methotical.", image: "https://i.scdn.co/image/ab6761610000e5eb83dd69efbfbcae2663801909")
 Artist.create!(name: "Icepick Willie", bio: "Icepick Willie is an emcee from Anderson, IN. He is a founding member of the group SyckSyde and can also be heard rapping under the alias of Kemosabe as part of the Midwest Suspex.", image: "https://f4.bcbits.com/img/a1072868987_65")
 Artist.create!(name: "ICE-PIC", bio: "Ice-Pic was a horrorcore rapper who was a part of a number of groups including AsyluM and Crimson Bile. Changing his style with each release, he eventually left the hip hop genre all together to focus on his newest venture, a band called Reverse the Silence.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/ice-pic-1.jpg?w=770&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "II Rel", bio: "II Rel is an emcee from Anderson, IN. He is the alter ego of horrorcore rapper Bob E. Nite.
+
+II Rel has released several solo projects throughout his 20+ years in the scene, as well as group releases with Midwest Suspex, Panty Raidaz, etc.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/ii-rel.jpg?w=922&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
