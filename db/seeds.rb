@@ -1151,7 +1151,9 @@ Artist.create!(name: "Infamuz Blayze", bio: "Infamuz Blayze (aka VileBeats) was 
 
 He worked with many known artists in the horrorcore and devil shyt scenes.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/infamuz-blaze.jpg?w=600&ssl=1")
 Artist.create!(name: "Insane E", bio: "Insane E is an emcee and graphic designer from Ohio. He has released numerous albums and is currently working with Twiztid’s Majik Ninja Entertainment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/insane-e.jpg?w=379&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Insane Loc", bio: "Insane Loc is an emcee from San Antonio, TX. He has been a member of the Brutal Brotherhood collective and is the owner and operator of Psychotic Products.
+
+In August of 2022, it was announced that Insane Loc had officially joined the Shrunken Head Entertainment roster.", image: "https://i.discogs.com/x-BWU8nCLnRtymqwv1utX1ZPO7XuHtjmlv0hQGZSF_U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUy/MDE1LTE1NDMxNzk3/ODEtNDIyNS5qcGVn.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
