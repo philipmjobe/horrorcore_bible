@@ -1155,7 +1155,7 @@ Artist.create!(name: "Insane Loc", bio: "Insane Loc is an emcee from San Antonio
 
 In August of 2022, it was announced that Insane Loc had officially joined the Shrunken Head Entertainment roster.", image: "https://i.discogs.com/x-BWU8nCLnRtymqwv1utX1ZPO7XuHtjmlv0hQGZSF_U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUy/MDE1LTE1NDMxNzk3/ODEtNDIyNS5qcGVn.jpeg")
 Artist.create!(name: "Insane Poetry", bio: "Insane Poetry was one of the original innovators of horrorcore (which the group called the Terrifying Style before the former term took hold), a style of hip-hop that used horror-movie imagery and heavy doses of gore to make social commentary about American society. However, while horrorcore hip-hop went out of favor in the late 1990s, it continues in this vein to the present day.", image: "https://i.discogs.com/60TkIgw6cFyb__btrG96W1R6DpEcBs2kd-5Ht346W20/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Mzc2/NS0xMjMzMTE1OTI3/LnBuZw.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Insan0", bio: "Insan0 was an Australian rapper and producer who has worked with various underground veterans including Cap One of Simken Heights.", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnJyFZ57qO0LSmRLfAaxSDc9VeCi2P5VAJpY347P9kDS879KytwKXLVV4vp_T3BLgxlw&usqp=CAU")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
