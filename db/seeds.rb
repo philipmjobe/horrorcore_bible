@@ -1139,7 +1139,7 @@ In December of 2012, Young Jay had decided it was time to step up his lyrical co
 In May 2014, a month after his “#ILLMERICA” album release, he embarked on the “ILLMERICA Tour” his 2nd national tour and a few months later in November he jumped back on the road again to tour regionally on the “Northwest War Path Part 1”. Illest Uminati is not your average rapper/hip-hop artist, he is a trendsetter, a hit songwriter, and a young entrepreneur owning and running his own digital media company and his own magazine (#OneNation! Magazine).
 
 Since 2013, Illest Uminati has Shared Stages With Tech N9ne, Hopsin, Crooked I, Madchild, Dizzy Wright, Krizz Kaliko, Mayday, Stevie Stone and More. Illest has been featured in Murderdog Magazine, Horrorcore Magazine (Cover Spot), Vladtv.com, Faygoluvers.net, JuggaloNews.com and More.", image: "https://i.discogs.com/6l2HAr4px8rKAz7Q4P3Yv7yaGBUV0n48KOB8XM3wTe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MzY1/MzItMTQ0ODU0ODEz/My03NzkzLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Illnickell Lyrikal Chef", bio: "Illnickell, aka Dr. Cervix, is an emcee from Albuquerque, NM.  He is a former member of the Slaughtercore Entertainment roster and owner of Ill Format Records.", image: "https://f4.bcbits.com/img/0005301792_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
