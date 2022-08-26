@@ -1240,7 +1240,9 @@ Artist.create!(name: "Jenna Syyde", bio: "Jenna Syyde was a horrorcore rapper fr
 
 In her brief time in the horrorcore scene, she has worked with some of the bigger names in the genre.", image: "https://i.discogs.com/t59PbC3PJtWhmKSRPSzRh2vM55AQdvqLa2iFOamSimU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNjcz/NjctMTYzMTQ4Mjk0/MC04OTA2LmpwZWc.jpeg")
 Artist.create!(name: "Jenocia X", bio: "Jenocia X is a nationally-touring hip hop artist hailing from Cleveland, Ohio. With her own unique style of intelligent lyricism, execution and relentless speed, she is quickly rising as a force to be reckoned with.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3923304/original/crop:x0y0w320h427/hash:1467515670/1390855580_8.jpg?1467515670")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jfear the God of Odd", bio: "Former artist of the 505’s Sadiztik Productions and Illformat Records, Jfear has been in the underground for some time now. Still working with his good homies Illnickell and Demonology to this day, Jfear has also released tracks featuring King Iso and Z of the Firing Squad/Brainsick Music, as well as many others.
+
+After a long stint of being off the mic, he is working on brand new material with fellow underground artist Demonology as well as Illnickell and a few others.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/jfear.jpeg?w=500&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
