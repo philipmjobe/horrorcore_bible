@@ -1252,7 +1252,11 @@ Artist.create!(name: "The Jokerr", bio: "The Jokerr is an enigma. He is the obje
 The dungeon was cold and dark, with a stale dampness that hung in the air like sewer vapor from the morning street drains. The mind of an individual subjected to such isolation and rejection no longer operates within the confines of normality. It does something much more. When isolated and ignored, the mind grows and creates its own world in which to live and creates entities and characters with whom it may share its experience. The mind of The Jokerr was for so long subjected to that isolation, and you are now a part of that world.
 
 Once naive and innocent, The Jokerr has grown dark and sinister by that which he has endured, and now that he has been released he has embarked on an epic journey to regain his honor and sequester answers from those who wronged him.", image: "https://i1.sndcdn.com/artworks-000068458403-lh6pkz-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "JP Tha Hustler", bio: "JP Tha Hustler is an American hip-hop artist, producer, and owner of music label Grim Reality Entertainment, LLC.
+
+He co-founded Grim Reality Entertainment in 2001 with Insane Poetry frontman, Andrew “Cyco” Holiman, but took over full operations in 2011 when Insane Poetry signed to Denver-based horrorcore label Lyrikal Snuff Productions.
+
+JP Tha Hustler is also currently a member of the LSP roster, as both a solo artist and part of the group Beastmode Warriors.", image: "https://i.scdn.co/image/ab6761610000e5ebe0b5787e73274bc254fadd45")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
