@@ -1184,7 +1184,9 @@ Artist.create!(name: "Isolated Beingz", bio: "Coming straight outta the east coa
 Artist.create!(name: "It That Betrays", bio: "It That Betrays is a 518 Acid Rap group consisting of Reapz Rott and Stalks Boogie.
 
 The duo are known for throwing various “Horrorcore for Tots” shows in which any proceeds or donations are then delivered to the Toys for Tots charity.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/it-that-betrays.jpg?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "i-EL", bio: "i-EL began his music journey in the public eye as Ilyas, of Tanya Morgan. In 2009, they received a Grammy nod for “Album of the Year,” and were also included in XXL Magazine’s Freshman class. Moreover, Tanya Morgan has won the MySpace/XM Radio “Show Us what You Got” contest, with over 6000 acts entered.
+
+Now i-EL begins his journey as a soloist to introduce Ohio’s sound to the world at large", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/i-EL.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
