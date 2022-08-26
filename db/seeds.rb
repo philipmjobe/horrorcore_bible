@@ -1214,7 +1214,11 @@ James G is currently working on his next solo project “Introvert” scheduled 
 Artist.create!(name: "Jamie Madrox", bio: "Jamie Madrox (born James Spaniolo, November 5, 1975) is an American rapper from Detroit, Michigan and performs as a member of the rap group Twiztid. Spaniolo’s stage name is a reference to Marvel Comics’s character Multiple Man.
 
 Madrox has been a mainstay in the underground wicked shit scene for decades and has been a part of many influential groups including House of Krazees, Dark Lotus, the Psychopathic Rydas, and Triple Threat along with fellow MNE artist, Blaze Ya Dead Homie.", image: "https://i.pinimg.com/originals/b3/dc/bd/b3dcbd4bf805781d3cc4ab0a3168049b.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jason Porter", bio: "Jason Porter is an emcee and producer from Detroit, MI.
+
+He started making music in 1992 with fellow emcee Poppa Shane. The duo released “Fatally Wounded” under the name Mad Trauma in 1996.
+
+Years later, Jason Porter, now a solo artist, would go on to release his debut album, “Vengeance is Mine.” Since then, he has released multiple solo and group projects and has worked with the likes of Intrinzik, Cappadonna of Wu-Tang Clan, Wolfpac, Okwerdz, Killa C, Dead by Wednesday, Darkroom Familia, and more.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2013/10/cover2.jpg?fit=342%2C342&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
