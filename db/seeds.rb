@@ -1227,7 +1227,15 @@ Expect a lot from this young artist, as he is just getting starting and is ready
 Artist.create!(name: "JB Abyss", bio: "Hailing from the Great White North, JB has taken the underground by storm with his insane lyricism and savage diss tracks.
 
 He’s quickly rising up the ranks and is currently signed to OCCULT93 and Abyss Army Entertainment where he acts as the enforcer/assassin and CEO, respectively.", image: "https://i1.sndcdn.com/avatars-3yTdSi9Z62gUxglJ-XaN43A-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jedi Mind Tricks", bio: "Jedi Mind Tricks are an American underground hip hop group founded by two high school friends, rapper Vinnie Paz and producer Stoupe the Enemy of Mankind.
+
+In 1999, rapper Jus Allah joined the group to record their second studio album, Violent by Design. Jus left the group shortly after, but returned in late 2006 and began working on the sixth studio album, A History of Violence. In 2011, Stoupe left the group because “his heart wasn’t in making JMT records anymore”. In 2013, Jus split from the group indefinitely, and Stoupe returned in 2015.
+
+DJ Kwestion mainly scratches choruses on the turntable. Kwestion is also a part of the group Skratch Makaniks. Kwestion, who is the tour DJ, was a replacement for JMT’s previous DJ, Drew Dollars, who is no longer affiliated with the group due to creative differences.
+
+JMT has collaborations with both regional MCs and rap veterans, including GZA, Kool G Rap, 7L & Esoteric, Sean Price, Ras Kass, Canibus, Percee P, Killah Priest, Immortal Technique, Block McCloud, Virtuoso, Louis Logic, R.A. the Rugged Man, Tragedy Khadafi, Chief Kamachi, Necro, and Ill Bill.
+
+The group has sold over 250,000 albums in the United States and 450,000 albums worldwide, all of which were released independently.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/c055faa40f284e03974f1fd75b65a210.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
