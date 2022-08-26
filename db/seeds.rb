@@ -1142,7 +1142,7 @@ Since 2013, Illest Uminati has Shared Stages With Tech N9ne, Hopsin, Crooked I, 
 Artist.create!(name: "Illnickell Lyrikal Chef", bio: "Illnickell, aka Dr. Cervix, is an emcee from Albuquerque, NM.  He is a former member of the Slaughtercore Entertainment roster and owner of Ill Format Records.", image: "https://f4.bcbits.com/img/0005301792_10.jpg")
 Artist.create!(name: "ILLtemper", bio: "ILLtemper is an emcee from Pennsylvania. Since his debut release in 2013, he has released countless solo projects, as well as collaborative albums with the likes of Boy Blue, Edd Bundy, Oz Tha Don, and King Gordy.", image: "https://f4.bcbits.com/img/a1829498297_10.jpg")
 Artist.create!(name: "Illtrix", bio: "Illtrix is a group from Reno, NV consisting of emcees Doc Gruesome and Lil Manyak.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/illtrix.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ill Bill", bio: "William Braunstein (born July 14, 1972), better known as Ill Bill, is an American rapper and record producer from Brooklyn, New York. Having gained notoriety in the underground hip hop group Non Phixion, Ill Bill is known for his diverse lyrics and as the producer, founder and CEO of Uncle Howie Records. His brother Ron is also a rapper and producer, known as Necro.", image: "https://mkpcdn.com/abtbnr/f0b404cb927827d6d0573f8b94267fce_326501.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
