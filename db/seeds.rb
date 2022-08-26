@@ -1236,7 +1236,9 @@ DJ Kwestion mainly scratches choruses on the turntable. Kwestion is also a part 
 JMT has collaborations with both regional MCs and rap veterans, including GZA, Kool G Rap, 7L & Esoteric, Sean Price, Ras Kass, Canibus, Percee P, Killah Priest, Immortal Technique, Block McCloud, Virtuoso, Louis Logic, R.A. the Rugged Man, Tragedy Khadafi, Chief Kamachi, Necro, and Ill Bill.
 
 The group has sold over 250,000 albums in the United States and 450,000 albums worldwide, all of which were released independently.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/c055faa40f284e03974f1fd75b65a210.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jenna Syyde", bio: "Jenna Syyde was a horrorcore rapper from Texas. She made her debut in 2008 with her first and only album “Shotgun Kisses”, released independently on her own label “Jenna Syyde Music”.
+
+In her brief time in the horrorcore scene, she has worked with some of the bigger names in the genre.", image: "https://i.discogs.com/t59PbC3PJtWhmKSRPSzRh2vM55AQdvqLa2iFOamSimU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNjcz/NjctMTYzMTQ4Mjk0/MC04OTA2LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
