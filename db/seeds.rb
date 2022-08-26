@@ -1181,7 +1181,9 @@ Artist.create!(name: "IPCUS Pinecone", bio: "Ipcus Pinecone is the alter ego or 
 
 From tranquilizing beats with poetic wordplay to up-beat tracks with heavy choruses, Ipcus Pinecone takes the listener on a journey into the mind of his artistry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/ipcus-pinecone.jpg?w=450&ssl=1")
 Artist.create!(name: "Isolated Beingz", bio: "Coming straight outta the east coast’s Baltimore, Maryland, Ruthless Rob and 2-Face form the underground wicked shit duo known as the Isolated Beingz! Listen at your own risk!!!", image: "https://f4.bcbits.com/img/a4108855296_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "It That Betrays", bio: "It That Betrays is a 518 Acid Rap group consisting of Reapz Rott and Stalks Boogie.
+
+The duo are known for throwing various “Horrorcore for Tots” shows in which any proceeds or donations are then delivered to the Toys for Tots charity.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/it-that-betrays.jpg?w=500&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
