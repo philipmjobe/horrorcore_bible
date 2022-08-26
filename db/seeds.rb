@@ -1154,7 +1154,7 @@ Artist.create!(name: "Insane E", bio: "Insane E is an emcee and graphic designer
 Artist.create!(name: "Insane Loc", bio: "Insane Loc is an emcee from San Antonio, TX. He has been a member of the Brutal Brotherhood collective and is the owner and operator of Psychotic Products.
 
 In August of 2022, it was announced that Insane Loc had officially joined the Shrunken Head Entertainment roster.", image: "https://i.discogs.com/x-BWU8nCLnRtymqwv1utX1ZPO7XuHtjmlv0hQGZSF_U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODUy/MDE1LTE1NDMxNzk3/ODEtNDIyNS5qcGVn.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Insane Poetry", bio: "Insane Poetry was one of the original innovators of horrorcore (which the group called the Terrifying Style before the former term took hold), a style of hip-hop that used horror-movie imagery and heavy doses of gore to make social commentary about American society. However, while horrorcore hip-hop went out of favor in the late 1990s, it continues in this vein to the present day.", image: "https://i.discogs.com/60TkIgw6cFyb__btrG96W1R6DpEcBs2kd-5Ht346W20/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE3Mzc2/NS0xMjMzMTE1OTI3/LnBuZw.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
