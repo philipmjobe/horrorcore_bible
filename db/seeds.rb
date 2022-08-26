@@ -1141,7 +1141,7 @@ In May 2014, a month after his “#ILLMERICA” album release, he embarked on th
 Since 2013, Illest Uminati has Shared Stages With Tech N9ne, Hopsin, Crooked I, Madchild, Dizzy Wright, Krizz Kaliko, Mayday, Stevie Stone and More. Illest has been featured in Murderdog Magazine, Horrorcore Magazine (Cover Spot), Vladtv.com, Faygoluvers.net, JuggaloNews.com and More.", image: "https://i.discogs.com/6l2HAr4px8rKAz7Q4P3Yv7yaGBUV0n48KOB8XM3wTe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MzY1/MzItMTQ0ODU0ODEz/My03NzkzLmpwZWc.jpeg")
 Artist.create!(name: "Illnickell Lyrikal Chef", bio: "Illnickell, aka Dr. Cervix, is an emcee from Albuquerque, NM.  He is a former member of the Slaughtercore Entertainment roster and owner of Ill Format Records.", image: "https://f4.bcbits.com/img/0005301792_10.jpg")
 Artist.create!(name: "ILLtemper", bio: "ILLtemper is an emcee from Pennsylvania. Since his debut release in 2013, he has released countless solo projects, as well as collaborative albums with the likes of Boy Blue, Edd Bundy, Oz Tha Don, and King Gordy.", image: "https://f4.bcbits.com/img/a1829498297_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Illtrix", bio: "Illtrix is a group from Reno, NV consisting of emcees Doc Gruesome and Lil Manyak.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/illtrix.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
