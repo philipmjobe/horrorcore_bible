@@ -1208,7 +1208,9 @@ Jade is in the early stages of her company “Death Delight Creations Inc.” as
 Artist.create!(name: "Jakprogresso", bio: "Jakprogresso (also known as Jak Tripper) has been making music for over 20 years. He came up in the New York underground rap scene, in the early 2000s, and was a staple of the johnny23 record label for many years, before his own endeavor, ‘Blak Church Records’, and a brief stint on Goretex’s label, ‘Supercoven.’
 
 Jak has collaborated with many other underground artists. Jak battle raps frequently and also livestreams his podcast on Facebook and YouTube.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/25d5b573d9849b58105d3189565eeb65.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "James G", bio: "James G is the founder and lead vocalist for the independent rap group Bankrupt Records based out of Atlanta, GA.
+
+James G is currently working on his next solo project “Introvert” scheduled for release in 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/james-g.jpg?w=401&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
