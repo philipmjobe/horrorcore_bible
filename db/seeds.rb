@@ -1180,7 +1180,7 @@ Intrinzik then relived the Fallguy era by released “Fallguy: Resurreciton” i
 Artist.create!(name: "IPCUS Pinecone", bio: "Ipcus Pinecone is the alter ego or alter expression of artist Demi Demaree. Front man of past acts such as Villebillies, Plan Of Man, Bass Drum Aliens, and Iron Bells. His latest music venture Ipcus Pinecone is best categorized as Alternative Hip Hop.
 
 From tranquilizing beats with poetic wordplay to up-beat tracks with heavy choruses, Ipcus Pinecone takes the listener on a journey into the mind of his artistry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/ipcus-pinecone.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Isolated Beingz", bio: "Coming straight outta the east coast’s Baltimore, Maryland, Ruthless Rob and 2-Face form the underground wicked shit duo known as the Isolated Beingz! Listen at your own risk!!!", image: "https://f4.bcbits.com/img/a4108855296_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
