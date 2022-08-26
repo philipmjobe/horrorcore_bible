@@ -1211,7 +1211,9 @@ Jak has collaborated with many other underground artists. Jak battle raps freque
 Artist.create!(name: "James G", bio: "James G is the founder and lead vocalist for the independent rap group Bankrupt Records based out of Atlanta, GA.
 
 James G is currently working on his next solo project “Introvert” scheduled for release in 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/james-g.jpg?w=401&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jamie Madrox", bio: "Jamie Madrox (born James Spaniolo, November 5, 1975) is an American rapper from Detroit, Michigan and performs as a member of the rap group Twiztid. Spaniolo’s stage name is a reference to Marvel Comics’s character Multiple Man.
+
+Madrox has been a mainstay in the underground wicked shit scene for decades and has been a part of many influential groups including House of Krazees, Dark Lotus, the Psychopathic Rydas, and Triple Threat along with fellow MNE artist, Blaze Ya Dead Homie.", image: "https://i.pinimg.com/originals/b3/dc/bd/b3dcbd4bf805781d3cc4ab0a3168049b.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
