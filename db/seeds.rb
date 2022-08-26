@@ -1187,7 +1187,17 @@ The duo are known for throwing various “Horrorcore for Tots” shows in which 
 Artist.create!(name: "i-EL", bio: "i-EL began his music journey in the public eye as Ilyas, of Tanya Morgan. In 2009, they received a Grammy nod for “Album of the Year,” and were also included in XXL Magazine’s Freshman class. Moreover, Tanya Morgan has won the MySpace/XM Radio “Show Us what You Got” contest, with over 6000 acts entered.
 
 Now i-EL begins his journey as a soloist to introduce Ohio’s sound to the world at large", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/i-EL.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jack WD", bio: "Jack Aquino, known primarily as Jack WD, was born in Lakewood, NJ on October 5, 1997.
+
+His rap name is a combination of his real life first name and the WD as an abbreviation for “Wrestling Drummer”. In his school days, he contributing to the wrestling team where he was a co-captain his senior year and the band program as lead drummer/percussionist. He is often known as “TheWrestlingDrummer” he went to high school and even after graduating high school at 2016, he kept the name as symbolism to not forget where he came from and what built him to be the person he is.
+
+Jack WD is often a shy and quiet person until he steps into the mic to offer a plethora of different sounds (such as trap metal, rap metal, horrorcore, speed rap and more) mixed with aggressive delivery. Jack WD has touched multiple song topics such as words of determination, violent acts, depression, and more. Overall, Jack WD considers himself as a “Whatever I Want To Make” artist and barely possesses any interest of aligning himself to a particular genre.
+
+Most of all, he is most prominent in the underground New Jersey scene for wearing the phantom mask. The phantom mask’s main purpose is to not to be used as imagery, but Jack WD claims that the mask gives him “superpowers” by turning him into a more charismatic stage personality.
+
+Jack does not always portray as Jack WD. He also possesses an alter ego known as “10-1 C0D3K33P3R” who is a much more brutal version of Jack WD. 10-1 C0D3K33P3R was created to allow Jack to rap about topics such as describing horrific murder, death, bodily harm towards others and pent-up rage. Jack WD has portrayed as 10-1 C0D3K33P3R since 2020 despite a couple of early SoundCloud songs being the early stages of the persona. He continues to portray as 10-1 C0D3K33P3R every October ever since.
+
+Jack WD continues to hustle in his music journey through releasing projects and singles of versatile genres with no sign of stopping.", image: "https://images.squarespace-cdn.com/content/v1/561c2914e4b090a32cbb0b9c/1573045066387-C2UY88ZYH0I6S09ZE0PW/Jack+WD+IMG_2688.jpg?format=1000w")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
