@@ -1147,7 +1147,9 @@ Artist.create!(name: "Ill V", bio: "Ill V is an artist on Underground Desert Art
 Artist.create!(name: "Immortal Technique", bio: "Felipe Andres Coronel (born February 19, 1978), better known by the stage name Immortal Technique, is an American rapper. Most of his lyrics focus on controversial issues in global politics, from a radical left-wing perspective.
 
 Immortal Technique seeks to retain control over his production, and has stated in his music that record companies, not artists themselves, profit the most from mass production and marketing of music. He claimed in an interview to have sold close to a combined total of 200,000 copies of his first three official releases.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/cf03e1686cfa417a87465ec4f2bb0f18.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Infamuz Blayze", bio: "Infamuz Blayze (aka VileBeats) was a rapper and producer from Carbondale, IL.
+
+He worked with many known artists in the horrorcore and devil shyt scenes.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/infamuz-blaze.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
