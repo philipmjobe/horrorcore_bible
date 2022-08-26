@@ -1150,7 +1150,7 @@ Immortal Technique seeks to retain control over his production, and has stated i
 Artist.create!(name: "Infamuz Blayze", bio: "Infamuz Blayze (aka VileBeats) was a rapper and producer from Carbondale, IL.
 
 He worked with many known artists in the horrorcore and devil shyt scenes.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/infamuz-blaze.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Insane E", bio: "Insane E is an emcee and graphic designer from Ohio. He has released numerous albums and is currently working with Twiztid’s Majik Ninja Entertainment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/insane-e.jpg?w=379&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
