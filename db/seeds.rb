@@ -1219,7 +1219,11 @@ Artist.create!(name: "Jason Porter", bio: "Jason Porter is an emcee and producer
 He started making music in 1992 with fellow emcee Poppa Shane. The duo released “Fatally Wounded” under the name Mad Trauma in 1996.
 
 Years later, Jason Porter, now a solo artist, would go on to release his debut album, “Vengeance is Mine.” Since then, he has released multiple solo and group projects and has worked with the likes of Intrinzik, Cappadonna of Wu-Tang Clan, Wolfpac, Okwerdz, Killa C, Dead by Wednesday, Darkroom Familia, and more.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2013/10/cover2.jpg?fit=342%2C342&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jay Alan", bio: "Jay Alan is a 23 year old rapper from Rural Valley, PA. Growing up, he looked up to artists like Eminem, Biggie Smalls, 2 Pac, Nas, Big L, Lil Wayne, Machine Gun Kelly, Drake, Ace Hood, and many others. He was inspired to be one of the greatest. He wanted to make music to give people an escape, just like his inspirations did for him.
+
+Jay Alan caught the attention of Brutal Business Entertainment owner, Skippy Ickum. They had many conversations and Jay looked up to Skippy as a mentor. Skippy decided to sign Jay to Brutal Business Ent. who happily accepted and is now currently working on his first studio album, “Views from a Cloud,” under the label.
+
+Expect a lot from this young artist, as he is just getting starting and is ready to take on anything that stands in his way.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/jay-alan.jpg?w=513&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
