@@ -1247,7 +1247,11 @@ Artist.create!(name: "JGRXXN", bio: "Jemel Green aka J-Green aka Hollywood J is 
 Artist.create!(name: "Jimmy Donn", bio: "Jimmy Donn is a hip hop emcee, producer, composer, and director from St. Paul, MN. He is the founder of Sicfux Entertainment and Anxiety Music and has been part of groups such as The Oddballers, Dopesic, How to Gag a Maggot, and more.", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffd08yeIiJgiiw2HkAsaz-6W7K9O-NcTjaFZB0KvQjR8ReeUQrHeG9KbSFwhwEjPo5c8&usqp=CAU")
 Artist.create!(name: "Jinzx", bio: "Hailing from Gwinnett County GA, Jinzx is an independent emcee, best known for his appearance on Trigger Warning with Killer Mike, alongside T Pain. He was the winner of UGH 63 and he’s released two albums, The Basket Case EP & A Skitzos Legacy EP. Formal member of Wickid Tendency Records, he’s collaborated with several major artists in the underground.", image: "https://res.cloudinary.com/soundbetter/image/upload/c_fill,f_auto,g_face:auto,h_630,q_90,w_1200/v1618469274/assets/photos/392241/128626296_4615942691814212_1265827920526152177_n_-_Copy.jpg")
 Artist.create!(name: 'JNyce', bio: "JNyce is a producer from Ontario, Canada, and founding member of the hardcore hip hop trio, Psych Ward.", image: "https://lastfm.freetls.fastly.net/i/u/avatar170s/83c50ba04b884414afdf199db5ee92f8")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Jokerr", bio: "The Jokerr is an enigma. He is the object of our release. Shaped by the passage of time and years of humiliation and the selfless entertainment of others, he has returned.
+
+The dungeon was cold and dark, with a stale dampness that hung in the air like sewer vapor from the morning street drains. The mind of an individual subjected to such isolation and rejection no longer operates within the confines of normality. It does something much more. When isolated and ignored, the mind grows and creates its own world in which to live and creates entities and characters with whom it may share its experience. The mind of The Jokerr was for so long subjected to that isolation, and you are now a part of that world.
+
+Once naive and innocent, The Jokerr has grown dark and sinister by that which he has endured, and now that he has been released he has embarked on an epic journey to regain his honor and sequester answers from those who wronged him.", image: "https://i1.sndcdn.com/artworks-000068458403-lh6pkz-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
