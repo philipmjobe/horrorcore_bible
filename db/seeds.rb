@@ -1177,7 +1177,9 @@ Intrinzik then teamed up with Arizona based emcee Virus and released the maxi si
 In 2008 Intrinzik’s song “the Calvary” was featured on Hatchet House’s 13 track compliation “Tunnel Runners” which debuted on the Billboard Rap Charts at #21 in the summer of 2008. 2008 also birthed Intrinzik’s uber successful CD compilation series, “Underground Hustlin.”
 
 Intrinzik then relived the Fallguy era by released “Fallguy: Resurreciton” in 2008. The album recreated the Fallguy sound using producer/engineer Larry Elyea to perform the majority of the live instrumentation. The CD features collaborations with Axe Murder Boyz, Jason Cruz of Strung Out, Proof of D12, Big B and many of Intrinzik’s label mates.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/3fdc9a63239d45a79fc6e2e5f3bbc579.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "IPCUS Pinecone", bio: "Ipcus Pinecone is the alter ego or alter expression of artist Demi Demaree. Front man of past acts such as Villebillies, Plan Of Man, Bass Drum Aliens, and Iron Bells. His latest music venture Ipcus Pinecone is best categorized as Alternative Hip Hop.
+
+From tranquilizing beats with poetic wordplay to up-beat tracks with heavy choruses, Ipcus Pinecone takes the listener on a journey into the mind of his artistry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/ipcus-pinecone.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
