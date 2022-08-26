@@ -1224,7 +1224,9 @@ Artist.create!(name: "Jay Alan", bio: "Jay Alan is a 23 year old rapper from Rur
 Jay Alan caught the attention of Brutal Business Entertainment owner, Skippy Ickum. They had many conversations and Jay looked up to Skippy as a mentor. Skippy decided to sign Jay to Brutal Business Ent. who happily accepted and is now currently working on his first studio album, “Views from a Cloud,” under the label.
 
 Expect a lot from this young artist, as he is just getting starting and is ready to take on anything that stands in his way.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/jay-alan.jpg?w=513&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "JB Abyss", bio: "Hailing from the Great White North, JB has taken the underground by storm with his insane lyricism and savage diss tracks.
+
+He’s quickly rising up the ranks and is currently signed to OCCULT93 and Abyss Army Entertainment where he acts as the enforcer/assassin and CEO, respectively.", image: "https://i1.sndcdn.com/avatars-3yTdSi9Z62gUxglJ-XaN43A-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
