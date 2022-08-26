@@ -1239,7 +1239,7 @@ The group has sold over 250,000 albums in the United States and 450,000 albums w
 Artist.create!(name: "Jenna Syyde", bio: "Jenna Syyde was a horrorcore rapper from Texas. She made her debut in 2008 with her first and only album “Shotgun Kisses”, released independently on her own label “Jenna Syyde Music”.
 
 In her brief time in the horrorcore scene, she has worked with some of the bigger names in the genre.", image: "https://i.discogs.com/t59PbC3PJtWhmKSRPSzRh2vM55AQdvqLa2iFOamSimU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNjcz/NjctMTYzMTQ4Mjk0/MC04OTA2LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jenocia X", bio: "Jenocia X is a nationally-touring hip hop artist hailing from Cleveland, Ohio. With her own unique style of intelligent lyricism, execution and relentless speed, she is quickly rising as a force to be reckoned with.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3923304/original/crop:x0y0w320h427/hash:1467515670/1390855580_8.jpg?1467515670")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
