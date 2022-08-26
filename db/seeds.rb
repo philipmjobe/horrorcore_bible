@@ -1130,7 +1130,15 @@ Artist.create!(name: "II Rel", bio: "II Rel is an emcee from Anderson, IN. He is
 
 II Rel has released several solo projects throughout his 20+ years in the scene, as well as group releases with Midwest Suspex, Panty Raidaz, etc.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/ii-rel.jpg?w=922&ssl=1")
 Artist.create!(name: "Ikabod Krayne", bio: "Ikabod Krayne is a recording artist/rapper with a gritty hiphop style laced with a metal twist. Spitting bars about life and the constant battle with his inner demons, Ikabod Krayne will take you on a deep journey full of crazy mishaps.", image: "https://source.boomplaymusic.com/group1/M19/54/BB/rBEehl6xDsGAGUVSAACu9vYG02g048.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Illest Uminati", bio: "Illest Uminati is a song writer/emcee, graphic designer, and comic book writer/cover artist.
+
+Illest Uminati (formally known as Young Jay) was born and raised in the Pacific Northwest bouncing from the Salish and Kootenai Native American Reservation in Western Montana, to Eastern and Central Washington State.
+
+In December of 2012, Young Jay had decided it was time to step up his lyrical content, his image and his stage presence and so then the transformation into Illest Uminati began. Illest Uminati released “The Higgs Boson EP” digitally worldwide on April 26th, 2013 with features from Stevie Stone, Twisted insane and more. In the summer of 2013 Illest completed his first national headlining tour ‘The Illumniation Tour” while enlisting artist for Illest Alumni Records and supporters for his #ILLUMNI Movement. During November 2013 him and his label mate Overtime decided to join forces and hit the road regionally on the ground breaking “Quality Control Tour”. On April 1st, 2014 Illest Uminati released his first full length album “#ILLMERICA”.
+
+In May 2014, a month after his “#ILLMERICA” album release, he embarked on the “ILLMERICA Tour” his 2nd national tour and a few months later in November he jumped back on the road again to tour regionally on the “Northwest War Path Part 1”. Illest Uminati is not your average rapper/hip-hop artist, he is a trendsetter, a hit songwriter, and a young entrepreneur owning and running his own digital media company and his own magazine (#OneNation! Magazine).
+
+Since 2013, Illest Uminati has Shared Stages With Tech N9ne, Hopsin, Crooked I, Madchild, Dizzy Wright, Krizz Kaliko, Mayday, Stevie Stone and More. Illest has been featured in Murderdog Magazine, Horrorcore Magazine (Cover Spot), Vladtv.com, Faygoluvers.net, JuggaloNews.com and More.", image: "https://i.discogs.com/6l2HAr4px8rKAz7Q4P3Yv7yaGBUV0n48KOB8XM3wTe8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MzY1/MzItMTQ0ODU0ODEz/My03NzkzLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
