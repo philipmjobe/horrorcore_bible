@@ -1244,7 +1244,7 @@ Artist.create!(name: "Jfear the God of Odd", bio: "Former artist of the 505’s 
 
 After a long stint of being off the mic, he is working on brand new material with fellow underground artist Demonology as well as Illnickell and a few others.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/jfear.jpeg?w=500&ssl=1")
 Artist.create!(name: "JGRXXN", bio: "Jemel Green aka J-Green aka Hollywood J is a producer and rapper from Atlanta, Georgia. He is known for incorporating Memphis-style 90’s dark and cinematic beats with Atlanta-style trap beats. He first came onto the scene in 2006, and has continued to make albums since then. He founded the record label ‘Blac Teflon Records’, and was a founding member of the group Schemaposse, which also featured Lil Peep and Ghostmane, among others.", image: "https://e.snmc.io/i/600/s/8729f5d5d173405997877cfdeac7ffa3/6302326/jgrxxn-ra-Cover-Art.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Jimmy Donn", bio: "Jimmy Donn is a hip hop emcee, producer, composer, and director from St. Paul, MN. He is the founder of Sicfux Entertainment and Anxiety Music and has been part of groups such as The Oddballers, Dopesic, How to Gag a Maggot, and more.", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffd08yeIiJgiiw2HkAsaz-6W7K9O-NcTjaFZB0KvQjR8ReeUQrHeG9KbSFwhwEjPo5c8&usqp=CAU")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
