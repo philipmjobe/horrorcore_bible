@@ -1364,7 +1364,17 @@ Artist.create!(name: "Kill The Carver", bio: "Kill The Carver, aka True The Don,
 
 Kill has also released multiple solo albums throughout his career.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/kill-the-carver.jpg?w=600&ssl=1")
 Artist.create!(name: "Kilo Crackroxxx", bio: "Kilo Crackroxxx began her rap endeavor in 2008, with a few local artists just starting out in the scene in Omaha, Nebraska. Her lyrics and subject matter began to focus on more horror-themed and darker subject matter than her associates, as these topics had always been of fascination to her. And so she delved into the genre known as horrorcore, spewing morbid tales of death, destruction, insanity and murder. She intermingles these subjects with displays of feminine playfulness and sexual wiles to seduce the listener into a realm they were not aware they would be getting into, giving Kilo a unique approach and representation of terror in disguise. In 2009, she began working closely with local horrorcore legend, Komatose, and solidified a place in the venture into horrorcore, releasing her first full length album, “Eat Your Heart Out” in 2010, an EP, “State of Withdrawal” (2011), and a second LP, “Erotic Nightmarez” (2012).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/kilo-crackroxxx-1.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kinghood Cykoz", bio: "In 1991, Titan Kill-a-Gram met LeathaFace and his brother Dr. Jekyl in high school. The trio formed the Kinghood Cykoz alongside two other members, leading to the creation of their debut, unreleased album, “Tha Otha Side of Hell.” In 1994, down two members — Lucifa’ and Lunatic — the group would go on to release the album “Duece 11 G’z”. Sadly, Dr. Jekyl and Lucifa’ have both since passed away, leaving Titan and LeathaFace the only members left in the group.
+
+Heavily influenced by the sound of the Geto Boys, Kinghood Cykoz really had no idea that what they were creating was borderline horrorcore/gangsta rap. Aall tracks that were ever recorded were done so at Boomin Records Studios by engineer DJ Clay of Ruff ‘n Rugged. Even though their style and sound can be compared to local favorites, The Dayton Family, Kinghood’s music was always a bit darker in both productions and lyrical content.
+
+Titan Kill-a-Gram also recorded two solo albums, appeared on the “In the Company of Killers” compilation, “Deadmate” maxi-single, “Arkhitect Presents Foul Mouth Emcees” compilation.
+
+Before his passing, Lucifa’ aka $tainle$$ $teele also released the “Full Moon Over Flint” mixtape. Titan has also added bonus, unreleased tracks by Lucifa’ and Flint group Hardware to the long list of about 30 total tracks that the Kinghood Cykoz have ever produced.
+
+In 1996/1997, several tracks were made under a new group name, Death Wish.
+
+Titan is currently working towards pressing up the full Kinghood Cykoz discography, due to the fact that nothing ever heard by fans was officially released.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/kinghood-cykoz.jpg?w=444&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
