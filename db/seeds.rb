@@ -1385,7 +1385,27 @@ Artist.create!(name: "Klasidious", bio: "Klasidious is an underground rapper fro
 
 Klasidious stays diligent, putting out music regularly and typically monthly. You can follow the Facebook page at facebook.com/klasidious", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/klasidious.jpg?w=480&ssl=1")
 Artist.create!(name: "Knoxx", bio: "Underground hip-hop’s beloved serial killer icon. Raps about death, drugs and bodily dismemberment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/knoxx.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Koffin Creep", bio: "It all started back in 1999, on Shadow’s birthday. His mother got him The Ringmaster CD (Insane Clown Posse). Shadow is not a Hip Hop or Rap music fan, but he new ICP were rappers, so as to not hurt his mother’s feelings he listened to the CD. Listening to the music, he noticed it was not the same as other music; It was dark and wicked. He enjoyed the style ICP used since Shadow was ‘Goth’ and was a huge fan of the horror genre.
+
+After listening to the CD, Shadow turned to the internet to see if there were any other artist like ICP in the music industry. That’s when Shadow first discovered the term Horrorcore and found something far more darker: Murder House Records, Serial Killin’ Records (SKR), and Mad Insanity. Since that day, Shadow began to study more artists with the goal of understanding the Horrorcore genre and fell in love with the Horrorcore scene.
+
+Later on in Shadow’s life, Shadow met his first ‘Juggalo’ friend in Middle School. Hanging out with this friend using a tape recorder and ‘ripped off’ beats, Shadow and his ‘Juggalo’ friend began to record some of Shadow’s less than great work.
+
+Starting off as the ‘Joker Brothers’ wearing painter caps and jester make up, they recorded their first album, The Rising Sun, which never made it past their front door. As time passed, the duo practiced continuously until the second release was made: Southwest Clownin, which was passed out at Hallowicked (an annual ICP concert held every Halloween) 2000.
+
+A short time after, Shadow’s older brother passed away. After the incident, the ‘Joker Brothers’ ended their musical career before it ever had the chance to take off. In 2004, Shadow met a recording artist named Axem The Serial Killa at Hallowicked 2004. After a few days had passed, Axem and Shadow got together and talked about music. This lead to Axem taking Shadow under his wing and signed him to ‘Hatchet Rising Records’, where Axem and Shadow released their first album entitled Dinner Time as the duo group ‘Rotten Face’.
+
+In a verse from one of the songs’ titles Neva Gonna Catch Me, Axem stated “…My homie Shadow is a sick fuck and will eat yo liva like Hannibal that’s why I call him Shadow The Cannibal…” and from that day on Shadow was deemed Shadow The Cannibal. However, after the release of their first album, Axem slowly faded away from the music scene to deal with life’s challenges and Shadow was once again left on his own.
+
+In mid 2005, Shadow released a free ‘sampler’ online entitled Gothic Freak from his MySpace account. Shadow received over 300 friend requests and more than 650 downloads in just a few days. From that day on, Shadow knew he had a chance to make his name known in the Underground music industry.
+
+Since that day, Shadow has worked and performed with many known artists, has been featured on numerous albums, and has also released several albums on his own. In 2009, Shadow performed his first ‘big’ show, The Tenth Annual Gathering of The Juggalos, and at the gathering, Shadow had the opportunity to talk to one of his long time favorite performers and one of his main influences, Ikkurruz The Drunkin Pumkin. Since then, Shadow has worked with Ikkurruz on many different occasions, are close friends and Shadow even runs the Ikkurruz Street Team. Shadow The Cannibal has come a long way, his musical styling has changed for the darker and sicker, and has a strong fan base.
+
+In mid 2010, Shadow started a side project with a different music style. Mixing his love for goth/emo/screamo and horrorcore, Koffin Creep was born.
+
+Shadow released a track entitled Koffin Creep (on the Verbal Abuse 6 mixtape), but that was as far as the name got. In 2011, Shadow’s longtime idol/inspiration and best friend Stitchez passed away. Stitchez being a well known name and “King of Horrorcore” started a small genre of horrorcore called Rape Musick. Shadow was one of artists who was part of this group of rappers who were straight up shock value raps! After Stitchez’ passing, the scene changed and Shadow started to slowly move forward in music by playing less in that genre, finally saying it was time to move on due to many problems and misunderstandings.
+
+Koffin tried to bring Shadow back one more time with the help of Andy Christ starting a group “Krypted Killaz,” which was unsuccessful due to lack of business. So Koffin’s true passion will always be the Creep. Changing styles, voice, and heart growing up and becoming a better man.", image: "https://i.scdn.co/image/ab67616d0000b27314be1980699454d9d6231995")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
