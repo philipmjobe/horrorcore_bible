@@ -1359,7 +1359,7 @@ Once signed to Sicfux Entertainment, he was part of the group Dopesic.", image: 
 Artist.create!(name: "Killa No1ze", bio: "Killa No1ze is an underground artist hailing from of Dallas, Texas. He is a member of the Brutal Business Entertainment roster and also runs his own independent label, “Gruesome Muzik,” where he is the only artist.
 
 Killa No1ze’s debut album is set to release in the winter of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/killa-no1ze.jpg?w=540&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Killjoy Club", bio: "Featuring members of the Insane Clown Posse and Three 6 Mafia, the Killjoy Club are a supergroup who were introduced in 2014 at the Gathering, ICP’s annual music festival. ICP had collaborated with Three 6 Mafia before, including the cut “Just Another Crazy Click” from 2001 which also featured Psychopathic recording artists Twiztid. The crews remained friends as Three 6 Mafia morphed into Da Mafia Six, then in 2014, as Da Mafia Six played ICP’s the Gathering, the Killjoy Club was announced. The project’s debut album, Reindeer Games, arrived on Psychopathic that same year.", image: "https://lastfm.freetls.fastly.net/i/u/500x500/148ac5e56922d7706ebb30d2d95f0d39.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
