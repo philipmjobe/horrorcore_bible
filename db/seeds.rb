@@ -1291,7 +1291,11 @@ Joe Blakk, is his positive side, who daily has conflicts with J.Hexx in order to
 Artist.create!(name: "Kadicentra", bio: "Kayla Miller (born February 7, 1992), known professionally as Kadicentra is an American singer, lyricist, and producer. In 2011, she formed the group REZEN with her brother Randum45, which has since disbanded.
 
 Her music can be described as dark pop or alt pop, with horrorcore and rock elements, and it is inspired by her struggles with mental illness.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/kadicentra.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kamikazi", bio: "Kamikazi, born Kyle Williams, is a rapper and producer from Minneapolis, Minnesota. Kamikazi has gained popularity by being signed to Twisted Insane’s Brainsick Muzik label. Kamikazi and Twisted first collaborated in 2014 on Floor Boards.
+
+Kazi combines a fast flow with deep and dark lyrics over dark and trippy beats. In 2016, he started producing his own beats, which have been used by many underground artists, such as Twisted and Big Loony.
+
+Kazi has said he prefers producing beats and being behind the scenes, rather than rapping and releasing his own projects. He still makes music, though, and will release more projects in the future.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/kamikazi.jpg?w=500&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
