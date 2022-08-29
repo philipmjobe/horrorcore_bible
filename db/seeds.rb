@@ -1356,7 +1356,9 @@ After being a mainstay in the horrorcore scene for 15 years, Hill released a Chr
 Artist.create!(name: "Killa Capone", bio: "Killa Capone is a hardcore hip-hop/horrorcore artist from Minnesota.
 
 Once signed to Sicfux Entertainment, he was part of the group Dopesic.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4f28aa20897d4e47a4352bc51b8a510f.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Killa No1ze", bio: "Killa No1ze is an underground artist hailing from of Dallas, Texas. He is a member of the Brutal Business Entertainment roster and also runs his own independent label, “Gruesome Muzik,” where he is the only artist.
+
+Killa No1ze’s debut album is set to release in the winter of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/killa-no1ze.jpg?w=540&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
