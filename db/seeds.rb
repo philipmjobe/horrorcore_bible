@@ -1309,7 +1309,15 @@ He uses strong lyrics to deliver music that he believes in, but also can use hum
 Artist.create!(name: "Kardiac", bio: "KARDIAC has come up through the slum streets of Middletown New York, and in his early years made a name for himself as a producer at NY battles & Open Mics. Playing drums in local punk/hardcore bands as a young teen is part of the reason he loves producing. Everything took a turn with music around 97/98 and writing songs and producing beats became his first love.
 
 Known for going too far on sensitive topics, with a dark abstract insight on life. The true grit rots within him. Very clever with blades as he is with poetic lyrics so detailed & in-depth, where you can practically see it in your mind’s eye. You don’t need to search hard to discover his work. Recent or older projects, if you been living in the 21st century then you can find Multiple albums on many major music online retailers. KARDIAC has a way of drugging the listener and contorting them into the mind of a KILLER!", image: "https://wickedhorror.com/wp-content/uploads/2015/03/KARDIAC_Poster.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Keagan Grimm", bio: "Dredged from the Florida swamps, Keagan Grimm is an emcee, singer, graphic artist, video editor, High Tech Low Life, Irish Goliath, a felon, a drunk, and an absolute beast on the mic.
+
+From the age of 15 to 21, Grimm was either homeless or in jail. Battling substance abuse and mental health issues, hitchhiking and hopping trains across the U.S. eventually returning to Florida and getting locked up again. For 10 months he sat in a cell block writing poetry and wild journal entries and metal lyrics. A cellmate noticed his aptitude for the written word and challenged him to write rhymes, which he excelled in. Upon his release, he took to learning and studying hip-hop, recording, production, and design, releasing a few tracks here and there under the moniker Grimm Gutter.
+
+In 2014, he was contacted by Big Rela. After the parting of Psyko South, Rela was forming a new underground collective known as Scumbag Worldwide. The squad went on to release two group albums and several solo efforts until their dissolution in 2017.
+
+In 2018, after a series of personal and professional challenges, he decided it was time to destroy, and rebuild. Joining forces with The J. Hexx Project and Sev’rd Nervez Music, Keagan Grimm was unleashed upon the underground. Primed and laser focused.
+
+Beware…", image: "https://f4.bcbits.com/img/0026159248_25.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
