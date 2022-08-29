@@ -1281,7 +1281,7 @@ Artist.create!(name: "JxKxMx", bio: "JxKxMx is a member of Sycksyde, Empire of D
 He has released two solo projects as Mr. Kiltcha, as well as a solo EP as JxKxMx.
 
 His new album “Content, Waiting to Die” will be released late 2020 or early 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/mr-kiltcha.jpg?w=473&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "J Blaque", bio: "J Blaque was a Washington, D.C. rapper who released multiple albums with DJ Fire. He has also worked with some of the premiere artists in the Memphis underground and devil shyt scenes including M.C. Mack, La Chat, Da Evilist, Dosia Demon, Koopsta Knicca, and Valtiel. His albums were released under Infamous 6 Records and Jordan Darque Entertainment.", image: "https://i.scdn.co/image/ab67616d0000b2732f95ec51b47c3421035187ce")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
