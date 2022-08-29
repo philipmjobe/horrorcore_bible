@@ -1306,7 +1306,9 @@ Artist.create!(name: "Kannibal Kannabis", bio: "KANNIBAL KANNABIS is an American
 Artist.create!(name: "Kaotic", bio: "Kaotic is a rapper with all kinds of talent. He’s been writing music since a young age and began pursuing music himself in 2015.
 
 He uses strong lyrics to deliver music that he believes in, but also can use humor and other feelings to entertain his listeners. He draws inspiration from Eminem, Hopsin, Tupac, Merkules, and Joyner Lucas. “Living Kaotic” its not a brand its a LIFESTYLE!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/kaotic.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kardiac", bio: "KARDIAC has come up through the slum streets of Middletown New York, and in his early years made a name for himself as a producer at NY battles & Open Mics. Playing drums in local punk/hardcore bands as a young teen is part of the reason he loves producing. Everything took a turn with music around 97/98 and writing songs and producing beats became his first love.
+
+Known for going too far on sensitive topics, with a dark abstract insight on life. The true grit rots within him. Very clever with blades as he is with poetic lyrics so detailed & in-depth, where you can practically see it in your mind’s eye. You don’t need to search hard to discover his work. Recent or older projects, if you been living in the 21st century then you can find Multiple albums on many major music online retailers. KARDIAC has a way of drugging the listener and contorting them into the mind of a KILLER!", image: "https://wickedhorror.com/wp-content/uploads/2015/03/KARDIAC_Poster.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
