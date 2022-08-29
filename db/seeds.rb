@@ -1330,7 +1330,25 @@ KGP has performed with the Insane Clown Posse, Mastamind, House of Krazees, Emin
 Artist.create!(name: "KidCrusher", bio: "KidCrusher is a musician and producer from Adelaide, South Australia who has released 12 studio albums since 2005 and featured upon TV’s Law & Order, Fangoria Magazine and Tunnel Runners; Masters of the Wicked Shit. He has toured extensively around Australia with several artists such as; Insane Clown Posse, Tech N9ne, Hed Pe, Mushroomhead, Hopsin, Xzibit, The Berzerker, Blaze Ya Dead Homie, Boondox, Dirt Nasty as well as opening for the Grand Theft Auto V EB Games release party in South Australia.
 
 He is unsigned and independent, releasing music through an online stores like Victim Gear and iTunes, selling thousands of copies a year without the help of a major label. KidCrusher also acts as the lead singer and producer for Adelaide Metal Bands; Rectal Birth & KcaveMen.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/144f956c72354a228226bd8f2ea0881e.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Killator", bio: "Killator began rapping in 1994, began recording in 1996, and released his first album in 1999 (under the name T.A.P.E.S.)
+
+Over the years Killator tried many styles, and performed under different names, all with little luck until 2006.
+
+It was in August of 2006 when Killator and his long time friend, Grimm, founded the underground rap group Corpse Circus.
+
+Corpse Circus was an instant hit on the now defunct website MySpace.
+
+Killator is easily recognized by his yellow skull mask, elvis shades, beanie and gold chain.
+
+His voice is unique due to being raised by his English mother, and his American father (from the southern states), both of whom had very heavy accents and both had what he deemed an “odd vocabulary” which was different than everyone he met in his birth state of California.
+
+Killator has performed under many monikers, including: T.A.P.E.S., Ensomniak (of Ensom & Shaddo), Lord Krang (of TMNTK), Scorn Star of the Dirty Slutz, and Disgusting Justin (of The Manson Bros.) and more.
+
+Killy is known for his merchandising sensibilities, paired with his artistic abilities, allowing for his band to have a very professional appearance.
+
+Although Killator was born in California, he now resides in Texas, becoming even more elusive than ever.
+
+Killator not only raps, he also draws, animates, makes beats, edits videos, and has his own clothing brand.", image: "https://i1.sndcdn.com/artworks-000067536668-vy0lqu-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
