@@ -1381,7 +1381,9 @@ Artist.create!(name: "King Labinnac", bio: "While most of King Labinnac’s newe
 Even though Labinnac’s music doesn’t have the horrorcore sound to it, it can still be highly offensive to the norm. He gives himself a comedic sound, but can also be very serious and aggressive.
 
 For anyone wondering, “Labinnac” is just “Cannibal” backwards.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/king-labinnac.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Klasidious", bio: "Klasidious is an underground rapper from northwest Illinois. Originally the drummer from the local band “Sleeze,” Klasidious started out as “Sin Hellfire” and changed names in 2018, right before being signed to Bukkshit Records. The label is no longer, and Klasidious is now starting up a label with old label mate Araknidd.
+
+Klasidious stays diligent, putting out music regularly and typically monthly. You can follow the Facebook page at facebook.com/klasidious", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/klasidious.jpg?w=480&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
