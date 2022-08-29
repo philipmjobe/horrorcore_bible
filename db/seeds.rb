@@ -1363,7 +1363,7 @@ Artist.create!(name: "Killjoy Club", bio: "Featuring members of the Insane Clown
 Artist.create!(name: "Kill The Carver", bio: "Kill The Carver, aka True The Don, is an emcee from Denver, CO. He is a longtime member of the Lyrikal Snuff Productionz roster and is one half of Death4Told with fellow artist, Fiasco.
 
 Kill has also released multiple solo albums throughout his career.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/kill-the-carver.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kilo Crackroxxx", bio: "Kilo Crackroxxx began her rap endeavor in 2008, with a few local artists just starting out in the scene in Omaha, Nebraska. Her lyrics and subject matter began to focus on more horror-themed and darker subject matter than her associates, as these topics had always been of fascination to her. And so she delved into the genre known as horrorcore, spewing morbid tales of death, destruction, insanity and murder. She intermingles these subjects with displays of feminine playfulness and sexual wiles to seduce the listener into a realm they were not aware they would be getting into, giving Kilo a unique approach and representation of terror in disguise. In 2009, she began working closely with local horrorcore legend, Komatose, and solidified a place in the venture into horrorcore, releasing her first full length album, “Eat Your Heart Out” in 2010, an EP, “State of Withdrawal” (2011), and a second LP, “Erotic Nightmarez” (2012).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/kilo-crackroxxx-1.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
