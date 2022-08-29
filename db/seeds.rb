@@ -1409,7 +1409,9 @@ Koffin tried to bring Shadow back one more time with the help of Andy Christ sta
 Artist.create!(name: "Komatose", bio: "Considered by some a legend in the small genre of horrorcore, Komatose has been a slave to the darker side of music since 1998. Starting out reciting lyrics of lunacy into an at home makeshift recording setup, now years later, Komatose is now being whispered about in every dark corner by people who dare like something a bit darker and morbid. Komatose started his own label in 2001 with one of horrorcores most memorable duos “Kryptik”.
 
 With Kryptik as the corner stone, Cutthroat Productions, his makeshift home for his melodies of the macabre, had reached to all corners of the United States and a few places across the pond just through word of mouth alone. Now performing across the greater US, Komatose is pushing his butchered beats and hideous rhymes to anyone daring enough to listen and plans to do so until father time puts a stop to the madness known as Komatose “The Pumpkin King.”", image: "https://deadentertainment.com/uploads/komatose-new-release-horrorcore-article-image-07-o5z71s2926.png")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kombine", bio: "Kombine aka Refund (Trailer Park Boyz) is an American rapper/stand up comedian hailing from Iowa. He is best known as a member of Trailer Park Boyz, IA Boys, Simply Komplik8d, Freedom 35, and the Labaholics. He was one of the first signings to GrewSum’s now defunct Prone Records and released his only solo album, “Cornfed,” in 2009.
+
+Since then, Kombine has focused on his stand up career while making appearances on GrewSum projects and albums.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/kombine.jpg?w=435&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
