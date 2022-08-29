@@ -1318,6 +1318,6 @@ In 2014, he was contacted by Big Rela. After the parting of Psyko South, Rela wa
 In 2018, after a series of personal and professional challenges, he decided it was time to destroy, and rebuild. Joining forces with The J. Hexx Project and Sev’rd Nervez Music, Keagan Grimm was unleashed upon the underground. Primed and laser focused.
 
 Beware…", image: "https://f4.bcbits.com/img/0026159248_25.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Keepaz Of The Krypt", bio: "Keepaz Of The Krypt are a horrorcore group out of California consisting of emcees One Man Kru, fka Krucifer, and Kapital Z.", image: "https://i.scdn.co/image/ab67616d0000b27356afa8d35b9abf8bdfc31450")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
