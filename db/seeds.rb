@@ -1327,7 +1327,9 @@ Artist.create!(name: "KGP", bio: "KGP is one of the most recognized artists in t
 “Tha Ungod” is considered a classic release by almost everyone supporting the underground wicked shit.
 
 KGP has performed with the Insane Clown Posse, Mastamind, House of Krazees, Eminem, Geto Boys, and many more!", image: "https://lastfm.freetls.fastly.net/i/u/avatar170s/43abe850da0c428ba079007babfa9df8")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "KidCrusher", bio: "KidCrusher is a musician and producer from Adelaide, South Australia who has released 12 studio albums since 2005 and featured upon TV’s Law & Order, Fangoria Magazine and Tunnel Runners; Masters of the Wicked Shit. He has toured extensively around Australia with several artists such as; Insane Clown Posse, Tech N9ne, Hed Pe, Mushroomhead, Hopsin, Xzibit, The Berzerker, Blaze Ya Dead Homie, Boondox, Dirt Nasty as well as opening for the Grand Theft Auto V EB Games release party in South Australia.
+
+He is unsigned and independent, releasing music through an online stores like Victim Gear and iTunes, selling thousands of copies a year without the help of a major label. KidCrusher also acts as the lead singer and producer for Adelaide Metal Bands; Rectal Birth & KcaveMen.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/144f956c72354a228226bd8f2ea0881e.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
