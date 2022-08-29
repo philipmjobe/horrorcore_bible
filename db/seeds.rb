@@ -1430,7 +1430,7 @@ Artist.create!(name: "Krazy K", bio: "Krazy K The Pumpkin Face Killa is a legend
 Artist.create!(name: "Krazy Klan", bio: "Krazy Klan was a rap group from Detroit, MI, that consisted of emcees Jaymo and J-ho. The duo released two albums — one on cassette and one on CD — before going their separate ways.
 
 Both Jaymo and J-ho would go on to have pretty successful solo careers, eventually both being involved with Psychopathic Records in one capacity or another. Jaymo, now known as Anybody Killa, is still releasing music with the label.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/krazy-klan.jpg?w=360&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kreepy X", bio: "Kreepy X started rapping in 1993 under the moniker Da Riddler. He and Raven Hunter (then known as Da Smoka) continued to make tapes under different monikers throughout the years, eventually landing on Kreepy X and Raven Hunter. Kreepy and Raven started Evil Side Records, Brane Dead Records, Kamp Blood Records, and Young Playa $quad Productions, while also enjoying success on Cutthroat Productions, Butchered Beats Productions, 3rd Shift Entertainment, and 5th Power Entertainment, along the way.", image: "https://i.discogs.com/_t9uJrlBRkZasIQ1ch_mDURBLB8wJA4GXYJK9V-ZP1s/rs:fit/g:sm/q:90/h:575/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU3/MTQtMTQ2ODU0NDQx/Ni0yMjM3LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
