@@ -1376,7 +1376,11 @@ In 1996/1997, several tracks were made under a new group name, Death Wish.
 
 Titan is currently working towards pressing up the full Kinghood Cykoz discography, due to the fact that nothing ever heard by fans was officially released.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/10/kinghood-cykoz.jpg?w=444&ssl=1")
 Artist.create!(name: "King Gordy", bio: "Waverly Walter Alford III (born August 18, 1977), known professionally by his stage name King Gordy, is an American horrorcore emcee from Detroit, Michigan. He is a current member of underground rap groups the Fat Killahz, Last American Rock Stars, and How to Gag a Maggot.", image: "https://www.kickmag.net/wp-content/uploads/2013/02/King%2bGordy.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "King Labinnac", bio: "While most of King Labinnac’s newer songs don’t have a horror theme to them, some can definitely be considered horrorcore (ex: House of Cards, 93). Before 2018, however, his style was in fact horrorcore.
+
+Even though Labinnac’s music doesn’t have the horrorcore sound to it, it can still be highly offensive to the norm. He gives himself a comedic sound, but can also be very serious and aggressive.
+
+For anyone wondering, “Labinnac” is just “Cannibal” backwards.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/king-labinnac.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
