@@ -1412,7 +1412,11 @@ With Kryptik as the corner stone, Cutthroat Productions, his makeshift home for 
 Artist.create!(name: "Kombine", bio: "Kombine aka Refund (Trailer Park Boyz) is an American rapper/stand up comedian hailing from Iowa. He is best known as a member of Trailer Park Boyz, IA Boys, Simply Komplik8d, Freedom 35, and the Labaholics. He was one of the first signings to GrewSum’s now defunct Prone Records and released his only solo album, “Cornfed,” in 2009.
 
 Since then, Kombine has focused on his stand up career while making appearances on GrewSum projects and albums.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/kombine.jpg?w=435&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Komplex Mothra", bio: "Komplex Mothra is a lyrical hip-hop artist based out of Syracuse, New York. once signed to Legacy Artist Productions LLC. Inspired by the wicked shit and lyricists new and old, Komplex Mothra self proclaims himself as The Central Psypher. With minimalistic equipment and mixing, A tennis racket in hand and a Monster on his desk, Komplex is working on becoming something more than the world’s worst Juggalo Rapper.
+
+Colin ‘Komplex Mothra’ Reynold’s was born in Syracuse, NY to a then single mother, he moved often in his youth and was diagnosed with Asperger’s Syndrome in Elementary school, he faced many death’s of family members in the years building up to his rap career. Inspired by the Soundcloud do it yourself Era of hip-hop, The Insane Clown Posse and memories of rudimentary rap battles he attended in middle school thanks to his music teacher’s unique curriculum, Komplex Mothra was soon born. One year later he connected with minor independent label: Legacy Artist Productions, which has since let him go for future endevours.
+
+Since this departure, he has proclaimed himself as the World’s Worst Juggalo Rapper, a title appointed by those who listened to his music in passing. A man of rhyme and blood, Komplex Mothra tries to mix fantasy, reality, and more in a unique blend.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/komplex-mothra.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
