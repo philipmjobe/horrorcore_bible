@@ -1384,7 +1384,7 @@ For anyone wondering, “Labinnac” is just “Cannibal” backwards.", image: 
 Artist.create!(name: "Klasidious", bio: "Klasidious is an underground rapper from northwest Illinois. Originally the drummer from the local band “Sleeze,” Klasidious started out as “Sin Hellfire” and changed names in 2018, right before being signed to Bukkshit Records. The label is no longer, and Klasidious is now starting up a label with old label mate Araknidd.
 
 Klasidious stays diligent, putting out music regularly and typically monthly. You can follow the Facebook page at facebook.com/klasidious", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/klasidious.jpg?w=480&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Knoxx", bio: "Underground hip-hop’s beloved serial killer icon. Raps about death, drugs and bodily dismemberment.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/knoxx.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
