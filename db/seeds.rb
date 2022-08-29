@@ -1426,7 +1426,7 @@ Artist.create!(name: "Koopsta Knicca", bio: "Robert Cooper Phillips (April 27, 1
 
 Phillips released a solo album produced by DJ Paul, Da Devil’s Playground in 1994. The album was later mostly re-recorded as well as remastered in 1999 featuring some new songs and losing a couple as well. Unable to make shows & videos due to legal issues, he left Three 6 Mafia in 2000. He continued his solo work with albums Da K Project, De Inevitable, and The Mind of Robert Cooper. Beginning in 2012, Phillips started work on his latest studio album entitled “Da Devil’s Playground 2” and also a mixtape entitled “Skrewged”. He had also released A Murda ‘N Room 8 EP (2010) & Decepticons “Return Of The Gods” (2012). Phillips frequently collaborated with former Three 6 Mafia associate Lord Infamous and appeared on a collaborative album under the group name Da Mafia 6ix.", image: "https://static.hiphopdx.com/2015/10/koopsta-dead_304.jpg")
 Artist.create!(name: "Krang", bio: "Krang, aka Mozek Krang, is a Czech horrorcore rapper. He has released projects with the well-known label, ZNK, home to Reznik, Sodoma Gomora, and more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/krang.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Krazy K", bio: "Krazy K The Pumpkin Face Killa is a legend in Northwest Wicketshit. He is a composer for many acts and ill on the mic. Krazy K truly is the one of the NW’s most ruthless.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/1095095/original/crop:x0y0w167h224/hash:1466679592/l_f98cf36229ba4be5b153299449e0bdd4_1291474976.jpg?1466679592")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
