@@ -1276,7 +1276,11 @@ Since the release of his second album, he has toured and rocked stages across th
 He has just finished his third album entitled “BORDERLINE PERSONALITY,” which promises to be another amazing journey through the heart, mind, and voice of the man that brings that native thunda.
 
 If you are wanting something fresh and completely original to bang your head to, look no further. This is rap for the person that hates rap! From ages 1 to 100, there's something in there for you to groove too. Look him up online and on most all social media links, or catch him on stage in a city near you. You will not regret it.", image: "https://saymag.com/wp-content/uploads/2020/04/IMAGE-scaled-e1586277116688.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "JxKxMx", bio: "JxKxMx is a member of Sycksyde, Empire of Dirt, and Sons of Solomon. He is a former member of Monsta Squad with Dash 10 (RIP).
+
+He has released two solo projects as Mr. Kiltcha, as well as a solo EP as JxKxMx.
+
+His new album “Content, Waiting to Die” will be released late 2020 or early 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/mr-kiltcha.jpg?w=473&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
