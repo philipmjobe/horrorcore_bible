@@ -1282,7 +1282,7 @@ He has released two solo projects as Mr. Kiltcha, as well as a solo EP as JxKxMx
 
 His new album “Content, Waiting to Die” will be released late 2020 or early 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/mr-kiltcha.jpg?w=473&ssl=1")
 Artist.create!(name: "J Blaque", bio: "J Blaque was a Washington, D.C. rapper who released multiple albums with DJ Fire. He has also worked with some of the premiere artists in the Memphis underground and devil shyt scenes including M.C. Mack, La Chat, Da Evilist, Dosia Demon, Koopsta Knicca, and Valtiel. His albums were released under Infamous 6 Records and Jordan Darque Entertainment.", image: "https://i.scdn.co/image/ab67616d0000b2732f95ec51b47c3421035187ce")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "J Reno the Sadist", bio: "Versatility is the dominating quality of J Reno’s artfully violent hip-hop. He grabs the genre by the throat, infuses his own unique style, embraces diversity and challenges convention with his dangerous creativity.", image: "https://images.thestar.com/_4mxBuaXOqef9QUnsgCMbOz2s8I=/767x508/smart/http://media.zuza.com/e/e/ee048992-b8d9-43ba-a479-bb77c9c2a68f/J_Reno___Gallery.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
