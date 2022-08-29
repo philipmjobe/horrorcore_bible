@@ -1353,7 +1353,9 @@ Artist.create!(name: "KillazDontTalk", bio: "KillazDontTalk is a group consistin
 Artist.create!(name: "Killa C", bio: "Killa C, born Coul Hill, is a rapper from Billings, MT.  He was one half of the group Grave Plott, which once had a distribution deal with Strange Music.
 
 After being a mainstay in the horrorcore scene for 15 years, Hill released a Christian rap album in 2016.", image: "https://i.discogs.com/1vXQOoF5ro0Y_SosEYfAyCngRCd9eFAI53Gv61k0Epk/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA1/ODAtMTUyNjE4NDM4/Ny05MjMxLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Killa Capone", bio: "Killa Capone is a hardcore hip-hop/horrorcore artist from Minnesota.
+
+Once signed to Sicfux Entertainment, he was part of the group Dopesic.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4f28aa20897d4e47a4352bc51b8a510f.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
