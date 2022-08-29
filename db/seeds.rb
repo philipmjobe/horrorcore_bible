@@ -1349,7 +1349,7 @@ Killy is known for his merchandising sensibilities, paired with his artistic abi
 Although Killator was born in California, he now resides in Texas, becoming even more elusive than ever.
 
 Killator not only raps, he also draws, animates, makes beats, edits videos, and has his own clothing brand.", image: "https://i1.sndcdn.com/artworks-000067536668-vy0lqu-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "KillazDontTalk", bio: "KillazDontTalk is a group consisting of Smokin Joe, The Mad Butcher, D Menace, and William Alexander.", image: "https://f4.bcbits.com/img/a3089723925_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
