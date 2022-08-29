@@ -1296,7 +1296,7 @@ Artist.create!(name: "Kamikazi", bio: "Kamikazi, born Kyle Williams, is a rapper
 Kazi combines a fast flow with deep and dark lyrics over dark and trippy beats. In 2016, he started producing his own beats, which have been used by many underground artists, such as Twisted and Big Loony.
 
 Kazi has said he prefers producing beats and being behind the scenes, rather than rapping and releasing his own projects. He still makes music, though, and will release more projects in the future.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/kamikazi.jpg?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kamp Blood", bio: "Kamp Blood is a group comprised of Kreepy X and Raven Hunter.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/kamp-blood.jpg?w=585&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
