@@ -1288,7 +1288,9 @@ Artist.create!(name: "The J. Hexx Project", bio: "The J.Hexx Project is original
 At 14 he started to try to find a identity that gave a glimpse into who he was in his mind, and after a few years of writing and getting his feet wet into recording tracks, he started work on his first Ep, THE SEVEN DOORZ TO DEATH, a seven song album inspired by his relationship with life at the time. He is a Gemini, which is why he prefers to be two different identities, a schizophrenic in the musical world he created from his depraved mind. J.Hexx, the first of the two is the evil in man that wants to express his hatred for life and the challenges it presents.
 
 Joe Blakk, is his positive side, who daily has conflicts with J.Hexx in order to maintain his sanity. Both together form THE J.HEXX PROJECT. After recording his second project, TWITCH OF THE DEADZ NERVEZ, he started his own imprint, SEV’RD NERVEZ MUSIC, to release both SEVEN and TWITCH as a one cd album, and now for the first time, you can now become one with the darkness and truly understand the world of THE J.HEXX PROJECT.", image: "https://i.scdn.co/image/ab67616d0000b27352c8b635aa6b1923396d3c83")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Kadicentra", bio: "Kayla Miller (born February 7, 1992), known professionally as Kadicentra is an American singer, lyricist, and producer. In 2011, she formed the group REZEN with her brother Randum45, which has since disbanded.
+
+Her music can be described as dark pop or alt pop, with horrorcore and rock elements, and it is inspired by her struggles with mental illness.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/kadicentra.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
