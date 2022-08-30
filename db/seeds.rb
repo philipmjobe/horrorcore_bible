@@ -1553,7 +1553,9 @@ Madopelli Music was named by M.A.D. combining his name and Kokopelli, a Native A
 ​The group is always working on upcoming shows that provides opportunities for them and the whole underground scene. They’re working to book more artists and bands from the Midwest and East Coast to come perform in SoCal.
 
 When they’re not doing music the group looks to engage with their community through charitable causes like Toys for Tots (two years) and The Biggest Easter Egg Hunt Ever (three years) hosted by Straight Banger Productions.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2022/03/madopelli_lsp.jpg?fit=506%2C600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Magadino the Chemist", bio: "Magadino is a fresh face in the underground rap scene. Residing in San Antonio, Texas, Magadino has been slowly climbing his way up in the underground.
+
+His unique mix of dark trap beats and horrorcore lyrics gives his music the capability to stand on its own without struggle. He’s on his grind and has no intentions of stopping.", image: "https://united-masters.imgix.net/myJYuZ78yffs?fit=clip&w=400&h=400&q=80")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
