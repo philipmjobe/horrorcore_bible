@@ -1526,7 +1526,7 @@ His debut effort into this heavier and more theatrical sound came in the form of
 A year later, to commemorate this success and pay homage to 1980s horror video games, he enlisted the help of DJ Drankenstein to remix “Sweet Relief” into a chopped and screwed version titled “Retro Injection” in the vein of the late DJ Screw.
 
 Do not let the signature masks instill fear, though that is his goal. Lyrizone’s knack for creativity and out-of-the-box thinking in all art forms knows no limits and accepts no bounds.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/lyrizone-1.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lyte", bio: "Lyte, born Edward Reno, also known as Young Lyte, is an emcee and owner of Monstar E.N.T.", image: "https://horrorcorewiki.com/wp-content/uploads/2022/02/lyte.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
