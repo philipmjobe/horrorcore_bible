@@ -1634,7 +1634,9 @@ The underground shook at the loss and the people closest to this tight-knit circ
 
 There has been a lasting and sorrowful impact at the loss of Stitchez through the underground. As for the others related above, life is swell. While this was to be a biography about Mental Ward, in the hearts of those who were close to them, it is hard to not think of yourself as an alternate member, as they were beyond kind and welcoming in every way.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/mental-ward.jpg?w=400&ssl=1")
 Artist.create!(name: "Mereness", bio: "Mereness is an emcee from Saint Paul, MN. He is one half of the Playaz Lounge Crew and president of Team Bad Decision.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/mereness.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Michigan Misfits", bio: "The Michigan Misfits (Jack Sin & Body Rot) are a rap duo from Jackson, MI. These two independent entertainers have been working diligently for almost 10 years in the local Michigan scene performing alongside acts such as Twiztid and Esham, as well as at the legendary event “Gorefest” at The Roxy in Denver, CO, hosted by Scum of LSP.
+
+After starting in the early 2000’s playing Battle of the Bands events with Black Hoodi Records, Jack Sin began performing solo until meeting Body Rot during a local Smokehouse Junkiez show at The Rocket in Jackson, MI. They now run their own website to help promote other local Michigan artist.", image: "https://i1.sndcdn.com/avatars-OBsMIHcXdTI9Udj3-uAC48Q-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
