@@ -1579,7 +1579,29 @@ His name derives from the psychedelic mushroom Mazatapec and he first coined the
 Artist.create!(name: "Mazalium", bio: "Mazalium is a horrorcore group consisting of emcees Sinister and Phvce.
 
 The duo released their debut album, “Glorious Day for a Funeral,” in 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/05/mazalium.jpg?w=646&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "McNastee", bio: "Rapper, producer, engineer, creative director, and label owner sounds more like a small office, much less one person alone, but this may be the easiest way to condense the talents of the multifaceted McNastee in one sentence.
+
+Born Christopher McDaniel on August 23, 1978 to a military family in Germany, McNastee spent most of his childhood moving between the United States and Europe before his family settled in Lawton, Oklahoma when he was 15. Now residing in Phoenix, AZ, McNastee continues to introduce new fans to his music released by Intrinz Ink Records while promoting the Underground Hustlin’ brand and his own company, Thirteen Percent.
+
+McNastee began his musical journey as the frontman for the Doozers, a street punk foursome that played together from 1998 to 2001. The group toured the midwest for a short period of time opening for notable acts like The Queers, One-Man-Army, The Business, and Hudson Falcons. They also recorded a full length record “Blood, Sweat, and Beers” with Flaming Lips guitar-tech Trent Bell at Bell Labs, in Norman, OK.
+
+McNastee found a place in hip-hop by entering a song-writing contest conducted by Detroit producer Mike E. Clark (Insane Clown Posse, Kid Rock, George Clinton). His third place finish found him with an instant internet fanbase and he quickly recorded two albums of crudely recorded material which became Delusions of Grandeur and Triskaidekaphobia.
+
+In 2002, McNastee found himself on the mainstage of Psychopathic Record’s annual Gathering of the Juggalos competing against Michigan rap acts V-Sinizter and Rottin for an EP recording contract. McNastee finished as a runner-up to eventual winner V-Sinizter but was awarded the opportunity to record with then Twiztid producer Fritz the Cat at, Psychopathic Records recording studio, The Lotus Pod.
+
+During his trip to Detroit McNastee not only recording with Fritz but also collaborated with Mike E. Clark on a track called “I’m Wrong.”
+
+McNastee’s career began to move forward at a much faster pace in 2004 when he released multiple projects including Heavy Hittaz: Spring Training with long-time collaborator and Thirteen Percent partner, Menacide. Spring Training solidified the duo’s position in the underground and was followed up by Bootleggin’ 2004, released by Massachusetts hip hop label, Delusional Records, and Menacide’s epic “Drugz LP.” McNastee’s visibility was boosted greatly through these projects which featured guest appearances by the late Proof of D12, King Gordy, Marz, Mars of Mad Insanity, Q-Strange, and more.
+
+In 2005 McNastee collaborated with Intrinzik, Menacide, Ako Mack (Bionic Jive), Emerg McVay (Bionic Jive), Jason Porter and Slim to form Seperated at Birth. The group recorded the album “Nothing Like You” which was produced by Larry Elyea of Mind’s Eye Digital. The album received critical praise and was distributed in the U.S. by Intrinz Ink and Long Range Distro and in Japan by R-B records.
+
+2005 also saw the release of Menacide & McNastee: From the Stix to the Six-One-Six a collection of unreleased and mixtape tracks from the Heavy Hittin’ duo. The cd was original distributed for free to fans who purchased the Down South Delivery Man mixtapes from DJ 31 Degreez that often featured McNastee tracks.
+
+In 2006 Intrinz Ink Records released McNastee’s most personal album to date “Pieces of a Broken Man.” The album was produced almost entirely by Rockwise and to this date is a favorite among underground rap fans. The album includes collaborations with Proof of D12, Intrinzik, Menacide and more.
+
+McNastee has since released two projects: Great Plains Drifter and the eagerly-anticipated Heavy Hittaz album, Thirteen Percent. Thirteen Percent marked the launch of the Thirteen Percent brand, a collaborative effort between himself and, Grand Rapids , MI rapper, Menacide.
+
+Currently McNastee is working out of Phoenix, AZ recording a new album with, Kansas City producer, Matt Freix and, engineer, Aaron Connor (Bone Thugs-n-Harmony, Ruthless Records, Tech N9ne, B.G. Bulletwound) called “All the King’s Men.” He’s also actively working for and promoting UGH Artist Services, designing graphics for every UGH compilation, freelancing both art and production all while helping build Thirteen Percent and Intrinz Ink Records.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/39ccd35fa02c4b099c09d8dfa7015ede.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
