@@ -1666,7 +1666,15 @@ Look for a previously unreleased mixtape in the future.", image: "https://i0.wp.
 Artist.create!(name: "Morbid Sikosis", bio: "I am every disease known to man and animal spread over a beat like peanut butta on wheat.
 
 #GangstaMetal #GOREILLATAINMENT #BrutualBusinessEnt", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/morbid-sikosis.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mr. Hyde", bio: "Mr. Hyde is a hardcore New York based rapper/touring artist well known for his supremely violent, cinematic, attacking, raw lyrics, and extremely energetic flow.
+
+Born and raised in the streets of Queens NYC, he had to commonly meet inhumanity first hand at a young age. Hyde’s own very real experiences with violence and brutality coupled with a love for boxing, 80’s thrash metal, and addiction to horror movies greatly stimulated his own memories and ultimately sparked his creative imagination in music.
+
+Mr. Hyde is an integral and consistent mainstay at Psycho+Logical-Records, a label owned and independently run by fellow New York rapper/producer Necro.
+
+Hyde’S 2004 debut solo album, BARN OF THE NAKED DEAD, and group album, CIRCLE OF TYRANTS, were fully funded and produced by Necro and are held in high regard as underground hip-hop cult classics.
+
+Mr. Hyde’s ferocious, but ever evolving cutting edge style continues to be on full display over the years. His other solo endeavors include 2008’s CHRONICLES OF THE BEAST MAN, 2012’s IF IT BLEEDS WE CAN KILL IT, 2016’s EVIL NEVER DIES, and most recently, 2019’s THE BOOGEYMAN IS REAL.", image: "https://i.scdn.co/image/ab6761610000e5eba88d01689e3f9f27c67c502b")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
