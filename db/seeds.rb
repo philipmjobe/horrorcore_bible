@@ -1648,7 +1648,11 @@ Artist.create!(name: "Mike Fantastik", bio: "Mike Fantastik was born and raised 
 Many years later, Mike was given his moniker by a co-worker at one of the dead end jobs he may be destined to work during the remainder of his time on Earth. Taking the name and running with it, he decided that it was time to give this whole rap thing a go.
 
 His odd mentality, skewed outlook and engaging personality along with his foundation built by those days at the bus stop allow Mike to form a unique sound. His story telling and rhyme structure are a breath of fresh air in what many feel is becoming a stagnant genre.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/mike-fantastik.jpg?w=522&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mindshot", bio: "Underground veterans Pray and Saint Decay combined forces in 2011 to create the beast now known as Mindshot.
+
+The group brings together elements of old school rap music, dark ringing rock melodies, and raw uncut wicked lyricism. These two young emcees bring focus to the brainwashing of our society with a message to rebel against it. There sound shows the anger and pain of being under the fog of deception for so long. Mindshot revolts against the typical “horrorcore” grain by bringing a fresh new sound that has yet to be heard.
+
+Forget what you know, because its time to get your brains blown…", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/mindshot.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
