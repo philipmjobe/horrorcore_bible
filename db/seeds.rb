@@ -1605,7 +1605,7 @@ Currently McNastee is working out of Phoenix, AZ recording a new album with, Kan
 Artist.create!(name: "MC Bushpig", bio: "Swift Treweeke was born November 20th, 1979 in Katoomba NSW Australia.
 
 He is an Australian producer of Electronic music, Grindcore, and Brutal Horrorcore. He is also a visual artist whom has painted/created many, if not all, of the album covers for his releases, and is one of the owners of Shitwank Records and Butchers Harem Productions.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/e6f59ac8e5a947e497d7d916a459fb27.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "MC Cumblood", bio: "MC Cumblood is a Brutal Horrorcore rapper from Australia. He is a member of the group Butchers Harem. He has made multiple tracks with fellow member MC Bushpig, as well as other guest appearances on various Horrorcore albums. He is known for performing nude and covered in blood.", image: "https://static.wikia.nocookie.net/psychopathic/images/9/93/MC_2.jpg/revision/latest?cb=20150228010356")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
