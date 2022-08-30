@@ -1602,7 +1602,9 @@ In 2006 Intrinz Ink Records released McNastee’s most personal album to date �
 McNastee has since released two projects: Great Plains Drifter and the eagerly-anticipated Heavy Hittaz album, Thirteen Percent. Thirteen Percent marked the launch of the Thirteen Percent brand, a collaborative effort between himself and, Grand Rapids , MI rapper, Menacide.
 
 Currently McNastee is working out of Phoenix, AZ recording a new album with, Kansas City producer, Matt Freix and, engineer, Aaron Connor (Bone Thugs-n-Harmony, Ruthless Records, Tech N9ne, B.G. Bulletwound) called “All the King’s Men.” He’s also actively working for and promoting UGH Artist Services, designing graphics for every UGH compilation, freelancing both art and production all while helping build Thirteen Percent and Intrinz Ink Records.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/39ccd35fa02c4b099c09d8dfa7015ede.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "MC Bushpig", bio: "Swift Treweeke was born November 20th, 1979 in Katoomba NSW Australia.
+
+He is an Australian producer of Electronic music, Grindcore, and Brutal Horrorcore. He is also a visual artist whom has painted/created many, if not all, of the album covers for his releases, and is one of the owners of Shitwank Records and Butchers Harem Productions.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/e6f59ac8e5a947e497d7d916a459fb27.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
