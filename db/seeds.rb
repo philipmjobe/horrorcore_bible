@@ -1441,7 +1441,9 @@ On January 1, 2017 KFV was invited to participate in the Juggalo March On Washin
 Artist.create!(name: "K-Fix", bio: "K-Fix is considered to be one of the fastest rappers alive, giving names like Twisted Insane, Crucified, Big Loony and Tech N9ne a run for their money. K-Fix lays down murderous, speedy bars over Memphis horrorcore influenced trap beats. Whenever you hear; “Fix niggaaah”, you know the verse is about to be absolutely destroyed.", image: "https://images.genius.com/c09569010332f1cf6eb4a0a171f0674b.454x454x1.png")
 Artist.create!(name: "Labrynthine", bio: "Labrynthine (pronounced LAB-RYN-THINE) is an independent horrorcore hip hop artist from Pittsburgh, Pennsylvania.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/labrynthine.jpg?w=479&ssl=1")
 Artist.create!(name: "Lady Ehepr", bio: "Lady Ehepr is a horrorcore rap artist from Lawrence, Kansas. She specializes in a unique style of horror rap in which she combines industrial, metal-laced samples with drum machines and lo-fi quality (as if taken from tape much of the time) for a rough an gritty sound. Her image in that of a black witch.", image: "https://i.discogs.com/TQJbBJl7SXmEd4qrT8FbHKeOhNputABqu_3yhfvtuKY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1MDEw/OTEtMTYzMzE0NTAx/MS04NjUwLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lavel", bio: "Lavel, aka Mr. Realist, was a Detroit-based underground rapper and producer. He is perhaps best known for his work with Esham and Insane Clown Posse in the supergroup, Soopa Villainz, and his earlier releases with fellow Detroit emcee, Anybody Killa.
+
+Lavel stands for: Livin’ A Very Extraordinary Life.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/3db81b5930d94aba894d45f064ad9adf.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
