@@ -1576,7 +1576,9 @@ Artist.create!(name: "MazaCap", bio: "MazaCap, formerly known as Redrum Rob, is 
 Maza, nicknamed The Psilocybin Psycho, used to freestyle battle rappers in his hometown in the early 2010’s and knew he was destined to put his skills to use when in 2020 he released The Jekyll And Hyde Effect, an album concept he came up with when he was homeless in 2013. He has worked alongside the likes of The Rap Kaiser, Tone Oaks, Rekt Hearse, Kaz Kash, and Lyrikal Master, and will soon be taking part in Toy Gory Cypher 3 featuring Monoxide of Twiztid. He has also received shout-outs from the likes of The Dirtball and Madchild.
 
 His name derives from the psychedelic mushroom Mazatapec and he first coined the name in 2013 when releasing dubstep and techno music. Later on he dropped the rap name Redrum Rob in favor of this name, promoting a more psychedelic style while still occasionally releasing horrorcore tracks.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/mazacap.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mazalium", bio: "Mazalium is a horrorcore group consisting of emcees Sinister and Phvce.
+
+The duo released their debut album, “Glorious Day for a Funeral,” in 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/05/mazalium.jpg?w=646&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
