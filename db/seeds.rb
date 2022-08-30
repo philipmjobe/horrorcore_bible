@@ -1637,7 +1637,11 @@ Artist.create!(name: "Mereness", bio: "Mereness is an emcee from Saint Paul, MN.
 Artist.create!(name: "The Michigan Misfits", bio: "The Michigan Misfits (Jack Sin & Body Rot) are a rap duo from Jackson, MI. These two independent entertainers have been working diligently for almost 10 years in the local Michigan scene performing alongside acts such as Twiztid and Esham, as well as at the legendary event “Gorefest” at The Roxy in Denver, CO, hosted by Scum of LSP.
 
 After starting in the early 2000’s playing Battle of the Bands events with Black Hoodi Records, Jack Sin began performing solo until meeting Body Rot during a local Smokehouse Junkiez show at The Rocket in Jackson, MI. They now run their own website to help promote other local Michigan artist.", image: "https://i1.sndcdn.com/avatars-OBsMIHcXdTI9Udj3-uAC48Q-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Microphone Elements", bio: "Welcome to hip hop for the sake of hip hop, beats, rhymes and something to nod your head to. Is there a void in your hip hop diet that the radio isn’t filling? Then let us help you. Like Del, Shock G, Atmosphere, A Tribe Called Quest or just good hip hop then get it.
+
+ContingenZ (aka Z), Ark Pluto, and The Knack Man have been in the hip hop game for a while in different capacities. This first album for Microphone Elements album was let loose on the world in 2013. The Five Piece followed in 2016.
+
+If you’re tired of the “radio trough” and you’re looking for something fresh then look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/microphone-elements.jpg?w=540&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
