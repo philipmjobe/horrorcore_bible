@@ -1663,7 +1663,9 @@ The duo released one album, “Grindhouse HipHop,” before JxKxMx took a hiatus
 Dash 10 passed away while they were writing new material.
 
 Look for a previously unreleased mixtape in the future.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/monsta-squad.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Morbid Sikosis", bio: "I am every disease known to man and animal spread over a beat like peanut butta on wheat.
+
+#GangstaMetal #GOREILLATAINMENT #BrutualBusinessEnt", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/morbid-sikosis.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
