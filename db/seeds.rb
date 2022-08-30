@@ -1528,7 +1528,11 @@ A year later, to commemorate this success and pay homage to 1980s horror video g
 Do not let the signature masks instill fear, though that is his goal. Lyrizone’s knack for creativity and out-of-the-box thinking in all art forms knows no limits and accepts no bounds.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/lyrizone-1.jpg?w=450&ssl=1")
 Artist.create!(name: "Lyte", bio: "Lyte, born Edward Reno, also known as Young Lyte, is an emcee and owner of Monstar E.N.T.", image: "https://horrorcorewiki.com/wp-content/uploads/2022/02/lyte.jpg")
 Artist.create!(name: "L.A.R.S.", bio: "L.A.R.S. (sometimes stylized as Lars, a backronym of Last American Rock Stars. Originally known as The Davidians) is an American horrorcore duo, formed in Detroit, Michigan. It consists of rappers Bizarre (of D12) and King Gordy (of the Fat Killahz). They are currently signed by Twiztid to Majik Ninja Entertainment.", image: "https://townsquare.media/site/812/files/2017/10/LARS.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Madd Locc", bio: "Madd Locc is an emcee from Fresno, CA.
+
+Growing up a fan of bands like Slipknot and the likes of Brotha Lynch Hung, G-Macc, X-Raided, Twiztid, Lord Infamous, and Koopsta Knicca, Madd was able to create his own style of horrorcore hip hop.
+
+In 2013, he created his own label, Madd Style Muzicc Inc. Since then, he has released multiple solo projects, as well as group efforts with Canni6al Thugz and Canni6al Posse.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/background_photos/images/33864803/original/crop:x0y0w3000h3000/hash:1624318563/madd_locc_social.png?1624318563")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
