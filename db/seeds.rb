@@ -1680,7 +1680,13 @@ Artist.create!(name: "Mr. Y.U.G.", bio: "Mr. Y.U.G. is an artist from the East S
 Around his hood, Y.U.G was dropping tapes of songs he would make, selling them along the way.  Then Y.U.G. started appearing on all his boys’ albums that were coming out and making a lot of noise. He was on a CD called “Nutty” by Lavel with his group 2winn Gunnz. He also was a parttime member of Level Jumpers and appeared on both “The Red Pyramid” and “Simply Complx,” as well as Halfbreed’s “Rage of the Plague.”
 
 Along with 1-I-bandit as 2winn Gunnz, Y.U.G. released an album called “Gunnz,” which sold over 10,000 copies in the greater Detroit area. Both members were in the middle of doing a solo album and a new 2winn Gunnz record when 1-I-bandit was shot and killed.  Crushed, Y.U.G. was debating on quitting music, but decided not to let 2winn Gunnz come to an end. He continued working on his solo album, officially releasing “Weightin” in 2009.", image: "https://f4.bcbits.com/img/a1662126097_65")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mumm Ra", bio: "If you don’t know me, get familiar: I am the Creator of Dead Eye Conflict, 3rd Earth, The 13 Immortals, and The Soldiers Of Ra. I am a Chi-Town original, an Allentown original, as well as an Infect General, and I am also part of and The Hip Hop Spokesperson for Lemonade Acre Movie Special Effects & Props Company in Sun City, AZ. I have traveled the United States doing shows and I have been in three movies — What We Do (2009), Elastic Heart (2016), Stasis (2017) imdb.me/TheAncient
+
+The God Mumm Ra started his journey in Hip Hop in the north side of Chicago and in 1989 moved to Allentown, PA where he connected with the Pioneers of the Hip Hop Scene in the area who were Lockjaw Styles, Partner Of Ice, Undaground Set & Steel Syndicate and became a student under their guidance. On December 4th, 1994, Ra created his crew Dead Eye Conflict, which is the foundation and home to 3rd Earth, Soldiers Of Ra, and the 13 Immortals. Ra gained a good home following, and along his journey, he caught the attention of Mu Tan ENT. He got his first record deal with the rock label being the first Hip Hop artist they signed. In 2006, he also caught the attention of underground horrorcore artist Badluck from Medula and Mission:Infect who approached Lo Key to tell him about Ra. Loke and The God talked and built for a few years, and on June 3rd The God’s born day, Loke had Badluck and Malaria come to Allentown to announce that Mumm Ra was now part of Mission:Infect.
+
+The God has multiple albums out now and has invaded the movie world as well The latest one Stasis (2017) can now be found on Amazon Prime, trust and believe his journey is far from over!!!
+
+Soon you will enter The House Of M, will you be ready???!!!", image: "https://f4.bcbits.com/img/0003412967_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
