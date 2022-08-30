@@ -1504,7 +1504,7 @@ In 2006, following jail time which led to a breach of contract with Sony, Lord I
 
 Soon after his departure from Three 6 Mafia, Lord Infamous and long time friend and Memphis rapper II Tone formed a new record company, “Black Rain Entertainment”. Shortly thereafter Memphis rapper Mac Montese and Atlanta rapper T-Rock became involved with the company, forming what is now known as “The Club House Click”. They went on to release several group albums, solo albums and EPs, including several solo albums from Lord Infamous – The Man, The Myth, The Legacy in 2007, Futuristic Rowdy Bounty Hunter in 2010, Scarecrow Tha Terrible in 2011, Legendary Hits, King Of Horrorcore and Back From Tha Dead (Deadly Proverbs) in 2012. A group album with The Club House Click entitled Land Of Da Lost was released on November 27, 2012. On February 11, 2013, Lord Infamous released his eighth solo effort entitled Scarecrow Tha Terrible, Pt. Two. He released Voodoo, his final solo effort prior to his death, on October 11, 2013.", image: "https://upload.wikimedia.org/wikipedia/en/7/71/Lord_Infamous-picture.jpg")
 Artist.create!(name: "Lord Lhus", bio: "Lord Lhus is a rapper from Columbia, South Carolina/U.S.A. He has released albums with his former group, Bloodline, the Savage Brothers, and producer Al Tarba, as well as several solo projects.", image: "https://f4.bcbits.com/img/0012875405_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Low Life", bio: "Low Life is a rapper from Detroit, MI, and one half of the most hated rap group, 2 Sins.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/04/low-life.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
