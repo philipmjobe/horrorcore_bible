@@ -1687,7 +1687,7 @@ The God Mumm Ra started his journey in Hip Hop in the north side of Chicago and 
 The God has multiple albums out now and has invaded the movie world as well The latest one Stasis (2017) can now be found on Amazon Prime, trust and believe his journey is far from over!!!
 
 Soon you will enter The House Of M, will you be ready???!!!", image: "https://f4.bcbits.com/img/0003412967_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "M.M.M.F.D.", bio: "Artists SCUM and Insane Poetry (Cyco) teamed up together to make your motherfuckin day!!", image: "https://pbs.twimg.com/media/EEGttDsWsAICzTl.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
