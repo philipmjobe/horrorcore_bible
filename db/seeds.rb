@@ -1452,7 +1452,7 @@ Artist.create!(name: "Legacey", bio: "Legacey is a rapper, producer, songwriter,
 Artist.create!(name: "Legion Sik", bio: "I am a slasherkore hip hop artist. Slasherkore is a sub-genre as horrorcore; It’s brutal lyrics with chopper verses along with metal screams.
 
 I do musik for the love of it and the love of my fans. Screw the money. The love from my fans is enough.", image: "https://i1.sndcdn.com/artworks-BLb5jS2B8TImn0Ky-Ce5zLw-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "LepriKon", bio: "Leprikon is an emcee and producer who was once part of Suicide Lab Productions, along with artists including Tha Roka, Tha Nutkase, and Tha Misfit.  He is also the owner and founder of Soulless Soundz and his beats can be heard on various releases from Lyrikal Snuff Productions.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/leprikon.jpg?w=960&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
