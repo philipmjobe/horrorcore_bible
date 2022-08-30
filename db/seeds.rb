@@ -1544,7 +1544,15 @@ Madecipha is known for his intelligent, gritty lyrics. He often includes referen
 Artist.create!(name: "Madness", bio: "Madness the SkinWalka, aka Curt D., has been rapping, DJing, beatboxing, and battle rapping since 1994.  He was an integral in the early stages of KGP’s career and was also a founding member of the influential horrorcore group, Bedlam.
 
 He has also released a group album with his crew, H.ell O. E.arth, and has released one official solo album entitled “Exhumed.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/madness.jpg?w=301&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Madopelli Music", bio: "Madopelli Music is a duo hip-hop/rap group from Southern California formed in 2016 under Straight Banger Productions. M.A.D. and Ant Dog both bring unique sounds from rock, hip-hop, rap, and horror core to their music. Some would say their sound is reminiscent to 90’s hip-hop with the stage presence of a rock band. They’ve performed all over California bringing high energy, lots of bass, and engagement no matter the size of the crowd. You can expect to see them jumping all over the stage and getting the crowd involved every time.
+
+The group has shared the stage with artists like GZA and the Wu-Tang Clan, KRS-One, M.O.P Hopsin, Dizzy Wright, Tech N9ne, Black Rob, Kurupt, Afroman, Twisted Insane, Slain, Boondox, Twiztid, Crooked I, Whitney Payton, Joe Moses, and YG, G-MO Skee, Kung Fu Vampire, Scum and LSP, Stevie Stone, Waka Flaka, Vanilla Ice, P.O.D., R.A the Rugged Man, Afroman, Moonshine Bandits, Anybody Killa (ABK), Blaze Ya Dead Homie, Damien Quinn, Krizz Kaliko, Brotha Lynch Hung, and pretty much everyone from Strange Music. Their biggest show, with over 1,300 people, was in 2018 opening for the Wu-Tang Clan at the Novo in downtown Los Angeles. In addition, Madopelli Music has performed at the Gathering of the Juggalos 2017 & 2018, invited in 2019, and they have plans to return this year.
+
+Madopelli Music was named by M.A.D. combining his name and Kokopelli, a Native American fertility god who was cast out of his tribe. He traveled around doing music circles in the other camps. When he left the camps, it would bring life to the dead crops and women would turn up pregnant. Madopelli is like his new-age cousin bringing life to each new city after rocking a show.
+
+​The group is always working on upcoming shows that provides opportunities for them and the whole underground scene. They’re working to book more artists and bands from the Midwest and East Coast to come perform in SoCal.
+
+When they’re not doing music the group looks to engage with their community through charitable causes like Toys for Tots (two years) and The Biggest Easter Egg Hunt Ever (three years) hosted by Straight Banger Productions.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2022/03/madopelli_lsp.jpg?fit=506%2C600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
