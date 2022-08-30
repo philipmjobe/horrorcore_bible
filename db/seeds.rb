@@ -1642,7 +1642,7 @@ Artist.create!(name: "Microphone Elements", bio: "Welcome to hip hop for the sak
 ContingenZ (aka Z), Ark Pluto, and The Knack Man have been in the hip hop game for a while in different capacities. This first album for Microphone Elements album was let loose on the world in 2013. The Five Piece followed in 2016.
 
 If you’re tired of the “radio trough” and you’re looking for something fresh then look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/microphone-elements.jpg?w=540&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mic Crawlers", bio: "Mic Crawlers is a collaborative project by PA lyricist Hex and emcee Out Psycho.", image: "https://f4.bcbits.com/img/a4164843415_11.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
