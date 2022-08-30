@@ -1476,7 +1476,9 @@ To hold off until The Aftermath album comes out, Lil Ninja is making a mixtape c
 Artist.create!(name: "Lil Pink", bio: "LIL PINK is an artist from Canton Ohio, born May 30th of 2003. LIL PINK grew up very poor with their brother and mom and then welcoming the last of their siblings at ages 7 and 9. LIL PINK was carrying out their average student life until 7th grade, where the idea of making music popped into their head. They wouldn’t actually pursue this idea until the following year when they met 2 other artists with whom they started a group in late 2017. They went by the name CHARMGANG and began to release music in 2018, their first album being published on April 1st of 2018. They continued as a unit until August of 2018 when they parted ways leaving LIL PINK as the only member of the 3 to continue their music career.
 
 With LIL PINK now being an independent artist, they began work on their first debut album KILLA. PT.1, released on March 1st, 2019. They would then follow up with PT. 2 that year- the album including his biggest song of 2019 titled “Good Days.” They were also finally on all platforms this same year. Overall, 2019 was a big learning curve for this young artist as they showed great improvement during this time. By the end of 2019, LIL PINK started to develop their distinct sound. In 2020, LIL PINK would release one of their biggest albums, “2020 Degenerate” then- in the same year- “Unloved,” which also did very well. The biggest song reached 133k views on YouTube as of the time of this being written.", image: "https://i.scdn.co/image/ab6761610000e5eb752b30bb54cc0c02608d75f7")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lil Sicx", bio: "The son of rapper Sicx, Lil Sicx was born and raised in the Siccness.
+
+He is also known as the Prince of Darkness and is currently part of the label Diamond Life Music Group.", image: "https://resources.tidal.com/images/2223457f/d66f/440e/87be/9b04494d8137/640x640.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
