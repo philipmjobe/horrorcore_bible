@@ -1633,7 +1633,7 @@ From 2003 to 2011, Mental Ward would put out three more albums, one being a samp
 The underground shook at the loss and the people closest to this tight-knit circle were lost. They continued to do as he would have wanted, with Big K dropping a solo, “The Cellar Door.”
 
 There has been a lasting and sorrowful impact at the loss of Stitchez through the underground. As for the others related above, life is swell. While this was to be a biography about Mental Ward, in the hearts of those who were close to them, it is hard to not think of yourself as an alternate member, as they were beyond kind and welcoming in every way.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/mental-ward.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mereness", bio: "Mereness is an emcee from Saint Paul, MN. He is one half of the Playaz Lounge Crew and president of Team Bad Decision.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/mereness.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
