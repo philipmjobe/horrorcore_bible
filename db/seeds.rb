@@ -1653,7 +1653,9 @@ Artist.create!(name: "Mindshot", bio: "Underground veterans Pray and Saint Decay
 The group brings together elements of old school rap music, dark ringing rock melodies, and raw uncut wicked lyricism. These two young emcees bring focus to the brainwashing of our society with a message to rebel against it. There sound shows the anger and pain of being under the fog of deception for so long. Mindshot revolts against the typical “horrorcore” grain by bringing a fresh new sound that has yet to be heard.
 
 Forget what you know, because its time to get your brains blown…", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/mindshot.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Monoxide", bio: "Paul Robert Methric (born July 14, 1973) is an American rapper and producer from Detroit, Michigan, well known as Monoxide Child of the rap group Twiztid.
+
+He has been rapping in the wicked underground scene for over two decades and has been a major part of groups including House of Krazees, Dark Lotus, Psychopathic Rydas, Triple Threat, and Venomous5.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4f2ac1f76b18418c99437e98d829efff.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
