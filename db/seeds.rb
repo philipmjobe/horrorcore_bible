@@ -1519,7 +1519,13 @@ Artist.create!(name: "Lugubry", bio: "Lugubry is a French artist from signed to 
 Since 2011, she has appeared on songs with labelmate CJ Sordide as a singer and on various choruses. Lugubry is also the illustrator for the label, displaying her artwork on album covers.
 
 The most sordid Clownette in France, she is part of the group Les clowns Sordide with CJ Sordide.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/lugubry.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lyrizone", bio: "Lyrizone is a horrorcore artist based out of Vancouver, Washington, who specializes in portraying musical theatrics depicting horror films and cinematics.
+
+His debut effort into this heavier and more theatrical sound came in the form of the EP, “Sweet Relief”, and coincided with his favorite holiday, Halloween, in 2019 and showcased his incredible prowess and versatility on the mic. The success of this release landed him spots in global magazines including Underground Nation, as well as appearances on Replicon Radio & The Underground Australia podcasts.
+
+A year later, to commemorate this success and pay homage to 1980s horror video games, he enlisted the help of DJ Drankenstein to remix “Sweet Relief” into a chopped and screwed version titled “Retro Injection” in the vein of the late DJ Screw.
+
+Do not let the signature masks instill fear, though that is his goal. Lyrizone’s knack for creativity and out-of-the-box thinking in all art forms knows no limits and accepts no bounds.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/lyrizone-1.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
