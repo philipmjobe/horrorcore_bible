@@ -1514,7 +1514,11 @@ In the mid-2000s, he would go on to release several solo albums including Follow
 Lo Key and MISSION:INFECT also performed 4 consecutive years at the Gathering of the Juggalos. Lo Key was also featured on Psychopathic Records 2008 compilation album Tunnel Runners, which debuted at #21 on Billboards Top Rap Albums.
 
 After a short hiatus in 2010, Lo Key would go on to create several more albums, as well as headlining his first national tour – The Lo Key Loves You Tour.In 2016 he released the album Jack Yo Beatz 3, featuring a music video for the song “Nasty”, as well as collaborations with Redneck Souljers and The Jokerr.", image: "https://i.ytimg.com/vi/hxZg0d5tsN4/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lugubry", bio: "Lugubry is a French artist from signed to Sordide Records.
+
+Since 2011, she has appeared on songs with labelmate CJ Sordide as a singer and on various choruses. Lugubry is also the illustrator for the label, displaying her artwork on album covers.
+
+The most sordid Clownette in France, she is part of the group Les clowns Sordide with CJ Sordide.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/lugubry.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
