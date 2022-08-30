@@ -1445,7 +1445,9 @@ Artist.create!(name: "Lavel", bio: "Lavel, aka Mr. Realist, was a Detroit-based 
 
 Lavel stands for: Livin’ A Very Extraordinary Life.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/3db81b5930d94aba894d45f064ad9adf.jpg")
 Artist.create!(name: "LaVey", bio: "LaVey is an emcee and producer from Memphis, TN, and has been releasing music for over 10 years.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/01/lavey.jpg?w=224&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Leaders of the Lost", bio: "Formed in late 2008, Leaders of the Lost is a grimy boom-bap hip hop duo from Wisconsin’s Fox Cities whose sound has been compared to artists such as Jedi Mind Tricks, Outerspace, and Non-Phixion. The group consists of emcees Stress the Mind and Bully Vegas, who have five national tours under their belt and have performed with acts such as the DRP, Mars, Copywrite, Shoestring of the Dayton Family, Project Born, DAS EFX, Mastamind, Scum, Q-Strange, Insane Poetry, Planetary (AOTP Outerspace), Danny Diablo, Lord Willin, and Twisted Insane.
+
+Leaders of the Lost is raw, grimy, and uncut. Their music brings subject matter ranging from real life street violence, nightmarish imagery, emotional standpoints, religious ideology, hip hop culture, and their own perspective of the world around them. Heavily influenced by the 90’s style of hardcore and hip hop music, expect nothing but heavy hitting original tracks throughout the groups releases.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/04/leaders-of-the-lost.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
