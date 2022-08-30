@@ -1656,7 +1656,13 @@ Forget what you know, because its time to get your brains blown…", image: "htt
 Artist.create!(name: "Monoxide", bio: "Paul Robert Methric (born July 14, 1973) is an American rapper and producer from Detroit, Michigan, well known as Monoxide Child of the rap group Twiztid.
 
 He has been rapping in the wicked underground scene for over two decades and has been a major part of groups including House of Krazees, Dark Lotus, Psychopathic Rydas, Triple Threat, and Venomous5.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/4f2ac1f76b18418c99437e98d829efff.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Monsta Squad", bio: "Monsta Squad was formed by Dash 10 and JxKxMx during the recording of Sycksyde’s “Sometimes They Come Back.”
+
+The duo released one album, “Grindhouse HipHop,” before JxKxMx took a hiatus from music.
+
+Dash 10 passed away while they were writing new material.
+
+Look for a previously unreleased mixtape in the future.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/monsta-squad.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
