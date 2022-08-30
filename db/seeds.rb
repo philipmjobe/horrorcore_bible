@@ -1675,7 +1675,11 @@ Mr. Hyde is an integral and consistent mainstay at Psycho+Logical-Records, a lab
 Hyde’S 2004 debut solo album, BARN OF THE NAKED DEAD, and group album, CIRCLE OF TYRANTS, were fully funded and produced by Necro and are held in high regard as underground hip-hop cult classics.
 
 Mr. Hyde’s ferocious, but ever evolving cutting edge style continues to be on full display over the years. His other solo endeavors include 2008’s CHRONICLES OF THE BEAST MAN, 2012’s IF IT BLEEDS WE CAN KILL IT, 2016’s EVIL NEVER DIES, and most recently, 2019’s THE BOOGEYMAN IS REAL.", image: "https://i.scdn.co/image/ab6761610000e5eba88d01689e3f9f27c67c502b")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mr. Y.U.G.", bio: "Mr. Y.U.G. is an artist from the East Side of Detroit. Growing up in the same neighborhood as Proof, Esham, Flagrant, A.B.K., and Twiztid, and being the brother of Killjoy and The R.O.C., he was bound two get into the rap game. He made his first appearance on Evol’s “Satanic Groove” in 1994, under the name R.A.G.Z.
+
+Around his hood, Y.U.G was dropping tapes of songs he would make, selling them along the way.  Then Y.U.G. started appearing on all his boys’ albums that were coming out and making a lot of noise. He was on a CD called “Nutty” by Lavel with his group 2winn Gunnz. He also was a parttime member of Level Jumpers and appeared on both “The Red Pyramid” and “Simply Complx,” as well as Halfbreed’s “Rage of the Plague.”
+
+Along with 1-I-bandit as 2winn Gunnz, Y.U.G. released an album called “Gunnz,” which sold over 10,000 copies in the greater Detroit area. Both members were in the middle of doing a solo album and a new 2winn Gunnz record when 1-I-bandit was shot and killed.  Crushed, Y.U.G. was debating on quitting music, but decided not to let 2winn Gunnz come to an end. He continued working on his solo album, officially releasing “Weightin” in 2009.", image: "https://f4.bcbits.com/img/a1662126097_65")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
