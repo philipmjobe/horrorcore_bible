@@ -1459,7 +1459,7 @@ In 2013, gaining a small following, she began to take her music more seriously a
 Artist.create!(name: "Level Jumpers", bio: "Level Jumpers was a hip hop group from Mt. Clemens/Detroit, MI made up of emcees F.R.EEZE and Skrapz and producer Sol46. The group was formed on the heels of Halfbreed, still part of Virus Independent, and lasted for a couple of years, releasing two samplers and two full-length albums.", image: "https://m.media-amazon.com/images/I/41Z395SSQWL.jpg")
 Artist.create!(name: "Lex the Hex Master", bio: "Lex “The Hex” Master is an American rapper from Queens, New York. He signed to Twiztid’s Majik Ninja Entertainment in mid 2015.", image: "https://faroutmagazine.co.uk/static/uploads/2020/08/LexHex.jpg")
 Artist.create!(name: "Lil Existent", bio: "Existent David, better known as Lil Existent, is a Brazilian horrorcore rapper and waifucore singer.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/lil-existent.jpg?w=300&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Lil Manyak", bio: "Lil Manyak is a emcee from Reno, NV. He is one of the original founding members of Illtrix and is also part of the supergroup known as Cerberus Clique.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/07/lil-manyak.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
