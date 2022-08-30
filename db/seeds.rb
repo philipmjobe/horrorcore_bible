@@ -1541,7 +1541,9 @@ Madd Maxxx has released music on at least four labels to date, though no officia
 Artist.create!(name: "Madecipha", bio: "Ryan Bond (born August 8th, 1982) better known by his stage name Madecipha (mad-e-sigh-fa), or Max Omega, is an American rapper, a member of the hip-hop groups Modifi Sci, Righteousness Gone, Unlimited Future Objectives and the founder of Spider Bite Records.
 
 Madecipha is known for his intelligent, gritty lyrics. He often includes references to the paranormal in his songs, going as far as to collect EVPs from noted paranormal activity sites to sample in his music. He took classes with John Zaffis from the tv show “Haunted Collector” and released a book on all of his paranormal photos and adventures. He performs and collaborates primarily within the New Haven, Connecticut area, where he has established a record label, Spider Bite Records; to organize associated artists under one label.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2019/05/madecipha-macabre-mentality.jpg?fit=600%2C338&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Madness", bio: "Madness the SkinWalka, aka Curt D., has been rapping, DJing, beatboxing, and battle rapping since 1994.  He was an integral in the early stages of KGP’s career and was also a founding member of the influential horrorcore group, Bedlam.
+
+He has also released a group album with his crew, H.ell O. E.arth, and has released one official solo album entitled “Exhumed.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/madness.jpg?w=301&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
