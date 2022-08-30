@@ -1444,7 +1444,7 @@ Artist.create!(name: "Lady Ehepr", bio: "Lady Ehepr is a horrorcore rap artist f
 Artist.create!(name: "Lavel", bio: "Lavel, aka Mr. Realist, was a Detroit-based underground rapper and producer. He is perhaps best known for his work with Esham and Insane Clown Posse in the supergroup, Soopa Villainz, and his earlier releases with fellow Detroit emcee, Anybody Killa.
 
 Lavel stands for: Livin’ A Very Extraordinary Life.", image: "https://lastfm.freetls.fastly.net/i/u/300x300/3db81b5930d94aba894d45f064ad9adf.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "LaVey", bio: "LaVey is an emcee and producer from Memphis, TN, and has been releasing music for over 10 years.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/01/lavey.jpg?w=224&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
