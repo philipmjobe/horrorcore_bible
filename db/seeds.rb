@@ -1561,7 +1561,7 @@ Artist.create!(name: "Majik Duce", bio: "Majik Duce is an emcee from North Coast
 The rapper with a unique voice and style made his return to the underground scene after a decade-long hiatus when he released One Ireland on another popular horrorcore label, Serial Killin Records.
 
 Duce has toured with some of the biggest powerhouses in the scene, including Damien Quinn, Razakel, and many more, and is currently the CEO of his own underground label, Bulger Bloodline Records.", image: "https://i1.sndcdn.com/avatars-BouICieHsSMOQFSy-Gye5dQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Malaria", bio: "Malaria was a rapper from NJ.  He was an integral part of both 7th Seal Entertainment and the Mission: Infect movement and aside from his various solo albums released between 2007 and 2013, he can be heard on BunnyJunk songs under the alias Doc Sipps.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/malaria.jpg?w=896&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
