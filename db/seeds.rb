@@ -1568,7 +1568,9 @@ Artist.create!(name: "Marsh Land Monster", bio: "Marsh Land Monster is an emcee 
 Artist.create!(name: "Masový Wrazi", bio: "Masový Wrazi, hailing from Třebíč Czech Republic, consists of emcees El Marón and Curwa and DJ Doyem. Their songs are about death, violence and killing, and anything else your worst nightmares are made of.
 
 The trio started making music in 2005 and since then have released five full length albums. They’ve performed on the TV program “Fifth Element,” opened for Jedi Mind Tricks in Prague’s Lucerna music bar, and have had a three page interview featured in hip hop magazine, Bbarak.", image: "https://i.discogs.com/eJ7tH3XB4Oe7NDMzwN9uJFqMB2AEZsdm87qHa4VQdxc/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0MjIy/MjctMTM3Njc0OTU1/NS05NzQwLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mastamind", bio: "Gary Reed (born December 28, 1972), also known as Mastamind, is an American rapper from Detroit. A founding member of Natas, he was formerly signed with Reel Life Productions before forming his own label, Toxsic Records.
+
+While attending Osborne High School, Mastamind passed a three-song demo to fellow student, Esham, who had released the album Boomin’ Words from Hell and multiple EPs on his Reel Life Productions label. Esham liked the demo, and decided to form a group with Mastamind and a friend, T-N-T. The trio named the group Natas, an acronym for “Nation Ahead of Time And Space”.", image: "https://e.snmc.io/i/1200/s/d77c203a7ae1f0cc2fad89ee081e331b/1353725")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
