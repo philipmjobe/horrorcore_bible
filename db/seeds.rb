@@ -1571,7 +1571,11 @@ The trio started making music in 2005 and since then have released five full len
 Artist.create!(name: "Mastamind", bio: "Gary Reed (born December 28, 1972), also known as Mastamind, is an American rapper from Detroit. A founding member of Natas, he was formerly signed with Reel Life Productions before forming his own label, Toxsic Records.
 
 While attending Osborne High School, Mastamind passed a three-song demo to fellow student, Esham, who had released the album Boomin’ Words from Hell and multiple EPs on his Reel Life Productions label. Esham liked the demo, and decided to form a group with Mastamind and a friend, T-N-T. The trio named the group Natas, an acronym for “Nation Ahead of Time And Space”.", image: "https://e.snmc.io/i/1200/s/d77c203a7ae1f0cc2fad89ee081e331b/1353725")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "MazaCap", bio: "MazaCap, formerly known as Redrum Rob, is a rapper from Fairfield, CA aka “The Flats” and is known for his lyrical prowess, his fusion of rap and psychedelic rock, brutal diss tracks, and his ability to connect with other rappers in the underground.
+
+Maza, nicknamed The Psilocybin Psycho, used to freestyle battle rappers in his hometown in the early 2010’s and knew he was destined to put his skills to use when in 2020 he released The Jekyll And Hyde Effect, an album concept he came up with when he was homeless in 2013. He has worked alongside the likes of The Rap Kaiser, Tone Oaks, Rekt Hearse, Kaz Kash, and Lyrikal Master, and will soon be taking part in Toy Gory Cypher 3 featuring Monoxide of Twiztid. He has also received shout-outs from the likes of The Dirtball and Madchild.
+
+His name derives from the psychedelic mushroom Mazatapec and he first coined the name in 2013 when releasing dubstep and techno music. Later on he dropped the rap name Redrum Rob in favor of this name, promoting a more psychedelic style while still occasionally releasing horrorcore tracks.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/mazacap.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
