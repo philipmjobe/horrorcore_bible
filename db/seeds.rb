@@ -1556,7 +1556,11 @@ When they’re not doing music the group looks to engage with their community th
 Artist.create!(name: "Magadino the Chemist", bio: "Magadino is a fresh face in the underground rap scene. Residing in San Antonio, Texas, Magadino has been slowly climbing his way up in the underground.
 
 His unique mix of dark trap beats and horrorcore lyrics gives his music the capability to stand on its own without struggle. He’s on his grind and has no intentions of stopping.", image: "https://united-masters.imgix.net/myJYuZ78yffs?fit=clip&w=400&h=400&q=80")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Majik Duce", bio: "Majik Duce is an emcee from North Coast, OH. His debut came in 1999 with the EP, Irish Greenz, and a few short years later, he would release his debut full-length album, Irish K.I.L.L.A. with 3rd Shift Entertainment.
+
+The rapper with a unique voice and style made his return to the underground scene after a decade-long hiatus when he released One Ireland on another popular horrorcore label, Serial Killin Records.
+
+Duce has toured with some of the biggest powerhouses in the scene, including Damien Quinn, Razakel, and many more, and is currently the CEO of his own underground label, Bulger Bloodline Records.", image: "https://i1.sndcdn.com/avatars-BouICieHsSMOQFSy-Gye5dQ-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
