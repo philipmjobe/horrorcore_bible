@@ -1479,7 +1479,19 @@ With LIL PINK now being an independent artist, they began work on their first de
 Artist.create!(name: "Lil Sicx", bio: "The son of rapper Sicx, Lil Sicx was born and raised in the Siccness.
 
 He is also known as the Prince of Darkness and is currently part of the label Diamond Life Music Group.", image: "https://resources.tidal.com/images/2223457f/d66f/440e/87be/9b04494d8137/640x640.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Liquid Assassin", bio: "Liquid Assassin was born Cardell Avila Toombs June 28th 1982 in Saint Paul Minnesota. Father Cardell Toombs and mother Cynthia Drummer. He began his musical journey at age 16 when he started writing music, and age 18 started recording various songs but never released an actual album until 2005.
+
+2004 he met national recording artist Killa C. The next year Liquid Assassin would sign with Dirty Thug Records and the 2 would form the National recording group Grave Plott. Grave Plott would go on to release the album “Puttin you In” featuring Tech N9ne and Krizz Kaliko from Strange Music. Over the next few years would tour very heavy in the northwest and midwest of the U.S. with Strange Music.
+
+2008 Dirty Thug Records signed a distribution deal with Strange Music. Later that year they would release “The Plott Thickens” nationally through Universal Fontana and Strange Music, which charted billboard independent and new artist. Liquid was also featured on Tech N9ne album release “Killer” on “Psycho Bitch II”. Album which charted billboard #1 Independent. Also touring well over 100 shows across the U.S. that year. “Strictly Strange” tour with Tech N9ne and “Clockwork Gray” tour with Psychopathic Records artist Blaze ya Dead Homie were both 40+ shows that year.
+
+2009 Dirty Thug Records would release Liquid Assassin solo debut album “Apocalypse” independently along with “the Lost Chapters of Apocalypse”. Albums would feature an all star cast from Tech N9ne, Paul Wall, and Blaze along with other national names. Later that year Liquid would start his own label 42 Records leaving Dirty Thug Records to pursue a solo career.
+
+2010 he would do many shows nationally promoting his solo album “Apocalypse”. Doing shows with many National Artist like 50 Cent, Hopsin, RedMan, Method Man, DMX, Fabolous, Pitbull, Paul Wall, Chamillionaire, Lil Scrappy, Black Pegasus, the list goes on. He also appeared in the independent movie release of “The Musick” and is featured on the soundtrack.
+
+2011 he would release his next solo release “Cardell” in tribute to his father who passed away from liver cancer. The album includes the song “Beastmode” featuring Hopsin and “Im Right Here”, 2 fan favorites from Liquid. The song “Beastmode” itself has tallied 1.6 million views on youtube with no video or solid promotion.
+
+2012 continued with heavy touring, 40+ show tour with Independent national artist Kung Fu Vampire across the U.S. along with quality album releases and notable shows such as the 4 appearances at “the Gathering of Juggalos”, 3 appearances at the legendary Red Rocks Amphitheatre, also numerous headlining shows across the United States and few in Canada, and currently working on his next full length album “Mongrel” set for summer 2013, Liquid Assassin is well on his way.", image: "https://i.scdn.co/image/8bbee9662781f218948c3f3b4f0be1335b9ec71a")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
