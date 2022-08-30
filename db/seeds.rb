@@ -1643,7 +1643,11 @@ ContingenZ (aka Z), Ark Pluto, and The Knack Man have been in the hip hop game f
 
 If you’re tired of the “radio trough” and you’re looking for something fresh then look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/microphone-elements.jpg?w=540&ssl=1")
 Artist.create!(name: "Mic Crawlers", bio: "Mic Crawlers is a collaborative project by PA lyricist Hex and emcee Out Psycho.", image: "https://f4.bcbits.com/img/a4164843415_11.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Mike Fantastik", bio: "Mike Fantastik was born and raised in the hip hop black hole better known as Omaha, Nebraska. He became fond of rap music at an early age after being exposed to the sounds of The Beastie Boys, LL Cool J and Sir Mix A lot while waiting for the bus in his working class neighborhood. As Mike grew, his musical preferences became more eclectic; however, he always maintained a love for rap music.
+
+Many years later, Mike was given his moniker by a co-worker at one of the dead end jobs he may be destined to work during the remainder of his time on Earth. Taking the name and running with it, he decided that it was time to give this whole rap thing a go.
+
+His odd mentality, skewed outlook and engaging personality along with his foundation built by those days at the bus stop allow Mike to form a unique sound. His story telling and rhyme structure are a breath of fresh air in what many feel is becoming a stagnant genre.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/mike-fantastik.jpg?w=522&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
