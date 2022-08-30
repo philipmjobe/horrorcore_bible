@@ -1449,7 +1449,9 @@ Artist.create!(name: "Leaders of the Lost", bio: "Formed in late 2008, Leaders o
 
 Leaders of the Lost is raw, grimy, and uncut. Their music brings subject matter ranging from real life street violence, nightmarish imagery, emotional standpoints, religious ideology, hip hop culture, and their own perspective of the world around them. Heavily influenced by the 90’s style of hardcore and hip hop music, expect nothing but heavy hitting original tracks throughout the groups releases.", image: "https://horrorcorewiki.com/wp-content/uploads/2020/04/leaders-of-the-lost.jpg")
 Artist.create!(name: "Legacey", bio: "Legacey is a rapper, producer, songwriter, and sound designer from Indianapolis.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/legacey.jpg?w=360&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Legion Sik", bio: "I am a slasherkore hip hop artist. Slasherkore is a sub-genre as horrorcore; It’s brutal lyrics with chopper verses along with metal screams.
+
+I do musik for the love of it and the love of my fans. Screw the money. The love from my fans is enough.", image: "https://i1.sndcdn.com/artworks-BLb5jS2B8TImn0Ky-Ce5zLw-t240x240.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
