@@ -1606,7 +1606,7 @@ Artist.create!(name: "MC Bushpig", bio: "Swift Treweeke was born November 20th, 
 
 He is an Australian producer of Electronic music, Grindcore, and Brutal Horrorcore. He is also a visual artist whom has painted/created many, if not all, of the album covers for his releases, and is one of the owners of Shitwank Records and Butchers Harem Productions.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/e6f59ac8e5a947e497d7d916a459fb27.jpg")
 Artist.create!(name: "MC Cumblood", bio: "MC Cumblood is a Brutal Horrorcore rapper from Australia. He is a member of the group Butchers Harem. He has made multiple tracks with fellow member MC Bushpig, as well as other guest appearances on various Horrorcore albums. He is known for performing nude and covered in blood.", image: "https://static.wikia.nocookie.net/psychopathic/images/9/93/MC_2.jpg/revision/latest?cb=20150228010356")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "MC Frank Hatchett", bio: "Frank Hatchett is a Horror based SeweRap Artist from Vestal Tennessee, United States. CEO of Shrunken Head Records and Realm of Terror Comics. Influences include: Satan, Voodoo, Goregrind, Hellraiser, Mortal Kombat, Black Magick, Witchcraft, Samhain, Evil Dead, and the Necronomicon. Raps in: Hell’z Labyrinth with Infamous M of Wayman Brothers Entertainment, Sewer Dwellaz with Roadkill, Memoirs of a Demigod with Brian Devil, and The Grim Brothers with iGod.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/profile_cover_photos/images/1711543/original/crop:x0y0w1920h746/quality:90/hash:1499643988/PicsArt_07-09-07_39_19_copy.png?1499643988")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
