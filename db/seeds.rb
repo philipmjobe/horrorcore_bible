@@ -1689,7 +1689,7 @@ The God has multiple albums out now and has invaded the movie world as well The 
 Soon you will enter The House Of M, will you be ready???!!!", image: "https://f4.bcbits.com/img/0003412967_10.jpg")
 Artist.create!(name: "M.M.M.F.D.", bio: "Artists SCUM and Insane Poetry (Cyco) teamed up together to make your motherfuckin day!!", image: "https://pbs.twimg.com/media/EEGttDsWsAICzTl.jpg")
 Artist.create!(name: "Nastie Ink", bio: "Nastie Ink is an emcee from Indianapolis, IN. He is one half of the group Hellfire and is part of the Urban Myth Records family.", image: "https://i.scdn.co/image/ab6761610000e5eb503c1d7b5abfd8eec92c4131")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Nasty Nutty", bio: "Hector Garcia aka Nasty Nutty and I spit the wicked shit! Straight up Juggalo! Don’t like me or my rhymes? Fuck Off!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/nasty-nutty.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
