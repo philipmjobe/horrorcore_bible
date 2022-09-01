@@ -1844,7 +1844,7 @@ Artist.create!(name: "Rev.PanMorge", bio: "Rev.PanMorge is an Occultist and Reve
 He produces beats and makes music in his spare time, and is looking to break into the lyrical side of the music industry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/rev-panmorge.jpg?w=450&ssl=1")
 Artist.create!(name: "Reznik" bio: "Řezník is a Czech horrorcore rapper who has been releasing music since 2005. He has dropped numerous solo albums as well as collaborative projects with Sodoma Gomora and Mortal Cabinet.", image: "https://i.scdn.co/image/ab67616d00001e02a0bd3d46baa99ba40f9641c8")
 Artist.create!(name: "Richard Gein", bio: "Richard Gein is a rapper and producer from San Antonio, Texas and was part of the group The Vultures under the name Stealth Entity. He was also both members of the “imaginary” group The Irthwormz.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2012/09/richardgein.jpg?fit=600%2C450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ritual of Ether", bio: "Ritual of Ether, or R.O.E., is a rapper and producer from Colorado.", image: "https://i.ytimg.com/vi/fSSOJ0IpMwY/maxresdefault.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
