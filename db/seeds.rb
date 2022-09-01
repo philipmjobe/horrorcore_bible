@@ -1741,7 +1741,11 @@ Artist.create!(name: "N8 Money", bio: "N8 Money is a rapper from Cecil County, M
 Artist.create!(name: "Odprophet", bio: "Odprophet, formerly known as Overdose tha Prophet, is an emcee, engineer, and producer from Fairfield, CA.
 
 He is the co-founder of S’laughter Visions and one half of the Bay Area underground rap duo Dead Kids.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/12/odprophet.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ohhdreamer", bio: "Ohhdreamer is an Industrial Nu-Metal artist from Tacoma, Wa. The project began in October 2020 with demo tracks making their way to social media in December 2020. Early audio, from what would become the debut release Arise, for all that is Wicked, was featured in a handful of studio vlogs and game streams until December 29th, 2020 the first demo Ribcage was released. After two additional demo tracks were released in January 2021, Pacify & End of Days, there wouldn’t be another release until September 2021.
+
+With the demo release of Something Wicked the project’s sound began to take on more influence from the nu-metal and horrorcore genres of the early 2000’s. Arise, for All That is Wicked officially released in January 2022 where it immediately gained traction in the underground with the project’s unique blend of industrial metal and nu/trap metal.
+
+Currently, Ohhdreamer is endorsed by BLACKCRAFT CULT lifestyle brand, and has been featured on music outlets such as: Blackcraft Cult: The Witching Hour, That Space Zebra Show by Danny Wimmer Presents & Blackcraft Cult, The Sloppy Syndicate Show, The Metalverse, Nocturnal Cult, and is currently a featured artist for The Trenches Official.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ohhdreamer.jpg?w=423&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
