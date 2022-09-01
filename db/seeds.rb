@@ -1717,7 +1717,15 @@ Nos is currently a member of Hex Mob Family Ent.", image: "https://pbs.twimg.com
 Artist.create!(name: "Novatore", bio: "Novatore is a hardcore hip-hop artist from the south side of Chicago that blends heavy melodic boom bap inspired beats with raspy multi syllabic rhymes in an aggressive delivery. Though he typically writes East Coast style battle rap themed lyrics, Novatore also has a vast range of lyrical abilities; He can be brutally self reflective, comical, and philosophical.
 
 Novatore has collaborated and performed with many legendary acts such as Mobb Deep, Apathy, ILL Bill, Immortal Technique, Necro, and more. In 2019, he toured the West Coast on a 20 day run with Apathy & Celph Titled of the Demigodz and Army of the Pharoahs.", image: "https://undergroundhiphopblog.com/wp-content/uploads/2018/01/Novatore-x-C-Lance-Caustic-EP-Album.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Novelty Rapps", bio: "Cameron Couch A.K.A. Novelty Rapps is a Tacoma, WA native and has been active since 2017 with Greg Double’s long-running WA label, Blue Nose Music (BNM), First Degree The D.E.’s Sacramento, CA label, Fahrenheit Records and Minnesota based label Morbid Clique Ent.
+
+Rapps has a true 90’s West Coast, laid-back storytelling foundation and mixes in his Blues influence with an occasional way-outside-the-box approach. He also includes his various instrument playing skills for background beats. OutKast, Digital Underground, Hieroglyphics, Living Legends, Andre Nikitina, Brotha Lynch Hung, and B-Legit are a some of his influences.
+
+In 2020, BNM released a project a month for the entire year, including the two singles “Ima Problem” with GrewSum featuring SwizZz and “The Power” featuring Portland, OR Legend Cool Nutz.
+
+On October 20, 2020, Rapps and California legend Coolio Da’Unda’Dogg, (CEO of Cavvy R. Records and once co-CEO of Mac Dre’s Thizz Ent.) made the 6-Pack, Brainstorm produced EP titled “Vocaine” with the songs “Sippin & Smokin”, “Q[uarantine],” and “In My Zone”, to which are among his most successful songs-to-date. 
+
+In 2021, he and Greg Double released their LONG awaited BNM joint album titled “Against the Grain”, available on streaming and limited hard copies. In addition, Rapps has another joint album due with SicFux’s GrewSum titled “Charles Kane” slated for a late summer release.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/novelty-rapps.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
