@@ -1726,7 +1726,9 @@ In 2020, BNM released a project a month for the entire year, including the two s
 On October 20, 2020, Rapps and California legend Coolio Da’Unda’Dogg, (CEO of Cavvy R. Records and once co-CEO of Mac Dre’s Thizz Ent.) made the 6-Pack, Brainstorm produced EP titled “Vocaine” with the songs “Sippin & Smokin”, “Q[uarantine],” and “In My Zone”, to which are among his most successful songs-to-date. 
 
 In 2021, he and Greg Double released their LONG awaited BNM joint album titled “Against the Grain”, available on streaming and limited hard copies. In addition, Rapps has another joint album due with SicFux’s GrewSum titled “Charles Kane” slated for a late summer release.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/novelty-rapps.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Noyz Narcos", bio: "Noyz Narcos, stage name of Emanuele Frasca, known as Noyz or White Zombie (born December 15, 1979 in Rome), is an Italian rapper, beatmaker/producer, and writer.
+
+He is also a member of the Italian hip-hop collective TruceKlan.", image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Noyz_narcos_with_sunglasses_and_chain_in_the_streets.png")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
