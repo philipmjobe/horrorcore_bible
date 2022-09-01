@@ -1708,7 +1708,7 @@ In 2013 “Grim Reality Entertainment’s Skull & Cross Mics” Compilation drop
 In 2018 that Nekro G began Branching off and working as a studio artist and Ghostwriter, Since then he has been featured on numerous other CD’s & singles by various other artist.
 
 In January 2019, Miniminter, Of the Youtube group Sidemen, Posted a video of Nekro G dissing the Sidemen in a Rap, the video has to date garnered over 4 Million Views. The song was also posted separately on Miniminters 2nd Channel “MM7Gaming” is now sitting at over 1 Million views.", image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Nekro_G_Live_on_Stage_in_Santa_Ana%2C_Ca.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "NoiZe 13", bio: "Noize is a rapper/singer and song writer from Fort McMurray, Alberta, Canada.", image: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/7b/26/f67b2691-c2c9-29ce-50de-ebfc02c7b03f/artwork.jpg/1200x1200bf-60.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
