@@ -1842,7 +1842,7 @@ Fang Gory has performed on the second stage at the Gathering of the Juggalos man
 Artist.create!(name: "Rev.PanMorge", bio: "Rev.PanMorge is an Occultist and Reverend who, alongside his business partner, founded Occult93 Records early 2021.
 
 He produces beats and makes music in his spare time, and is looking to break into the lyrical side of the music industry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/rev-panmorge.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Reznik" bio: "Řezník is a Czech horrorcore rapper who has been releasing music since 2005. He has dropped numerous solo albums as well as collaborative projects with Sodoma Gomora and Mortal Cabinet.", image: "https://i.scdn.co/image/ab67616d00001e02a0bd3d46baa99ba40f9641c8")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
