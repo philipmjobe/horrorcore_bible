@@ -1746,7 +1746,9 @@ Artist.create!(name: "Ohhdreamer", bio: "Ohhdreamer is an Industrial Nu-Metal ar
 With the demo release of Something Wicked the project’s sound began to take on more influence from the nu-metal and horrorcore genres of the early 2000’s. Arise, for All That is Wicked officially released in January 2022 where it immediately gained traction in the underground with the project’s unique blend of industrial metal and nu/trap metal.
 
 Currently, Ohhdreamer is endorsed by BLACKCRAFT CULT lifestyle brand, and has been featured on music outlets such as: Blackcraft Cult: The Witching Hour, That Space Zebra Show by Danny Wimmer Presents & Blackcraft Cult, The Sloppy Syndicate Show, The Metalverse, Nocturnal Cult, and is currently a featured artist for The Trenches Official.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ohhdreamer.jpg?w=423&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Oh! The Horror", bio: "From the vast reaches of Sacramento, Oh! The Horror is a experimental horrorcore band with a penchant for drama, electronics, and theatrics.
+
+Oh! The Horror calls from their favorite media, horror films, and video games for inspiration to craft and delivers a super fun hybrid of horror, darkness, heavy metal, and happy-go-lucky theatrics. Get ready for synth leads, melodic heavy metalcore, complete with growls, terrifying screams, and soaring electronic vocals!", image: "https://i1.sndcdn.com/avatars-sHdAuDBLOBSuv3UJ-Pe2QkA-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
