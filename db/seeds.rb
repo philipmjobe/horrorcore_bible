@@ -1693,7 +1693,21 @@ Artist.create!(name: "Nasty Nutty", bio: "Hector Garcia aka Nasty Nutty and I sp
 Artist.create!(name: "Natural Born Killers", bio: "NBK is a supergroup consisting of emcees Defekt, V Sinizter, Staplez, and McNastee, using the aliases of Ed Kemper, The Zodiac Killer, Boone Helm, and Karl Grossman, respectively.
 
 Although the members of Natural Born Killers have been making music together for years, they didn’t release their debut EP until October of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/FB_IMG_1603926932046.jpg?w=1080&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Nekro G", bio: "Nekro G has been making Hip Hop and Horrorcore since 1998.
+
+In July 2003, Nekro G formed his own music label, Wikid Funk Records and began recording the first of 40+ mixtapes.
+
+In early 2011, Nekro G signed to Grim Reality Entertainment; Since then G has released 5 Albums on GRE. Featuring Collaborations with Insane Poetry, Playboy the Beast, Dieabolik The Monster, Smallz One and More.
+
+In 2012 Nekro G was named “Best Hip Hop Artist in IE of 2012” in I.E. Weekly.
+
+In 2013, Nekro G was featured in an article in Horrorcore Magazine.
+
+In 2013 “Grim Reality Entertainment’s Skull & Cross Mics” Compilation dropped in stores nationwide, under a distribution deal with Long Range and EOne/Koch.
+
+In 2018 that Nekro G began Branching off and working as a studio artist and Ghostwriter, Since then he has been featured on numerous other CD’s & singles by various other artist.
+
+In January 2019, Miniminter, Of the Youtube group Sidemen, Posted a video of Nekro G dissing the Sidemen in a Rap, the video has to date garnered over 4 Million Views. The song was also posted separately on Miniminters 2nd Channel “MM7Gaming” is now sitting at over 1 Million views.", image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Nekro_G_Live_on_Stage_in_Santa_Ana%2C_Ca.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
