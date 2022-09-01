@@ -1749,7 +1749,7 @@ Currently, Ohhdreamer is endorsed by BLACKCRAFT CULT lifestyle brand, and has be
 Artist.create!(name: "Oh! The Horror", bio: "From the vast reaches of Sacramento, Oh! The Horror is a experimental horrorcore band with a penchant for drama, electronics, and theatrics.
 
 Oh! The Horror calls from their favorite media, horror films, and video games for inspiration to craft and delivers a super fun hybrid of horror, darkness, heavy metal, and happy-go-lucky theatrics. Get ready for synth leads, melodic heavy metalcore, complete with growls, terrifying screams, and soaring electronic vocals!", image: "https://i1.sndcdn.com/avatars-sHdAuDBLOBSuv3UJ-Pe2QkA-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Omega Sin", bio: "Hailing from San Antonio, Texas, Omega Sin has been making a boom in the underground rap scene. His fusion of dope boy trap with horrorcore makes for a very unique and fresh sound. Omega Sin proclaims himself as the “Trap Devil” and is the pioneer of the Murder Trap genre. Omega Sin has collabed with many other horrorcore artists such as Twisted Insane, Lil Wyte, K-Fix, Razakel, Don Orias, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/omega-sin.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
