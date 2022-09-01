@@ -1737,7 +1737,7 @@ Artist.create!(name: "Nyro the MadMan", bio: "Nyro the Madman, born Andrew Smith
 He is also a nationally touring act who has been on 14 tours all over the US with names such as Madchild, Lex the Hex Master, SCUM, Rozz Dyliams, Insane Poetry, Razakel, and JP The Hustler.
 
 He has performed with Tech N9ne, Insane Clown Posse, Twiztid, Bone Thugs n Harmony, Kottonmouth Kings, Madchild, Struggle Jennings, Rozz Dyliams, Esham, Boondox, Blaze ya dead Homie, Anybody Killa, Bukshot, SCUM, Razakel, Jarren Benton, Shaggy 2 Dope, Violent J, OBIE Trice, Mac Lethal, Lyte, Ouija Macc, Underground Avengers, Krizz Kaliko, Lex the Hex Master, Gorilla Voltage, MAYDAY!, Ces Cru, Damien Quinn, Axe Murder Boyz, Ubiquitous, Darrein Saffron, Dax, Kung Fu Vampire, Dirtball, JL, Joey Cool, Insane Poetry, Twisted Insane, Smallz One, Claas, Hex Rather, JP Tha Hustler, RazoR, Alla Xul Elu, Don Orias, Sevidemic, Bonez Dubb, Insane LOC, Trilogy, Demun Jones, Ghostmane, $uicideboy$, and many more.", image: "https://i.scdn.co/image/ab6761610000e5eb0cef17cff7f27dcd98f6c3fe")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "N8 Money", bio: "N8 Money is a rapper from Cecil County, MD. His music is a blend of horrorcore, hardcore hip hop, punk and metal.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/n8-money.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
