@@ -1833,7 +1833,9 @@ Artist.create!(name: "REDD", bio: "REDD uses his words to paint vivid pictures o
 
 In October of 2020, it was announced that REDD had been signed to Twiztid’s Welcome to the Underground label and would be releasing his debut album on November 13, 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/redd.jpg?w=400&ssl=1")
 Artist.create!(name: "Redzed", bio: "Redzed, born Zdenek Vesely, is a producer, songwriter, and emcee from Czech Republic. His release, “Bohemian Psycho,” was released on ZNK, which is home to horrorcore veterans Sodoma Gomora, Reznik, etc.", image: "https://i.discogs.com/9xDTOKqxt1vFLje6wLCnLwxVLKz7PNIxJ2CEucq0dGo/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc0MTA5/MzItMTYwMTM5MDk1/My0zNTk5LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Rekt Hearse", bio: "Rekt Hearse is a horrorcore/rap-metal emcee and producer from Sandy, Utah.
+
+He began recording and releasing music in 1999 and is the co-founder and co-CEO of Bukkshit Records.", image: "https://f4.bcbits.com/img/a1186867813_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
