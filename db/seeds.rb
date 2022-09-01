@@ -1765,7 +1765,9 @@ Rocking the same stages as some of his peers and having worked with some of the 
 Artist.create!(name: "Perverz", bio: "Perverz started rapping in 2004 under the name PerVers. He released two solos and one group album with Krank Macht Reich, before joining Hirntot Records in 2005. The first group EP he was involved in with Hirntot Records, ‘Süsses, Sonst Stich,’ saw all copies seized by the courts. At this time, he changed his name to Perverz.
 
 In 2007, Perverz opened up for another popular German rapper at the time, Kaisaschnitt. In 2011, Perverz founded the label 23Klikk and began releasing solo and group projects on the label. He collaborated with American Memphis rap group ‘Manson Family’ in 2013 and shut the 23Klikk label down in 2016 to rejoin Hirntot Records.", image: "https://i.discogs.com/QKkTt2KnNjjP3PFFKwUrR62bWq5mGlWqUG9jiwFV4TQ/rs:fit/g:sm/q:90/h:403/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjE1/NjYtMTMxMzkyMzE2/NC5qcGVn.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Phvce", bio: "Phvce, fka Pleatherface and Phace, is an emcee from Baltimore, Maryland. He has released various solo albums, in addition to being a part of numerous group projects throughout the years.
+
+Phvce is also an FX artist and CEO of Mourningside Productions, an independent film company specializing in horror films and music videos.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/05/phvce.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
