@@ -1690,7 +1690,9 @@ Soon you will enter The House Of M, will you be ready???!!!", image: "https://f4
 Artist.create!(name: "M.M.M.F.D.", bio: "Artists SCUM and Insane Poetry (Cyco) teamed up together to make your motherfuckin day!!", image: "https://pbs.twimg.com/media/EEGttDsWsAICzTl.jpg")
 Artist.create!(name: "Nastie Ink", bio: "Nastie Ink is an emcee from Indianapolis, IN. He is one half of the group Hellfire and is part of the Urban Myth Records family.", image: "https://i.scdn.co/image/ab6761610000e5eb503c1d7b5abfd8eec92c4131")
 Artist.create!(name: "Nasty Nutty", bio: "Hector Garcia aka Nasty Nutty and I spit the wicked shit! Straight up Juggalo! Don’t like me or my rhymes? Fuck Off!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/nasty-nutty.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Natural Born Killers", bio: "NBK is a supergroup consisting of emcees Defekt, V Sinizter, Staplez, and McNastee, using the aliases of Ed Kemper, The Zodiac Killer, Boone Helm, and Karl Grossman, respectively.
+
+Although the members of Natural Born Killers have been making music together for years, they didn’t release their debut EP until October of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/FB_IMG_1603926932046.jpg?w=1080&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
