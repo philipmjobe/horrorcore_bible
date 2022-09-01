@@ -1714,7 +1714,9 @@ Artist.create!(name: "Nos Insidious", bio: "Rusty Doxtador, born half human, hal
 After years of hard grind, performing various venues with TruRez Crew even performing with famous Canadian Hip-Hop legends Swollen Members and a 2 year hiatus from music he is back at it again and currently booking shows and recording albums. His most recent release is entitled “Tales from the Mausoleum Mixtape vol. 1” Hitting the stage again with the likes of Snak The Ripper, Golden, Capitole D, Fallen Ones, Twiztid, Blaze Ya Dead Homie, Lex The Hexmaster, Boondox, BLK C-80, Henry Booka, Cheif Mojo, Frank Douglas, J-Rez and the one and only Insane Clown Posse. Nos Insidious is a versatile rap lyricist who’s style ranges from dark underground horrorcore to catchy groove pulsing club songs. His stage energy is relatable to that of a thrash metal show and leaves the crowd wanting more.
 
 Nos is currently a member of Hex Mob Family Ent.", image: "https://pbs.twimg.com/profile_images/1423558823466479619/orKGnIbg_400x400.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Novatore", bio: "Novatore is a hardcore hip-hop artist from the south side of Chicago that blends heavy melodic boom bap inspired beats with raspy multi syllabic rhymes in an aggressive delivery. Though he typically writes East Coast style battle rap themed lyrics, Novatore also has a vast range of lyrical abilities; He can be brutally self reflective, comical, and philosophical.
+
+Novatore has collaborated and performed with many legendary acts such as Mobb Deep, Apathy, ILL Bill, Immortal Technique, Necro, and more. In 2019, he toured the West Coast on a 20 day run with Apathy & Celph Titled of the Demigodz and Army of the Pharoahs.", image: "https://undergroundhiphopblog.com/wp-content/uploads/2018/01/Novatore-x-C-Lance-Caustic-EP-Album.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
