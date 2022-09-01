@@ -1827,7 +1827,7 @@ Can be found in New Grounds, Sound Cloud, and YouTube, he also does a lot of act
 
 For those seeking punchlines, lyricism, crude dark humor, gore,and straight oddball what the hell did I just watch type of vibe look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/02/rathovgod2.jpg?w=400&ssl=1")
 Artist.create!(name: "Raven Hunter", bio: "Raven Hunter is a Horrorcore rapper from Maryland. He has had a long, lucrative rap career and has been involved in multiple group projects and has been part of some of the most iconic labels in the genre, including 3rd Shift Entertainment, Cutthroat Productions, Butchered Beat Productionz, and most recently, 5th Power Entertainment.", image: "https://i.discogs.com/LYtKuepRj9srTXcvlsmL27p44ARp3Sg8TnCmO6CHTHo/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMzIy/NDUtMTQ2ODY5MjMx/Mi01MDAwLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Razakel", bio: "In a normally male dominated genre there are few females with the capability and skill sets to shine through and “break” the proverbial “mold” like Razakel. Hailing from San Antonio, Texas, Razakel has been bringing a unique blend of Horror infused lyrics on “Pop” style beats, she not only breaks the mold, but shatters it.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/185561/original/crop:x0y0w747h960/hash:1466558577/1382137023_608248715883698_1268938457_n.jpg?1466558577")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
