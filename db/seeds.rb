@@ -1797,7 +1797,7 @@ Prolifik pursued his career as a solo artist with WW playing all over the Midwes
 
 In early 2017, Prolifik signed with “Force 5 Records” and continues to grow as an artist.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/prolifik.jpg?w=400&ssl=1")
 Artist.create!(name: "Prophetz Of Evil", bio: "Boom! Raven Hunter and Ruthless Rob have formed a group known as “PROPHETZ OF EVIL.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/prophetz-of-evil.jpg?w=602&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Prozak", bio: "Steven T. Shippy, better known by his stage name Prozak, is an American independent rapper and film director from Saginaw, Michigan. He’s a member of the group Project:Deadman with Mike E. Clark as well as the group Bedlam with Madness and Staplez. He is one of the few rappers of Chaldean (Iraqi) descent. In 2011, he officially signed with Strange Music, although he had previously released albums with the label.", image: "https://i1.sndcdn.com/avatars-000479184891-c4koy0-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
