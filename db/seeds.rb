@@ -1754,7 +1754,11 @@ Artist.create!(name: "One Man Kru", bio: "Bloody River Records artist and intern
 Artist.create!(name: "Oogie Boogie", bio: "Oogie Boogie is an emcee from Greeley, CO.
 
 In the past ten years, he has released numerous solo projects, as well as multiple albums with the the group Salem Alumni.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/02/oogie-boogie.jpg?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ouija Macc", bio: "Finding an appropriate home with the Juggalo family in the late 2010s, Las Vegas rapper Ouija Macc honed his dark style over the years with other artists — including Swag Toof, Lil Rydas, and the Loony Goons — before going solo with 2018’s Gutterwater.
+
+Delivering eerie trap inspired by Three 6 Mafia, Macc had a difficult childhood and struggled with mental health issues. Surrounded by drugs and street violence, the troubled MC moved to New York City, where he hooked up with Choirboy. Together, they formed Swag Toof. The pair’s debut, Dreamkillers, landed in 2013 and was followed by an additional four efforts, including 2017’s Dead York.
+
+That year, Macc signed with Psychopathic Records, joining ICP’s extended family. He was absorbed into the Loony Goons in 2018, a Psychopathic family affair that also included ICP, Big Hoodoo, and Lyte (Macc also formed the duo Lil Rydas with the latter). His debut for the label, Gutterwater, was released in May 2018 and featured appearances by ICP (“Diamonds”) and Lyte (“Future Wicced”).", image: "https://i1.sndcdn.com/artworks-000353231934-9u8ia9-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
