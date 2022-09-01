@@ -1839,7 +1839,9 @@ He began recording and releasing music in 1999 and is the co-founder and co-CEO 
 Artist.create!(name: "Reverend Fang Gory", bio: "Rev Fang Gory is an emcee from Detroit, MI. He was one of the last artists to sign to and release a record with Serial Killin Records. He released his debut album with the label in 2016.
 
 Fang Gory has performed on the second stage at the Gathering of the Juggalos many times and can also be heard on multiple tracks with underground heavy hitters like Mastamind of NATAS and Sutter Kain aka DJ Bless.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/8a2f4e33760d49408bfa49d9a3c6b79e.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Rev.PanMorge", bio: "Rev.PanMorge is an Occultist and Reverend who, alongside his business partner, founded Occult93 Records early 2021.
+
+He produces beats and makes music in his spare time, and is looking to break into the lyrical side of the music industry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/rev-panmorge.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
