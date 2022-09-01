@@ -1777,7 +1777,19 @@ Artist.create!(name: "Playboy the Beast", bio: "Playboy the Beast is an undergro
 
 One of the most versatile, creative, and original artists in the underground hip hop scene. From accurate and precise chopper delivery to punch lines, multi syllables, metaphors, and lyricism in a league of its own. Playboy The Beast is the complete artist.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2017/04/Playboy.jpg?fit=489%2C489&ssl=1")
 Artist.create!(name: "Professor Fresh", bio: "Professor Fresh is an emcee and producer from Mankatao, MN. He was a member of the group Ruthless, alongside M.C. Rentz, JustSmoke, and Phatty McGee, as well as hip hop duos Lost Dog and Shotgun.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/professor-fresh.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Project Born", bio: "In 1989, the group PROJECT BORN was formed. It was FRANK NITTY & Halfpint. In 1993 the first single “Im Losin It” feat. ESHAM was released. In 1994 signed as the second group on PSYCHOPATHIC RECORDS behind the INSANE CLOWN POSSE. In the process of releasing the classic EP “BORN DEAD” the group added a new member “LIL POLK” 2 the group.
+
+In 1995, BORN DEAD was released which featured ICP & ESHAM with production by MICHAEL CLEVELAND and the legendary producer MIKE E.CLARK. The EP sold real well and is still selling 2 this day. We also have been featured on HATCHET HISTORY (Psychopathic release) and Forgotten Freshness (Psychopathic release) which sold over 100,000 copies each. In 1996 PROJECT BORN and PSYCHOPATHIC decided 2 part ways and later that year “CRAP OR NATURAL” was released.
+  
+After a four year absence on the scene the group came back with the hit album “JACK THE REAPER” in late 2000. Also in August 2000 performed at the first GATHERING OF THE JUGGALOS in Novi, MI. After good success of JACK THE REAPER in 2002, the album “THE RENT IS DUE” was released featuring THE PROJECT MOB, BOOTLEG of THE DAYTON FAMILY, LIL SPADE, and more. In 2003 “GHETTO CELEBS” was released featuring MC. BREED (r.i.p), BOOTLEG, WILL 279 and many more. GHETTO CELEBS has sold over 10,000 copies 2 date out the trunk across the country. Due 2 different business reasons, the next album “ONCE UPON A TIME IN THA PROJECTS” was released in August 2007.
+  
+The same year, PROJECT BORN performed at the GATHERING OF THE JUGGALOS in CAVE IN ROCK,IL. The next year (2008) PROJECT BORN went on a nationwide 35 city tour with PSYCHOPATHIC RECORDS recording artists TWIZTID and BOONDOX called THE TOXIC TERROR TOUR (Feb.21st-March 30th). Later that year the highly anticipated sequel 2 the EP BORN DEAD, “BORN DEAD 2” was released. It has been talked about highly as being 1 of the undergrounds best albums ever.
+  
+In June 2009, went on the 18 city “HELLAVA NIGHT TOUR” with ESHAM. August 2009 performed at the 10th annual GATHERING OF THE JUGGALOS that had over 20,000 in attendance. Later in September 2009, went out on a 20 city tour “MURDER AFTER MIDNIGHT TOUR” with B-CIDE, MARS, and KUNG FU VAMPIRE.
+  
+PROJECT BORN is very well respected in the game and has done over 200 shows across the country and is in high demand for features. COMING in 2010, PROJECT BORN will release the new album “THE BORN SUPREMACY”, drop a PROJECT BOY ENT. Compilation and head out on a nationwide tour in the summer.
+  
+Sadly, it was reported on December 27, 2021 that Pint Capone aka Half Pint passed away.", image: "https://i.discogs.com/2dUXuQEaxsdc4BLZ4iYUZVn1r8Ra1VkqT3POyWcEPec/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/OTMxLTE2MDA1NTA4/NDEtOTcyNC5qcGVn.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
