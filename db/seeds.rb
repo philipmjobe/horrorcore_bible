@@ -1729,7 +1729,9 @@ In 2021, he and Greg Double released their LONG awaited BNM joint album titled â
 Artist.create!(name: "Noyz Narcos", bio: "Noyz Narcos, stage name of Emanuele Frasca, known as Noyz or White Zombie (born December 15, 1979 in Rome), is an Italian rapper, beatmaker/producer, and writer.
 
 He is also a member of the Italian hip-hop collective TruceKlan.", image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Noyz_narcos_with_sunglasses_and_chain_in_the_streets.png")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Nutty Nilz", bio: "Nutty Nilz is a rapper from Long Island, New York. He started rapping in 2008 and has released 6 projects since 2015. He was briefly signed to a small underground label in 2014-2015 but has since worked independently mastering his craft.
+
+He continues to release new music and perform live with hopes to expand even further in the future.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/nutty-nilz.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
