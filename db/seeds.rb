@@ -1802,7 +1802,11 @@ Artist.create!(name: "Psychopathic Rydas", bio: "Psychopathic Rydas was a hip ho
 
 After Psychopathic Rydas disbanded in 2015, the group was somewhat brought back by the Majik Ninja Entertainment record label as The Rydas, as most Psychopathic artists had moved to MNE.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/fb0fb017df094cf28b878c311109ba92.jpg")
 Artist.create!(name: "Pumpkin King", bio: "The Pumpkin King was an emcee based in Central/North East PA. One of Pennsylvania’s most wicked underground artists, he combined the sounds of rap and rock to breed a completely wicked style. With a look and personality unmatched, he brought a new sense of aggression to his music.", image: "https://lastfm.freetls.fastly.net/i/u/avatar170s/216d0b07c8fe471ea1b03ab6ba9bf2d0")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ramirez", bio: "Hailing from the Bay Area, G59’s Ramirez has an expansive and diverse catalog of sounds influenced by both West Coast Rap and Southern Trap alike. Not only does Ramirez possess a discography of unique sounds dating back to 2013, but his lyricism transcends the confines of the modern day cloud-rapper.
+
+This penchant for dark and melodic rhythms combined with vivid lyrics have allowed Ramirez to climb to the top of his lane and have aligned him with the likes of juggernauts such as $uicideboy$ (G.R.E.Y.G.O.D.S & G.R.E.Y.G.O.D.S. I.I.), Yung Gravy (The Boys Are Back In Town), Ghostemane (Bermuda), Pouya, and others on multiple EPs and singles.
+
+In 2019, Ramirez released the widely acclaimed Son of Serpentine, which also featured appearances by Pouya and Zillakami of City Morgue on the versatile 14-track album. In February of 2020, the Bay Area-native released “The Voices in the Dark” ahead of his North American tour in which he sold out 13 straight shows with no support acts.", image: "https://www.passionweiss.com/wp-content/uploads/2020/07/ramirez-header.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
