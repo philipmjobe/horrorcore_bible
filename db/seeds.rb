@@ -1776,7 +1776,7 @@ Artist.create!(name: "Plan Z", bio: "From the deepest abyss comes two unholy cre
 Artist.create!(name: "Playboy the Beast", bio: "Playboy the Beast is an underground hip hop and horrorcore artist based out of Colorado Springs, Colorado.
 
 One of the most versatile, creative, and original artists in the underground hip hop scene. From accurate and precise chopper delivery to punch lines, multi syllables, metaphors, and lyricism in a league of its own. Playboy The Beast is the complete artist.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2017/04/Playboy.jpg?fit=489%2C489&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Professor Fresh", bio: "Professor Fresh is an emcee and producer from Mankatao, MN. He was a member of the group Ruthless, alongside M.C. Rentz, JustSmoke, and Phatty McGee, as well as hip hop duos Lost Dog and Shotgun.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/professor-fresh.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
