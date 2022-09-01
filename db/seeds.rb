@@ -1791,7 +1791,11 @@ PROJECT BORN is very well respected in the game and has done over 200 shows acro
   
 Sadly, it was reported on December 27, 2021 that Pint Capone aka Half Pint passed away.", image: "https://i.discogs.com/2dUXuQEaxsdc4BLZ4iYUZVn1r8Ra1VkqT3POyWcEPec/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUy/OTMxLTE2MDA1NTA4/NDEtOTcyNC5qcGVn.jpeg")
 Artist.create!(name: "Project: Deadman", bio: "Detroit area horrorcore rapper Prozak teamed with former Insane Clown Posse producer Mike E. Clark to found the short-lived duo Project: Deadman. One full-length album, Self Inflicted (2004), resulted from the partnership. Prozak had previously been half of the Saginaw-based horrorcore duo Bedlam.", image: "https://i1.sndcdn.com/artworks-RIcL99kkPoH8-0-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Prolifik", bio: "A true Wisconsin native, Prolifik came upon the scene in late 2005 as a part of a group known as “Colt 45” with a childhood friend, releasing there debut album “Children Of The Darkside” in 07′. The demented duo joined “Wicked Wisconsin” in 2009 where you will find tracks featured on “Worse Than Hell Vol. 1” and the “Wicked Wisconsin 2009 sampler”.
+
+Prolifik pursued his career as a solo artist with WW playing all over the Midwest consistently dropping singles. In 2010, Prolifik created/joined side group the “Hot Box Boyz” releasing a full length demo and touring the country along with playing the “Gathering Of The Juggalos” back to back years. Parting ways with the group and the music scene in general, Prolifik made his return in 2015 and dropped his first full length solo album “Est. 1990” which was given a 4.8/5 rating and voted in the top 5 for Horrorcore artist of the year by “Horrorcore Magazine” & “Faygoluvers.net”.
+
+In early 2017, Prolifik signed with “Force 5 Records” and continues to grow as an artist.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/prolifik.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
