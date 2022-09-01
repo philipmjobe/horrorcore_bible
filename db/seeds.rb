@@ -1836,7 +1836,9 @@ Artist.create!(name: "Redzed", bio: "Redzed, born Zdenek Vesely, is a producer, 
 Artist.create!(name: "Rekt Hearse", bio: "Rekt Hearse is a horrorcore/rap-metal emcee and producer from Sandy, Utah.
 
 He began recording and releasing music in 1999 and is the co-founder and co-CEO of Bukkshit Records.", image: "https://f4.bcbits.com/img/a1186867813_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Reverend Fang Gory", bio: "Rev Fang Gory is an emcee from Detroit, MI. He was one of the last artists to sign to and release a record with Serial Killin Records. He released his debut album with the label in 2016.
+
+Fang Gory has performed on the second stage at the Gathering of the Juggalos many times and can also be heard on multiple tracks with underground heavy hitters like Mastamind of NATAS and Sutter Kain aka DJ Bless.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/8a2f4e33760d49408bfa49d9a3c6b79e.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
