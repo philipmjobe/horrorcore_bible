@@ -1772,7 +1772,7 @@ Artist.create!(name: "Pig DukE", bio: "A staple in underground Detroit Horror Ra
 Artist.create!(name: "Plague_tsc", bio: "Plague_tsc is a young new artist from Springfield, Ohio. He has one of the fastest flows in the underground. He lays his fast chopping verses over dark trap and trap metal beats. This makes for a dope and unique listening experience.
 
 Plague_tsc has released a plethora of singles amounting to well over 40 and has plans for future album releases.", image: "https://pbs.twimg.com/profile_images/1287191869844226050/MGXS8lcC_400x400.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Plan Z", bio: "From the deepest abyss comes two unholy creatures known as Grim and Ram. They are the prophets of death and destruction as they spread the plague known as Plan Z. Plan Z is the creature that lurks inside the darkest corners of your mind. Come forth and witness truth within the lies, come forth and witness Plan Z.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/05/plan-z.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
