@@ -1796,7 +1796,7 @@ Artist.create!(name: "Prolifik", bio: "A true Wisconsin native, Prolifik came up
 Prolifik pursued his career as a solo artist with WW playing all over the Midwest consistently dropping singles. In 2010, Prolifik created/joined side group the “Hot Box Boyz” releasing a full length demo and touring the country along with playing the “Gathering Of The Juggalos” back to back years. Parting ways with the group and the music scene in general, Prolifik made his return in 2015 and dropped his first full length solo album “Est. 1990” which was given a 4.8/5 rating and voted in the top 5 for Horrorcore artist of the year by “Horrorcore Magazine” & “Faygoluvers.net”.
 
 In early 2017, Prolifik signed with “Force 5 Records” and continues to grow as an artist.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/prolifik.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Prophetz Of Evil", bio: "Boom! Raven Hunter and Ruthless Rob have formed a group known as “PROPHETZ OF EVIL.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/prophetz-of-evil.jpg?w=602&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
