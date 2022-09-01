@@ -1832,7 +1832,7 @@ Artist.create!(name: "RazoR", bio: "Welcome to the wickedness, welcome to the pa
 Artist.create!(name: "REDD", bio: "REDD uses his words to paint vivid pictures of positive inspiration and overcoming hardship. As the lyricist he inspires listeners to pay attention. REDD’s 2014 release of “Rising Star” maneuvered through obscurity and rose to the forefront as one of Detroit’s most celebrated up-coming hip-hop artists. REDD never relies on cheap frills to capture listeners. 2014 was an incredible year for REDD, as his freshman release pushed him to the top of his class. REDD recently was honored with two Detroit Music Awards for Outstanding Hip-Hop Recording and Outstanding Hip-Hop Composer.
 
 In October of 2020, it was announced that REDD had been signed to Twiztid’s Welcome to the Underground label and would be releasing his debut album on November 13, 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/redd.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Redzed", bio: "Redzed, born Zdenek Vesely, is a producer, songwriter, and emcee from Czech Republic. His release, “Bohemian Psycho,” was released on ZNK, which is home to horrorcore veterans Sodoma Gomora, Reznik, etc.", image: "https://i.discogs.com/9xDTOKqxt1vFLje6wLCnLwxVLKz7PNIxJ2CEucq0dGo/rs:fit/g:sm/q:90/h:619/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc0MTA5/MzItMTYwMTM5MDk1/My0zNTk5LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
