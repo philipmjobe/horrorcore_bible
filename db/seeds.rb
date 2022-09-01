@@ -1768,7 +1768,7 @@ In 2007, Perverz opened up for another popular German rapper at the time, Kaisas
 Artist.create!(name: "Phvce", bio: "Phvce, fka Pleatherface and Phace, is an emcee from Baltimore, Maryland. He has released various solo albums, in addition to being a part of numerous group projects throughout the years.
 
 Phvce is also an FX artist and CEO of Mourningside Productions, an independent film company specializing in horror films and music videos.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/05/phvce.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Pig DukE", bio: "A staple in underground Detroit Horror Rap history…From the Eastside to the SW… Campechanoz tacos screamin’ demonz out ya flesh! Pig DukE, aka the worst dead rapper in Michigan with a detachable penis. The man’s penis was shot. Now that’s a hard motherfucker. Member of the infamous group Devil’s Night Gangstaz. Recorded in 1997, released in 2020 on Placenta Recordings. Something for the pimps, the playaz, the prostitutes, the junkies, the fiends, the pill poppers, the crack heads, the hustlaz, the clucks, the dead homies, and most importantly the FAM. R.I.P. Pig DukE. CD and tape editions available, both containing alternate bonus material not available on the download. Smoke 2 for Pig DukE. Eternally blazing for the Devil’s Night Gangstaz in Hell.", image: "https://f4.bcbits.com/img/a1648637949_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
