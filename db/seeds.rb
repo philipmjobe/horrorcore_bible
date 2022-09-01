@@ -1826,7 +1826,7 @@ Independent lyricist and creator of FunHouseProductions; a content creator, orga
 Can be found in New Grounds, Sound Cloud, and YouTube, he also does a lot of acts with Halloween props and is rumored to collect mask, hence the term “Mask up” is his motto, that and “Stay Tooned!”
 
 For those seeking punchlines, lyricism, crude dark humor, gore,and straight oddball what the hell did I just watch type of vibe look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/02/rathovgod2.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Raven Hunter", bio: "Raven Hunter is a Horrorcore rapper from Maryland. He has had a long, lucrative rap career and has been involved in multiple group projects and has been part of some of the most iconic labels in the genre, including 3rd Shift Entertainment, Cutthroat Productions, Butchered Beat Productionz, and most recently, 5th Power Entertainment.", image: "https://i.discogs.com/LYtKuepRj9srTXcvlsmL27p44ARp3Sg8TnCmO6CHTHo/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMzIy/NDUtMTQ2ODY5MjMx/Mi01MDAwLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
