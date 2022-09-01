@@ -1801,7 +1801,7 @@ Artist.create!(name: "Prozak", bio: "Steven T. Shippy, better known by his stage
 Artist.create!(name: "Psychopathic Rydas", bio: "Psychopathic Rydas was a hip hop supergroup consisting of several Psychopathic Records artists imitating gangsta rap. Almost all beats for Psychopathic Rydas songs are stolen from other rap songs. To avoid copyright issues, the albums were released on the fake record label “Joe and Joey Records” instead of Psychopathic Records.
 
 After Psychopathic Rydas disbanded in 2015, the group was somewhat brought back by the Majik Ninja Entertainment record label as The Rydas, as most Psychopathic artists had moved to MNE.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/fb0fb017df094cf28b878c311109ba92.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Pumpkin King", bio: "The Pumpkin King was an emcee based in Central/North East PA. One of Pennsylvania’s most wicked underground artists, he combined the sounds of rap and rock to breed a completely wicked style. With a look and personality unmatched, he brought a new sense of aggression to his music.", image: "https://lastfm.freetls.fastly.net/i/u/avatar170s/216d0b07c8fe471ea1b03ab6ba9bf2d0")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
