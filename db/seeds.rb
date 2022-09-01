@@ -1798,7 +1798,9 @@ Prolifik pursued his career as a solo artist with WW playing all over the Midwes
 In early 2017, Prolifik signed with “Force 5 Records” and continues to grow as an artist.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/prolifik.jpg?w=400&ssl=1")
 Artist.create!(name: "Prophetz Of Evil", bio: "Boom! Raven Hunter and Ruthless Rob have formed a group known as “PROPHETZ OF EVIL.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/prophetz-of-evil.jpg?w=602&ssl=1")
 Artist.create!(name: "Prozak", bio: "Steven T. Shippy, better known by his stage name Prozak, is an American independent rapper and film director from Saginaw, Michigan. He’s a member of the group Project:Deadman with Mike E. Clark as well as the group Bedlam with Madness and Staplez. He is one of the few rappers of Chaldean (Iraqi) descent. In 2011, he officially signed with Strange Music, although he had previously released albums with the label.", image: "https://i1.sndcdn.com/avatars-000479184891-c4koy0-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Psychopathic Rydas", bio: "Psychopathic Rydas was a hip hop supergroup consisting of several Psychopathic Records artists imitating gangsta rap. Almost all beats for Psychopathic Rydas songs are stolen from other rap songs. To avoid copyright issues, the albums were released on the fake record label “Joe and Joey Records” instead of Psychopathic Records.
+
+After Psychopathic Rydas disbanded in 2015, the group was somewhat brought back by the Majik Ninja Entertainment record label as The Rydas, as most Psychopathic artists had moved to MNE.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/fb0fb017df094cf28b878c311109ba92.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
