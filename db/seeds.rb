@@ -1815,7 +1815,17 @@ To find out more about RANDUM follow @RANDUM45.", image: "https://gp1.wac.edgeca
 Artist.create!(name: "The Rap Kaiser", bio: "The Rap Kaiser is a solo artist hailing from Hammond, IN. He is a master of the brutish art style of horrorcore hip hop.
 
 The Bloodlust Revenant pulls influence from artists such as Twiztid, Tech N9ne, and Hollywood Undead! The Rap Kaiser has been part of NWI/Chicago’s underground scene since early 2018 and has steady been trailblazing and revolutionizing the scene since!", image: "https://i1.sndcdn.com/artworks-irZYpT4F9WRy4cV6-zEd85w-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "RATHOVGOD", bio: "King of all F@$%s.
+
+FunHouse 5 Star General, half of RathovSin.
+
+Hailing out of Boston, Massachusetts, and coming in form of a Demonspawn as deranged clown, RathovGod epitomizes all wretchedness of mankind, depravity, war, and the byproducts of their suffering and demise.
+
+Independent lyricist and creator of FunHouseProductions; a content creator, organization-promoting underground artist since 2021. His style changes per song and is heavily influenced by retro horror and film, Kool G Rap, Necro, Eminem, Outsiders, and MF Doom.
+
+Can be found in New Grounds, Sound Cloud, and YouTube, he also does a lot of acts with Halloween props and is rumored to collect mask, hence the term “Mask up” is his motto, that and “Stay Tooned!”
+
+For those seeking punchlines, lyricism, crude dark humor, gore,and straight oddball what the hell did I just watch type of vibe look no further.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/02/rathovgod2.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
