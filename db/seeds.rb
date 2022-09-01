@@ -1807,7 +1807,11 @@ Artist.create!(name: "Ramirez", bio: "Hailing from the Bay Area, G59’s Ramirez
 This penchant for dark and melodic rhythms combined with vivid lyrics have allowed Ramirez to climb to the top of his lane and have aligned him with the likes of juggernauts such as $uicideboy$ (G.R.E.Y.G.O.D.S & G.R.E.Y.G.O.D.S. I.I.), Yung Gravy (The Boys Are Back In Town), Ghostemane (Bermuda), Pouya, and others on multiple EPs and singles.
 
 In 2019, Ramirez released the widely acclaimed Son of Serpentine, which also featured appearances by Pouya and Zillakami of City Morgue on the versatile 14-track album. In February of 2020, the Bay Area-native released “The Voices in the Dark” ahead of his North American tour in which he sold out 13 straight shows with no support acts.", image: "https://www.passionweiss.com/wp-content/uploads/2020/07/ramirez-header.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Randum45", bio: "Randum45 is an artist from Seattle Washington with distinct and independent existence. He is currently one half of the group The Unforgiven, and has been a part of two former groups, Rezen and Insanicide.
+
+Randum45 has 10 studio albums and has done shows with artists like Stevie Stone, Twisted Insane, Young Wicked, Lyte, DJ clay, Scum, Dirtball, Ouija Macc, Boondox, and ABK just to name a few.
+
+To find out more about RANDUM follow @RANDUM45.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/photos/images/14102203/original/crop:x0y0w659h653/hash:1464016328/1368572612_doprz.jpg?1464016328")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
