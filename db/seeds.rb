@@ -1812,7 +1812,9 @@ Artist.create!(name: "Randum45", bio: "Randum45 is an artist from Seattle Washin
 Randum45 has 10 studio albums and has done shows with artists like Stevie Stone, Twisted Insane, Young Wicked, Lyte, DJ clay, Scum, Dirtball, Ouija Macc, Boondox, and ABK just to name a few.
 
 To find out more about RANDUM follow @RANDUM45.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/photos/images/14102203/original/crop:x0y0w659h653/hash:1464016328/1368572612_doprz.jpg?1464016328")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Rap Kaiser", bio: "The Rap Kaiser is a solo artist hailing from Hammond, IN. He is a master of the brutish art style of horrorcore hip hop.
+
+The Bloodlust Revenant pulls influence from artists such as Twiztid, Tech N9ne, and Hollywood Undead! The Rap Kaiser has been part of NWI/Chicago’s underground scene since early 2018 and has steady been trailblazing and revolutionizing the scene since!", image: "https://i1.sndcdn.com/artworks-irZYpT4F9WRy4cV6-zEd85w-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
