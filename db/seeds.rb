@@ -1861,7 +1861,9 @@ He is recognized for his eclectic style called “Handzum” ranging from hip-ho
 Artist.create!(name: "Rukus", bio: "Born in NY, Rukus first hit the scene in 1999 when he and fellow rappers Komatose and Cobra created a group called ASYLUM. The two artists then went on to create the groups The Insainiax and Kryptik. Between group releases, Rukus released many solo albums and EPs.
 
 Rukus was also in the following groups: Among The Dead, Suburban Legendz, The Body Snatcherz, The Gecko Brothers, The Gorehouse Greatz, The Groovie Ghouliez, The Dead Poet Society, Hillside Stranglerz, and Horror Movie Villainz.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/rukus.jpg?w=361&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ruthless Rob", bio: "From the slums of the poverty stricken city of Baltimore, Maryland emerges Ruthless Rob! Step into his mind as he takes you on a journey through the cold dark streets he calls home.
+
+Ruthless Rob is also one half of the horrorcore duo Isolated Beingz.", image: "https://f4.bcbits.com/img/a1702367059_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
