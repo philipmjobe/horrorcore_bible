@@ -1845,7 +1845,9 @@ He produces beats and makes music in his spare time, and is looking to break int
 Artist.create!(name: "Reznik" bio: "Řezník is a Czech horrorcore rapper who has been releasing music since 2005. He has dropped numerous solo albums as well as collaborative projects with Sodoma Gomora and Mortal Cabinet.", image: "https://i.scdn.co/image/ab67616d00001e02a0bd3d46baa99ba40f9641c8")
 Artist.create!(name: "Richard Gein", bio: "Richard Gein is a rapper and producer from San Antonio, Texas and was part of the group The Vultures under the name Stealth Entity. He was also both members of the “imaginary” group The Irthwormz.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2012/09/richardgein.jpg?fit=600%2C450&ssl=1")
 Artist.create!(name: "Ritual of Ether", bio: "Ritual of Ether, or R.O.E., is a rapper and producer from Colorado.", image: "https://i.ytimg.com/vi/fSSOJ0IpMwY/maxresdefault.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Riviera Regime", bio: "Riviera Regime is a hardcore hip hop group from Toronto, consisting of emcees Benny Brahmz, Klee Magor, and Big Stretch.
+
+The group released their third album on Necro’s Psycho+Logical-Records in 2008, then only consisting of Brahmz and Magor. It wasn’t until their latest release that Big Stretch joined the ranks.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/a9ccd23378784882890cecc563dc4690.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
