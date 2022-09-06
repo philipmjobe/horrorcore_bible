@@ -1898,6 +1898,6 @@ Later on 2016 and so on is when Sepsis would take himself, label mates, and othe
 
 Continue to follow Sepsis & Septicemia Records on all social media platforms for updates on Upcoming Concerts, New Music, Merch, and much much more…", image: "https://f4.bcbits.com/img/a1241226625_10.jpg")
 Artist.create!(name: "Serpentines", bio: "Serpentines is a group consisting of Shrunken Head Entertainment artists Razakel and Ritual of Ether. The duo announced their debut album in March of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/FB_IMG_1584242673413.jpg?w=960&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "SevidemiC", bio: "SevidemiC is from Compton, CA and is the inventor and innovator of the “zombie-hop” genre.", image: "https://undergroundhiphopblog.com/wp-content/uploads/2019/10/1280x1280.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
