@@ -1906,7 +1906,11 @@ Artist.create!(name: "ShadowX", bio: "Most Horrorcore rappers stick to a classic
 
 I, ShadowX, promise to deliver in those categories. From gut-wrenching wordplay to the crazy album themes. I am by no means the best, I have a long ways to go. However, I hope you take the time to give me a chance and listen to my music, and understand what I am really trying to say here. Thank you.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/shadow-x.jpg?w=500&ssl=1")
 Artist.create!(name: "Shaggy 2 Dope", bio: "Joseph William Utsler, known by his stage name Shaggy 2 Dope (born October 14, 1974), is an American rapper, record producer, DJ, and professional wrestler. He is part of the hip hop duo Insane Clown Posse. He is the co-founder of the record label Psychopathic Records, with fellow Insane Clown Posse rapper Violent J (Joseph Bruce) and their former manager, Alex Abbiss. Along with Bruce, Utsler is the co-founder of the professional wrestling promotion Juggalo Championship Wrestling, where he currently acts as color commentator.", image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Shaggy_2_Dope_Insane_Clown_Posse_2017_Juggalo_March_%2837464354891%29_%28cropped%29.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Shakewell", bio: "Andrew Adolph (born December 22, 1991), today known professionally as Shakewell, is an American rapper from San Fernando Valley. He’s most known for his association and work with Buffet Boys and $UICIDEBOY$. In April of 2020, he signed to G59 Records.
+
+Prior to making rap music, Adolph was part of a hardcore/metalcore band called Betrayal. Throughout their career, Betrayal released three albums: The People’s Fallacy in 2008, Abandonment in 2011 and Always the Underdog in 2012.
+
+Adolph’s debut project under the name Shakewell, titled Pray for Shakewell, released in January of 2015 and has since been deleted from the internet.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/shakewell.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
