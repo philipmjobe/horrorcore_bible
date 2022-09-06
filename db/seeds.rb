@@ -1911,7 +1911,9 @@ Artist.create!(name: "Shakewell", bio: "Andrew Adolph (born December 22, 1991), 
 Prior to making rap music, Adolph was part of a hardcore/metalcore band called Betrayal. Throughout their career, Betrayal released three albums: The People’s Fallacy in 2008, Abandonment in 2011 and Always the Underdog in 2012.
 
 Adolph’s debut project under the name Shakewell, titled Pray for Shakewell, released in January of 2015 and has since been deleted from the internet.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/shakewell.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Shayne “Pop’N” Wolf", bio: "Shayne “Pop’N” Wolf, fka C Pop’N, is an emcee from Detroit, MI. He was one half of NDC with Low C who released “Rape Musick” in 2006 and Project Sin with Stitchez who released “Open Them Legs and Let Us In” in 2009.
+
+In 2020, he released his highly anticipated solo album, “LowLife Resurrection” (PROJECT:NEVERDEAD).", image: "https://f4.bcbits.com/img/0021090152_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
