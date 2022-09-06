@@ -1869,7 +1869,7 @@ Artist.create!(name: "The R.O.C.", bio: "Bryan Jones, better known by his stage 
 After performing as the hype man for Blaze Ya Dead Homie, R.O.C. signed to Hatchet House in 2008. After briefly retiring beginning in 2009, The R.O.C. came out of retirement.
 
 The R.O.C. has been a part of many influential groups in the genre throughout his career. In addition to the House of Krazees, he’s been an integral part of The Howse, HalfBreed, Level Jumpers, and most recently, Zodiac Mprint. He is currently signed to Majik Ninja Entertainment with lifelong friends, Jamie Madrox and Monoxide of Twiztid.", image: "https://deadentertainment.com/uploads/house-of-krazees-new-single-horrorcore-hok-article-image-2-902k3b1158.png")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "R.O.D.", bio: "German horrorcore rap project of the singer from grindcore band Gut, who are credited as being the fathers of pornogrind. R.O.D. performs while wearing a mask and is known for over-the-top morbid lyrics and pornographic imagery.", image: "https://i.discogs.com/QVwkq-5WSHYYVgl--ZOTxlYfw_5hjsEsRNsDSIJ-eKg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNzEw/MTgtMTI1NDQ0Nzky/OS5qcGVn.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
