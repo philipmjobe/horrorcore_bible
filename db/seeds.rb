@@ -1880,7 +1880,11 @@ Artist.create!(name: "Sardos97", bio: "Sardos97 is a producer from Greece on Sli
 Artist.create!(name: "Scarlxrd", bio: "Marius Lucas Antonio Listhrop (born 19 June 1994), better known as Scarlxrd (pronounced “Scarlord”), is a British rapper, singer, songwriter, and YouTuber. He is known for his unusual musical style combining elements of trap music and heavy metal. Formerly a YouTube personality known as Mazzi Maz, Scarlxrd began a career in music as the lead vocalist for nu metal band Myth City, before debuting as a rapper under his Scarlxrd moniker.
 
 He rose to prominence after the music video for his single “Heart Attack” gained significant attention, holding over 70 million views on YouTube as of December 2019. He has since released other successful songs, namely “King, Scar”, “6 Feet”, “Berzerk”, and “Head Gxne”.", image: "https://styles.redditmedia.com/t5_3n5ey/styles/communityIcon_9wdhfw369jf61.png")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Schemaposse", bio: "Schemaposse was founded in 2015 by JGRXXN in order to unify various underground hip-hop artists and producers that were sprinkled around the country. One of the first artists to join was Eric Whitney, better known as GHOSTEMANE, an underground rap artist from Lake Worth, Florida. Later in 2015, Lil Peep joined the group.
+
+In April 2016, JGRXXN, GHOSTEMANE, and Lil Peep gave an interview on the No Jumper Podcast. On April 15th, a few days before the podcast was released, GHOSTEMANE announced that he had left Schemaposse for undisclosed reasons via Twitter. Lil Peep followed up with a similar announcement not too long after.
+
+Schemaposse continued to release music produced by their other artists until January 11. 2017, when JGRXXN officially disbanded the group, stating that “It was a good run [and] it made people’s dreams come true just like I said it would, but now it’s on to other things.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/schemaposse.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
