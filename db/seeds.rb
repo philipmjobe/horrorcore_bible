@@ -1855,7 +1855,9 @@ In 2001, Rottin released an E.P. entitled “Sick,” which only featured one tr
 Following what they considered to be two flopped EP releases, the group took some time away from music. They regrouped and recorded their final and most successful album entitled “Pozmortim” soon after. The album included guest appearances from Bedlam and Q Strange, taking Rottin’s music to the next level.
 
 After years of being dormant, Rottin re-emerged and released a new track called “Watch Yaself” in late 2019. The group plans on releasing their first album in almost two decades in 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/rottin.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Rozz Dyliams", bio: "Rozz Dyliams (formerly Dylan Ross) is a American rapper and producer from Cleveland, Ohio. He is a former member of Team SESH.
+
+He is recognized for his eclectic style called “Handzum” ranging from hip-hop, r&b, funk, horrorcore, house, jungle, and even 80s pop.", image: "https://e.snmc.io/i/1200/s/69e172db6e89d0b6ba08d91db803aa0e/6351571")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
