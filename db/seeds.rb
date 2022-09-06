@@ -1864,7 +1864,11 @@ Rukus was also in the following groups: Among The Dead, Suburban Legendz, The Bo
 Artist.create!(name: "Ruthless Rob", bio: "From the slums of the poverty stricken city of Baltimore, Maryland emerges Ruthless Rob! Step into his mind as he takes you on a journey through the cold dark streets he calls home.
 
 Ruthless Rob is also one half of the horrorcore duo Isolated Beingz.", image: "https://f4.bcbits.com/img/a1702367059_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The R.O.C.", bio: "Bryan Jones, better known by his stage name The R.O.C. (Raps On Contact), is an American rapper and producer from Detroit, Michigan. He is a founding member of the group House of Krazees, which was originally active from 1992 until 1997, when Hektic (Monoxide) and Mr. Bones (Jamie Madrox) left to form Twiztid, who were subsequently signed to Psychopathic Records.
+
+After performing as the hype man for Blaze Ya Dead Homie, R.O.C. signed to Hatchet House in 2008. After briefly retiring beginning in 2009, The R.O.C. came out of retirement.
+
+The R.O.C. has been a part of many influential groups in the genre throughout his career. In addition to the House of Krazees, he’s been an integral part of The Howse, HalfBreed, Level Jumpers, and most recently, Zodiac Mprint. He is currently signed to Majik Ninja Entertainment with lifelong friends, Jamie Madrox and Monoxide of Twiztid.", image: "https://deadentertainment.com/uploads/house-of-krazees-new-single-horrorcore-hok-article-image-2-902k3b1158.png")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
