@@ -1899,5 +1899,7 @@ Later on 2016 and so on is when Sepsis would take himself, label mates, and othe
 Continue to follow Sepsis & Septicemia Records on all social media platforms for updates on Upcoming Concerts, New Music, Merch, and much much more…", image: "https://f4.bcbits.com/img/a1241226625_10.jpg")
 Artist.create!(name: "Serpentines", bio: "Serpentines is a group consisting of Shrunken Head Entertainment artists Razakel and Ritual of Ether. The duo announced their debut album in March of 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/FB_IMG_1584242673413.jpg?w=960&ssl=1")
 Artist.create!(name: "SevidemiC", bio: "SevidemiC is from Compton, CA and is the inventor and innovator of the “zombie-hop” genre.", image: "https://undergroundhiphopblog.com/wp-content/uploads/2019/10/1280x1280.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Shade", bio: "Shade is an emcee from San Antonio, TX.  He is signed to Deviant Horror Entertainment.
+
+Throughout the course of history, there has been many who have been infected by the inhabitant known as SHADE. For centuries, SHADE has been feeding off of the souls of mankind, infecting their every sense of sanity until SHADE has gained full control of the human vessel. This is the story of the first of the inhabited to be able to become one with SHADE, and use his powers for good through the gift of HEKA.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/06/shade.jpg?w=375&ssl=1")
 Artist.create!(name:, bio:, image:)
