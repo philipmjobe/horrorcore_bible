@@ -1848,7 +1848,13 @@ Artist.create!(name: "Ritual of Ether", bio: "Ritual of Ether, or R.O.E., is a r
 Artist.create!(name: "Riviera Regime", bio: "Riviera Regime is a hardcore hip hop group from Toronto, consisting of emcees Benny Brahmz, Klee Magor, and Big Stretch.
 
 The group released their third album on Necro’s Psycho+Logical-Records in 2008, then only consisting of Brahmz and Magor. It wasn’t until their latest release that Big Stretch joined the ranks.", image: "https://lastfm.freetls.fastly.net/i/u/770x0/a9ccd23378784882890cecc563dc4690.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Rottin", bio: "Formed in 1999, Rottin recorded their first demo entitled “Appocalyptic Mayhem,” a two song tape which was a recording nightmare. This was soon followed by their first album called “Encryptdead.” A year later, they recorded their second full album, “RottinHell,” which gained them a little buzz locally in the horrorcore genre. In the summer of 2000, Rottin met the group Bedlam and were soon opening their first shows along with Cap 1 from Simken Heights, KGP, and more.
+
+In 2001, Rottin released an E.P. entitled “Sick,” which only featured one track with member Reak Havik. Reak Havik released his solo E.P. entitled “666 Degreez of Mutilation” that same year.
+
+Following what they considered to be two flopped EP releases, the group took some time away from music. They regrouped and recorded their final and most successful album entitled “Pozmortim” soon after. The album included guest appearances from Bedlam and Q Strange, taking Rottin’s music to the next level.
+
+After years of being dormant, Rottin re-emerged and released a new track called “Watch Yaself” in late 2019. The group plans on releasing their first album in almost two decades in 2020.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/rottin.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
