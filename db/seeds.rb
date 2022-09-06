@@ -1874,7 +1874,7 @@ Artist.create!(name: "Sadistik", bio: "Cody Foster, better known by his stage na
 
 Sadistik has been described as “showing his scars with each song he writes” and “the cigarette burn rap king”. Sadistik has been closely associated with the late hip hop artist Eyedea and has been known for “a unique style of hip hop, one that features dark imagery, dense wordplay, and nontraditional production styles.", image: "https://i.etsystatic.com/12731151/r/il/0bdc65/1888755435/il_570xN.1888755435_hgr8.jpg")
 Artist.create!(name: "Saint Decay", bio: "Saint Decay is an emcee and Anime/Manga artist. As part of Canonize Productions, he is one half of the group Mindshot and one fourth of the group Karmakazi.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/saint-decay.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Saint Sinna", bio: "Saint Sinna is an emcee and producer from Michigan. He is a Mission: Infect soldier and one half of the group Bio Killaz. He has also been a part of the group The Drunk Boys (alongside Grewsum) and Michigan Militia (with Menacide).", image: "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/67/eb/af/67ebaf5c-e85a-460d-d55d-619a855b6441/188912.jpg/486x486bb.png")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
