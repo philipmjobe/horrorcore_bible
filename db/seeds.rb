@@ -1877,7 +1877,9 @@ Artist.create!(name: "Saint Decay", bio: "Saint Decay is an emcee and Anime/Mang
 Artist.create!(name: "Saint Sinna", bio: "Saint Sinna is an emcee and producer from Michigan. He is a Mission: Infect soldier and one half of the group Bio Killaz. He has also been a part of the group The Drunk Boys (alongside Grewsum) and Michigan Militia (with Menacide).", image: "https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/67/eb/af/67ebaf5c-e85a-460d-d55d-619a855b6441/188912.jpg/486x486bb.png")
 Artist.create!(name: "Salem Alumni", bio: "We are the Anathema, the children of Salem. The forgotten coven. We are the offspring of those too powerful and loud to silence. And we are back with a message; Salem is calling… The RED MOON is RISING… So ask yourself, are you My Alumni?", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/02/salem-alumni.jpg?w=500&ssl=1")
 Artist.create!(name: "Sardos97", bio: "Sardos97 is a producer from Greece on Slide to the Side Records.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/11/sardos97.jpg?w=357&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Scarlxrd", bio: "Marius Lucas Antonio Listhrop (born 19 June 1994), better known as Scarlxrd (pronounced “Scarlord”), is a British rapper, singer, songwriter, and YouTuber. He is known for his unusual musical style combining elements of trap music and heavy metal. Formerly a YouTube personality known as Mazzi Maz, Scarlxrd began a career in music as the lead vocalist for nu metal band Myth City, before debuting as a rapper under his Scarlxrd moniker.
+
+He rose to prominence after the music video for his single “Heart Attack” gained significant attention, holding over 70 million views on YouTube as of December 2019. He has since released other successful songs, namely “King, Scar”, “6 Feet”, “Berzerk”, and “Head Gxne”.", image: "https://styles.redditmedia.com/t5_3n5ey/styles/communityIcon_9wdhfw369jf61.png")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
