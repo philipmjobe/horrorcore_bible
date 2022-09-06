@@ -1858,7 +1858,9 @@ After years of being dormant, Rottin re-emerged and released a new track called 
 Artist.create!(name: "Rozz Dyliams", bio: "Rozz Dyliams (formerly Dylan Ross) is a American rapper and producer from Cleveland, Ohio. He is a former member of Team SESH.
 
 He is recognized for his eclectic style called “Handzum” ranging from hip-hop, r&b, funk, horrorcore, house, jungle, and even 80s pop.", image: "https://e.snmc.io/i/1200/s/69e172db6e89d0b6ba08d91db803aa0e/6351571")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Rukus", bio: "Born in NY, Rukus first hit the scene in 1999 when he and fellow rappers Komatose and Cobra created a group called ASYLUM. The two artists then went on to create the groups The Insainiax and Kryptik. Between group releases, Rukus released many solo albums and EPs.
+
+Rukus was also in the following groups: Among The Dead, Suburban Legendz, The Body Snatcherz, The Gecko Brothers, The Gorehouse Greatz, The Groovie Ghouliez, The Dead Poet Society, Hillside Stranglerz, and Horror Movie Villainz.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/rukus.jpg?w=361&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
