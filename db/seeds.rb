@@ -1870,7 +1870,9 @@ After performing as the hype man for Blaze Ya Dead Homie, R.O.C. signed to Hatch
 
 The R.O.C. has been a part of many influential groups in the genre throughout his career. In addition to the House of Krazees, he’s been an integral part of The Howse, HalfBreed, Level Jumpers, and most recently, Zodiac Mprint. He is currently signed to Majik Ninja Entertainment with lifelong friends, Jamie Madrox and Monoxide of Twiztid.", image: "https://deadentertainment.com/uploads/house-of-krazees-new-single-horrorcore-hok-article-image-2-902k3b1158.png")
 Artist.create!(name: "R.O.D.", bio: "German horrorcore rap project of the singer from grindcore band Gut, who are credited as being the fathers of pornogrind. R.O.D. performs while wearing a mask and is known for over-the-top morbid lyrics and pornographic imagery.", image: "https://i.discogs.com/QVwkq-5WSHYYVgl--ZOTxlYfw_5hjsEsRNsDSIJ-eKg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNzEw/MTgtMTI1NDQ0Nzky/OS5qcGVn.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sadistik", bio: "Cody Foster, better known by his stage name Sadistik, is an American alternative hip hop artist from Seattle, Washington.
+
+Sadistik has been described as “showing his scars with each song he writes” and “the cigarette burn rap king”. Sadistik has been closely associated with the late hip hop artist Eyedea and has been known for “a unique style of hip hop, one that features dark imagery, dense wordplay, and nontraditional production styles.", image: "https://i.etsystatic.com/12731151/r/il/0bdc65/1888755435/il_570xN.1888755435_hgr8.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
