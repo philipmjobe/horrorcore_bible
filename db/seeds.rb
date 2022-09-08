@@ -1918,7 +1918,9 @@ Artist.create!(name: "ShockSumOne", bio: "ShockSumOne is an American hip hop art
 Artist.create!(name: "Shy One", bio: "Shy One, formerly known as DJ Shy 1 and now known as xshy361x, is an emcee, DJ, and producer active in the underground scene since the mid 90s. He was involved in multiple group projects with fellow artists, Claas and Dosia Demon, as well as others, but is mostly known for releasing solo projects with a unique sound that was ahead of its time.
 
 Shy One retired from rapping shortly after his album release in 2010. He was still actively producing music for years before making his official return with the 2020 release of “The Door.”", image: "https://i.discogs.com/x3OwPyWtDTTS51yc7WZpD61osLSGqgokp6k2F6dxZ_o/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0Njk2/NjYtMTYwOTk4NzA2/Mi01NTMxLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sianide", bio: "One half of the legendary horrorcore group, L.U. Cipha.
+
+R.I.P. Sianide", image: "https://f4.bcbits.com/img/a2858963529_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
