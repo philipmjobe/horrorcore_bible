@@ -1929,7 +1929,7 @@ Artist.create!(name: "Sick Trinity", bio: "Sick Trinity is a collection of two o
 Artist.create!(name: "Sike Sick", bio: "Sike Sick is a West Virginia emcee who started rapping in 2000 with his partner Die-A-Betik to form what would be known as “Homicydal Maniaxe.”
 
 Formerly known as Sico tha Sicko, Sike is currently releasing solo material as a part of Humble Hoodlum Entertainment.", image: "https://i.scdn.co/image/ab6761610000e5ebe9000e15d96b64e5efcb2ade")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sinizter", bio: "Scott Gonzales, professionally known as “Sinizter,” was born in Antioch, California. Having been previously known for his role as a metal vocalist in the music scene in the California East Bay in the early 2000’s, he has since become a solo artist and continues to use his aggressive vocal style to drive his now Trap/Metal inspired music under Sinizter. He currently resides in Atlanta, Georgia where Sinizter was founded. His lyrical topics often stem from his personal life, war, horror, misanthropy, and personal philosophy.", image: "https://f4.bcbits.com/img/0024571303_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
