@@ -1926,7 +1926,9 @@ Artist.create!(name: "SickTanicK", bio: "Some believe when you die, you see the 
 
 Bringing A unique mixture of Rap, Industrial, Metal, and Occult Symbolism Colorado based artist SickTanicK has been a pioneer and innovator in underground music since 2005.", image: "https://static.wikia.nocookie.net/horrorcore/images/a/aa/Sick.jpg/revision/latest?cb=20190520195816")
 Artist.create!(name: "Sick Trinity", bio: "Sick Trinity is a collection of two of the most dominant, evil, and gifted emcees in the underground scene today. Each of their different styles and deliveries make them the perfect puzzle pieces to the most terrifying entity that sick hop has seen in years… Sick Trinity.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/02/sicktrinity.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sike Sick", bio: "Sike Sick is a West Virginia emcee who started rapping in 2000 with his partner Die-A-Betik to form what would be known as “Homicydal Maniaxe.”
+
+Formerly known as Sico tha Sicko, Sike is currently releasing solo material as a part of Humble Hoodlum Entertainment.", image: "https://i.scdn.co/image/ab6761610000e5ebe9000e15d96b64e5efcb2ade")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
