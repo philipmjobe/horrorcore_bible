@@ -1976,7 +1976,9 @@ Artist.create!(name: "Sodoma Gomora", bio: "Sodoma Gomora is a horrorcore/hardco
 Their aggressive live show got them to open for such acts as Tech N9ne, Necro, Ill Bill, Jedi Mind Tricks, and more.", image: "https://i.discogs.com/MUPNlc11r7qPcexh06VsLeEjjADj5rxb7kNH4xfwU_k/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Njcz/NjktMTQwMDk1NTUz/MC01NTgzLmpwZWc.jpeg")
 Artist.create!(name: "Soldiers of Fortune", bio: "Zero and Shakelous are the Soldiers of Fortune. In the aftermath of Mission:Infect’s disbanding Steve Collins and Danny Shakes are two mercenaries for hire bonded for one singular purpose; Retribution.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/soldiers-of-fortune.jpg?w=600&ssl=1")
 Artist.create!(name: "SosMula", bio: "SosMula, also known as Vinicius Sosa, is a Harlem rapper mostly known for being one half of the acclaimed trap metal and punk rap duo, City Morgue, which consists of himself and his rhyme partner Zillakami.", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sosmula_at_a_concert.jpg/440px-Sosmula_at_a_concert.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "So Sick Social Club", bio: "So Sick Social Club is a rap/rock group that is unique in both image and sound. They fuse the rap-rock sound of Linkin Park, the lyricism of Marilyn Manson meets Tech N9ne, and the stage-show imagery of Rob Zombie and KISS.
+
+So Sick Social Club have performed on multiple shows including the infamous “The Gathering of the Juggalos”, where SSSC shared the stage with acts such as Ice Cube, Tech N9ne, Xzibit, Busta Rhymes, Lil Jon and more. Their set caught the attention of Billboard.com, which gave them a positive review calling it “one of the most endearing” of the night. Their outlandish image and unique blend of hip-hop and catchy rock sing-along’s is what makes them stand out from the rest.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/54e291eab43f4cc9ade2d028b2724546.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
