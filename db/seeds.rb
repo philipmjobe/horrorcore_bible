@@ -1934,7 +1934,9 @@ Artist.create!(name: "Sin Garden", bio: "Formerly known as Sinista Gangxtaz, Sin
 Artist.create!(name: "Sin7uL", bio: "Formerly known as “The Underground’s Infamous Killaz,” Sin7uL was reformed in 2017 and began production of new material.
 
 Hailing from Grand Junction, Colorado, the duo has performed live to great response with horrorcore legends such as ABK, Esham, ICP, Twiztid, and many more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/02/sin7ul.png?w=500&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Siren", bio: "Siren, the self-proclaimed “Mistress of the Wicked” is a true evil angel fallen from grace and dropped to us from the Horrorcore greats. Siren M.O.T.W gives you the true experience of a wicked mind and twisted black heart.
+
+A sound influenced by early ICP and other pioneers in the scene combined with the sexually aggressive but underlying strength that a young Lil Kim brought to 90’s Hip-Hop. Paired with lyrically content about mental illness, dark thoughts, demented visions to rape, murder, and sex, it provides you the lyrical equivalent to a visual done by the likes of GG Allin.", image: "https://rox-tv.com/wp-content/uploads/2019/06/siren7-300x169.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
