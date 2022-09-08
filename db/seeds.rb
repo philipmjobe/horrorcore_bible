@@ -1966,7 +1966,11 @@ Working from Roach Records, the label they created themselves in 2005, they have
 SHJ has now also done shows in and out of state with recording artists such as: Twiztid, Anybody Killa, Blaze Ya Dead Homie, Boondox, Axe Murder Boyz and countless others! Those shows compiled with numerous invited appearances to ICP’s Gathering of the Juggalos give the Junkiez more than a little stage experience.
 
 Smokehouse Junkiez have also worked or done shows with many legends of the underground including but not limited to: Insane Poetry, Project Born, Cap One of Simken Heights, The R.O.C., Esham, Mastamind of Natas, Haystak, Potluck, Ajax, and many more! With countless underground releases and handouts, their first nationwide album — Act I: Inhale The Violence was semi successful and was followed by a second nationwide release — InnerMission: Smoke With Us.", image: "https://www.rapreviews.com/wp-content/uploads/2015/05/act1inhale.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Smokeydabear", bio: "Smokeydabear is an emcee from Detroit, Michigan.
+
+He makes a bunch of thrashy, crazy-ass wicked shit and has been at it for almost two years.
+
+He is a part of the Vile House Records roster.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/smokeydabear.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
