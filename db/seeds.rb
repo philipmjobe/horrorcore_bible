@@ -1974,7 +1974,7 @@ He is a part of the Vile House Records roster.", image: "https://i0.wp.com/horro
 Artist.create!(name: "Sodoma Gomora", bio: "Sodoma Gomora is a horrorcore/hardcore rap duo from Czech Republic. Reznik and DeSade are pioneers of wicked shit in their country since their first record “Buh se Utnul,” which came out in 2006. They have gained a huge fanbase since then and have performed in almost every club in Czech Republic and at a lot of big festivals including Hip Hop Kemp, the biggest hiphop festival in central Europe.
 
 Their aggressive live show got them to open for such acts as Tech N9ne, Necro, Ill Bill, Jedi Mind Tricks, and more.", image: "https://i.discogs.com/MUPNlc11r7qPcexh06VsLeEjjADj5rxb7kNH4xfwU_k/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Njcz/NjktMTQwMDk1NTUz/MC01NTgzLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Soldiers of Fortune", bio: "Zero and Shakelous are the Soldiers of Fortune. In the aftermath of Mission:Infect’s disbanding Steve Collins and Danny Shakes are two mercenaries for hire bonded for one singular purpose; Retribution.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/soldiers-of-fortune.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
