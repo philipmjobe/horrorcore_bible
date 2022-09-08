@@ -1948,7 +1948,9 @@ Artist.create!(name: "Skitz Kraven", bio: "sKitz Kraven, also known as Evan Kije
 The music he makes depends on how he is feeling mentally at that exact moment, so you never know what you’re going to get from sKitz.", image: "https://starrymag.com/wp-content/uploads/2020/03/SkitzKraven.jpeg")
 Artist.create!(name: "Skribbal", bio: "Skribbal is an emcee from Los Angeles, CA. He has released music through Force 5 Records and is currently signed to Hell Patrol/Sony.", image: "https://undergroundhiphopblog.com/wp-content/uploads/2021/04/5473CD42-16C1-43D9-97A7-3967CB8BB5CB.jpeg")
 Artist.create!(name: "Sky Swamp Orange", bio: "Sky Swamp Orange is an alternative rock/hip-hop/hardcore band from Connecticut.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/sky-swamp-orange.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Slice Girls", bio: "The Slice Girls are a group consisting of Arsenic Aney, DJ Kitty, and Razakel.
+
+The trio is currently signed to Shrunken Head Entertainment where they released their debut album, “Sheville,” in 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/the-slice-girls.jpg?w=350&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
