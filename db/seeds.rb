@@ -1979,7 +1979,7 @@ Artist.create!(name: "SosMula", bio: "SosMula, also known as Vinicius Sosa, is a
 Artist.create!(name: "So Sick Social Club", bio: "So Sick Social Club is a rap/rock group that is unique in both image and sound. They fuse the rap-rock sound of Linkin Park, the lyricism of Marilyn Manson meets Tech N9ne, and the stage-show imagery of Rob Zombie and KISS.
 
 So Sick Social Club have performed on multiple shows including the infamous “The Gathering of the Juggalos”, where SSSC shared the stage with acts such as Ice Cube, Tech N9ne, Xzibit, Busta Rhymes, Lil Jon and more. Their set caught the attention of Billboard.com, which gave them a positive review calling it “one of the most endearing” of the night. Their outlandish image and unique blend of hip-hop and catchy rock sing-along’s is what makes them stand out from the rest.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/54e291eab43f4cc9ade2d028b2724546.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Spacey Jones", bio: "Best described as a hippie MC, coming from the green state of VT. Meet Spacey Jones. His love of 90s hip hop is the main influence of his style. What’s his style, you ask? Conscious but with a sense of humor. So while you may hear him rhyming about serious political issues, don’t make the mistake of taking him too seriously. He doesn’t even do that. He has been caught referencing cartoons on a verse or two. And the best part, he performs in shows where ticket sales are often donated to local charities and/or non-profit organizations.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/spacey-jones.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
