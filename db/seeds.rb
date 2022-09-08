@@ -1955,7 +1955,7 @@ Artist.create!(name: "Slyzwicked", bio: "Slyzwicked is an American Hip-Hop artis
 Artist.create!(name: "Smallz One", bio: "After releasing music on local New Mexico label Sadiztik Productions in 2007, Smallz One got signed to Horrorcore powerhouse label Lyrikal Snuff Productions.
 
 With LSP, Smallz has had four releases, plus a group album with ‘The Dead Girlz’, which consisted of Smallz, Razakel, and Lyssa Cer (of KYP).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/smallz-one.jpg?w=960&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Smiley Jay", bio: "Smiley jay is a Horrorcore artist from Hammond, Indiana, the home of the pumpkin patch! Smiley spits incredibly dope and esoteric lyrics, with the old school boom bap flavor!", image: "https://i1.sndcdn.com/artworks-XeUHZIhI4yiZ1Z2g-nWWzQQ-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
