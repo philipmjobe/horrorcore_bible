@@ -1956,7 +1956,9 @@ Artist.create!(name: "Smallz One", bio: "After releasing music on local New Mexi
 
 With LSP, Smallz has had four releases, plus a group album with ‘The Dead Girlz’, which consisted of Smallz, Razakel, and Lyssa Cer (of KYP).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/smallz-one.jpg?w=960&ssl=1")
 Artist.create!(name: "Smiley Jay", bio: "Smiley jay is a Horrorcore artist from Hammond, Indiana, the home of the pumpkin patch! Smiley spits incredibly dope and esoteric lyrics, with the old school boom bap flavor!", image: "https://i1.sndcdn.com/artworks-XeUHZIhI4yiZ1Z2g-nWWzQQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Smilez Bundie", bio: "Based Out Of Dayton, OH, Smilez Bundie began his horrorcore journey with a submission for Scum’s Dying World Chronicles “Respekt” contest, coming in second place for overall votes in the 6th round of the contest. Shortly after the contest, he began production on his debut mixtape “The ‘FIRE’ Tape,a collection of tracks featuring the likes of Gibby Stites, Klokwerk E, and Cody Manson.
+  
+The “FIRE” tape is set to release mid-2022, with the leading single, “Sweet Dreams” featuring Klokwerk E, having been released in March of 2022.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/smilez-bundie.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
