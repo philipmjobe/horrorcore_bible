@@ -1925,7 +1925,7 @@ Artist.create!(name: "SickGang", bio: "What/Who Is SICKGANG? A Project between t
 Artist.create!(name: "SickTanicK", bio: "Some believe when you die, you see the light at the end of a tunnel; this is one light the likes of Serial Killin Records, SickTanicK Tha Souless has never and will never see even at the moment of death…
 
 Bringing A unique mixture of Rap, Industrial, Metal, and Occult Symbolism Colorado based artist SickTanicK has been a pioneer and innovator in underground music since 2005.", image: "https://static.wikia.nocookie.net/horrorcore/images/a/aa/Sick.jpg/revision/latest?cb=20190520195816")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sick Trinity", bio: "Sick Trinity is a collection of two of the most dominant, evil, and gifted emcees in the underground scene today. Each of their different styles and deliveries make them the perfect puzzle pieces to the most terrifying entity that sick hop has seen in years… Sick Trinity.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/02/sicktrinity.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
