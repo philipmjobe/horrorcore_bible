@@ -1921,7 +1921,7 @@ Shy One retired from rapping shortly after his album release in 2010. He was sti
 Artist.create!(name: "Sianide", bio: "One half of the legendary horrorcore group, L.U. Cipha.
 
 R.I.P. Sianide", image: "https://f4.bcbits.com/img/a2858963529_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "SickGang", bio: "What/Who Is SICKGANG? A Project between two #SICK Individuals, Dieabolik and Don Orias. Spreading The SICKNESS, By ANY means necessary. #SICK", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/sickgang.jpg?w=835&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
