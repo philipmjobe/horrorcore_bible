@@ -1975,7 +1975,7 @@ Artist.create!(name: "Sodoma Gomora", bio: "Sodoma Gomora is a horrorcore/hardco
 
 Their aggressive live show got them to open for such acts as Tech N9ne, Necro, Ill Bill, Jedi Mind Tricks, and more.", image: "https://i.discogs.com/MUPNlc11r7qPcexh06VsLeEjjADj5rxb7kNH4xfwU_k/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Njcz/NjktMTQwMDk1NTUz/MC01NTgzLmpwZWc.jpeg")
 Artist.create!(name: "Soldiers of Fortune", bio: "Zero and Shakelous are the Soldiers of Fortune. In the aftermath of Mission:Infect’s disbanding Steve Collins and Danny Shakes are two mercenaries for hire bonded for one singular purpose; Retribution.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/soldiers-of-fortune.jpg?w=600&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "SosMula", bio: "SosMula, also known as Vinicius Sosa, is a Harlem rapper mostly known for being one half of the acclaimed trap metal and punk rap duo, City Morgue, which consists of himself and his rhyme partner Zillakami.", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sosmula_at_a_concert.jpg/440px-Sosmula_at_a_concert.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
