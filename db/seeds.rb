@@ -1922,7 +1922,9 @@ Artist.create!(name: "Sianide", bio: "One half of the legendary horrorcore group
 
 R.I.P. Sianide", image: "https://f4.bcbits.com/img/a2858963529_10.jpg")
 Artist.create!(name: "SickGang", bio: "What/Who Is SICKGANG? A Project between two #SICK Individuals, Dieabolik and Don Orias. Spreading The SICKNESS, By ANY means necessary. #SICK", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/sickgang.jpg?w=835&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "SickTanicK", bio: "Some believe when you die, you see the light at the end of a tunnel; this is one light the likes of Serial Killin Records, SickTanicK Tha Souless has never and will never see even at the moment of death…
+
+Bringing A unique mixture of Rap, Industrial, Metal, and Occult Symbolism Colorado based artist SickTanicK has been a pioneer and innovator in underground music since 2005.", image: "https://static.wikia.nocookie.net/horrorcore/images/a/aa/Sick.jpg/revision/latest?cb=20190520195816")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
