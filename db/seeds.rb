@@ -1952,7 +1952,9 @@ Artist.create!(name: "Slice Girls", bio: "The Slice Girls are a group consisting
 
 The trio is currently signed to Shrunken Head Entertainment where they released their debut album, “Sheville,” in 2019.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/the-slice-girls.jpg?w=350&ssl=1")
 Artist.create!(name: "Slyzwicked", bio: "Slyzwicked is an American Hip-Hop artist from Ontario, California. He signed to Grim Reality Entertainment in 2011 and has released five solo albums and two group albums with JP Tha Hustler as the “Beastmode Warriors.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/slyzwicked.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Smallz One", bio: "After releasing music on local New Mexico label Sadiztik Productions in 2007, Smallz One got signed to Horrorcore powerhouse label Lyrikal Snuff Productions.
+
+With LSP, Smallz has had four releases, plus a group album with ‘The Dead Girlz’, which consisted of Smallz, Razakel, and Lyssa Cer (of KYP).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/smallz-one.jpg?w=960&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
