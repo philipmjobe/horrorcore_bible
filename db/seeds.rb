@@ -1915,7 +1915,9 @@ Artist.create!(name: "Shayne “Pop’N” Wolf", bio: "Shayne “Pop’N” Wol
 
 In 2020, he released his highly anticipated solo album, “LowLife Resurrection” (PROJECT:NEVERDEAD).", image: "https://f4.bcbits.com/img/0021090152_10.jpg")
 Artist.create!(name: "ShockSumOne", bio: "ShockSumOne is an American hip hop artist from Indianapolis, Indiana. Shock is known for his versatile styles, experimental projects, radical lyrical content, fast and articulate delivery, charismatic stage show, and controversial material. This is why he is ShockSumOne, because his lyricism is guaranteed to shock some one in the room listening to his music or witnessing his performance.", image: "https://i.discogs.com/KsSX3LxGCKL5HDUL3JTQ-BRMKdYQbs5A1353-z7jl4o/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NTAwLTE1MjUxNTYw/NjItNzc2NC5qcGVn.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Shy One", bio: "Shy One, formerly known as DJ Shy 1 and now known as xshy361x, is an emcee, DJ, and producer active in the underground scene since the mid 90s. He was involved in multiple group projects with fellow artists, Claas and Dosia Demon, as well as others, but is mostly known for releasing solo projects with a unique sound that was ahead of its time.
+
+Shy One retired from rapping shortly after his album release in 2010. He was still actively producing music for years before making his official return with the 2020 release of “The Door.”", image: "https://i.discogs.com/x3OwPyWtDTTS51yc7WZpD61osLSGqgokp6k2F6dxZ_o/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0Njk2/NjYtMTYwOTk4NzA2/Mi01NTMxLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
