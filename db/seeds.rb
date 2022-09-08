@@ -1959,7 +1959,13 @@ Artist.create!(name: "Smiley Jay", bio: "Smiley jay is a Horrorcore artist from 
 Artist.create!(name: "Smilez Bundie", bio: "Based Out Of Dayton, OH, Smilez Bundie began his horrorcore journey with a submission for Scum’s Dying World Chronicles “Respekt” contest, coming in second place for overall votes in the 6th round of the contest. Shortly after the contest, he began production on his debut mixtape “The ‘FIRE’ Tape,a collection of tracks featuring the likes of Gibby Stites, Klokwerk E, and Cody Manson.
   
 The “FIRE” tape is set to release mid-2022, with the leading single, “Sweet Dreams” featuring Klokwerk E, having been released in March of 2022.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/03/smilez-bundie.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Smokehouse Junkiez", bio: "Straight out of the dark corners of Lansing, Michigan comes the underground sensation known as the Smokehouse Junkiez. With an affinity to the sweet leaf this duo of Jaqadeliq and Dubb Sicc bring their flavor of alternative hip hop to the table, then smash the table, because that’s what their fans have come to expect of them. The Smokehouse Junkiez have put together an unbelievable following considering the lack of radio play and lack of mainstream promotion.
+
+Working from Roach Records, the label they created themselves in 2005, they have made a lot of noise in the underground. With only an independent self-owned record label, the Smokehouse Junkiez have packed small venues all across the Midwest.
+
+SHJ has now also done shows in and out of state with recording artists such as: Twiztid, Anybody Killa, Blaze Ya Dead Homie, Boondox, Axe Murder Boyz and countless others! Those shows compiled with numerous invited appearances to ICP’s Gathering of the Juggalos give the Junkiez more than a little stage experience.
+
+Smokehouse Junkiez have also worked or done shows with many legends of the underground including but not limited to: Insane Poetry, Project Born, Cap One of Simken Heights, The R.O.C., Esham, Mastamind of Natas, Haystak, Potluck, Ajax, and many more! With countless underground releases and handouts, their first nationwide album — Act I: Inhale The Violence was semi successful and was followed by a second nationwide release — InnerMission: Smoke With Us.", image: "https://www.rapreviews.com/wp-content/uploads/2015/05/act1inhale.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
