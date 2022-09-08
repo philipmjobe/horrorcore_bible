@@ -1914,7 +1914,7 @@ Adolph’s debut project under the name Shakewell, titled Pray for Shakewell, re
 Artist.create!(name: "Shayne “Pop’N” Wolf", bio: "Shayne “Pop’N” Wolf, fka C Pop’N, is an emcee from Detroit, MI. He was one half of NDC with Low C who released “Rape Musick” in 2006 and Project Sin with Stitchez who released “Open Them Legs and Let Us In” in 2009.
 
 In 2020, he released his highly anticipated solo album, “LowLife Resurrection” (PROJECT:NEVERDEAD).", image: "https://f4.bcbits.com/img/0021090152_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "ShockSumOne", bio: "ShockSumOne is an American hip hop artist from Indianapolis, Indiana. Shock is known for his versatile styles, experimental projects, radical lyrical content, fast and articulate delivery, charismatic stage show, and controversial material. This is why he is ShockSumOne, because his lyricism is guaranteed to shock some one in the room listening to his music or witnessing his performance.", image: "https://i.discogs.com/KsSX3LxGCKL5HDUL3JTQ-BRMKdYQbs5A1353-z7jl4o/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQx/NTAwLTE1MjUxNTYw/NjItNzc2NC5qcGVn.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
