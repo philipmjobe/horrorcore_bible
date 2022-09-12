@@ -2099,7 +2099,9 @@ Every song they put out is full of high energy from unique lyrics to powerful ho
 Artist.create!(name: "Unsub", bio: "Unsub is a hip-hop artist from Pennsylvania. Originally a producer (Night Crisis) from 2001, Unsub decided to make a crossover into the hip-hop scene in early 2017. He brings a dark/metal take on the genre.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/unsub.jpg?w=650&ssl=1")
 Artist.create!(name: "Uutherside", bio: "Uutherside is a rap group from Colorado, consisting of Ztarve and Evil Lin0.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/uutherside.jpg?w=450&ssl=1")
 Artist.create!(name: "Vect", bio: "Vect was an emcee and musician from Las Vegas, NV. His musical style combined elements of hardcore rap, hip-hop, horrorcore, and metal. He made and released seven albums before calling it quits.", image: "https://f4.bcbits.com/img/0002839287_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Vinnie Paz", bio: "Vinnie Paz (formerly known as Ikon the Verbal Hologram), is a Sicilian American rapper and the lyricist behind the Philadelphia underground hip hop group Jedi Mind Tricks. He is also the frontman of the hip hop collective Army of the Pharaohs.
+
+Paz released his first solo album, Season of the Assassin, in 2010, 18 years after he originally started rapping. He would go on to release countless more group projects, as well as five more solo releases. The latest of which is the 2021 release, Burn Everything That Bears Your Name.", image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vinnie_Paz_JMT.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
