@@ -2135,7 +2135,7 @@ Since being released, he has dropped three CDs and seven videos in 2020, he also
 Wicked Wayz, Allen “Fame” Phoenix, and EZ SixoSix recently started a new super group called Sick Trinity. The trio released their debut album entitled “The Devil, The Demon, & The Disciple” on Jan 31, 2021, which is available in hard copies through SinisterMindedMusic.com and can be streamed on all digital platforms.
 
 Stay tuned as your ride on the hell bound train has only begun it’s Wicked Wayz til the end of dayz…", image: "https://photos.bandsintown.com/large/13068312.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Wiked Wood", bio: "Wiked Wood is an East Coast group consisting of emcees Cray-Z and Grave-Bait.", image: "https://f4.bcbits.com/img/0025267797_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
