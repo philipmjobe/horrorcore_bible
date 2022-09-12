@@ -2041,7 +2041,7 @@ In 2008, Dash 10/Juz-10 was added to Sycksyde and the album Sometimes They Come 
 Sycksyde went on hiatus again until 2020 when Bob e Nite, Icepick Willie, and JxKxMx added Empire of Dirt member Dokta Butcha to the line up. This new roster released their first EP together, Vengeance of the Dead, in October 2020.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/096ff11c736d489ac8bd7911c43f4270.jpg")
 Artist.create!(name: "Syndrom-X", bio: "Syndrom-X, born Ravindu Ranasinghe, is the first Sri Lankan gore rapper. He released his debut album, Adhi Maathra/Overdose, in 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/09/syndrom-x.jpg?w=450&ssl=1")
 Artist.create!(name: "Syniister", bio: "Syniister is a horrorcore emcee from California. He was the creator of the label Wicked Intent Records.", image: "https://f4.bcbits.com/img/a0573870533_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "S.A.W. Da Ghozt", bio: "S.A.W. Da Ghozt is an emcee from Wisconsin. He is one third of the group Cult Activity, helping to carry on the legacy of Geno Cultshit along with Damien Quinn of Dark Half and Bloody Ruckus.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/saw-da-ghozt.jpg?w=339&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
