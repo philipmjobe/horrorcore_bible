@@ -2098,7 +2098,7 @@ Artist.create!(name: "The Unforgiven", bio: "The Unforgiven is Nivek and Randum4
 Every song they put out is full of high energy from unique lyrics to powerful hooks these two bring a full course to the table leaving you wanting more and more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/the-unforgiven-2.jpg?w=450&ssl=1")
 Artist.create!(name: "Unsub", bio: "Unsub is a hip-hop artist from Pennsylvania. Originally a producer (Night Crisis) from 2001, Unsub decided to make a crossover into the hip-hop scene in early 2017. He brings a dark/metal take on the genre.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/unsub.jpg?w=650&ssl=1")
 Artist.create!(name: "Uutherside", bio: "Uutherside is a rap group from Colorado, consisting of Ztarve and Evil Lin0.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/uutherside.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Vect", bio: "Vect was an emcee and musician from Las Vegas, NV. His musical style combined elements of hardcore rap, hip-hop, horrorcore, and metal. He made and released seven albums before calling it quits.", image: "https://f4.bcbits.com/img/0002839287_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
