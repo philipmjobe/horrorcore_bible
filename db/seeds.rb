@@ -2208,7 +2208,13 @@ Artist.create!(name: "2-Face", bio: "2-Face is an emcee from Maryland.
 
 He has released numerous albums as one half of the horrorcore duo Isolated Beingz, as well as two full-length solo projects.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/2-face.jpg?w=400&ssl=1")
 Artist.create!(name: "316 Klick", bio: "On a cold dark stormy night 600 years ago, two outlaws were finally caught and hung for their crimes including murder and robbery… they were buried in a cursed Indian graveyard. Six hundred years later, they are resurrected with a thirst for blood and vengeance, which they now channel through music.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/316klick.jpg?w=595&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "[name_withheld]", bio: "There are many words that you could use to describe [name_withheld]: vulgar, offensive, disgusting, provocative, dangerous. Above all else, however, he is determined. Determined to make people uncomfortable and provoke the deepest fears they have nestled inside.
+
+Beneath the over-the-top lyrics and unpredictable stage shows lies a seething commentary on and observation of the evils, hidden agendas, and self-inflicted hell of this world. [name_withheld] fearlessly dares people to open their eyes to society around them as it falls apart.
+
+Banned from venues, feared by less-than-scrupulous promoters, and liked by many fellow artists, he pushes not only the boundaries of censorship and depravity, but pushes fellow artists to do their best and reach for the proverbial brass ring.
+
+Directed by insomnia, drug abuse, and severe emotional instability, [name_withheld] has an insidious drive to stab and bludgeon his way to the top of the music industry. Completely uncensored, [name_withheld] relates tales of violence, torture, abuse, and delivers scathing political and societal views, and refuses to let anyone tell him what is or isn’t supposed to come out of his mouth.", image: "https://f4.bcbits.com/img/0014145141_10.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
