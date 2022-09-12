@@ -2168,7 +2168,7 @@ Wolff then went on to work independently as a solo artist for several releases b
 
 He still continued to release solo projects and mixtapes as one half of a new duo, Dead Body Disposal Unit, as well as bring the original Demented Bastards group who returned but with different members from the original iteration.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/wolff.jpg?w=400&ssl=1")
 Artist.create!(name: "Worm", bio: "Worm is an emcee from Chicago who describes his style as Blackened rap.", image: "https://f4.bcbits.com/img/0029552422_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Wycked Truth", bio: "Referring to his music, as self administered Ritalin. Wycked Truth’s distorted lyrics and an electric flow hypnotize his listener’s into a state of euphoric lunacy. His style has been described as raw and unique with disturbing, and at times controversial lyrics. Continuously showing diversity with every track released, he shows no signs of slowing down.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/wycked-truth.jpg?w=500&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
