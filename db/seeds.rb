@@ -2176,7 +2176,7 @@ Xander Gage has always been into dark music and has been a juggalo since he was 
 He has a steady rising fan base and will be back out on the road in a town near you soon. He has generated a buzz so fast and has been working with other notable horrorcore artist such as Magadino The Chemist, Insane The Most Wicked, Fame The HOF, Rap Kaiser, Bounce Ball Boogie and many many more.
 
 GO FOLLOW HIM ON FACEBOOK, YOUTUBE, INSTAGRAM, AND STREAM HIS MUSIC ON ALL AVAILABLE STREAMING SERVICES !!!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/xander-gage.jpeg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Xtra Overdoze", bio: "Xtra Overdoze, born Aaron Smith, is an emcee from the Bronx, NY.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3350415/original/crop:x0y0w1084h1355/hash:1532993564/IMG_5393.JPG?1532993564")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
