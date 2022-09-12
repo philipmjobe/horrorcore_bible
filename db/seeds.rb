@@ -2096,7 +2096,7 @@ January 24th, 2020 saw the release of their debut album, “Visions Of Necromanc
 Artist.create!(name: "The Unforgiven", bio: "The Unforgiven is Nivek and Randum45, a Rap Metal duo from the Seattle area.
 
 Every song they put out is full of high energy from unique lyrics to powerful hooks these two bring a full course to the table leaving you wanting more and more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/the-unforgiven-2.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Unsub", bio: "Unsub is a hip-hop artist from Pennsylvania. Originally a producer (Night Crisis) from 2001, Unsub decided to make a crossover into the hip-hop scene in early 2017. He brings a dark/metal take on the genre.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/unsub.jpg?w=650&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
