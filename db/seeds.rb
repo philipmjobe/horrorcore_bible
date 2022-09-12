@@ -2086,7 +2086,13 @@ Artist.create!(name: "Underground Avengers", bio: "..And there came a day… A d
 Artist.create!(name: "Underlords", bio: "Underlords is a rap group consisting of emcees and fellow Shrunken Head Entertainment roster members Ritual of Ether and Dieabolik the Monster.
 
 The duo released their debut collaborative album in 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/12/underlords.jpg?w=403&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Undertakers", bio: "The Undertakers was formed in 1996 by Boo The Ghost and Sprocc. Boo and Sprocc eventually turned The Undertakers into a rap group. Sadly, Sprocc passed away due to health reasons. That gave Boo the ultimate motivation to do something bigger.
+
+Boo’s Best friend of 14 years, Zombgora, joined the band a couple years after Sprocc’s passing. She brought the metal feel to the band’s sound. Eventually they went from there and members starting joining in the fun. Next was Rodney aka Corpse on guitar then Cheecho on drums and soon Adam joined the band. Samson Carr was also in the band for a bit, but left on personal business. Now, only three original band members remain with two new members, Ryan Ball (Mortician) on drums, and Brian L. (Cypter) on bass.
+
+The Undertakers have played many shows in Denver and surrounding areas, and have many fans and, of course, many haters that like to follow their every move. They have shared the same stage with rock bands Wednesday 13, The Genitorturers, Lola Black, and so too shared the lime light with rappers including Brotha Lynch Hung, Twisted Insane, and so much more.
+
+January 24th, 2020 saw the release of their debut album, “Visions Of Necromancy.” They have a hit single and video from the album called “My Darkness,” uploaded on Facebook and YouTube.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/the-undertakers.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
