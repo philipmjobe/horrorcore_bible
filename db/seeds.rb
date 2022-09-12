@@ -2136,7 +2136,9 @@ Wicked Wayz, Allen “Fame” Phoenix, and EZ SixoSix recently started a new sup
 
 Stay tuned as your ride on the hell bound train has only begun it’s Wicked Wayz til the end of dayz…", image: "https://photos.bandsintown.com/large/13068312.jpeg")
 Artist.create!(name: "Wiked Wood", bio: "Wiked Wood is an East Coast group consisting of emcees Cray-Z and Grave-Bait.", image: "https://f4.bcbits.com/img/0025267797_10.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "William H Morbid", bio: "Born in Pine Bluff, Arkansas, William H Morbid has been making music solo since 2008. Going by many names — “Mr. Morbid,” “Billy Bones,” “LordWilliamHMorbid” — he is a bit of an enigma and a shut in.
+
+Under the label “Morbid House,” formally Black Bull Productions, an underground independent label under the LLC of Morbid Magic, William H Morbid makes music about the torture and destruction of rapists pedophiles and people who troll and harass others out of pure ignorance. He does not sell his music but offers it for free blood, streaming on many platforms.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/william-h-morbid2.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
