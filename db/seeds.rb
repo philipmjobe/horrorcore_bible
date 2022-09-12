@@ -2031,7 +2031,7 @@ At the end of 1999, $woop teamed up with touring artist Bilistic and singer Myli
 By the time the early 2000s were in swing, the Ca$h Roll Criminalz were doing shows all over the Midwest, performing with the likes of Q Strange, Fury, SyckSyde, Trouble, Sirkis, DJ Shy One, McNastee, Menacide, Cap 1, and the list goes on. The duo spent the next several years trying to maintain their momentum, but the test of time proved to fail them.
 
 While KC has released a few well-received singles over the years and $woop has pumped out over 25 albums, none have ever reached the success of “The Church.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/swoop.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Sxmpra", bio: "Sxmpra is an emcee and producer from Wellington City, New Zealand. He is a member of the Schemaposse collective.", image: "https://i1.sndcdn.com/artworks-bzikcyXOhpjl4dBl-NtciJQ-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
