@@ -2139,7 +2139,29 @@ Artist.create!(name: "Wiked Wood", bio: "Wiked Wood is an East Coast group consi
 Artist.create!(name: "William H Morbid", bio: "Born in Pine Bluff, Arkansas, William H Morbid has been making music solo since 2008. Going by many names — “Mr. Morbid,” “Billy Bones,” “LordWilliamHMorbid” — he is a bit of an enigma and a shut in.
 
 Under the label “Morbid House,” formally Black Bull Productions, an underground independent label under the LLC of Morbid Magic, William H Morbid makes music about the torture and destruction of rapists pedophiles and people who troll and harass others out of pure ignorance. He does not sell his music but offers it for free blood, streaming on many platforms.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/07/william-h-morbid2.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Will Gates", bio: "Will Gates is the founder of Trashboy Entertainment and a recording artist hailing from Northern Michigan. He is an artist with a very diverse soundscape, with tracks ranging from trap to boom bap to rock rap influences and undertones.
+
+Though he is fresh in the game, he has already worked with an impressive array of accomplished artists, including:
+
+Cappadonna (of Wu-Tang Clan)
+Deuce (formerly of Hollywood Undead)
+Sticky Fingaz (of Onyx)
+Swifty McVay (of D12)
+Yukmouth (of Luniz)
+Jarren Benton
+Rittz
+Krizz Kaliko
+Stevie Stone
+NADA5150
+Darby O’trill
+
+He’s performed all over the Midwest opening for artists such as R.A. The Rugged Man, DJ Clay, King Gordy, and Scum. He also headlined night one of the first annual DMT fest in Romulus, Michigan!
+
+In his first year as a recording artist, he independently released three full-length mixtapes in a trilogy known as “The Trashboy Mixxxtape Saga,” available now exclusively on the Trashboy Trilogy YouTube channel.
+
+As of now, Will Gates is locked in the studio working on many new projects and preparing to bring his wicked flavor on a nationwide tour to a city near you.
+
+His debut EP “Procuring the Wicced” is available now, serving as the first of six EPs scheduled to drop in 2022.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/willgates.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
