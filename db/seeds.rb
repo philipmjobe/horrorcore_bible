@@ -2177,7 +2177,11 @@ He has a steady rising fan base and will be back out on the road in a town near 
 
 GO FOLLOW HIM ON FACEBOOK, YOUTUBE, INSTAGRAM, AND STREAM HIS MUSIC ON ALL AVAILABLE STREAMING SERVICES !!!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/xander-gage.jpeg?w=400&ssl=1")
 Artist.create!(name: "Xtra Overdoze", bio: "Xtra Overdoze, born Aaron Smith, is an emcee from the Bronx, NY.", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3350415/original/crop:x0y0w1084h1355/hash:1532993564/IMG_5393.JPG?1532993564")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Young Wicked", bio: "Denver, Colorado rapper Young Wicked made his debut as Otis, one-half of the duo Axe Murder Boyz. Along with his brother Mike (aka Bonez Dubb), the artist born James Garcia released Axe Murder Boyz’s first effort, Tha Underground Stylistikz, in 1999. The pair would release eight further albums into the early 2000s before joining the Juggalo family in 2006. Signing with Insane Clown Posse’s Psychopathic Records, they issued their tenth LP, Blood in, Blood Out, which broke into the Billboard 200.
+
+Four albums and a label change later, Garcia struck out on his own with his debut mixtape, 2013’s Young Wicked: The Mixtape, Vol. 1. The next year, he joined Psychopathic Records supergroup the Killjoy Club for a brief stint. Adopting the Young Wicked moniker, he released his official debut LP, Slaughter (Psychopathic), in 2015. The album featured his brother Bonez Dubb and rapper JellyRoll, as well as a cover of Chris Isaak’s “Wicked Game,” performed in Garcia’s own typically dark fashion. On New Year’s Eve 2016, he announced that he had signed with Twiztid’s label, Majik Ninja. His Vengeance EP arrived the same day.
+
+In August of 2021, a new album entitled Activated was put up for pre-order, as the first album from Garcia rapping under his birth name.", image: "https://images.genius.com/e09801ed2ff684bb6addca9cc0578636.600x600x1.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
