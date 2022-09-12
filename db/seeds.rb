@@ -2102,7 +2102,7 @@ Artist.create!(name: "Vect", bio: "Vect was an emcee and musician from Las Vegas
 Artist.create!(name: "Vinnie Paz", bio: "Vinnie Paz (formerly known as Ikon the Verbal Hologram), is a Sicilian American rapper and the lyricist behind the Philadelphia underground hip hop group Jedi Mind Tricks. He is also the frontman of the hip hop collective Army of the Pharaohs.
 
 Paz released his first solo album, Season of the Assassin, in 2010, 18 years after he originally started rapping. He would go on to release countless more group projects, as well as five more solo releases. The latest of which is the 2021 release, Burn Everything That Bears Your Name.", image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vinnie_Paz_JMT.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Violent J.", bio: "Joseph Francis Bruce (born April 28, 1972), known by his stage name Violent J, is an American rapper, record producer, professional wrestler, and part of the hip hop duo Insane Clown Posse. He is co-founder of the record label Psychopathic Records with fellow ICP rapper Shaggy 2 Dope (Joseph Utsler) and their former manager, Alex Abbiss. Also along with Utsler, Bruce is the co-founder of the professional wrestling promotion Juggalo Championship Wrestling.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/7aba84f11f794b039efb3057e67eed29.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
