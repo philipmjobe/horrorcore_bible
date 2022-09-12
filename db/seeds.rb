@@ -2082,7 +2082,7 @@ Following a large contribution to Odd Future’s early work, Okonma released his
 
 In 2011, Okonma started the clothing company Golf Wang. In 2012, he began hosting an annual music festival named the Camp Flog Gnaw Carnival. He created his own streaming service app named Golf Media; it ran between 2015 and 2018 and contained original scripted series from Okonma himself and the Camp Flog Gnaw Carnival was annually streamed on the service.", image: "https://static01.nyt.com/images/2021/07/08/arts/08tyler-review2/merlin_190548804_d5cb859f-7f6b-4de0-a078-afd60438d478-superJumbo.jpg")
 Artist.create!(name: "Undead Ronin", bio: "Undead Ronin is a long-standing, occult inspired Hip-Hop producer, writer, vocal performer, and graphic designer from Minooka, Illinois.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/undead-ronin.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Underground Avengers", bio: "..And there came a day… A day unlike any other, when a trio of undergrounds mightiest heroes were united against a common threat known as “The Industry” …And on that day, the 3 of them united to become The Underground Avengers …to fight foes no single hero could withstand…", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2019/12/underground-avengers.jpg?w=600&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
