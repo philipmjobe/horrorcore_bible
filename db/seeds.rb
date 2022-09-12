@@ -2010,7 +2010,27 @@ Running around in the streets as a kid, though, he became immersed in another pr
 
 Swing Dee Diablo has had the pleasure of opening for many of the acts he’d come to admire over the years, including Esham himself. Starting his career with the group NumbSkullz, in 1994, he’s released numerous solo projects and collaborative efforts. His newest release, “Skullator,” is currently being recorded, and contains some of his best and most prolific work to date. His goal in the industry is ultimately career longevity.", image: "https://i.scdn.co/image/ab6761610000e5eb026393bb6e2a56be9d450978")
 Artist.create!(name: "Swivel Dirty", bio: "Swivel Dirty is an emcee from Laurens, SC.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/swivel-dirty.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Swoop", bio: "In 1994, James Gage was 13 years old and on his way to a life of music that would control his every move for decades to come. His venture into recording came from him younger brother’s playschool recording set. It consisted of a mic and a small recorder that recorded your voice for playback.
+
+Learning to play a instrumental from a B side of a single, James quickly started rapping and singing his favorite songs over their respected instrumentals. Let me Ride by Dr Dre and Gangsta Lean were the first beats he ever rapped to. At 14, James moved to Kentucky from the Bay Area, CA where he met two guys in school — Jake Fogle and Kacy Croger. They decided to start a record label and call it Ca$h Roll Recordz. They named it after their favorite labels, Death Row and Cash Money.
+
+In 1995, James was given the name $woop, based on his diehard love of Snoop Dogg’s music. $woop and KC would spend the summer of 1995 playing B Side single instrumentals over the phone and writing their first tape, “Playaz Pride.” Some of the beats used were from Outkast and Kokaine. The recording process was simple; With a small grey interview type recorder, the duo would play the beat through KC’s mom’s car and record the song live, on the spot.
+
+After the completion of the tape, the rapper handmade inserts by drawing the cover and tracklist and then dubbing them on a dual pioneer cassette deck on clear dollar store blank tapes they would steal and then sell at school.
+
+In 1997, things started to change; KC got a computer and the duo were able to start dabbling with the internet, where they learned how to record songs on “Sound recorder” with a computer mic. That program, along with “Real player,” gave them the ability to loop sections of beats from songs that didn’t have a instrumental track available. That’s when they started really knocking out songs.
+
+In late 1997, a local studio opened and with the support of KC’s mom, Swoop and KC started booking studio time. It became an obsession at that point. KC’s mother spent hundreds of dollars helping the boys record their pro debut album, “Hard Tymez.” The album used everything from Mase beats and E-40 beats. This was the album that started it all for Ca$h Roll.
+
+The lead single, “The World Keeps Spinning,” received rotation on the local college station and gained the two interviews and local popularity. In 1998/1999, KC and $woop had both squired their own home studios and were able to record and send files back and forth via AOL instant messenger. This process is what produced the darkest of the duo’s albums entitled “The Church.” The lead single “The Church is on Fire” catapulted the duo to the top of the horrorcore charts on MP3.com, passing Simken Heights and SyckSyde.
+
+As their popularity grew, so did the duo’s egos, often causing arguments between the two on what way to project the group. To this day, “The Church” is the only official KC and $woop group album.
+
+At the end of 1999, $woop teamed up with touring artist Bilistic and singer Mylinn Brimm to create “The Tri State Clicc.” The newly formed group released two albums that were major sellers on MP3.com, topping the charts for several weeks in all genres. KC went on to release the smash album “The Backwoodz,” while $woop signed with Canadian-based label “Dope Reign Productions” and released “Killing Fieldz.”
+
+By the time the early 2000s were in swing, the Ca$h Roll Criminalz were doing shows all over the Midwest, performing with the likes of Q Strange, Fury, SyckSyde, Trouble, Sirkis, DJ Shy One, McNastee, Menacide, Cap 1, and the list goes on. The duo spent the next several years trying to maintain their momentum, but the test of time proved to fail them.
+
+While KC has released a few well-received singles over the years and $woop has pumped out over 25 albums, none have ever reached the success of “The Church.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/swoop.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
