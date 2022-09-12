@@ -2114,7 +2114,7 @@ Artist.create!(name: "The Wampthing", bio: "Disgusting reptile demon from DamneD
 I swim in the shitty swamp water and avoid hunters/fishermen, day in and day out. For a while, when the hook got me, I would manage to break free. The hooks were stuck in my head for a while. Years later, they found me and said “fuck it.” Shotgun to my neck and I was still tough to hold down. That’s when they slit my neck and pulled my tongue through. I’m still here though. Just more angry.
 
 #TeamDemon", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/wampthing.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Whitman Speck", bio: "Whitman Speck is an English/Turkish hardcore psycho rapper from north London. He has been writing/recording music since 2004. His stage name is derived from mass murderers Charles Whitman and Richard Speck.", image: "https://i1.sndcdn.com/artworks-000309160332-ywms3g-t240x240.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
