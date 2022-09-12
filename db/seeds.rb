@@ -2207,7 +2207,7 @@ The duo are considered one of the most popular acts in the underground rap scene
 Artist.create!(name: "2-Face", bio: "2-Face is an emcee from Maryland.
 
 He has released numerous albums as one half of the horrorcore duo Isolated Beingz, as well as two full-length solo projects.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/2-face.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "316 Klick", bio: "On a cold dark stormy night 600 years ago, two outlaws were finally caught and hung for their crimes including murder and robbery… they were buried in a cursed Indian graveyard. Six hundred years later, they are resurrected with a thirst for blood and vengeance, which they now channel through music.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/316klick.jpg?w=595&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
