@@ -2196,7 +2196,11 @@ Artist.create!(name: "Zitro", bio: "With a very unique and dynamic range of musi
 This Detroit originator can please virtually any crowd in front of him. His style isn’t the only thing turning heads around town… his eyes are a real gazer as well. With major influence from rocker “Marilyn Manson,” Zitro adopted the “white eyes” look back in 2004.
 
 Many other artists find Zitro as a “threat” when it comes to music competition. With his high energy stage presence and flawless performance, he is likely to leave a lasting impression on all those that watch!", image: "https://i.discogs.com/8v-qy8jV3NTSqaR5ClPNHCyRblzBoOJrU5ZnBvPbP64/rs:fit/g:sm/q:90/h:467/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNDA4/OTEtMTYxNjQzOTU4/OS0zNjUwLmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Zombiez", bio: "Zombiez is a Horrorcore rap from Germany, founded in 2017.
+
+From Germany’s darkest side, Zombiez bring their own brand of trap music. Some of the originators of Horrorcore music in Berlin get together with some of the most talented newcomers in Germany to create a supergroup of rap music, over the creepiest instrumentals you’ve ever heard.
+
+Watch out! The undead are coming for you!", image: "https://i.discogs.com/e4Q9DXdAcHKx_h1LXrd3yo5jvn4UEKWRMMxpD2x3yX8/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MTU1/NzMtMTYyMTAxNjM1/MC02NjM0LmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
