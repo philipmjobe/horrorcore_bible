@@ -2182,7 +2182,9 @@ Artist.create!(name: "Young Wicked", bio: "Denver, Colorado rapper Young Wicked 
 Four albums and a label change later, Garcia struck out on his own with his debut mixtape, 2013’s Young Wicked: The Mixtape, Vol. 1. The next year, he joined Psychopathic Records supergroup the Killjoy Club for a brief stint. Adopting the Young Wicked moniker, he released his official debut LP, Slaughter (Psychopathic), in 2015. The album featured his brother Bonez Dubb and rapper JellyRoll, as well as a cover of Chris Isaak’s “Wicked Game,” performed in Garcia’s own typically dark fashion. On New Year’s Eve 2016, he announced that he had signed with Twiztid’s label, Majik Ninja. His Vengeance EP arrived the same day.
 
 In August of 2021, a new album entitled Activated was put up for pre-order, as the first album from Garcia rapping under his birth name.", image: "https://images.genius.com/e09801ed2ff684bb6addca9cc0578636.600x600x1.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Z", bio: "Jason Zarate, known as Z, is a rapper from Moses Lake, Washington and a member of the group Firing Squad with close friend Dikulz. Z has had many styles over his many years of rapping. He started out as mostly horrorcore then transitioned to mostly gangsta rap with a hint of horrorcore and now does a mix of gangsta rap and west coast g-funk. All of his music has a darker and gritty tone to it, however.
+
+Z can rap at a normal pace or chop it up with the best of them, such as Twisted Insane. A collaboration track between Firing Squad and Twisted Insane lead to the duo being signed to his label, Brainsick Muzik.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/z.jpg?w=425&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
