@@ -2169,6 +2169,27 @@ Wolff then went on to work independently as a solo artist for several releases b
 He still continued to release solo projects and mixtapes as one half of a new duo, Dead Body Disposal Unit, as well as bring the original Demented Bastards group who returned but with different members from the original iteration.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/wolff.jpg?w=400&ssl=1")
 Artist.create!(name: "Worm", bio: "Worm is an emcee from Chicago who describes his style as Blackened rap.", image: "https://f4.bcbits.com/img/0029552422_10.jpg")
 Artist.create!(name: "Wycked Truth", bio: "Referring to his music, as self administered Ritalin. Wycked Truth’s distorted lyrics and an electric flow hypnotize his listener’s into a state of euphoric lunacy. His style has been described as raw and unique with disturbing, and at times controversial lyrics. Continuously showing diversity with every track released, he shows no signs of slowing down.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/03/wycked-truth.jpg?w=500&ssl=1")
+Artist.create!(name: "Xander Gage", bio: "Xander Gage signed to 44 Cal Entertainment with Magadino the Chemist and Insane the Most Wicked. Specializes in HorrorTrap, Horrorcore, Trap Metal and Emo.
+
+Xander Gage has always been into dark music and has been a juggalo since he was little. Early in his music career he experimented with Country Rap with his cousin and Notable Country Rap artist Franklin Embry. Done shows with Big Smo, Moonshine Bandits, and many more legends in the genre. As things began drifting apart Xander sought out his solo career and went back to doing what he loves, THAT WICKED SHIT.
+
+He has a steady rising fan base and will be back out on the road in a town near you soon. He has generated a buzz so fast and has been working with other notable horrorcore artist such as Magadino The Chemist, Insane The Most Wicked, Fame The HOF, Rap Kaiser, Bounce Ball Boogie and many many more.
+
+GO FOLLOW HIM ON FACEBOOK, YOUTUBE, INSTAGRAM, AND STREAM HIS MUSIC ON ALL AVAILABLE STREAMING SERVICES !!!!!", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/xander-gage.jpeg?w=400&ssl=1")
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
+Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
