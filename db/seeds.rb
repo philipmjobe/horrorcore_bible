@@ -2204,7 +2204,9 @@ Watch out! The undead are coming for you!", image: "https://i.discogs.com/e4Q9DX
 Artist.create!(name: "$uicideboy$", bio: "Suicideboys (stylized as $uicideboy$) is an American hip hop duo from New Orleans, Louisiana, founded in 2014 by cousins Ruby da Cherry and Scrim (stylized as $crim). Via the music sharing platform SoundCloud, the duo rose to popularity for their abrasive, self-produced beats, as well as their harsh lyrical content and themes prominently featuring substance use disorder and suicidal ideation. They own and operate their own label, G*59 Records, under which all of their music is distributed by Caroline Distribution.
 
 The duo are considered one of the most popular acts in the underground rap scene, and are also considered to have a cult following. After several years of solely releasing EPs and mixtapes, Suicideboys’ debut studio album I Want to Die in New Orleans was released on September 7, 2018. It fared well commercially, becoming their first top-ten album on the US Billboard 200. In May 2019, released their collaborative six-track EP with Blink-182 drummer Travis Barker titled Live Fast, Die Whenever. It also prominently featured Korn guitarist James Shaffer.", image: "https://i1.sndcdn.com/artworks-000386155668-qtn0s3-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "2-Face", bio: "2-Face is an emcee from Maryland.
+
+He has released numerous albums as one half of the horrorcore duo Isolated Beingz, as well as two full-length solo projects.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/2-face.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
