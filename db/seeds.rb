@@ -675,7 +675,7 @@ Artist.create!(name: "Dead Team", bio: "Formed in 2015, Dead Team is a Czech hor
 
 The trio released their debut album in 2016 on ZNK Productions, where Evil Dope has also released a number of others projects, both solo and as part of Terror Crew.
   
-Dead Team have claimed to be possessed by the most brutal and insidious Demons, which influences the type of music they create.", image:)
+Dead Team have claimed to be possessed by the most brutal and insidious Demons, which influences the type of music they create.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/dead-team.jpg?w=600&ssl=1")
 Artist.create!(name: "Dead White Males", bio: "The Dead White Males are an underground rap group from the 413, Pittsfield, MA consisting of Frank Gore, Ra Boy, and Dislocated.", image: "https://f4.bcbits.com/img/0012276342_10.jpg")
 Artist.create!(name: "Death4Told", bio: "Death4Told is a hardcore rap group based out of Denver, CO on Lyrikal Snuff Productionz (LSP).", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/death4told.jpg?w=341&ssl=1")
 Artist.create!(name: "Defekt", bio: "Defekt is an emcee from Detroit, MI. He earned his stage name from a birth defect in his throat that left him with an unusually raspy, unique voice, perfectly fitting for the Wicked Shit!
@@ -1842,7 +1842,7 @@ Fang Gory has performed on the second stage at the Gathering of the Juggalos man
 Artist.create!(name: "Rev.PanMorge", bio: "Rev.PanMorge is an Occultist and Reverend who, alongside his business partner, founded Occult93 Records early 2021.
 
 He produces beats and makes music in his spare time, and is looking to break into the lyrical side of the music industry.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/rev-panmorge.jpg?w=450&ssl=1")
-Artist.create!(name: "Reznik" bio: "Řezník is a Czech horrorcore rapper who has been releasing music since 2005. He has dropped numerous solo albums as well as collaborative projects with Sodoma Gomora and Mortal Cabinet.", image: "https://i.scdn.co/image/ab67616d00001e02a0bd3d46baa99ba40f9641c8")
+Artist.create!(name: "Reznik", bio: "Řezník is a Czech horrorcore rapper who has been releasing music since 2005. He has dropped numerous solo albums as well as collaborative projects with Sodoma Gomora and Mortal Cabinet.", image: "https://i.scdn.co/image/ab67616d00001e02a0bd3d46baa99ba40f9641c8")
 Artist.create!(name: "Richard Gein", bio: "Richard Gein is a rapper and producer from San Antonio, Texas and was part of the group The Vultures under the name Stealth Entity. He was also both members of the “imaginary” group The Irthwormz.", image: "https://i0.wp.com/www.faygoluvers.net/v5/wp-content/uploads/2012/09/richardgein.jpg?fit=600%2C450&ssl=1")
 Artist.create!(name: "Ritual of Ether", bio: "Ritual of Ether, or R.O.E., is a rapper and producer from Colorado.", image: "https://i.ytimg.com/vi/fSSOJ0IpMwY/maxresdefault.jpg")
 Artist.create!(name: "Riviera Regime", bio: "Riviera Regime is a hardcore hip hop group from Toronto, consisting of emcees Benny Brahmz, Klee Magor, and Big Stretch.
