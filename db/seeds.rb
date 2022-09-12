@@ -2071,7 +2071,11 @@ Artist.create!(name: "Tre Lb", bio: "Tre Lb, born Michael Locks, is a producer, 
 Artist.create!(name: "Trip B", bio: "Trip B is an emcee from California. His music centers on themes of horror, injustice, love and nostalgia, with 90s Hip-Hop and Metal influence.
 
 He’s headlined at the Back Bar Sofa Lounge in San Jose for Trip B’s Howlin’ Good Blood Moon. He’s opened for Lil Wyte, Lex The Hex Master, and more. In 2016, he dropped his first music video for the song ‘Yo, Trip!’ and another for ‘Spinnin’ the following year.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/11/trip-b.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Twisted Insane", bio: "Michael Johnson (born September 22, 1982), known by his stage name Twisted Insane, is an American rapper and songwriter from San Diego, California.
+
+While in Atlanta Georgia, he founded the record label Brainsick Muzik, to which other similar rappers are also signed.
+
+He is known for having one of the fastest rapping speeds in the industry.", image: "https://musicboombox.com/wp-content/uploads/2016/04/twisted.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
