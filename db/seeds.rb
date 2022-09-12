@@ -2032,7 +2032,13 @@ By the time the early 2000s were in swing, the Ca$h Roll Criminalz were doing sh
 
 While KC has released a few well-received singles over the years and $woop has pumped out over 25 albums, none have ever reached the success of “The Church.”", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/04/swoop.jpg?w=400&ssl=1")
 Artist.create!(name: "Sxmpra", bio: "Sxmpra is an emcee and producer from Wellington City, New Zealand. He is a member of the Schemaposse collective.", image: "https://i1.sndcdn.com/artworks-bzikcyXOhpjl4dBl-NtciJQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "SyckSyde", bio: "Sycksyde was formed in 2000 in Anderson, Indiana by Bob E Nite, Icepick Willie, Sinister X, Meathead, and Mr Kiltcha/JxKxMx. They released the album White Crosses with that line up.
+
+They then added Ensizon to the group as Meathead and Sinister X left the group. This lineup was short lived as Ensizon passed away and Sycksyde broke up.
+
+In 2008, Dash 10/Juz-10 was added to Sycksyde and the album Sometimes They Come Back was released.
+
+Sycksyde went on hiatus again until 2020 when Bob e Nite, Icepick Willie, and JxKxMx added Empire of Dirt member Dokta Butcha to the line up. This new roster released their first EP together, Vengeance of the Dead, in October 2020.", image: "https://lastfm.freetls.fastly.net/i/u/ar0/096ff11c736d489ac8bd7911c43f4270.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
