@@ -2191,7 +2191,11 @@ He has released various solo projects and is also part of the groups/collectives
 
 ZERO is described as experimental hip-hop taking cues from Lil Peep, Lo Key, Twiztid, and KoRn.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/zero.jpg?w=450&ssl=1")
 Artist.create!(name: "ZillaKami", bio: "Junius Rogers, professionally known as ZillaKami, is an American rapper, singer and songwriter. He is a member of the hip hop group City Morgue and a former songwriter for 6ix9ine.", image: "https://i1.sndcdn.com/avatars-l3XBrE94rRzvALl3-E37kSg-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Zitro", bio: "With a very unique and dynamic range of music styles, Zitro is a very odd yet “likeable” addition to the music and entertainment industry!
+
+This Detroit originator can please virtually any crowd in front of him. His style isn’t the only thing turning heads around town… his eyes are a real gazer as well. With major influence from rocker “Marilyn Manson,” Zitro adopted the “white eyes” look back in 2004.
+
+Many other artists find Zitro as a “threat” when it comes to music competition. With his high energy stage presence and flawless performance, he is likely to leave a lasting impression on all those that watch!", image: "https://i.discogs.com/8v-qy8jV3NTSqaR5ClPNHCyRblzBoOJrU5ZnBvPbP64/rs:fit/g:sm/q:90/h:467/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNDA4/OTEtMTYxNjQzOTU4/OS0zNjUwLmpwZWc.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
