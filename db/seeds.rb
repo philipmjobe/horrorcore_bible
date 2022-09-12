@@ -2004,7 +2004,11 @@ Artist.create!(name: "Super Famous Fun Time Guys", bio: "Hailing from the myster
 Artist.create!(name: "Swag Toof", bio: "Originally a duo, SWAG TOOF consisted of Kansas to Harlem transplant rapper-producer Choirboy Dank and New Jersey-based rapper Left Ginsberg, who left the group in June of 2017, citing his desire to work on other projects.
 
 SWAG TOOF has become known for an original brand of rap music that blends humor, anarchistic political awareness, and white-boy hood tales over trunk slapping production.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/swag-toof.jpg?w=488&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Swing Dee Diablo", bio: "Motor City, birthplace of Swing Dee Diablo, whose age is unknown; however, many who’ve crossed paths with him believe him to be between 18–125 human years. Growing up, his parents were constantly playing music in their house. Mostly Soul, Motown, and Blues, which are sounds almost synonymous with the city’s roots.
+
+Running around in the streets as a kid, though, he became immersed in another prominent sound taking over the inner city, hip-hop. Early on, he was heavily influenced by many local acts, and major artists thriving in both New York, and out in the West Coast; however, Esham – and his group Natas – were his main Influences. Esham, who rose to underworld prominence in the golden era of hip-hop is considered by many to be the father “Acid-Rap,” a subgenre that explored darker themes, such as death, drugs, etc. Esham is often credited with directly influencing notable artists who identify with the sub-genre, like Tech N9ne and ICP.
+
+Swing Dee Diablo has had the pleasure of opening for many of the acts he’d come to admire over the years, including Esham himself. Starting his career with the group NumbSkullz, in 1994, he’s released numerous solo projects and collaborative efforts. His newest release, “Skullator,” is currently being recorded, and contains some of his best and most prolific work to date. His goal in the industry is ultimately career longevity.", image: "https://i.scdn.co/image/ab6761610000e5eb026393bb6e2a56be9d450978")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
