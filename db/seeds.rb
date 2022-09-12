@@ -2050,7 +2050,19 @@ S.O.N has opened up for Insane Clown Posse, Hopsin, Alla Xul Elu, Lo Key, and pl
 Artist.create!(name: "Ta kah", bio: "Ta kah is a 25 year old emcee from New York. He has done tracks with Kidcrusher, SwizZz, Hex Rated, and Grewsum.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ta-kah.jpg?w=319&ssl=1")
 Artist.create!(name: "Tha Dead Body Consumers", bio: "Tha Dead Body Consumers was a horrorcore rap group, turned duo after the retirement of MC Flesh Decomposer.", image: "https://i1.sndcdn.com/avatars-lfSwuD2Kvocn7Oc3-H7QJQQ-t500x500.jpg")
 Artist.create!(name: "Tha WiKiD onE", bio: "Tha Wikid One is an emcee, photographer, designer, videographer, and actor from Arizona. He has been part of the horrorcore and underground scene for over 15 years, has acted in 14 films, three television shows, and two TV commercials.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/tha-wikid-one.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Thommy Nekro The Solanum", bio: "For over a decade, Thommy Nekro The Solanum has been clawing his way to the top like a zombie from its grave. Lurking from Houston, Texas, Thommy incorporates Horrorcore Rap, Metal, Goth and Punk all in his style of music and art.
+
+True to his roots, Thommy Nekro is a complete DIY artist. He produces his own beats, plays all the live instruments, creates his own artwork, directs his own videos, and even screen prints his own Merchandise. While many say it’s best to pick a lane and master one or the other, Thommy chooses to be a jack of all trades, master of ALL.
+
+Thommy Nekro’s live shows can be best described as controlled anarchy, juggling between theatrical sets, locomotive chugging guitars, monsters on stage, violent mosh pits and infectious rhymes.
+
+He released his debut album “The Solanum” in 2012, while touring as an opener with the likes of the legendary Insane Poetry on The Butcher Knife Music Tour. He toured with Cyco yet again on the second leg to push his sophomore release “Digging Inside Myself” which featured guest productions by Sicktanick (formerly of SKR), and appearances from LSP, NATAS and Razakel. It was immaculate timing that shortly after, Thommy toured with Razakel for the I SKREAM YOU SKREAM tour to plant the seeds of his third chapter “No Cure For The Infection”.
+
+A short hiatus was taken between 2016-2019 while Thommy faced multiple problems with the law, but he returned with a vengeance to be featured on “Death Jam Volume One”, a compilation mixtape hosted by the first group credited to coin the term “Horrorcore”, The Flatlinerz. After featuring with the likes of some of the very legends that created the genre, Thommy pushed the envelope for horror core one more time with “Regeneration”. Thommy made magic happen yet again by featuring John Kassir (voice of the Cryptkeeper in HBO Series “Tales From The Crypt”.), King Gordy, and Damien Quinn of Dark Half.
+This fourth album was released under Thommy’s new label, Disposable Wreckords, which is co-owned by Texan artist Riffik.
+
+Thommy’s fans are referred to as The Zombie Army, and he can be found lurking graveyards and haunted houses throughout Texas.
+Remember to double tap if you see this undead creature of the night!", image: "https://i.scdn.co/image/ab67616d0000b273ff43a44b04491c4dfcac692e")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
