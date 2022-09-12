@@ -2201,7 +2201,9 @@ Artist.create!(name: "Zombiez", bio: "Zombiez is a Horrorcore rap from Germany, 
 From Germany’s darkest side, Zombiez bring their own brand of trap music. Some of the originators of Horrorcore music in Berlin get together with some of the most talented newcomers in Germany to create a supergroup of rap music, over the creepiest instrumentals you’ve ever heard.
 
 Watch out! The undead are coming for you!", image: "https://i.discogs.com/e4Q9DXdAcHKx_h1LXrd3yo5jvn4UEKWRMMxpD2x3yX8/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1MTU1/NzMtMTYyMTAxNjM1/MC02NjM0LmpwZWc.jpeg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "$uicideboy$", bio: "Suicideboys (stylized as $uicideboy$) is an American hip hop duo from New Orleans, Louisiana, founded in 2014 by cousins Ruby da Cherry and Scrim (stylized as $crim). Via the music sharing platform SoundCloud, the duo rose to popularity for their abrasive, self-produced beats, as well as their harsh lyrical content and themes prominently featuring substance use disorder and suicidal ideation. They own and operate their own label, G*59 Records, under which all of their music is distributed by Caroline Distribution.
+
+The duo are considered one of the most popular acts in the underground rap scene, and are also considered to have a cult following. After several years of solely releasing EPs and mixtapes, Suicideboys’ debut studio album I Want to Die in New Orleans was released on September 7, 2018. It fared well commercially, becoming their first top-ten album on the US Billboard 200. In May 2019, released their collaborative six-track EP with Blink-182 drummer Travis Barker titled Live Fast, Die Whenever. It also prominently featured Korn guitarist James Shaffer.", image: "https://i1.sndcdn.com/artworks-000386155668-qtn0s3-t500x500.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
