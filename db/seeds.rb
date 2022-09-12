@@ -2122,7 +2122,19 @@ All the things people fear, their secrets, pain, love, he knows, he can also hea
 He is the “Wickedness” deep in your consciousness of the things you see every day, tell yourself everyday, through the exact same eyes you open every morning and close at night, same ears that catch the faintest drop every second.
 
 He is Wicked Fuckin Jesus.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/wicked-fucking-jesus.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Wicked Wayz", bio: "Wicked Wayz was created in 2008 with the ambitions to become a force to be reckoned within the Kansas City area and the underground music scene, along with the creation of Rhymedotte Ent and Rhymedotte Recordz, which is now associated and ran by Sinister Minded Music. Wicked Wayz has built a franchise and a brand from the ground up that is becoming a powerhouse in the industry and a household name.
+
+Wicked Wayz, under Rhymedotte Ent, has booked and promoted shows for himself and many major artists in over 65 cities spanning over 30 states; Wicked Wayz was created off hard work and dedication with the drive to bring something new and fresh to the scene and the music industry.
+
+Wicked Wayz, also known as Devil boy hooked up with clearneon.com in 2009 to bring a new approach to the scene, a new show that has never been done before, he is a trendsetter and the originator of the “glow show”, with his invisible black light paint provided by clearneon.com and his creative mindset and lyrical rhyme patterns he brought forth a one of a kind never seen before visual effect that has brought him from doing local shows to becoming a national artist touring and doing shows with the likes of Insane Clown Posse, ABK, Boondox, Blaze ya Dead Homie, Twiztid, Haystak, Hopsin, Swizzz, DJ Hoppa, 2 Live Crew, Bukshot, Young Bleed formerly of Stange Music and No Limit Records, Kutt Calhoun, Bizzy Bone, Hed Pe, Potluck, Prozak, Lil Wyte, Kung Fu Vampire, Sen Dog of Cypress Hill, Afroman, Mastamind, Mars, Sik Mob, and many more. In 2012, he hit the road with Boondox, Cousin Cletus, and Mars on the Low Down and Dirty Tour doing over 25 shows spanning across the United States. Tour footage can be seen at youtube.com/WickedWayz.
+
+Later in 2012, he went back over the road for the Keep it Real tour with Mars and Mastamind hitting over 30 cities in a matter of nine months. Before he was sent to prison for 106 month prison sentence, he put in over 45,000 miles spreading his wicked sounds and a visual stage show that will give you a night you can’t forget all provided by clearneon.com. Even behind prison walls he was still bringing that wicked sound to the fans and family. After being released from prison in 2020, he is striving to get back to what he knows best and that’s serving the fam with a killer stage show and hitting them with that wicked, one of a kind sound he provides. He is mastering his craft and planning to get back what is his.
+
+Since being released, he has dropped three CDs and seven videos in 2020, he also released a CD entitled “The Reclamation” with his artist Allen Fame Phoenix and has dropped five videos for that project that is giving the fans raw lyrics that the game so needs nowadays.
+
+Wicked Wayz, Allen “Fame” Phoenix, and EZ SixoSix recently started a new super group called Sick Trinity. The trio released their debut album entitled “The Devil, The Demon, & The Disciple” on Jan 31, 2021, which is available in hard copies through SinisterMindedMusic.com and can be streamed on all digital platforms.
+
+Stay tuned as your ride on the hell bound train has only begun it’s Wicked Wayz til the end of dayz…", image: "https://photos.bandsintown.com/large/13068312.jpeg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
