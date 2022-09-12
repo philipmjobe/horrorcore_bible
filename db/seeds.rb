@@ -1986,7 +1986,9 @@ This long run and gunner with art and lyrics has become so versatile he along th
 Artist.create!(name: "Spunky Killa", bio: "Spunky Killa is an emcee from New Mexico.
 
 He is currently a part of the Pleasantly Offensive Productions roster.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/spunky-killa.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Staplez", bio: "Staplez has been a part of the horrorcore scene for over two decades. Most fans would know him as part of the group Bedlam, who he has released several albums with including their 2015 return album, “9.”
+
+Staplez has also released two solo projects — one LP and one EP — since returning to music.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/staplez.jpg?w=489&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
