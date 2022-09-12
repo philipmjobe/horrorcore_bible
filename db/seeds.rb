@@ -2093,7 +2093,9 @@ Boo’s Best friend of 14 years, Zombgora, joined the band a couple years after 
 The Undertakers have played many shows in Denver and surrounding areas, and have many fans and, of course, many haters that like to follow their every move. They have shared the same stage with rock bands Wednesday 13, The Genitorturers, Lola Black, and so too shared the lime light with rappers including Brotha Lynch Hung, Twisted Insane, and so much more.
 
 January 24th, 2020 saw the release of their debut album, “Visions Of Necromancy.” They have a hit single and video from the album called “My Darkness,” uploaded on Facebook and YouTube.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/02/the-undertakers.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Unforgiven", bio: "The Unforgiven is Nivek and Randum45, a Rap Metal duo from the Seattle area.
+
+Every song they put out is full of high energy from unique lyrics to powerful hooks these two bring a full course to the table leaving you wanting more and more.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/01/the-unforgiven-2.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
