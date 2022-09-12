@@ -2115,7 +2115,13 @@ I swim in the shitty swamp water and avoid hunters/fishermen, day in and day out
 
 #TeamDemon", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/wampthing.jpg?w=450&ssl=1")
 Artist.create!(name: "Whitman Speck", bio: "Whitman Speck is an English/Turkish hardcore psycho rapper from north London. He has been writing/recording music since 2004. His stage name is derived from mass murderers Charles Whitman and Richard Speck.", image: "https://i1.sndcdn.com/artworks-000309160332-ywms3g-t240x240.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Wicked Fuckin Jesus", bio: "Yup you got it… Wicked Fuckin Jesus
+
+All the things people fear, their secrets, pain, love, he knows, he can also hear your prayers to holy Jesus just as clear with no stutter.
+
+He is the “Wickedness” deep in your consciousness of the things you see every day, tell yourself everyday, through the exact same eyes you open every morning and close at night, same ears that catch the faintest drop every second.
+
+He is Wicked Fuckin Jesus.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/wicked-fucking-jesus.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
