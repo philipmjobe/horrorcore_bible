@@ -2185,7 +2185,11 @@ In August of 2021, a new album entitled Activated was put up for pre-order, as t
 Artist.create!(name: "Z", bio: "Jason Zarate, known as Z, is a rapper from Moses Lake, Washington and a member of the group Firing Squad with close friend Dikulz. Z has had many styles over his many years of rapping. He started out as mostly horrorcore then transitioned to mostly gangsta rap with a hint of horrorcore and now does a mix of gangsta rap and west coast g-funk. All of his music has a darker and gritty tone to it, however.
 
 Z can rap at a normal pace or chop it up with the best of them, such as Twisted Insane. A collaboration track between Firing Squad and Twisted Insane lead to the duo being signed to his label, Brainsick Muzik.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/08/z.jpg?w=425&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "ZERO", bio: "Steve Collins, also known as ZERO, is an emcee from Minnesota.
+
+He has released various solo projects and is also part of the groups/collectives Soldiers of Fortune, MISSION:INFECT, and Super Kliq.
+
+ZERO is described as experimental hip-hop taking cues from Lil Peep, Lo Key, Twiztid, and KoRn.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/zero.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
