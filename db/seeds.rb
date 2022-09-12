@@ -2009,7 +2009,7 @@ Artist.create!(name: "Swing Dee Diablo", bio: "Motor City, birthplace of Swing D
 Running around in the streets as a kid, though, he became immersed in another prominent sound taking over the inner city, hip-hop. Early on, he was heavily influenced by many local acts, and major artists thriving in both New York, and out in the West Coast; however, Esham – and his group Natas – were his main Influences. Esham, who rose to underworld prominence in the golden era of hip-hop is considered by many to be the father “Acid-Rap,” a subgenre that explored darker themes, such as death, drugs, etc. Esham is often credited with directly influencing notable artists who identify with the sub-genre, like Tech N9ne and ICP.
 
 Swing Dee Diablo has had the pleasure of opening for many of the acts he’d come to admire over the years, including Esham himself. Starting his career with the group NumbSkullz, in 1994, he’s released numerous solo projects and collaborative efforts. His newest release, “Skullator,” is currently being recorded, and contains some of his best and most prolific work to date. His goal in the industry is ultimately career longevity.", image: "https://i.scdn.co/image/ab6761610000e5eb026393bb6e2a56be9d450978")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Swivel Dirty", bio: "Swivel Dirty is an emcee from Laurens, SC.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/06/swivel-dirty.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
