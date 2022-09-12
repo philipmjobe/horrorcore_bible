@@ -1992,7 +1992,7 @@ Staplez has also released two solo projects — one LP and one EP — since retu
 Artist.create!(name: "Statik G", bio: "Statik G brings his tastefully dark, machine gun style delivery to hip hop’s underworld, targeting the underground as his future kingdom. With his family in LSP and the RhymeSick Nation at his side along with all the affiliates who stand strong as well, Statik G is proving to be a threat to stagnant or complacent artists new and old, and is fighting to become a driving force in the unification of hip hop, art, and people around the world.
 
 Where others rap tales and make up their lives to impress the sheepish, Statik G lives the life he shares and consistently manages to overcome his struggles, surpass his goals, and evolve as an artist time after time. If you haven’t heard yet, you need to. If you have heard, you need to spread the word about Statik Gesus aka the Red Devil!", image: "https://coast2coastmixtapes.com/media/artists/1147026/large.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Stir Crazy", bio: "Not much is known about this mysterious music producer from Detroit, MI, other than the fact that he has worked with some of the biggest names in the wicked underground and has solidified himself as one of the top producers the genre has ever seen.", image: "https://64.media.tumblr.com/tumblr_mavaw43twq1qzt6y2o1_1280.jpg")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
