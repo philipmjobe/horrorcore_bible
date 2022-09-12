@@ -2162,7 +2162,11 @@ In his first year as a recording artist, he independently released three full-le
 As of now, Will Gates is locked in the studio working on many new projects and preparing to bring his wicked flavor on a nationwide tour to a city near you.
 
 His debut EP “Procuring the Wicced” is available now, serving as the first of six EPs scheduled to drop in 2022.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/10/willgates.jpg?w=450&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Wolff", bio: "Wolff started rapping as part of the group Demented Bastards. The original group released one album before disbanding and the members going solo.
+
+Wolff then went on to work independently as a solo artist for several releases before joining Horrorflik Musick releasing only a few albums and EP’s, until eventually being signed to Meathook Records.
+
+He still continued to release solo projects and mixtapes as one half of a new duo, Dead Body Disposal Unit, as well as bring the original Demented Bastards group who returned but with different members from the original iteration.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/wolff.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
