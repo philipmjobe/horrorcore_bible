@@ -2109,7 +2109,11 @@ Artist.create!(name: "V Sinizter", bio: "Throughout the ages many talented indiv
 Anything but a normal child by society’s standards, V entered this world of humble beginnings in 1977 in a poverty stricken but loving household. Coming from a family with a deep entrenchment in the music and movie business mother, Stephanie Smith, a singer in a Rhythm and Blues group who performed on The Ed Sullivan Show and Ted Macks Amateur Hour – older brother, Stephen Herd, known as rap artist Mack Tha Jacka – cousin, the legendary Curtis Mayfield – cousin, gospel vocalist Leatha Warfield, who sang with Sister Rosetta Tharpe – cousin, gospel vocalist Vanessa Bell Armstrong – and cousin, actor Julian Mayfield would prove to be a guiding light for V to continue his family’s legacy.
 
 Aspiring to many things as a child, V found solace in video games, comic books and music to escape the harsh realities of daily life. Whilst other kids were merely learning the basics of ABC’s, V not only had a full grasp on the structure of grammar, but used it to feed his hungering mind for vast amounts of knowledge. Enrolled in an accelerated school for Arts and Sciences, V was able to mold his gift into something that would carry him forth into the world of music with unequaled distinction.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/v-sinizter.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "The Wampthing", bio: "Disgusting reptile demon from DamneDNatioN.
+
+I swim in the shitty swamp water and avoid hunters/fishermen, day in and day out. For a while, when the hook got me, I would manage to break free. The hooks were stuck in my head for a while. Years later, they found me and said “fuck it.” Shotgun to my neck and I was still tough to hold down. That’s when they slit my neck and pulled my tongue through. I’m still here though. Just more angry.
+
+#TeamDemon", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/05/wampthing.jpg?w=450&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
