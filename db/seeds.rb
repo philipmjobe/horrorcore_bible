@@ -2066,7 +2066,7 @@ Remember to double tap if you see this undead creature of the night!", image: "h
 Artist.create!(name: "TOtheTYRANT", bio: "TOtheTYRANT, (Pronounced Tee-Ohh-the-TYRANT), hailing from parts unknown has been a lifelong fan of music. He started writing his own music in 2009 and has done countless “local” shows in Hell. He just released his debut album titled “The Rebirth” on June 5, 2020 on his label Outsiders Music Group (OMG), and has shown he has what it takes to join the underground Horrorcore community with his off the wall phrasing and explicit, x-rated approach to writing.
 
 Be on the lookout for more as he is continuously writing new music and looking for more ways to branch out. If you like props, you’ll love his “girlfriend”, “Whorid”.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/07/tothetyrant.jpg?w=400&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Toxic Ty", bio: "Toxic Ty, born in 1980, is a rapper from Portland, OR. He has been a longtime member of the Cryptic Ninja Records roster.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/toxic-ty.jpg?w=346&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
