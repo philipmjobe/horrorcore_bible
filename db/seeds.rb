@@ -2042,7 +2042,11 @@ Sycksyde went on hiatus again until 2020 when Bob e Nite, Icepick Willie, and Jx
 Artist.create!(name: "Syndrom-X", bio: "Syndrom-X, born Ravindu Ranasinghe, is the first Sri Lankan gore rapper. He released his debut album, Adhi Maathra/Overdose, in 2021.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2021/09/syndrom-x.jpg?w=450&ssl=1")
 Artist.create!(name: "Syniister", bio: "Syniister is a horrorcore emcee from California. He was the creator of the label Wicked Intent Records.", image: "https://f4.bcbits.com/img/a0573870533_10.jpg")
 Artist.create!(name: "S.A.W. Da Ghozt", bio: "S.A.W. Da Ghozt is an emcee from Wisconsin. He is one third of the group Cult Activity, helping to carry on the legacy of Geno Cultshit along with Damien Quinn of Dark Half and Bloody Ruckus.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/12/saw-da-ghozt.jpg?w=339&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "S.O.N", bio: "Hailing from the gutters and slums of Sharon, PA comes a sound from the underground that can’t be stopped. With a mix of boom-bap, gritty dark lyrics, and ritualistic black magic S.O.N was born.
+
+S.O.N, formally known as Scrub King, has collaborated and toured with Alla Xul Elu, Lo Key, Madd Maxxx, Dirrty Dirrt of Tha Grimey Onez, E-Major, and Underground Propaganda Squad.
+
+S.O.N has opened up for Insane Clown Posse, Hopsin, Alla Xul Elu, Lo Key, and played the Gathering of the Juggalos.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/son.jpg?w=425&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
