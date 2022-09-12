@@ -2047,7 +2047,7 @@ Artist.create!(name: "S.O.N", bio: "Hailing from the gutters and slums of Sharon
 S.O.N, formally known as Scrub King, has collaborated and toured with Alla Xul Elu, Lo Key, Madd Maxxx, Dirrty Dirrt of Tha Grimey Onez, E-Major, and Underground Propaganda Squad.
 
 S.O.N has opened up for Insane Clown Posse, Hopsin, Alla Xul Elu, Lo Key, and played the Gathering of the Juggalos.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/son.jpg?w=425&ssl=1")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Ta kah", bio: "Ta kah is a 25 year old emcee from New York. He has done tracks with Kidcrusher, SwizZz, Hex Rated, and Grewsum.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ta-kah.jpg?w=319&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
