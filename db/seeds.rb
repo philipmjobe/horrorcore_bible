@@ -2001,7 +2001,9 @@ Since that time the Suicide Saints have released over 10 projects including thei
 
 The Saints have also performed several shows since their inception, performing with underground greats and local heroes alike all across the East Coast and Mid-west. One glance at the musical resume of the Suicide Saints is all you need to know that they are and will be a force to be reckoned with in the world of music. The queen city a-holes are now a global force of wickedness, and they love you… especially when you hate them…", image: "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/4607138/original/crop:x0y0w1446h1420/hash:1547226578/IMG_20181104_111423.jpg?1547226578")
 Artist.create!(name: "Super Famous Fun Time Guys", bio: "Hailing from the mysterious land of Luchaflorida aka Ohio, the underwhelmingly-never-achieve-anything attitude is embodied through 8 Legz and Whipstick, the Super Famous Fun Time Guys. The two veterans, who never once stepped foot in a squared circle, retired from professional wrestling having never competed. As it seemed they would fade into nothingness, the tag team focused their efforts on not only hating each other, but doing so in rhyme form and publicly. Enjoy their turmoil, for your amusement through song!", image: "https://i.scdn.co/image/ab6761610000e5eb105be95baacaac301f728502")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Swag Toof", bio: "Originally a duo, SWAG TOOF consisted of Kansas to Harlem transplant rapper-producer Choirboy Dank and New Jersey-based rapper Left Ginsberg, who left the group in June of 2017, citing his desire to work on other projects.
+
+SWAG TOOF has become known for an original brand of rap music that blends humor, anarchistic political awareness, and white-boy hood tales over trunk slapping production.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/swag-toof.jpg?w=488&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
