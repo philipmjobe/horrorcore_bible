@@ -2049,7 +2049,7 @@ S.O.N, formally known as Scrub King, has collaborated and toured with Alla Xul E
 S.O.N has opened up for Insane Clown Posse, Hopsin, Alla Xul Elu, Lo Key, and played the Gathering of the Juggalos.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/01/son.jpg?w=425&ssl=1")
 Artist.create!(name: "Ta kah", bio: "Ta kah is a 25 year old emcee from New York. He has done tracks with Kidcrusher, SwizZz, Hex Rated, and Grewsum.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2022/08/ta-kah.jpg?w=319&ssl=1")
 Artist.create!(name: "Tha Dead Body Consumers", bio: "Tha Dead Body Consumers was a horrorcore rap group, turned duo after the retirement of MC Flesh Decomposer.", image: "https://i1.sndcdn.com/avatars-lfSwuD2Kvocn7Oc3-H7QJQQ-t500x500.jpg")
-Artist.create!(name:, bio:, image:)
+Artist.create!(name: "Tha WiKiD onE", bio: "Tha Wikid One is an emcee, photographer, designer, videographer, and actor from Arizona. He has been part of the horrorcore and underground scene for over 15 years, has acted in 14 films, three television shows, and two TV commercials.", image: "https://i0.wp.com/horrorcorewiki.com/wp-content/uploads/2020/03/tha-wikid-one.jpg?w=400&ssl=1")
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
 Artist.create!(name:, bio:, image:)
